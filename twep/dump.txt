@@ -1,0 +1,40 @@
+    def download_all_tweets(self):
+        all_tweets_list = []
+        newest_tweets = self.get_newest_tweets()
+        all_tweets_list.extend(newest_tweets)
+        oldest = all_tweets_list[-1].id - 1    # what
+        i = 0
+        while len(newest_tweets) > 0:
+            newest_tweets = self.get_tweets_under_id(oldest)
+            all_tweets_list.extend(newest_tweets)
+            oldest = all_tweets_list[-1].id - 1
+
+        self.tweets = all_tweets_list
+
+    def tweets_to_csv(self):
+        with open('%s_tweets.csv' % self.username, 'w') as file:
+            writer = csv.writer(file)
+            writer.writerow(["id", "created_at", "text"])
+            writer.writerows(self.tweets)
+
+        pass
+
+     def get_tweets_under_id(self, max_id):
+        return self.api.user_timeline(screen_name=self.username, count=200, max_id=max_id)
+
+
+
+#def save_tweets_to_csv(self, hash_or_something="FOO"):
+     #   seq = (self.username, '_', hash_or_something)
+    #    identifier = "".join(seq)
+       # with open('%s_tweets.csv' % identifier, 'w') as file:
+    #        writer = csv.writer(file)
+    #        writer.writerow(["id", "reply_to", "screen_name", "text", "created_at"])
+    #        writer.writerows(self.tweets)
+
+     #   pass
+
+    #def read_csv(self):
+     #   with open('%s_tweets.csv' % self.username, 'r') as file:
+        #    reader = csv.reader(file)
+     ##       for read in reader:
