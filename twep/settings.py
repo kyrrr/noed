@@ -9,9 +9,6 @@ API_KEYS = [
     }
 ]
 
-CSV_TIMESTAMP = '%d-%m-%Y_%H-%M-%S'
-
-
 KEYWORDS = [
     {
         'DANGER': {

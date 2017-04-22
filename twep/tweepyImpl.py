@@ -5,7 +5,7 @@ from twep.models import MyTweet
 
 # An implementation of necessary tweepy functionality
 # Can transform tweepy tweets to modeled objects
-class Tweets:
+class TweetSeeker:
 
     # holds an OAuth object
     auth = None
@@ -59,13 +59,13 @@ class Tweets:
             print(len(all_tweets))
             oldest = all_tweets[-1].id - 1
 
-        self.all_tweets = all_tweets
+        return all_tweets
 
     def make_model(self, tweets):
         # print("Make model of num tweets %s" % len(tweets))
         modeled_tweets = []
         for t in tweets:
-            m = MyTweet.objects.create(
+            m = MyTweet.objects.update_or_create(
                 twitter_msg_id=t.id_str,
                 screen_name=self.screen_name,
                 text=t.text.encode("utf-8"),

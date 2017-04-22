@@ -1,0 +1,2 @@
+* * * * * cd /Users/kyrrebugge/PycharmProjects/msm; /Library/Frameworks/Python.framework/Versions/3.6/bin/python3 manage.py lookfornew oslopolitiops
+* * * * * cd /Users/kyrrebugge/PycharmProjects/msm; /Library/Frameworks/Python.framework/Versions/3.6/bin/python3 manage.py lookfornew kyrrelicious
