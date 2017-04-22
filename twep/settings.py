@@ -11,13 +11,14 @@ API_KEYS = [
 
 CSV_TIMESTAMP = '%d-%m-%Y_%H-%M-%S'
 
+
 KEYWORDS = [
     {
         'DANGER': {
             'røykutvikling', 'knivstukket', 'kniv', 'våpen', 'brann', 'stjålet', 'saknet', 'savnet', 'skudd'
         },
-        'ACCESS': {
-
+        'LOCATION': {
+            'veien', 'gate', 'vei'
         }
     }
 ]

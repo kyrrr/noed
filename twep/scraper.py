@@ -1,6 +1,6 @@
 import pprint
 import inspect
-
+from twep.settings import KEYWORDS
 
 class Scraper:
     # test data
@@ -10,18 +10,31 @@ class Scraper:
     status_keywords = ['melding om', 'er fremme' 'er på stedet', 'på vei til stedet', 'slukket', 'pågrepet', 'i arrest', 'tatt vare på']
     preposition_keywords = ['i', 'på']
     street_keywords = ['veien', 'gate']
-    test_tweets = [
-        'Melding om en naken mann som løper rundt i Sandakerveien. Vi er på vei for å forsøke å få på han noe klær.',
-        'Helgesens gate. Nødetatene rykker ut til en melding om brann.',
-        'Brannen er slukket. Ingen personskade.',
-        'Mannen er pågrepet og kjøres arresten.',
-        'Vi er i området Bølerbakken. Flere meldere har meldt fra om høye smell utendørs. Uvisst hva dette kan være, mulig skudd.'
-    ]
+
+    keywords = None
 
     def __init__(self):
-        pass
+        self.keywords = KEYWORDS[0]
 
-    def scan_category(self, keyword_category, text):
-        for kw in keyword_category:
-            if kw in text:
-                print("dfgdgdfgdfg")
+    # figure out what is to be scanned for in a tweet
+    # currently implemented:
+    #     danger
+    def scan(self, text, category=None):
+        if category is None:
+            print("scan for all")
+            print("scan for all is not yet implemented!!")
+            return "Bababa"
+        print("scan for " + category)
+        return {
+            'danger': self.scan_danger(text)
+        }[category]
+
+    # match a tweet to the list of spooky bad keywords
+    def scan_danger(self, text):
+        for dkw in self.keywords['DANGER']:
+            if dkw in text:
+                print("/!\\DANGER DANGER/!\\")
+                print("Found: " + dkw)
+                print("In text: ")
+                print(text)
+        pass
