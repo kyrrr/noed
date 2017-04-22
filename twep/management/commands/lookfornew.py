@@ -1,10 +1,9 @@
-from django.core.management.base import BaseCommand, CommandError
-from twep.tweepyImpl import TweetSeeker
-from twep.models import MyTweet
 import datetime
-from twep import logger
+from django.core.management.base import BaseCommand
+from twep.models import MyTweet
+from twep.util import logger
+from twep.util.tweetseeker import TweetSeeker
 from subprocess import call
-import sys, select
 
 
 class Command(BaseCommand):
@@ -29,29 +28,28 @@ class Command(BaseCommand):
             self.msg = self.msg + "No entries in DB for " + sn + "\n"
             log.log(self.msg)
             # LOL
-            # call(["/Library/Frameworks/Python.framework/Versions/3.6/bin/python3", "manage.py", "downloadall", sn])
+            call(["/Library/Frameworks/Python.framework/Versions/3.6/bin/python3", "manage.py", "downloadall", sn])
             return
         if latest_stored is not None:
             # fetch the latest tweet by the username from internet
             n = t.get_newest_single()
             # does its id match our latest stored twitter message id?
             if n.id_str == latest_stored.twitter_msg_id:
-                self.msg = self.msg + "DB up to date (only checking latest entries) " + sn + "\n"
+                self.msg = self.msg + "DB up to date (only checking latest entry) " + sn + "\n"
                 # self.msg = self.msg + " " + n.id_str + " == " + l.twitter_msg_id + "\n"
                 log.log(self.msg)
             else:
                 # it does not
                 self.msg = self.msg + n.id_str + " != " + latest_stored.twitter_msg_id + "\n"
                 # get the two hundred newest
-                gnc = t.get_newest_count()
-                print(type(gnc))
+                gnc = t.get_newest_num()
                 i = 0
                 for nc in gnc:
                     if nc.id_str == latest_stored.twitter_msg_id:
                         self.msg = self.msg + "Match after %s tweets" % i + "\n"
                     else:
                         i += 1
-                cn = t.get_newest_count(i)
+                cn = t.get_newest_num(i)
                 j = 0
                 # loop through newest i tweets
                 for n in cn:
@@ -62,7 +60,7 @@ class Command(BaseCommand):
                         continue
                     else:
                         # create new models
-                        MyTweet.objects.get_or_create(
+                        MyTweet.objects.create(
                             twitter_msg_id=n.id_str,
                             screen_name=sn,
                             text=n.text.encode("utf-8"),

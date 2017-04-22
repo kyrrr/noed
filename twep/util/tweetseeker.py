@@ -4,18 +4,15 @@ from twep.models import MyTweet
 
 
 # An implementation of necessary tweepy functionality
-# Can transform tweepy tweets to modeled objects
+# Is based on a user and their tweets.
+# Needs a twitter screen name (url name) when initialized
 class TweetSeeker:
 
     # holds an OAuth object
     auth = None
     # holds the tweepy api
     api = None
-    # use to hold downloaded tweepy objects
-    all_tweets = []
-    # hold our tweet models
-    modeled_tweets = []
-    # screen name
+    # screen name.
     screen_name = None
 
     # when this class is constructed, authenticate using settings.py
@@ -36,7 +33,7 @@ class TweetSeeker:
         for new in newest:
             return new
 
-    def get_newest_count(self, count=200):
+    def get_newest_num(self, count=200):
         return self.api.user_timeline(screen_name=self.screen_name, count=count)
 
     def get_tweets_under_id(self, max_id):
@@ -48,7 +45,7 @@ class TweetSeeker:
     def download_all_tweets(self):
         all_tweets = []  # store tweets
         print("Get newest...")
-        newest_tweets = self.get_newest_count(self.screen_name)  # fetch 200 newest
+        newest_tweets = self.get_newest_num(self.screen_name)  # fetch 200 newest
         all_tweets.extend(newest_tweets)  # add newest
         print(len(all_tweets))
         oldest = all_tweets[-1].id - 1  # what
@@ -63,20 +60,21 @@ class TweetSeeker:
 
     def make_model(self, tweets):
         # print("Make model of num tweets %s" % len(tweets))
-        modeled_tweets = []
+        # modeled_tweets = []
         for t in tweets:
-            m = MyTweet.objects.update_or_create(
+            MyTweet.objects.get_or_create(
                 twitter_msg_id=t.id_str,
                 screen_name=self.screen_name,
                 text=t.text.encode("utf-8"),
                 reply_to=t.in_reply_to_status_id_str,
                 created_at=t.created_at,
             )
-            modeled_tweets.append(m)
-        return modeled_tweets
+
+            # modeled_tweets.append(m)
+        # return modeled_tweets
 
     def count_num_new(self, cur_newest_id):
-        nt = self.get_newest_count()
+        nt = self.get_newest_num()
         i = 0
         for t in nt:
             if t.id_str is cur_newest_id:

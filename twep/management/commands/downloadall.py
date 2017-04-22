@@ -1,9 +1,7 @@
-from django.core.management.base import BaseCommand, CommandError
-from twep.tweepyImpl import TweetSeeker
-from twep.models import MyTweet
-import datetime
-from twep import logger
-import sys, select
+from django.core.management.base import BaseCommand
+
+from twep.util import logger
+from twep.util.tweetseeker import TweetSeeker
 
 
 class Command(BaseCommand):

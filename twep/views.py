@@ -1,6 +1,5 @@
-from twep.tweepyImpl import TweetSeeker
 from django.http import HttpResponse
-from twep.models import MyTweet
+
 
 # Create your views here.
 

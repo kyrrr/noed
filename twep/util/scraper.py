@@ -1,6 +1,8 @@
 import pprint
 import inspect
 from twep.settings import KEYWORDS
+from twep.models import MyTweet, Keyword, Situation
+
 
 class Scraper:
     # test data
@@ -19,22 +21,26 @@ class Scraper:
     # figure out what is to be scanned for in a tweet
     # currently implemented:
     #     danger
-    def scan(self, text, category=None):
+    def scan(self, tweet_id, category=None):
+        tweet = MyTweet.objects.get(twitter_msg_id=tweet_id)
         if category is None:
             print("scan for all")
             print("scan for all is not yet implemented!!")
-            return "Bababa"
+            return
         print("scan for " + category)
         return {
-            'danger': self.scan_danger(text)
+            'danger': self.scan_danger(tweet.text),
+            # 'is_reply': self.scan()
         }[category]
 
     # match a tweet to the list of spooky bad keywords
     def scan_danger(self, text):
+        found = []
         for dkw in self.keywords['DANGER']:
             if dkw in text:
                 print("/!\\DANGER DANGER/!\\")
                 print("Found: " + dkw)
                 print("In text: ")
                 print(text)
+                found.append(dkw)
         pass

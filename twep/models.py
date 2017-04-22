@@ -9,14 +9,15 @@ from django.db import models
 
 
 class MyTweet(models.Model):
+    # twitter account username
+    twitter_msg_id = models.CharField(max_length=20, unique=True, primary_key=True)  # TODO: unique, ignore?
     created_at = models.CharField(max_length=200)  # TODO: datetime
     # the message id, separate from DB id
-    twitter_msg_id = models.CharField(max_length=20, unique=True)  # TODO: unique, ignore?
-    # twitter account username
     screen_name = models.CharField(max_length=200)
     text = models.TextField()
     # is the tweet in reply to some other tweet posted by themselves
-    reply_to = models.CharField(max_length=20, blank=True, null=True, default=None)
+    # reply_to = models.CharField(max_length=20, blank=True, null=True, default=None)
+    reply_to = models.ForeignKey('self', null=True, default=None)
     keywords = models.ForeignKey('Keyword', null=True, default=None)
 
     def __str__(self):
