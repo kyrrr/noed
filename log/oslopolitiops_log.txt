@@ -129,3 +129,44 @@ No entries in DB for oslopolitiops
 Will attempt to make 200 models.
 Could take a while or forever. Maybe not download all tweets..
 Done. Try MyTweet.objects.filter(screen_name='oslopolitiops')
+2017-04-24 21:17:22
+Authenticating...
+Authenticated... ??
+Get newest tweet for oslopolitiops
+856604362281553924 != 856552153808347137
+DB not up to date for oslopolitiops
+Get 200 tweets  for oslopolitiops
+DB is 3 tweets behind
+Get 3 tweets  for oslopolitiops
+Create 856604362281553924
+Get single tweet 856602924306366466 for oslopolitiops
+Done. Made 0  MyTweets
+Create 856603000470679552
+Create 856602924306366466
+Done. Made 3  MyTweets
+3 created
+2017-04-24 21:19:40
+Authenticating...
+Authenticated... ??
+Get newest tweet for oslopolitiops
+DB up to date (only checking latest entry) for oslopolitiops
+               ;~~,__
+   :-....,-------'`-'._.'
+    `-,,,  ,       ,'~~'
+        ; ,'~.__; /
+        :|      :|
+        `-'     `-'
+
+2017-04-24 21:20:09
+Get newest tweet for oslopolitiops
+DB up to date (only checking latest entry) for oslopolitiops
+               ;~~,__
+   :-....,-------'`-'._.'
+    `-,,,  ,       ,'~~'
+        ; ,'~.__; /
+        :|      :|
+        `-'     `-'
+
+2017-04-24 22:23:46
+Get newest tweet for oslopolitiops
+DB up to date (only checking latest entry) for oslopolitiops

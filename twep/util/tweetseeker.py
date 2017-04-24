@@ -20,10 +20,12 @@ class TweetSeeker:
     def __init__(self, screen_name):
         self.authenticate()
         self.api = tweepy.API(self.auth)
+        # print("Authenticated... ??")
         self.screen_name = screen_name
 
     # Put your twitter api keys in settings.py
     def authenticate(self):
+        # print("Authenticating...")
         keys = settings.API_KEYS[0]['TWITTER']
         auth = tweepy.OAuthHandler(keys['CONSUMER_KEY'], keys['CONSUMER_SECRET'])
         auth.set_access_token(keys['ACCESS_TOKEN'], keys['ACCESS_SECRET'])
@@ -31,18 +33,22 @@ class TweetSeeker:
 
     # get a single id'ed? ided? tweet from user by id. id is the thing here, and just one tweet.
     def get_tweet(self, tweet_id):
+        print("Get single tweet " + str(tweet_id) + " for " + self.screen_name)
         return self.api.statuses_lookup(tweet_id)
 
     def get_newest_single(self):
+        print("Get newest tweet for " + self.screen_name)
         newest = self.api.user_timeline(screen_name=self.screen_name, count=1)
         for new in newest:
             return new
 
     def get_newest_num(self, count=200):
+        print("Get %s tweets " % count + " for " + self.screen_name)
         return self.api.user_timeline(screen_name=self.screen_name, count=count)
 
     # get tweets, but stop under max_id
     def get_tweets_under_id(self, max_id):
+        print("Get tweets up to id " + max_id + " for " + self.screen_name)
         return self.api.user_timeline(screen_name=self.screen_name, max_id=max_id, count=200)
 
     # download tweets from user up to a limit. Higher limit means slow DB insert later on..
@@ -76,16 +82,18 @@ class TweetSeeker:
                 # exit the loop
                 continue
             if t.in_reply_to_status_id_str:
+                print("Make parent first")
                 self.make_model(self.get_tweet(t.in_reply_to_status_id_str))
-            created.append(
-                MyTweet.objects.create(
-                    # this is used as the db primary key
-                    twitter_msg_id=t.id_str,
-                    screen_name=self.screen_name,
-                    text=t.text.encode("UTF-8"),
-                    # used to assign an object self-reference in models.
-                    reply_to_id_str=t.in_reply_to_status_id_str,
-                    created_at=t.created_at,
-                )
+            m = MyTweet.objects.create(
+                # this is used as the db primary key
+                twitter_msg_id=t.id_str,
+                screen_name=self.screen_name,
+                text=t.text.encode("UTF-8"),
+                # used to assign an object self-reference in models.
+                reply_to_id_str=t.in_reply_to_status_id_str,
+                created_at=t.created_at,
             )
+            print("Create " + m.twitter_msg_id)
+            created.append(m)
+        print("Done. Made %s " % len(created) + " MyTweets")
         return created

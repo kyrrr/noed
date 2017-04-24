@@ -1,47 +1,37 @@
-import pprint
-import inspect
-from collections import defaultdict
 from twep.settings import KEYWORDS
 from twep.models import MyTweet, Keyword, Situation
 
 
 class TweetTransformer:
-    # test data
-    # violation_keywords = ['avskiltes', 'fratas', 'fratatt', 'tagger', 'tagging']
-    # good_keywords = ['ingen personskade', 'reddet', 'funnet']
-    # danger_keywords = ['røykutvikling', 'knivstukket', 'kniv', 'våpen', 'brann', 'stjålet', 'saknet', 'savnet', 'skudd']
-    # status_keywords = ['melding om', 'er fremme' 'er på stedet', 'på vei til stedet',\
-    #     'slukket', 'pågrepet', 'i arrest', 'tatt vare på']
-    # preposition_keywords = ['i', 'på']
-    # street_keywords = ['veien', 'gate']
 
     keywords = None
     screen_name = None
 
-    # TODO: use these booleans to guarantee an order to things?
-    # situated = False
-    # pc_set = False
-    # scanned = False
+    # TODO: use booleans to guarantee an order to things? Meh
 
     def __init__(self, screen_name):
         self.keywords = KEYWORDS[0]
         self.screen_name = screen_name
 
     # places tweets in a "situation" object, in the order they were tweeted
-    def situate(self):
+    def make_timeline(self):
         # parent null, child notnull
         # the first part of a series
         orphans_with_children = MyTweet.objects.filter(screen_name=self.screen_name)\
             .filter(child__isnull=False)\
             .filter(parent__isnull=True)\
             # .filter(situation__isnull=True)
+        print("Found %s" % len(orphans_with_children) + " base tweets for" + self.screen_name)
         created = []
         for oc in orphans_with_children:
             exists = Situation.objects.filter(base_tweet=oc)
             if len(exists) > 0:
+                # print("situation based on " + oc.twitter_msg_id + " exists")
                 continue
             else:
-                created.append(Situation.objects.create(base_tweet=oc))
+                m = Situation.objects.create(base_tweet=oc)
+                created.append(m)
+            print("created %s" % len(m) + " situations for " + self.screen_name)
         return created
 
     # assigns parent and child to tweets
@@ -59,7 +49,7 @@ class TweetTransformer:
             except MyTweet.DoesNotExist:
                 # print("No parent for " + child.twitter_msg_id)
                 pass
-        # print("Parent child set")
+        print("Parent child set")
 
     # match tweets to keywords
     def scan(self, category):
@@ -67,6 +57,7 @@ class TweetTransformer:
         tweets = MyTweet.objects.filter(screen_name=self.screen_name)  # .filter(twitter_msg_id="852661744384303105")
         # get keywords
         keywords = Keyword.objects.filter(category=category)
+        print("search for " + category)
         for t in tweets:
             for kw in keywords:
                 if kw.word in t.text:

@@ -66,6 +66,7 @@ class Situation(models.Model):
 
 
 class Keyword(models.Model):
+    ACTOR = 'A'
     VIOLATION = 'V'
     DANGER = 'D'
     LOCATION = 'L'
@@ -78,10 +79,14 @@ class Keyword(models.Model):
         (LOCATION, 'Location'),
         (STATUS, 'Status'),
         (HAPPY, 'Happy'),
+        (ACTOR, 'Actor'),
         (UNKNOWN, 'Unknown')
     )
     word = models.CharField(max_length=200)
     category = models.CharField(max_length=200, choices=CATEGORY_CHOICES, default=UNKNOWN)
+
+    def __str__(self):
+        return str(self.id)
 
     class Meta:
         ordering = ('word',)

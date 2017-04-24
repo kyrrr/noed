@@ -39,6 +39,23 @@ sits = Situation.objects.filter(mytweet__isnull=False)
         Keyword.objects.create(word="rapportert".encode("UTF-8"), category="Status")
         Keyword.objects.create(word="pågrepet".encode("UTF-8"), category="Status")
 
+        Keyword.objects.create(word="gate".encode("UTF-8"), category="Location")
+        Keyword.objects.create(word="gata".encode("UTF-8"), category="Location")
+        Keyword.objects.create(word="vei".encode("UTF-8"), category="Location")
+        Keyword.objects.create(word="veien".encode("UTF-8"), category="Location")
+        Keyword.objects.create(word="vegen".encode("UTF-8"), category="Location")
+        Keyword.objects.create(word="skole".encode("UTF-8"), category="Location")
+        Keyword.objects.create(word="skule".encode("UTF-8"), category="Location")
+
+        Keyword.objects.create(word="nødetatene".encode("UTF-8"), category="Actor")
+        Keyword.objects.create(word="brannvesenet".encode("UTF-8"), category="Actor")
+        Keyword.objects.create(word="politiet".encode("UTF-8"), category="Actor")
+        Keyword.objects.create(word="ambulanse".encode("UTF-8"), category="Actor")
+
+
+     python3 manage.py get_tweets oslopolitiops >> log/oslopolitiops_log.txt
+      python3 manage.py scan oslopolitiops > log/oslopolitiops_scan_log.txt
+
 
 print(category + " for " + t.twitter_msg_id)
                     print("keyword:")
@@ -49,3 +66,12 @@ print(category + " for " + t.twitter_msg_id)
                         print("parent text:")
                         print(t.parent.text.encode("UTF-8"))
                     print("=============")
+
+                # test data
+    # violation_keywords = ['avskiltes', 'fratas', 'fratatt', 'tagger', 'tagging']
+    # good_keywords = ['ingen personskade', 'reddet', 'funnet']
+    # danger_keywords = ['røykutvikling', 'knivstukket', 'kniv', 'våpen', 'brann', 'stjålet', 'saknet', 'savnet', 'skudd']
+    # status_keywords = ['melding om', 'er fremme' 'er på stedet', 'på vei til stedet',\
+    #     'slukket', 'pågrepet', 'i arrest', 'tatt vare på']
+    # preposition_keywords = ['i', 'på']
+    # street_keywords = ['veien', 'gate']
