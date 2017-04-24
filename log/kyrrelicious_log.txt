@@ -44,3 +44,9 @@ Match after 1 tweets
 856298768781725696 != 856294949574377476
 Match after 1 tweets
 1 created
+
+2017-04-24 03:14:46
+No entries in DB for kyrrelicious
+Will attempt to make 22 models.
+Could take a while or forever. Maybe not download all tweets..
+Done. Try MyTweet.objects.filter(screen_name='kyrrelicious')

@@ -1,0 +1,502 @@
+Danger for 856500669045506048
+keyword:
+b'brann'
+in text:
+b'If\xc3\xb8lge Brannvesenet p\xc3\xa5 stedet er det ikke brann, kun litt sot p\xc3\xa5 en vegg.'
+parent text:
+b'Vi har f\xc3\xa5tt melding om brann i Nebbejordet p\xc3\xa5 Bj\xc3\xb8rnerud. N\xc3\xb8detatene er p\xc3\xa5 vei.'
+=============
+Danger for 856499238724927488
+keyword:
+b'brann'
+in text:
+b'Vi har f\xc3\xa5tt melding om brann i Nebbejordet p\xc3\xa5 Bj\xc3\xb8rnerud. N\xc3\xb8detatene er p\xc3\xa5 vei.'
+=============
+Danger for 856181224963964928
+keyword:
+b'brann'
+in text:
+b'Slemdal skole: melding om brann i en s\xc3\xb8ppelkasse, brannvesen og politi er p\xc3\xa5 vei.'
+=============
+Danger for 856092042807697408
+keyword:
+b'brann'
+in text:
+b'N\xc3\xb8detatene er p\xc3\xa5 vei til Bredtveit hvor det skal v\xc3\xa6re en gressbrann langs med Trondheimsveien.'
+=============
+Danger for 855998037038125056
+keyword:
+b'brann'
+in text:
+b'Mange personer har evakuert seg selv fra blokka som ligger p\xc3\xa5 adressen. Brannvesenet jobber p\xc3\xa5 stedet, ikke funnet noen brann enn\xc3\xa5.'
+parent text:
+b'En brannvarsler har g\xc3\xa5tt i tilknytning til et garasjeanlegg i Trondheimsveien 197. Vi er p\xc3\xa5 stedet med OBRE, ikke funnet \xc3\xa5rsaken enn\xc3\xa5.'
+=============
+Danger for 855996884736933888
+keyword:
+b'brann'
+in text:
+b'En brannvarsler har g\xc3\xa5tt i tilknytning til et garasjeanlegg i Trondheimsveien 197. Vi er p\xc3\xa5 stedet med OBRE, ikke funnet \xc3\xa5rsaken enn\xc3\xa5.'
+=============
+Danger for 855970450446462977
+keyword:
+b'brann'
+in text:
+b'Vi er p\xc3\xa5 stedet sammen med brannvesenet. Ser ingen flammer eller r\xc3\xb8yk p\xc3\xa5 stedet, men vi unders\xc3\xb8ker videre.'
+parent text:
+b'N\xc3\xb8detatene er p\xc3\xa5 vei til boligbrann i Dr. Holms vei.'
+=============
+Danger for 855969183703629825
+keyword:
+b'brann'
+in text:
+b'N\xc3\xb8detatene er p\xc3\xa5 vei til boligbrann i Dr. Holms vei.'
+=============
+Danger for 855852274219986944
+keyword:
+b'brann'
+in text:
+b'En beboer slukket brannen f\xc3\xb8r vi kom frem. Ingen stor brann.'
+parent text:
+b'R\xc3\xb8dvedt skole: melding om gressbrann rett ved skolen. Brannvesenet og politi er p\xc3\xa5 vei til stedet.'
+=============
+Danger for 855850036604882944
+keyword:
+b'brann'
+in text:
+b'R\xc3\xb8dvedt skole: melding om gressbrann rett ved skolen. Brannvesenet og politi er p\xc3\xa5 vei til stedet.'
+=============
+Danger for 855552239628414976
+keyword:
+b'brann'
+in text:
+b'N\xc3\xb8detatene er p\xc3\xa5 vei til Uelands gate etter melding om brannalarm som g\xc3\xa5r samtidig som det lukter brent i oppgangen.'
+=============
+Danger for 855338942622650369
+keyword:
+b'v\xc3\xa5pen'
+in text:
+b'Vi er i Trondheimsveien i forbindelse med trussel med skytev\xc3\xa5pen. Vi har kontroll p\xc3\xa5 alle involverte parter og gjennomf\xc3\xb8rer avh\xc3\xb8r p\xc3\xa5 stedet.'
+=============
+Danger for 855130231656591360
+keyword:
+b'brann'
+in text:
+b'Lofsrudh\xc3\xb8gda: Vi er p\xc3\xa5 stedet sammen med brannv ifb. melding om r\xc3\xb8yklukt. Viste seg \xc3\xa5 v\xc3\xa6re t\xc3\xb8rrkok'
+=============
+Danger for 854997478827061249
+keyword:
+b'brann'
+in text:
+b'Ingen r\xc3\xb8yk eller brann p\xc3\xa5 stedet.'
+parent text:
+b'N\xc3\xb8detatene er p\xc3\xa5 vei til Agathe Gr\xc3\xb8ndahls gate, hvor det er meldt om r\xc3\xb8ykutvikling i en leilighet.'
+=============
+Danger for 854678091226116097
+keyword:
+b'brann'
+in text:
+b'Da bekrefter brannvesenet at brannen er slukket. En person har evakuert seg selv'
+parent text:
+b'Vi er fremme p\xc3\xa5 stedet. Det er flammer ut fra leilighet i 2. etg. og obre jobber med \xc3\xa5 slukke.'
+=============
+Danger for 854675022820126720
+keyword:
+b'brann'
+in text:
+b'N\xc3\xb8detatene er p\xc3\xa5 vei til Hoffsveien. Melding om brann'
+=============
+Danger for 854495637366345728
+keyword:
+b'v\xc3\xa5pen'
+in text:
+b'Storo: Patrulje kontrollerte en person, hvor vedkommende var i besittelse av et gassv\xc3\xa5pen og narkotika. P\xc3\xa5grepet og kj\xc3\xb8rt arrest.'
+=============
+Danger for 854490675156570112
+keyword:
+b'brann'
+in text:
+b'Brannvesenet melder at brannen skal v\xc3\xa6re slukket. Ingen evakuerte. Ingen skadde.'
+parent text:
+b'Rusel\xc3\xb8kkveien: Melding om brann. Vi er p\xc3\xa5 vei.'
+=============
+Danger for 854489725427691520
+keyword:
+b'brann'
+in text:
+b'Rusel\xc3\xb8kkveien: Melding om brann. Vi er p\xc3\xa5 vei.'
+=============
+Danger for 853974822023569408
+keyword:
+b'brann'
+in text:
+b'Noen har evakuert seg selv, men brannen er slokket. Beboere skal ikke ha f\xc3\xa5tt i seg r\xc3\xb8yk.'
+parent text:
+b'N\xc3\xb8detatene er p\xc3\xa5 vei til Selvbyggerveien p\xc3\xa5 melding om brann.'
+=============
+Danger for 853974545266552832
+keyword:
+b'brann'
+in text:
+b'N\xc3\xb8detatene er p\xc3\xa5 vei til Selvbyggerveien p\xc3\xa5 melding om brann.'
+=============
+Danger for 853623396109885442
+keyword:
+b'brann'
+in text:
+b'N\xc3\xb8detatene er i Sigurds gate ifm at det har v\xc3\xa6rt brann i en s\xc3\xb8ppelkasse. Denne er slukket og det fremst\xc3\xa5r som udramatisk. Ingen pers. skade'
+=============
+Danger for 853454673432498176
+keyword:
+b'brann'
+in text:
+b'Det har v\xc3\xa6rt brann i et elektrisk apparat. Brannvesenet har n\xc3\xa5 slukket dette og lufter ut endel r\xc3\xb8yk. Ingen personer skadet.'
+parent text:
+b'Melding om brann i en restaurant i Motzfeldtsgate. Vi og Brannvesenet p\xc3\xa5 er stedet.'
+=============
+Danger for 853452193449594880
+keyword:
+b'brann'
+in text:
+b'Melding om brann i en restaurant i Motzfeldtsgate. Vi og Brannvesenet p\xc3\xa5 er stedet.'
+=============
+Danger for 853315062831996930
+keyword:
+b'brann'
+in text:
+b'Obre bekrefter at brannen er slukket. Vi blir p\xc3\xa5 stedet en stund til'
+parent text:
+b'N\xc3\xb8detatene er p\xc3\xa5 Lilleborg skole ifm at det brenner i noen s\xc3\xb8ppelkasser. Skal ikke v\xc3\xa6re fare for spredning.'
+=============
+Danger for 852970272512761856
+keyword:
+b'brann'
+in text:
+b'Vi er fremme og det er ingen brann. R\xc3\xb8yken kom fra grilling s\xc3\xa5 vi drar straks fra stedet'
+parent text:
+b'N\xc3\xb8detatene er p\xc3\xa5 vei til Nils Huus gate ifm melding om r\xc3\xb8yk fra oppgang'
+=============
+Danger for 852840147670282245
+keyword:
+b'brann'
+in text:
+b'Helgesens gate. N\xc3\xb8detatene rykker ut til en melding om brann.'
+=============
+Danger for 852822482876637184
+keyword:
+b'brann'
+in text:
+b'Stjernemyrveien: Melding om brann i en leilighet. Vi er straks p\xc3\xa5 stedet.'
+=============
+Status for 856499238724927488
+keyword:
+b'melding om'
+in text:
+b'Vi har f\xc3\xa5tt melding om brann i Nebbejordet p\xc3\xa5 Bj\xc3\xb8rnerud. N\xc3\xb8detatene er p\xc3\xa5 vei.'
+=============
+Status for 856459919410724864
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Vi er p\xc3\xa5 stedet. Veibanen er n\xc3\xa5 ryddet. Lastebilen var en s\xc3\xb8ppelbil som ikke hadde sikret sin last godt nok.'
+parent text:
+b'E6 nordg\xc3\xa5ende ved Alnabru. Lastebil som har mistet last i veibanen og kj\xc3\xb8rt videre. Trafikkfarlig p\xc3\xa5 stedet. Vi er p\xc3\xa5 vei.'
+=============
+Status for 856361202083135492
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Vi er p\xc3\xa5 stedet, og det er en h\xc3\xb8yspentmast som er p\xc3\xa5kj\xc3\xb8rt. Den ligger over vegbanen.'
+parent text:
+b'Det rapporteres om glatt vegbane i Maridalen, og det anbefales p\xc3\xa5 det sterkeste \xc3\xa5 kj\xc3\xb8re etter forholdene.'
+=============
+Status for 856181224963964928
+keyword:
+b'melding om'
+in text:
+b'Slemdal skole: melding om brann i en s\xc3\xb8ppelkasse, brannvesen og politi er p\xc3\xa5 vei.'
+=============
+Status for 856147185062301696
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Vi er p\xc3\xa5 stedet sammen med de andre n\xc3\xb8detatene. En person blir tatt h\xc3\xa5nd om av helsepersonell. Ingen trafikale problemer.'
+parent text:
+b'Vi er p\xc3\xa5 vei til Bekkefaret hvor vi har f\xc3\xa5tt melding om trafikkulykke. En person skal v\xc3\xa6re p\xc3\xa5kj\xc3\xb8rt.'
+=============
+Status for 856145282295361538
+keyword:
+b'melding om'
+in text:
+b'Vi er p\xc3\xa5 vei til Bekkefaret hvor vi har f\xc3\xa5tt melding om trafikkulykke. En person skal v\xc3\xa6re p\xc3\xa5kj\xc3\xb8rt.'
+=============
+Status for 855998037038125056
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Mange personer har evakuert seg selv fra blokka som ligger p\xc3\xa5 adressen. Brannvesenet jobber p\xc3\xa5 stedet, ikke funnet noen brann enn\xc3\xa5.'
+parent text:
+b'En brannvarsler har g\xc3\xa5tt i tilknytning til et garasjeanlegg i Trondheimsveien 197. Vi er p\xc3\xa5 stedet med OBRE, ikke funnet \xc3\xa5rsaken enn\xc3\xa5.'
+=============
+Status for 855996884736933888
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'En brannvarsler har g\xc3\xa5tt i tilknytning til et garasjeanlegg i Trondheimsveien 197. Vi er p\xc3\xa5 stedet med OBRE, ikke funnet \xc3\xa5rsaken enn\xc3\xa5.'
+=============
+Status for 855970450446462977
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Vi er p\xc3\xa5 stedet sammen med brannvesenet. Ser ingen flammer eller r\xc3\xb8yk p\xc3\xa5 stedet, men vi unders\xc3\xb8ker videre.'
+parent text:
+b'N\xc3\xb8detatene er p\xc3\xa5 vei til boligbrann i Dr. Holms vei.'
+=============
+Status for 855887380783534080
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Vi er p\xc3\xa5 stedet, og forn\xc3\xa6rmede er bevisst. Vi har kontroll p\xc3\xa5 en formentlig mistenkt.'
+parent text:
+b'Politi og ambulanse er p\xc3\xa5 vei til Nationalteateret stasjon, etter melding om en bevisstl\xc3\xb8s person.'
+=============
+Status for 855884808479813632
+keyword:
+b'melding om'
+in text:
+b'Politi og ambulanse er p\xc3\xa5 vei til Nationalteateret stasjon, etter melding om en bevisstl\xc3\xb8s person.'
+=============
+Status for 855862248589471746
+keyword:
+b'melding om'
+in text:
+b'N\xc3\xb8detatene er i fjorden utenfor Malm\xc3\xb8ya etter melding om mulig veltet kajakk. Pr n\xc3\xa5 har vi ikke funnet noen veltet kajakk.'
+=============
+Status for 855850036604882944
+keyword:
+b'melding om'
+in text:
+b'R\xc3\xb8dvedt skole: melding om gressbrann rett ved skolen. Brannvesenet og politi er p\xc3\xa5 vei til stedet.'
+=============
+Status for 855846354169589765
+keyword:
+b'p\xc3\xa5grepet'
+in text:
+b'Takket v\xc3\xa6re observant vitne fikk politiet p\xc3\xa5grepet en person i en stj\xc3\xa5let bil. Biltyven blir kj\xc3\xb8rt arrest.'
+=============
+Status for 855784626371125248
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'N\xc3\xb8detatene er p\xc3\xa5 stedet. Meldt om mindre personskader. L\xc3\xb8rentunnelen vestg\xc3\xa5ende er inntil videre stengt.'
+parent text:
+b'N\xc3\xb8detatene er p\xc3\xa5 vei til L\xc3\xb8rentunnelen, vestg\xc3\xa5ende. Trafikkulykke mellom 4 biler. Forel\xc3\xb8pig g\xc3\xa5r trafikken forbi i h\xc3\xb8yre felt.'
+=============
+Status for 855552239628414976
+keyword:
+b'melding om'
+in text:
+b'N\xc3\xb8detatene er p\xc3\xa5 vei til Uelands gate etter melding om brannalarm som g\xc3\xa5r samtidig som det lukter brent i oppgangen.'
+=============
+Status for 855539783900307456
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Vi er p\xc3\xa5 stedet i Huitfeldts gate sammen med ambulansen. Kvinnen som ble p\xc3\xa5kj\xc3\xb8rt blir kj\xc3\xb8rt til sykehus. Ukjent skadeomfang, men var bevisst'
+parent text:
+b'Huitfeldtsgate: en person skal v\xc3\xa6re p\xc3\xa5kj\xc3\xb8rt, n\xc3\xb8detatene er p\xc3\xa5 vei.'
+=============
+Status for 855430717035216896
+keyword:
+b'melding om'
+in text:
+b'Trondheimsveien: melding om kollisjon mellom 2 biler, lettere personskade. Politiet er p\xc3\xa5 vei til stedet.'
+=============
+Status for 855383543626772481
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Ambulanse er p\xc3\xa5 stedet. Noe trafikale problemer.'
+parent text:
+b'Vi er p\xc3\xa5 vei til trafikkulykke mellom bil og lastebil i Vogtsgate x Marcus Thranesgate.'
+=============
+Status for 855343506465968128
+keyword:
+b'p\xc3\xa5grepet'
+in text:
+b'En mann p\xc3\xa5grepet og kj\xc3\xb8rt i politiarresten.'
+parent text:
+b'Det har v\xc3\xa6rt snakk om verbale trusler.'
+=============
+Status for 855339859409371136
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Bj\xc3\xb8rvikatunnellen \xc3\xb8stg\xc3\xa5ende: Motorsykkel som har veltet. Singelulykke. Ukjent skadeomfang. Vi er p\xc3\xa5 stedet'
+=============
+Status for 855130231656591360
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Lofsrudh\xc3\xb8gda: Vi er p\xc3\xa5 stedet sammen med brannv ifb. melding om r\xc3\xb8yklukt. Viste seg \xc3\xa5 v\xc3\xa6re t\xc3\xb8rrkok'
+=============
+Status for 855130231656591360
+keyword:
+b'melding om'
+in text:
+b'Lofsrudh\xc3\xb8gda: Vi er p\xc3\xa5 stedet sammen med brannv ifb. melding om r\xc3\xb8yklukt. Viste seg \xc3\xa5 v\xc3\xa6re t\xc3\xb8rrkok'
+=============
+Status for 855071279266844674
+keyword:
+b'melding om'
+in text:
+b'Vi er i Haakon Tvetersvei etter melding om knivtrusler og br\xc3\xa5k i en leilighet.'
+=============
+Status for 854837680164753408
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Nordaaks gate. Vi er p\xc3\xa5 stedet etter at det har blitt knust en rute p\xc3\xa5 en bil. En person stanset i umiddelbar n\xc3\xa6rhet til stedet.'
+=============
+Status for 854687949585350656
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'\xc3\x98stbanehallen: Det brenner i en s\xc3\xb8ppelkasse, og flere personer skal v\xc3\xa6re eksponert for r\xc3\xb8yk. N\xc3\xb8detater p\xc3\xa5 stedet'
+=============
+Status for 854676330503393280
+keyword:
+b'er fremme'
+in text:
+b'Vi er fremme p\xc3\xa5 stedet. Det er flammer ut fra leilighet i 2. etg. og obre jobber med \xc3\xa5 slukke.'
+parent text:
+b'N\xc3\xb8detatene er p\xc3\xa5 vei til Hoffsveien. Melding om brann'
+=============
+Status for 854595783487889408
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'I L\xc3\xb8rentunnellen h\xc3\xb8yre felt \xc3\xb8stg\xc3\xa5ende l\xc3\xb8p st\xc3\xa5r det en bil med stans. Vaktbilen fra vts er p\xc3\xa5 stedet'
+=============
+Status for 854503883892248576
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Patrulje er p\xc3\xa5 stedet. Sl\xc3\xa5ssinga har opph\xc3\xb8rt. Vi unders\xc3\xb8ker hva som har skjedd.'
+parent text:
+b'Aker Brygge: Slagsm\xc3\xa5l mellom flere personer. Vi er p\xc3\xa5 vei.'
+=============
+Status for 854150503244210177
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Enhetene er p\xc3\xa5 stedet, og det lukter r\xc3\xb8yk, ingen flammer sett. Brannvesenet jobber med \xc3\xa5 lokalisere kilden.'
+parent text:
+b'Maria Dehlis vei: Melding om r\xc3\xb8yk fra 2. etasje i boligblokk. N\xc3\xb8detatene p\xc3\xa5 vei'
+=============
+Status for 853974545266552832
+keyword:
+b'melding om'
+in text:
+b'N\xc3\xb8detatene er p\xc3\xa5 vei til Selvbyggerveien p\xc3\xa5 melding om brann.'
+=============
+Status for 853747514385850369
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Vi er p\xc3\xa5 stedet. Brannvesenet har kontroll p\xc3\xa5 stedet. En person f\xc3\xa5tt i seg litt r\xc3\xb8yk.'
+parent text:
+b'Vi har f\xc3\xa5tt melding om mulig t\xc3\xb8rrkok fra Enebakkveien. N\xc3\xb8detatene er p\xc3\xa5 vei til stedet'
+=============
+Status for 853745686331969538
+keyword:
+b'melding om'
+in text:
+b'Vi har f\xc3\xa5tt melding om mulig t\xc3\xb8rrkok fra Enebakkveien. N\xc3\xb8detatene er p\xc3\xa5 vei til stedet'
+=============
+Status for 853415207045144579
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Ingen er skadet. Vi er p\xc3\xa5 stedet med flere enheter for \xc3\xa5 bevare ro og orden.'
+parent text:
+b'Melding om nok en sl\xc3\xa5sskamp mellom flere personer p\xc3\xa5 Bl\xc3\xa5 i Brenneriveien.Vi er p\xc3\xa5 stedet.'
+=============
+Status for 853414798977105922
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Melding om nok en sl\xc3\xa5sskamp mellom flere personer p\xc3\xa5 Bl\xc3\xa5 i Brenneriveien.Vi er p\xc3\xa5 stedet.'
+=============
+Status for 853403113969119233
+keyword:
+b'p\xc3\xa5grepet'
+in text:
+b'Tre personer p\xc3\xa5grepet og kj\xc3\xb8res arrest for ordensforstyrrelse. Vi m\xc3\xa5tte bruke pepperspray for \xc3\xa5 f\xc3\xa5 kontroll p\xc3\xa5 kamphanene.'
+parent text:
+b'Melding om sl\xc3\xa5sskamp mellom 3 personer p\xc3\xa5 Bl\xc3\xa5 i Brenneriveien .Vi er p\xc3\xa5 stedet og har kontroll.'
+=============
+Status for 853390583745925120
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Melding om sl\xc3\xa5sskamp mellom 3 personer p\xc3\xa5 Bl\xc3\xa5 i Brenneriveien .Vi er p\xc3\xa5 stedet og har kontroll.'
+=============
+Status for 853373944736473092
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Melding om flere smell og lysglimt fra omr\xc3\xa5det Sagene kirke. Vi er p\xc3\xa5 stedet med flere enheter og unders\xc3\xb8ker dette.'
+=============
+Status for 853290957533437953
+keyword:
+b'p\xc3\xa5grepet'
+in text:
+b'Politiet har p\xc3\xa5grepet to personer i Enebakkveien etter at en drosje ble stj\xc3\xa5let p\xc3\xa5 Stovner ca 1 time tidligere. Begge to kj\xc3\xb8res arresten'
+=============
+Status for 853087793706356737
+keyword:
+b'p\xc3\xa5grepet'
+in text:
+b'Melding om husbr\xc3\xa5k fra en leilighet p\xc3\xa5 Majorstua. Da vi ankom ble mannen p\xc3\xa5grepet og kvinnen gitt f\xc3\xb8rstehjelp etter at de hadde sloss.'
+=============
+Status for 852970272512761856
+keyword:
+b'er fremme'
+in text:
+b'Vi er fremme og det er ingen brann. R\xc3\xb8yken kom fra grilling s\xc3\xa5 vi drar straks fra stedet'
+parent text:
+b'N\xc3\xb8detatene er p\xc3\xa5 vei til Nils Huus gate ifm melding om r\xc3\xb8yk fra oppgang'
+=============
+Status for 852968882407190528
+keyword:
+b'melding om'
+in text:
+b'N\xc3\xb8detatene er p\xc3\xa5 vei til Nils Huus gate ifm melding om r\xc3\xb8yk fra oppgang'
+=============
+Status for 852840147670282245
+keyword:
+b'melding om'
+in text:
+b'Helgesens gate. N\xc3\xb8detatene rykker ut til en melding om brann.'
+=============
+Status for 852738803445899265
+keyword:
+b'melding om'
+in text:
+b'N\xc3\xb8detatene er p\xc3\xa5 vei til Olaf Schous vei p\xc3\xa5 melding om r\xc3\xb8ykutvikling i en leilighet.'
+=============
+Status for 852661744384303105
+keyword:
+b'p\xc3\xa5grepet'
+in text:
+b'Mannen er p\xc3\xa5grepet og kj\xc3\xb8res arresten.'
+parent text:
+b'Politiet har kontroll p\xc3\xa5 en tagger i Vallegata. Tatt mens han satt p\xc3\xa5 huk og tagget p\xc3\xa5 en vegg.'
+=============
+Status for 852604706073575426
+keyword:
+b'er p\xc3\xa5 stedet'
+in text:
+b'Hausmannsgate: Melding om slagsm\xc3\xa5l mellom fire personer. Politiet er p\xc3\xa5 stedet n\xc3\xa5, ser ikke noe unormalt.'
+=============

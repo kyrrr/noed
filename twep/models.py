@@ -13,20 +13,18 @@ class MyTweet(models.Model):
     # twitter screen name (after / in the user page url)
     screen_name = models.CharField(max_length=200)
     text = models.TextField()
-    # is the tweet in reply to some other tweet posted by themselves
-    # TODO: Actual foreign key to other MyTweet object
+    # used to check if the tweet in reply to some other tweet posted by themselves
     reply_to_id_str = models.CharField(max_length=20, null=True, default=None)
     parent = models.ForeignKey('self', null=True, default=None, related_name='+')
     child = models.ForeignKey('self', null=True, default=None)
-    keywords = models.ForeignKey('Keyword', null=True, default=None)
-    situation = models.ForeignKey('Situation', null=True, default=None)
-    scanned = models.BooleanField(default=False)
+    keyword = models.ManyToManyField('Keyword', default=None)
 
     def __str__(self):
         # prints the msg id when the object itself is print()-ed, etc
         return self.twitter_msg_id
 
     # magic recursion
+    # TODO: limit?
     def get_all_children(self, include_self=True):
         r = []
         if include_self:
@@ -58,9 +56,9 @@ class Situation(models.Model):
         (DANGER, 'Danger'),
         (UNKNOWN, 'Unknown')
     )
-    # TODO: Figure out timezone fuckery!!
-    created_at = models.DateTimeField('created at', default=timezone.now)
-    status = models.CharField(max_length=20, choices=STATUS_CHOICES, default=REPORTED)
+    # TODO: is this timezone ok?
+    base_tweet = models.ForeignKey('MyTweet', verbose_name='base_mytweet_id', null=True, default=None)
+    status = models.CharField(max_length=20, choices=STATUS_CHOICES, default=UNKNOWN)
     danger_level = models.CharField(max_length=20, choices=THREAT_CHOICES, default=UNKNOWN)
 
     def __str__(self):
@@ -84,3 +82,6 @@ class Keyword(models.Model):
     )
     word = models.CharField(max_length=200)
     category = models.CharField(max_length=200, choices=CATEGORY_CHOICES, default=UNKNOWN)
+
+    class Meta:
+        ordering = ('word',)

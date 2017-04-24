@@ -2,17 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adaa4329-7c18-4917-b470-fa74e4f30bca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twep/management/commands/scan.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dump.txt" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/management/commands/downloadall.py" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/twep/management/commands/lookfornew.py" afterPath="$PROJECT_DIR$/twep/management/commands/get_tweets.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/twep/util/scraper.py" afterPath="$PROJECT_DIR$/twep/util/tweettransformer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/kyrrebugge.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/kyrrebugge.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/kyrrelicious_log.txt" afterPath="$PROJECT_DIR$/log/kyrrelicious_log.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/log/oslopolitiops_log.txt" afterPath="$PROJECT_DIR$/log/oslopolitiops_log.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/management/commands/get_tweets.py" afterPath="$PROJECT_DIR$/twep/management/commands/get_tweets.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/management/commands/scan.py" afterPath="$PROJECT_DIR$/twep/management/commands/scan.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/models.py" afterPath="$PROJECT_DIR$/twep/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/util/scraper.py" afterPath="$PROJECT_DIR$/twep/util/scraper.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/settings.py" afterPath="$PROJECT_DIR$/twep/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/util/tweetseeker.py" afterPath="$PROJECT_DIR$/twep/util/tweetseeker.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/views.py" afterPath="$PROJECT_DIR$/twep/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,35 +28,35 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="get_tweets.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/twep/management/commands/get_tweets.py">
+      <file leaf-file-name="tweettransformer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/twep/util/tweettransformer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="18" column="63" lean-forward="false" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+            <state relative-caret-position="176">
+              <caret line="69" column="22" lean-forward="false" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="logger.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/twep/util/logger.py">
+      <file leaf-file-name="sdf.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sdf.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+            <state relative-caret-position="7423">
+              <caret line="495" column="13" lean-forward="true" selection-start-line="495" selection-start-column="13" selection-end-line="495" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scraper.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/twep/util/scraper.py">
+      <file leaf-file-name="scan.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/twep/management/commands/scan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="45" column="38" lean-forward="false" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+            <state relative-caret-position="276">
+              <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#0#51#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -64,8 +65,8 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twep/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
-              <caret line="61" column="72" lean-forward="false" selection-start-line="61" selection-start-column="72" selection-end-line="61" selection-end-column="72" />
+            <state relative-caret-position="-635">
+              <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -90,6 +91,8 @@
       <find>new models</find>
       <find>reply</find>
       <find>reply_to</find>
+      <find>exit</find>
+      <find>852661744384303105</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -113,18 +116,20 @@
         <option value="$PROJECT_DIR$/twep/logger.py" />
         <option value="$PROJECT_DIR$/cron_example.txt" />
         <option value="$PROJECT_DIR$/log/realDonaldTrump_log.txt" />
-        <option value="$PROJECT_DIR$/twep/settings.py" />
         <option value="$PROJECT_DIR$/twep/tweepyImpl.py" />
         <option value="$PROJECT_DIR$/twep/management/commands/downloadall.py" />
         <option value="$PROJECT_DIR$/twep/views.py" />
         <option value="$PROJECT_DIR$/log/kyrrelicious_log.txt" />
-        <option value="$PROJECT_DIR$/log/oslopolitiops_log.txt" />
         <option value="$PROJECT_DIR$/twep/management/commands/lookfornew.py" />
         <option value="$PROJECT_DIR$/twep/util/tweetseeker.py" />
-        <option value="$PROJECT_DIR$/twep/management/commands/scan.py" />
+        <option value="$PROJECT_DIR$/twep/settings.py" />
         <option value="$PROJECT_DIR$/twep/management/commands/get_tweets.py" />
-        <option value="$PROJECT_DIR$/twep/models.py" />
         <option value="$PROJECT_DIR$/twep/util/scraper.py" />
+        <option value="$PROJECT_DIR$/log/oslopolitiops_log.txt" />
+        <option value="$PROJECT_DIR$/twep/models.py" />
+        <option value="$PROJECT_DIR$/dump.txt" />
+        <option value="$PROJECT_DIR$/twep/management/commands/scan.py" />
+        <option value="$PROJECT_DIR$/twep/util/tweettransformer.py" />
       </list>
     </option>
   </component>
@@ -503,9 +508,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31007752" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -539,12 +544,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twep/util/scraper.py">
+    <entry file="file://$PROJECT_DIR$/twep/util/tweettransformer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="45" column="12" lean-forward="false" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
@@ -650,14 +655,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/db/models/query.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="385" column="8" lean-forward="false" selection-start-line="385" selection-start-column="8" selection-end-line="385" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/oslopolitiops_NEWEST_tweets.csv" />
     <entry file="file://$PROJECT_DIR$/twep/migrations/0001_initial.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -699,14 +696,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/log/realDonaldTrump_log.txt" />
-    <entry file="file://$PROJECT_DIR$/twep/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tweepy/binder.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3201">
@@ -738,39 +727,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twep/util/tweetseeker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="70" column="33" lean-forward="true" selection-start-line="70" selection-start-column="33" selection-end-line="70" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/twep/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/log/oslopolitiops_log.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twep/management/commands/scan.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#51#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -785,38 +746,94 @@
     <entry file="file://$PROJECT_DIR$/twep/util/logger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/django/db/models/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="385" column="8" lean-forward="false" selection-start-line="385" selection-start-column="8" selection-end-line="385" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twep/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twep/util/tweetseeker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="45" column="93" lean-forward="false" selection-start-line="45" selection-start-column="93" selection-end-line="45" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twep/management/commands/get_tweets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="60" column="30" lean-forward="true" selection-start-line="60" selection-start-column="30" selection-end-line="60" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/oslopolitiops_log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-372">
+          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dump.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="40" column="8" lean-forward="false" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/twep/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="61" column="72" lean-forward="false" selection-start-line="61" selection-start-column="72" selection-end-line="61" selection-end-column="72" />
+        <state relative-caret-position="-635">
+          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twep/management/commands/get_tweets.py">
+    <entry file="file://$PROJECT_DIR$/twep/management/commands/scan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="18" column="63" lean-forward="false" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+        <state relative-caret-position="276">
+          <caret line="31" column="20" lean-forward="false" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twep/util/scraper.py">
+    <entry file="file://$PROJECT_DIR$/twep/util/tweettransformer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="45" column="38" lean-forward="false" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+        <state relative-caret-position="176">
+          <caret line="69" column="22" lean-forward="false" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdf.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7423">
+          <caret line="495" column="13" lean-forward="true" selection-start-line="495" selection-start-column="13" selection-end-line="495" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>

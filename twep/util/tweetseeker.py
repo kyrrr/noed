@@ -69,7 +69,7 @@ class TweetSeeker:
     # makes models of tweets. if the tweet is a reply, first make a model of that tweet.
     # TODO: reply_to as actual foreign key to another MyTweet object. Just a string for now.
     def make_model(self, tweets):
-        gotten_or_created = []
+        created = []
         for t in tweets:
             exists = MyTweet.objects.filter(twitter_msg_id=t.id_str)
             if len(exists) > 0:
@@ -77,8 +77,8 @@ class TweetSeeker:
                 continue
             if t.in_reply_to_status_id_str:
                 self.make_model(self.get_tweet(t.in_reply_to_status_id_str))
-            gotten_or_created.append(
-                MyTweet.objects.get_or_create(
+            created.append(
+                MyTweet.objects.create(
                     # this is used as the db primary key
                     twitter_msg_id=t.id_str,
                     screen_name=self.screen_name,
@@ -88,4 +88,4 @@ class TweetSeeker:
                     created_at=t.created_at,
                 )
             )
-        return gotten_or_created
+        return created

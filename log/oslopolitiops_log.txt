@@ -88,3 +88,44 @@ DB up to date (only checking latest entry) oslopolitiops
 No entries in DB for oslopolitiops
 Will attempt to make 200 models.Could take a while or forever. Maybe not download all tweets..
 Done. Try MyTweet.objects.filter(screen_name='oslopolitiops')
+
+               ;~~,__
+   :-....,-------'`-'._.'
+    `-,,,  ,       ,'~~'
+        ; ,'~.__; /
+        :|      :|
+        `-'     `-'
+
+2017-04-24 02:08:56
+856309390126850049 != 856186694487470081
+Match after 1 tweets
+1 created
+
+               ;~~,__
+   :-....,-------'`-'._.'
+    `-,,,  ,       ,'~~'
+        ; ,'~.__; /
+        :|      :|
+        `-'     `-'
+
+2017-04-24 03:06:29
+No entries in DB for oslopolitiops
+Will attempt to make 200 models.
+Could take a while or forever. Maybe not download all tweets..
+Done. Try MyTweet.objects.filter(screen_name='oslopolitiops')
+
+2017-04-24 03:07:17
+DB up to date (only checking latest entry) oslopolitiops
+
+               ;~~,__
+   :-....,-------'`-'._.'
+    `-,,,  ,       ,'~~'
+        ; ,'~.__; /
+        :|      :|
+        `-'     `-'
+
+2017-04-24 15:20:02
+No entries in DB for oslopolitiops
+Will attempt to make 200 models.
+Could take a while or forever. Maybe not download all tweets..
+Done. Try MyTweet.objects.filter(screen_name='oslopolitiops')

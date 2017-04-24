@@ -1,7 +1,8 @@
 from django.core.management.base import BaseCommand
-from twep.models import MyTweet, Situation
+from twep.models import MyTweet, Situation, Keyword
 from twep.util import logger
-from twep.util import scraper
+from twep.util import tweettransformer
+from collections import defaultdict
 
 
 # scans through MyTweets by screen_username and formats data
@@ -19,23 +20,14 @@ class Command(BaseCommand):
 
     def handle(self, *args, **options):
         sn = options['screen_name']
-        s = scraper.Scraper(sn)
-        # all = MyTweet.objects.all()
-        s.set_reply_timeline()
+        s = tweettransformer.TweetTransformer(sn)
+        s.set_parent_child()
         s.situate()
-        # not_scanned = MyTweet.objects.filter(screen_name=sn).filter(scanned=False)
-        # are_replies = not_scanned.filter(reply_to_id_str__isnull=False)  # .filter(reply_to_object__isnull=True)
-        # for reply in are_replies:
-            # try:
-                # parent = MyTweet.objects.get(twitter_msg_id=reply.reply_to_id_str)
-                # reply.parent = parent
-                # parent.child = reply
-                # print(reply.text)
-                # print("is self reply to")
-                # print(parent.text)
-            # except MyTweet.DoesNotExist:
-                # pass
-                # print(reply.twitter_msg_id + " is reply but not to self")
-
-        # last = MyTweet.objects.filter(parent__isnull=False).filter()
-
+        s.scan('Danger')  # TODO: consts?
+        s.scan('Status')
+        with_danger_keywords = MyTweet.objects.filter(keyword__category='Danger').filter(keyword__category='Status')
+        for wdk in with_danger_keywords:
+            dk = wdk.keyword.all()
+            for k in dk:
+                pass
+                # print(k.word.encode("UTF-8"))

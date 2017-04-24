@@ -1,0 +1,51 @@
+sits = Situation.objects.filter(mytweet__isnull=False)
+        for s in sits:
+            # print((s.mytweet_set.count()))
+            # print((s.mytweet_set.all()))
+            for t in s.mytweet_set.all():
+                print("\n")
+                print(t.text.encode("UTF-8"))
+        exit()
+
+
+# Situation.objects.filter(mytweet__screen_name=sn).delete()
+        sits = Situation.objects.filter(mytweet__screen_name=sn).filter(mytweet__isnull=False)
+        print(len(sits))
+        for s in sits:
+            # print((s.mytweet_set.count()))
+            # print((s.mytweet_set.all()))
+            for t in s.mytweet_set.all():
+                print("\n")
+                print(t.text.encode("UTF-8"))
+        exit()
+
+
+ sdf = MyTweet.objects.all()
+        print(sdf)
+        exit()
+        sits = Situation.objects.filter(mytweet__isnull=False)
+        for s in sits:
+            # print((s.mytweet_set.count()))
+            # print((s.mytweet_set.all()))
+            for t in s.mytweet_set.all():
+                print("\n")
+                print(t.text.encode("UTF-8"))
+        exit()
+
+
+  Keyword.objects.create(word="er på stedet".encode("UTF-8"), category="Status")
+        Keyword.objects.create(word="melding om".encode("UTF-8"), category="Status")
+        Keyword.objects.create(word="er fremme".encode("UTF-8"), category="Status")
+        Keyword.objects.create(word="rapportert".encode("UTF-8"), category="Status")
+        Keyword.objects.create(word="pågrepet".encode("UTF-8"), category="Status")
+
+
+print(category + " for " + t.twitter_msg_id)
+                    print("keyword:")
+                    print(kw.word.encode("UTF-8"))
+                    print("in text:")
+                    print(t.text.encode("UTF-8"))
+                    if t.parent is not None:
+                        print("parent text:")
+                        print(t.parent.text.encode("UTF-8"))
+                    print("=============")
