@@ -4,6 +4,7 @@ from twep.models import MyTweet
 
 
 # An implementation of necessary tweepy functionality
+# Or is it?? It's just what I need is what it is
 # Is based on a user and their tweets.
 # Needs a twitter screen name (url name) when initialized
 class TweetSeeker:
@@ -28,6 +29,10 @@ class TweetSeeker:
         auth.set_access_token(keys['ACCESS_TOKEN'], keys['ACCESS_SECRET'])
         self.auth = auth
 
+    # get a single id'ed? ided? tweet from user by id. id is the thing here, and just one tweet.
+    def get_tweet(self, tweet_id):
+        return self.api.statuses_lookup(tweet_id)
+
     def get_newest_single(self):
         newest = self.api.user_timeline(screen_name=self.screen_name, count=1)
         for new in newest:
@@ -36,14 +41,14 @@ class TweetSeeker:
     def get_newest_num(self, count=200):
         return self.api.user_timeline(screen_name=self.screen_name, count=count)
 
+    # get tweets, but stop under max_id
     def get_tweets_under_id(self, max_id):
         return self.api.user_timeline(screen_name=self.screen_name, max_id=max_id, count=200)
 
-    def get_tweet(self, tweet_id):
-        return self.api.statuses_lookup(tweet_id)
-
-    def download_all_tweets(self):
+    # download tweets from user up to a limit. Higher limit means slow DB insert later on..
+    def download_many_tweets(self, limit=1000):
         all_tweets = []  # store tweets
+        print("Get many tweets, limit to %s" % limit)
         print("Get newest...")
         newest_tweets = self.get_newest_num(self.screen_name)  # fetch 200 newest
         all_tweets.extend(newest_tweets)  # add newest
@@ -55,30 +60,32 @@ class TweetSeeker:
             all_tweets.extend(newest_tweets)
             print(len(all_tweets))
             oldest = all_tweets[-1].id - 1
+            if len(all_tweets) > limit:
+                trimmed_tweets = all_tweets[:limit]
+                return trimmed_tweets
 
         return all_tweets
 
+    # makes models of tweets. if the tweet is a reply, first make a model of that tweet.
+    # TODO: reply_to as actual foreign key to another MyTweet object. Just a string for now.
     def make_model(self, tweets):
-        # print("Make model of num tweets %s" % len(tweets))
-        # modeled_tweets = []
+        gotten_or_created = []
         for t in tweets:
-            MyTweet.objects.get_or_create(
-                twitter_msg_id=t.id_str,
-                screen_name=self.screen_name,
-                text=t.text.encode("utf-8"),
-                reply_to=t.in_reply_to_status_id_str,
-                created_at=t.created_at,
+            exists = MyTweet.objects.filter(twitter_msg_id=t.id_str)
+            if len(exists) > 0:
+                # exit the loop
+                continue
+            if t.in_reply_to_status_id_str:
+                self.make_model(self.get_tweet(t.in_reply_to_status_id_str))
+            gotten_or_created.append(
+                MyTweet.objects.get_or_create(
+                    # this is used as the db primary key
+                    twitter_msg_id=t.id_str,
+                    screen_name=self.screen_name,
+                    text=t.text.encode("UTF-8"),
+                    # used to assign an object self-reference in models.
+                    reply_to_id_str=t.in_reply_to_status_id_str,
+                    created_at=t.created_at,
+                )
             )
-
-            # modeled_tweets.append(m)
-        # return modeled_tweets
-
-    def count_num_new(self, cur_newest_id):
-        nt = self.get_newest_num()
-        i = 0
-        for t in nt:
-            if t.id_str is cur_newest_id:
-                return i
-            else:
-                i += 1
-        return i
+        return gotten_or_created

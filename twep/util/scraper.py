@@ -15,23 +15,72 @@ class Scraper:
 
     keywords = None
 
-    def __init__(self):
+    screen_name = None
+
+    def __init__(self, screen_name):
         self.keywords = KEYWORDS[0]
+        self.screen_name = screen_name
+
+    def situate(self):
+        # parent null, child notnull
+        # the first part of a series
+        orphans_with_children = MyTweet.objects.filter(screen_name=self.screen_name)\
+            .filter(child__isnull=False)\
+            .filter(parent__isnull=True)\
+            .filter(scanned=False)
+
+        for oc in orphans_with_children:
+            s = Situation()
+            s.save()
+            s.mytweet_set.add(oc)
+            # print(oc.twitter_msg_id)
+            # print(oc.text)
+            children = MyTweet.get_all_children(oc)
+            # print(children)
+            for c in children:
+                s.mytweet_set.add(c)
+                s.mytweet_set.add()
+                # print(c.text)
+            s.save()
+            print(s.mytweet_set.all()[0].text)
+
+    # assigns parent and child to tweets
+    def set_reply_timeline(self):
+        not_scanned = MyTweet.objects.filter(screen_name=self.screen_name).filter(scanned=False)
+        are_replies = not_scanned.filter(reply_to_id_str__isnull=False)\
+            # .filter(parent__isnull=True)  # uncomment and append to not include those that have a timeline set. MAYBE
+        # keep it this way now for testing
+        for child in are_replies:
+            try:
+                parent = MyTweet.objects.get(twitter_msg_id=child.reply_to_id_str)
+                parent.child = child
+                parent.save()
+                child.parent = parent
+                child.save()
+                # print(child.text.encode("UTF-8"))
+                # print("is self-reply (@" + self.screen_name + ") to")
+                # print(parent.text.encode("UTF-8"))
+            except MyTweet.DoesNotExist:
+                # print("No parent for " + child.twitter_msg_id)
+                pass
 
     # figure out what is to be scanned for in a tweet
     # currently implemented:
-    #     danger
-    def scan(self, tweet_id, category=None):
-        tweet = MyTweet.objects.get(twitter_msg_id=tweet_id)
-        if category is None:
+    #     Jackity Shit
+    def scan(self, tweet_id, categories=None):
+        try:
+            tweet = MyTweet.objects.get(twitter_msg_id=tweet_id)
+        except MyTweet.DoesNotExist:
+            print("Tweet does not exist! Byebye")
+            return
+        if categories is None:
             print("scan for all")
             print("scan for all is not yet implemented!!")
             return
-        print("scan for " + category)
-        return {
-            'danger': self.scan_danger(tweet.text),
-            # 'is_reply': self.scan()
-        }[category]
+        res = []
+        for c in categories:
+            if c.upper() is 'DANGER':
+                res.append(self.scan_danger(tweet.text))
 
     # match a tweet to the list of spooky bad keywords
     def scan_danger(self, text):
@@ -43,4 +92,7 @@ class Scraper:
                 print("In text: ")
                 print(text)
                 found.append(dkw)
+        return found
+
+    def scan_location(self, text):
         pass

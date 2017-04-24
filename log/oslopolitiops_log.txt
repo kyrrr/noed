@@ -74,3 +74,17 @@ Match after 1 tweets
 
 2017-04-22:20-47-01
 DB up to date (only checking latest entry) oslopolitiops
+
+2017-04-23:19-15-01
+No entries in DB for oslopolitiops
+
+2017-04-23:19-48-31
+No entries in DB for oslopolitiops
+Will attempt to make 200 models.Could take a while or forever. Maybe not download all tweets..Done. Try MyTweet.objects.filter(screen_name='oslopolitiops')
+2017-04-23:19-50-07
+DB up to date (only checking latest entry) oslopolitiops
+
+2017-04-23:23-23-19
+No entries in DB for oslopolitiops
+Will attempt to make 200 models.Could take a while or forever. Maybe not download all tweets..
+Done. Try MyTweet.objects.filter(screen_name='oslopolitiops')
