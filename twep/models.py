@@ -35,6 +35,8 @@ class MyTweet(models.Model):
                 r.extend(_r)
         return r
 
+    def is_last_child(self):
+        return self.child is None and self.parent is not None
 
 class Situation(models.Model):
     REPORTED = 'RP'

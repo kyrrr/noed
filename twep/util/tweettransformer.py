@@ -1,16 +1,14 @@
-from twep.settings import KEYWORDS
+import twep.settings
 from twep.models import MyTweet, Keyword, Situation
 
 
 class TweetTransformer:
 
-    keywords = None
     screen_name = None
 
     # TODO: use booleans to guarantee an order to things? Meh
 
     def __init__(self, screen_name):
-        self.keywords = KEYWORDS[0]
         self.screen_name = screen_name
 
     # places tweets in a "situation" object, in the order they were tweeted
@@ -21,7 +19,7 @@ class TweetTransformer:
             .filter(child__isnull=False)\
             .filter(parent__isnull=True)\
             # .filter(situation__isnull=True)
-        print("Found %s" % len(orphans_with_children) + " base tweets for" + self.screen_name)
+        print("Found %s" % len(orphans_with_children) + " base tweets for " + self.screen_name)
         created = []
         for oc in orphans_with_children:
             exists = Situation.objects.filter(base_tweet=oc)
@@ -31,7 +29,7 @@ class TweetTransformer:
             else:
                 m = Situation.objects.create(base_tweet=oc)
                 created.append(m)
-            print("created %s" % len(m) + " situations for " + self.screen_name)
+        print("created %s" % len(created) + " new situations for " + self.screen_name)
         return created
 
     # assigns parent and child to tweets
@@ -63,3 +61,29 @@ class TweetTransformer:
                 if kw.word in t.text:
                     t.keyword.add(kw)
                     t.save()
+
+    # makes models of tweets. if the tweet is a reply, first make a model of that tweet.
+    # TODO: reply_to as actual foreign key to another MyTweet object. Just a string for now.
+    def make_model(self, tweets):
+        created = []
+        for t in tweets:
+            exists = MyTweet.objects.filter(twitter_msg_id=t.id_str)
+            if len(exists) > 0:
+                # exit the loop
+                continue
+            # if t.in_reply_to_status_id_str:
+                # even though the reference is just a string..
+                # print("Make parent first")
+                # self.make_model(self.get_tweet(t.in_reply_to_status_id_str))
+            m = MyTweet.objects.create(
+                # this is used as the db primary key
+                twitter_msg_id=t.id_str,
+                screen_name=self.screen_name,
+                text=t.text.encode("UTF-8"),
+                # used to assign an object self-reference in models.
+                reply_to_id_str=t.in_reply_to_status_id_str,
+                created_at=t.created_at,
+            )
+            print("Create " + m.twitter_msg_id)
+            created.append(m)
+        return created

@@ -1,31 +1,77 @@
 API_KEYS = [
     {
         'TWITTER': {
-                'CONSUMER_KEY': '8C8E7EhZQAXS6YJ2eeu2NSSmb',
-                'CONSUMER_SECRET': 'd4L7DGxHbZDlTm39E2UvWqrhZ8GbqnXTyMUrVo1ygxzruyi6fW',
-                'ACCESS_TOKEN': '55298054-VLQUlpDOX7vM1PT6XDGFg8ai4A71ltAONU1dM9YV2',
-                'ACCESS_SECRET': 'dJwD9Pw1gLA1biMSbHZASgmn0NoUjTd0ivK3Q1G8q83p4'
-        }
-    }
-]
-
-KEYWORDS = [
-    {
-        'DANGER': {
-            'røykutvikling', 'knivstukket', 'kniv', 'våpen', 'brann', 'stjålet', 'saknet', 'savnet', 'skudd'
-        },
-        'LOCATION': {
-            'veien', 'gate', 'vei'
+            'CONSUMER_KEY': 'GET',
+            'CONSUMER_SECRET': 'YOUR',
+            'ACCESS_TOKEN': 'OWN',
+            'ACCESS_SECRET': 'SHIT'
         }
     }
 ]
 
 DOG = \
-"""\
+    """
                ;~~,__
    :-....,-------'`-'._.'
     `-,,,  ,       ,'~~'
         ; ,'~.__; /
         :|      :|
         `-'     `-'
-"""
+    """
+
+EAGLE = \
+    """
+                        _--_
+                       /   -)
+                   ___/___|___
+      ____-----=~~///|     ||||~~~==-----_____
+    //~////////////~/|     |//|||||\\\\\\\\\\\\\\\\\\\\\\\\\\
+   ///////////////////|   |///////|\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+ /////~~~~~~~~~~~~~~~\ |.||/~~~~~~~~~~~~~~~~~`\\\\\\\\\\
+//~                  /\\\\|\\\\                      ~\\\\
+                    ///W^\W\\
+                   ////|||\\\\\\
+                   ~~~~~~~~~~
+    """
+
+FLY = \
+   '''
+               ooo"
+             $$
+             $$
+             $$                                 ooooo"""$"""o
+             $$o                             o""  $    o"    $
+ oo$          $$oo                      oo"""    o"   o"     $
+  "$o          ""$$$o                oo"     oo"""""""""""ooo"
+   "$o            ""$$o           oo"     oo"               $
+    ""$$$$ooo        "$$o      oo"     oo"                 $
+          """$o        "$$ooo""     oo"     o$"""$"""ooo"
+              "$o      o$$"oo"  oo""    oo""      $    o"
+        oo      $o$$$""o"o"oo$$"    oo""oooo    oo"  o"          o
+     o$$$$$ o$""$$"  " o"o$oo"  oo""        "o$"  oo$$$$$$$$$$$$$
+    $$$$$$"$"o$$o$$$$$ o"o$ oo""               $o$o              "
+   o$$$$$$"$o$$$$""""""$$$$oo$oo o          oo$$$$$$oo
+"o $$$$$$$o$$$$$$$$$$$o$$$$$$$$$$$$$ooooo$$$$$$$$$$$$$o
+  "$$$$$$$ $$$$$$$$$$$$ ""$"$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+   o$ooo$$ $$$$$$$$$$$$  "$"$o$$$$$$$$$$$$$$$$$$$$$$$$$$
+ o"$$$$$$$o$$$$$$$$$$$$o$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+"  $$$$$$$ $$$$$$""""" $$$$$$$$$$$$$"""""$$$$$$$$$$$$$"
+    $$$$$$"$"$$$$$$$$$o$$$$""$"" "          ""$$$$$$""
+    "$$$$$$"$o""o$"""" "o"$ ""oo               $"$"              o
+      ""$$"  """$$$oo" "o"$""o  ""oo        o"$o  ""$$$$$$$$$$$$$
+               o$ """"$$o"o""$$o    ""oo""""    ""o  "o          "
+             o$"       "$$$$"o  ""oo    ""oo      $    "o
+      oooo$$$"        o$$" ""oo     ""o     "$ooo$ooooo"""o
+    $$""""          o$$"       ""o     ""o                 $
+   $$            oo$$"            ""o     ""o               $
+ o$$           o$$""                 ""o     ""ooooooooooo"""o
+   "          $$$                       ""ooo    "o   "o     $
+              $$                             "oo  $    "o    $
+              $$                                """""ooo$ooo"
+              $$
+             o$$
+                "
+
+   '''
+
+ANIMALS = {'DOG': DOG, 'EAGLE': EAGLE, 'FLY': FLY}

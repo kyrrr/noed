@@ -75,3 +75,14 @@ print(category + " for " + t.twitter_msg_id)
     #     'slukket', 'pågrepet', 'i arrest', 'tatt vare på']
     # preposition_keywords = ['i', 'på']
     # street_keywords = ['veien', 'gate']
+
+
+randy = randint(0, 3)
+                if randy == 3:
+                    # everyone loves dogs
+                    print("Enjoy this good dog while you wait for new tweets")
+                    print(self.animals['DOG'])
+                elif randy == 2:
+                    print("Enjoy this proud eagle while you wait for new tweets ")
+                    print(self.animals['EAGLE'])
+                return
