@@ -13,8 +13,7 @@ class Command(BaseCommand):
         parser.add_argument('screen_name', type=str)
 
     def handle(self, *args, **options):
-        now = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-        print(now)
+        print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
         sn = options['screen_name']
         t = TweetSeeker(screen_name=sn)
         tr = TweetTransformer(screen_name=sn)
@@ -69,6 +68,5 @@ class Command(BaseCommand):
 
                 # logging:
                 print("%s created" % len(created))
-        else:
-            print("whats down here eh")
+                return
             return
