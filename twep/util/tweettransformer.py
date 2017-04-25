@@ -61,7 +61,7 @@ class TweetTransformer:
         print("search for " + category)
         for t in tweets:
             for kw in keywords:
-                if kw.word in t.text:
+                if kw.word.upper() in t.text.upper():
                     t.keyword.add(kw)
                     t.save()
 

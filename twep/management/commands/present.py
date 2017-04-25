@@ -14,4 +14,25 @@ class Command(BaseCommand):
         parser.add_argument('screen_name', type=str)
 
     def handle(self, *args, **options):
-        pass
+        sn = options['screen_name']
+        sits = Situation.objects.filter(base_tweet__screen_name=sn)
+        for sit in sits:
+            bt = sit.base_tweet
+            tweets = bt.get_all_children(include_self=False)
+            print("\n")
+            print("====" + bt.twitter_msg_id + "====")
+            print("First text:")
+            print(bt.text.encode("UTF-8"))
+            if bt.keyword.all().count() > 0:
+                print("With keywords:")
+                for kw in bt.keyword.all():
+                    print(kw.word.encode("UTF-8"))
+            print("With children:")
+            for t in tweets:
+                print(t.text.encode("UTF-8"))
+                if t.keyword.all().count() > 0:
+                    print("child keywords:")
+                    for ckw in t.keyword.all():
+                        print(ckw.word.encode("UTF-8"))
+        print("\n")
+

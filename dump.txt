@@ -33,11 +33,15 @@ sits = Situation.objects.filter(mytweet__isnull=False)
         exit()
 
 
-      Keyword.objects.create(word="er på stedet".encode("UTF-8"), category="Status")
+Keyword.objects.create(word="er på stedet".encode("UTF-8"), category="Status")
+Keyword.objects.create(word="er på vei".encode("UTF-8"), category="Status")
         Keyword.objects.create(word="melding om".encode("UTF-8"), category="Status")
         Keyword.objects.create(word="er fremme".encode("UTF-8"), category="Status")
         Keyword.objects.create(word="rapportert".encode("UTF-8"), category="Status")
         Keyword.objects.create(word="pågrepet".encode("UTF-8"), category="Status")
+        Keyword.objects.create(word="i arrest".encode("UTF-8"), category="Status")
+
+
 
         Keyword.objects.create(word="gate".encode("UTF-8"), category="Location")
         Keyword.objects.create(word="gata".encode("UTF-8"), category="Location")
@@ -86,3 +90,48 @@ randy = randint(0, 3)
                     print("Enjoy this proud eagle while you wait for new tweets ")
                     print(self.animals['EAGLE'])
                 return
+
+
+                import datetime
+from django.core.management.base import BaseCommand
+from twep.models import MyTweet
+from twep.util.tweetseeker import TweetSeeker
+from twep.util.tweettransformer import TweetTransformer
+
+///////
+class Command(BaseCommand):
+
+    help = 'Checks for new tweets by user and updates data'
+
+    def add_arguments(self, parser):
+        parser.add_argument('screen_name', type=str)
+
+    def handle(self, *args, **options):
+        print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
+        sn = options['screen_name']
+        t = TweetSeeker(screen_name=sn)
+        tr = TweetTransformer(screen_name=sn)
+        try:
+            latest_stored = MyTweet.objects.filter(screen_name=sn).latest('created_at')
+        except MyTweet.DoesNotExist:
+            at = t.get_num_newest_tweets(limit=200)
+            tr.make_model(at)
+            return
+        if latest_stored is not None:
+            n = t.get_newest_single()
+            if n.id_str == latest_stored.twitter_msg_id:
+                return
+            else:
+                newest_tweets = t.get_newest_num()
+                i = 0
+                for nt in newest_tweets:
+                    if nt.id_str == latest_stored.twitter_msg_id:
+                        break
+                    else:
+                        i += 1
+                if i > 200:
+                    i = 200
+                tr.make_model(t.get_newest_num(i))
+                return
+        return
+///////

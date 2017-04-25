@@ -18,7 +18,7 @@ class Command(BaseCommand):
         t = TweetSeeker(screen_name=sn)
         tr = TweetTransformer(screen_name=sn)
         try:
-            # latest_stored = s.reverse()[0]
+            # get tweet with latest created date
             latest_stored = MyTweet.objects.filter(screen_name=sn).latest('created_at')
         except MyTweet.DoesNotExist:
             # log:
@@ -42,6 +42,8 @@ class Command(BaseCommand):
             # does its id match our latest stored twitter message id?
             if n.id_str == latest_stored.twitter_msg_id:
                 print("DB up to date (only checking latest entry) for " + sn)
+                print(n.id_str == latest_stored.twitter_msg_id)
+                return
             else:
                 # the ids do not match, meaning we know that we are at least 1 tweet behind
                 print(n.id_str + " != " + latest_stored.twitter_msg_id)
@@ -69,4 +71,4 @@ class Command(BaseCommand):
                 # logging:
                 print("%s created" % len(created))
                 return
-            return
+
