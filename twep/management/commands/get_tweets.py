@@ -17,10 +17,10 @@ class Command(BaseCommand):
         sn = options['screen_name']
         t = TweetSeeker(screen_name=sn)
         tr = TweetTransformer(screen_name=sn)
-        s = MyTweet.objects.filter(screen_name=sn).order_by('twitter_msg_id')
         try:
-            latest_stored = s.reverse()[0]
-        except IndexError:
+            # latest_stored = s.reverse()[0]
+            latest_stored = MyTweet.objects.filter(screen_name=sn).latest('created_at')
+        except MyTweet.DoesNotExist:
             # log:
             print("No entries in DB for " + sn)
             print("Will download tweets")
@@ -29,10 +29,10 @@ class Command(BaseCommand):
             print("Will attempt to make %s models." % len(at))
             print("Could take a while or forever.")
             start = datetime.datetime.now()
-            # store the tweets
+            # store the tweets and time it
             tr.make_model(at)
             end = datetime.datetime.now()
-            print("Done in %s somethings" % (end - start))
+            print("Created %s MyTweets in %s somethings" % (len(at), end - start))
             # log:
             print("Try MyTweet.objects.filter(screen_name='" + sn + "')")
             return

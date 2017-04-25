@@ -33,7 +33,7 @@ sits = Situation.objects.filter(mytweet__isnull=False)
         exit()
 
 
-  Keyword.objects.create(word="er på stedet".encode("UTF-8"), category="Status")
+      Keyword.objects.create(word="er på stedet".encode("UTF-8"), category="Status")
         Keyword.objects.create(word="melding om".encode("UTF-8"), category="Status")
         Keyword.objects.create(word="er fremme".encode("UTF-8"), category="Status")
         Keyword.objects.create(word="rapportert".encode("UTF-8"), category="Status")

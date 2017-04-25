@@ -69,6 +69,7 @@ class TweetSeeker:
                 print("LIMIT REACHED")
                 trimmed_tweets = all_tweets[:limit]
                 print("Downloaded %s tweets" % len(all_tweets))
+                print("Returning %s tweets" % len(trimmed_tweets))
                 return trimmed_tweets
         return all_tweets  # i dont think this will kick in when there is a limit with a default BUT IT DO
 

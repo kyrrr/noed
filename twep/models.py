@@ -1,6 +1,4 @@
 from django.db import models
-import datetime
-from django.utils import timezone
 
 
 # a model describing a tweet from emergency responders idfk
@@ -9,7 +7,7 @@ class MyTweet(models.Model):
     # twitter msg id, used as primary key
     twitter_msg_id = models.CharField(max_length=20, unique=True, primary_key=True)
     # string timestamp
-    created_at = models.CharField(max_length=200)  # TODO: datetime
+    created_at = models.DateTimeField(null=True, default=None)
     # twitter screen name (after / in the user page url)
     screen_name = models.CharField(max_length=200)
     text = models.TextField()
@@ -37,6 +35,7 @@ class MyTweet(models.Model):
 
     def is_last_child(self):
         return self.child is None and self.parent is not None
+
 
 class Situation(models.Model):
     REPORTED = 'RP'
@@ -89,6 +88,3 @@ class Keyword(models.Model):
 
     def __str__(self):
         return str(self.id)
-
-    class Meta:
-        ordering = ('word',)
