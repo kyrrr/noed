@@ -22,6 +22,7 @@ class Command(BaseCommand):
         tr = tweettransformer.TweetTransformer(sn)
         tr.set_parent_child()
         tr.make_timeline()
+        # tr.scan('crime')
         for cat in self.kws:
             tr.scan(cat)
 

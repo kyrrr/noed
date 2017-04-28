@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="adaa4329-7c18-4917-b470-fa74e4f30bca" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foo.txt" afterPath="$PROJECT_DIR$/foo.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/management/commands/present.py" afterPath="$PROJECT_DIR$/twep/management/commands/present.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/management/commands/scan.py" afterPath="$PROJECT_DIR$/twep/management/commands/scan.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/models.py" afterPath="$PROJECT_DIR$/twep/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/util/tweettransformer.py" afterPath="$PROJECT_DIR$/twep/util/tweettransformer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/keywords.py" afterPath="$PROJECT_DIR$/twep/keywords.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,33 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="get.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/twep/management/commands/get.py">
+      <file leaf-file-name="foo.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/foo.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="47" column="47" lean-forward="false" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scan.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/twep/management/commands/scan.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="21" column="50" lean-forward="false" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
-              <folding>
-                <element signature="e#0#51#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tweetseeker.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/twep/util/tweetseeker.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="62" column="24" lean-forward="true" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+            <state relative-caret-position="285">
+              <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -56,60 +31,18 @@
       <file leaf-file-name="present.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twep/management/commands/present.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="29" column="58" lean-forward="false" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+            <state relative-caret-position="390">
+              <caret line="27" column="45" lean-forward="true" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tweettransformer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/twep/util/tweettransformer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="58" column="56" lean-forward="false" selection-start-line="58" selection-start-column="56" selection-end-line="58" selection-end-column="56" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="keywords.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="keywords.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/twep/keywords.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="20" column="74" lean-forward="false" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/twep/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cron_example.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cron_example.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="foo.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/foo.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
-              <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+            <state relative-caret-position="123">
+              <caret line="23" column="78" lean-forward="false" selection-start-line="23" selection-start-column="76" selection-end-line="23" selection-end-column="78" />
               <folding />
             </state>
           </provider>
@@ -126,20 +59,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>#</find>
-      <find>l</find>
-      <find>len(ms)</find>
-      <find>new models</find>
-      <find>reply</find>
-      <find>reply_to</find>
-      <find>exit</find>
-      <find>852661744384303105</find>
-      <find>856499238724927488</find>
-      <find>make_mo</find>
-      <find>bas</find>
-      <find>bas</find>
-      <find>base</find>
-      <find>base t</find>
       <find>base twe</find>
       <find>actor</find>
       <find>brannves</find>
@@ -151,6 +70,25 @@
       <find>=</find>
       <find>:</find>
       <find>child-&gt;</find>
+      <find>anmeldt</find>
+      <find>påkjø</find>
+      <find>slåss</find>
+      <find>åpen i</find>
+      <find>personska</find>
+      <find>innbrudd</find>
+      <find>perso</find>
+      <find>fraran</find>
+      <find>beslag</find>
+      <find>husbr</find>
+      <find>normal fer</find>
+      <find>diriget</find>
+      <find>ryddet</find>
+      <find>forlatt</find>
+      <find>trafikkuh</find>
+      <find>oppretter</find>
+      <find>førerkortbes</find>
+      <find>ran</find>
+      <find>ranet</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -191,7 +129,6 @@
         <option value="$PROJECT_DIR$/twep/util/tweetseeker.py" />
         <option value="$PROJECT_DIR$/twep/management/commands/get_tweets.py" />
         <option value="$PROJECT_DIR$/dump.txt" />
-        <option value="$PROJECT_DIR$/twep/keywords.py" />
         <option value="$PROJECT_DIR$/twep/util/interactive/yes_or_no.py" />
         <option value="$PROJECT_DIR$/twep/util/interactive/interactions.py" />
         <option value="$PROJECT_DIR$/twep/util/interactive.py" />
@@ -203,6 +140,7 @@
         <option value="$PROJECT_DIR$/twep/management/commands/scan.py" />
         <option value="$PROJECT_DIR$/twep/util/tweettransformer.py" />
         <option value="$PROJECT_DIR$/twep/management/commands/present.py" />
+        <option value="$PROJECT_DIR$/twep/keywords.py" />
       </list>
     </option>
   </component>
@@ -854,14 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twep/util/tweetseeker.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="62" column="24" lean-forward="true" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/twep/management/commands/fillkw.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="354">
@@ -880,9 +810,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/cron_example.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/twep/management/commands/get.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
+        <state relative-caret-position="630">
           <caret line="47" column="47" lean-forward="false" selection-start-line="47" selection-start-column="47" selection-end-line="47" selection-end-column="47" />
           <folding />
         </state>
@@ -890,26 +828,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/twep/util/tweettransformer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="58" column="56" lean-forward="false" selection-start-line="58" selection-start-column="56" selection-end-line="58" selection-end-column="56" />
+        <state relative-caret-position="291">
+          <caret line="66" column="62" lean-forward="false" selection-start-line="66" selection-start-column="62" selection-end-line="66" selection-end-column="62" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twep/keywords.py">
+    <entry file="file://$PROJECT_DIR$/twep/util/tweetseeker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="20" column="74" lean-forward="false" selection-start-line="20" selection-start-column="74" selection-end-line="20" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cron_example.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="36">
+          <caret line="62" column="24" lean-forward="false" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -924,18 +854,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twep/management/commands/present.py">
+    <entry file="file://$PROJECT_DIR$/foo.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="29" column="58" lean-forward="false" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+        <state relative-caret-position="285">
+          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/foo.txt">
+    <entry file="file://$PROJECT_DIR$/twep/management/commands/present.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        <state relative-caret-position="390">
+          <caret line="27" column="45" lean-forward="true" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twep/keywords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="23" column="78" lean-forward="false" selection-start-line="23" selection-start-column="76" selection-end-line="23" selection-end-column="78" />
           <folding />
         </state>
       </provider>
