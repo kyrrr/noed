@@ -18,6 +18,7 @@ class Command(BaseCommand):
 
     def handle(self, *args, **options):
         sn = options['screen_name']
+        print("Scan tweets by " + sn)
         tr = tweettransformer.TweetTransformer(sn)
         tr.set_parent_child()
         tr.make_timeline()

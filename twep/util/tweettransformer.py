@@ -53,17 +53,18 @@ class TweetTransformer:
             except MyTweet.DoesNotExist:
                 # print("No parent for " + child.twitter_msg_id)
                 pass
-        print("%s child->parent " % i + type(MyTweet).__name__ + " relationships set")
+        print("%s child->parent " % i + "MyTweet relationships set")
 
     def location_scan(self, tweets):
-        f = KeywordCategory.objects.filter(name='location')
-        print(f)
+        f = KeywordCategory.objects.get(name='location')
+        print(f.keyword_set)
         pass
 
     # match tweets to keywords
     def scan(self, keyword_category_str):
         # get MyTweets by the user
         tweets = MyTweet.objects.filter(screen_name=self.screen_name)  # .filter(twitter_msg_id="852661744384303105")
+        # print("Tweets without keywords: %s" % tweets.count())
         # get keywords
         if keyword_category_str == 'location':  # TODO: CONSTS!!
             self.location_scan(tweets)
@@ -75,10 +76,10 @@ class TweetTransformer:
                 for t in tweets:
                     # print(t.text.encode("UTF-8"))
                     for kw in keywords:
-                        if kw.word in t.text:
+                        if kw.word.upper() in t.text.upper():
                             t.keyword_set.add(kw)
                             t.save()
-                            print("Saving keyword:")
+                            print(t.twitter_msg_id + " has keyword: ")
                             print(kw.word.encode("UTF-8"))
             except KeywordCategory.DoesNotExist:
                 print("No such category")

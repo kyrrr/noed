@@ -18,12 +18,17 @@ class Command(BaseCommand):
         sits = Situation.objects.filter(base_tweet__screen_name=sn)
         for sit in sits:
             bt = sit.base_tweet
-            tweets = bt.get_all_children(include_self=False)
+            children = bt.get_all_children(include_self=False)
             print("\n")
             print("====" + bt.twitter_msg_id + "====")
-            print("First text:")
             print(bt.text.encode("UTF-8"))
-            for kw in bt.keyword_set:
+            for kw in bt.keyword_set.all():
                 print(kw.word.encode("UTF-8"))
+            for c in children:
+                print(c.text.encode("UTF-8"))
+                for ckw in c.keyword_set.all():
+                    print(ckw.word.encode("UTF-8"))
+
+            print("===" + "/" + bt.twitter_msg_id + "====")
 
 

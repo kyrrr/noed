@@ -78,4 +78,4 @@ class Keyword(models.Model):
     tweets = models.ManyToManyField('MyTweet', default=None)
 
     def __str__(self):
-        return str(self.word)
+        return self.word
