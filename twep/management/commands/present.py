@@ -3,7 +3,7 @@ from twep.models import MyTweet, Situation, Keyword
 
 
 # scans through MyTweets by screen_username and formats data
-# intention is to use as cronjob in conjunction with getting new tweets, see the command get_tweets.py
+# intention is to use as cronjob in conjunction with getting new tweets, see the command get.py
 # TODO: make sure no race conditions??
 
 class Command(BaseCommand):

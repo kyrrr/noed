@@ -33,19 +33,16 @@ sits = Situation.objects.filter(mytweet__isnull=False)
         exit()
 
 
-Keyword.objects.create(word="er på stedet".encode("UTF-8"), category="Status")
-Keyword.objects.create(word="er på vei".encode("UTF-8"), category="Status")
+        Keyword.objects.create(word="er på stedet".encode("UTF-8"), category="Status")
+        Keyword.objects.create(word="er på vei".encode("UTF-8"), category="Status")
         Keyword.objects.create(word="melding om".encode("UTF-8"), category="Status")
         Keyword.objects.create(word="er fremme".encode("UTF-8"), category="Status")
         Keyword.objects.create(word="rapportert".encode("UTF-8"), category="Status")
         Keyword.objects.create(word="pågrepet".encode("UTF-8"), category="Status")
         Keyword.objects.create(word="i arrest".encode("UTF-8"), category="Status")
 
-
-
         Keyword.objects.create(word="gate".encode("UTF-8"), category="Location")
         Keyword.objects.create(word="gata".encode("UTF-8"), category="Location")
-        Keyword.objects.create(word="vei".encode("UTF-8"), category="Location")
         Keyword.objects.create(word="veien".encode("UTF-8"), category="Location")
         Keyword.objects.create(word="vegen".encode("UTF-8"), category="Location")
         Keyword.objects.create(word="skole".encode("UTF-8"), category="Location")

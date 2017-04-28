@@ -15,7 +15,6 @@ class MyTweet(models.Model):
     reply_to_id_str = models.CharField(max_length=20, null=True, default=None)
     parent = models.ForeignKey('self', null=True, default=None, related_name='+')
     child = models.ForeignKey('self', null=True, default=None)
-    keyword = models.ManyToManyField('Keyword', default=None)
 
     def __str__(self):
         # prints the msg id when the object itself is print()-ed, etc
@@ -66,25 +65,17 @@ class Situation(models.Model):
         return str(self.id)
 
 
-class Keyword(models.Model):
-    ACTOR = 'A'
-    VIOLATION = 'V'
-    DANGER = 'D'
-    LOCATION = 'L'
-    STATUS = 'S'
-    HAPPY = 'H'
-    UNKNOWN = 'U'
-    CATEGORY_CHOICES = (
-        (VIOLATION, 'Violation'),
-        (DANGER, 'Danger'),
-        (LOCATION, 'Location'),
-        (STATUS, 'Status'),
-        (HAPPY, 'Happy'),
-        (ACTOR, 'Actor'),
-        (UNKNOWN, 'Unknown')
-    )
-    word = models.CharField(max_length=200)
-    category = models.CharField(max_length=200, choices=CATEGORY_CHOICES, default=UNKNOWN)
+class KeywordCategory(models.Model):
+    name = models.CharField(max_length=200)
 
     def __str__(self):
-        return str(self.id)
+        return self.name
+
+
+class Keyword(models.Model):
+    word = models.CharField(max_length=200)
+    category = models.ForeignKey('KeywordCategory', null=True, default=None)
+    tweets = models.ManyToManyField('MyTweet', default=None)
+
+    def __str__(self):
+        return str(self.word)

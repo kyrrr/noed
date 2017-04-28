@@ -3,11 +3,13 @@ from django.core.management.base import BaseCommand
 from twep.models import MyTweet
 from twep.util.tweetseeker import TweetSeeker
 from twep.util.tweettransformer import TweetTransformer
-
+import twep.settings
 
 class Command(BaseCommand):
 
     help = 'Checks for new tweets by user and updates data'
+    get_no_more_than = 1000
+    colors = twep.settings.COLORS
 
     def add_arguments(self, parser):
         parser.add_argument('screen_name', type=str)
@@ -15,8 +17,8 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))
         sn = options['screen_name']
-        t = TweetSeeker(screen_name=sn)
-        tr = TweetTransformer(screen_name=sn)
+        seeker = TweetSeeker(screen_name=sn)
+        trans = TweetTransformer(screen_name=sn)
         try:
             # get tweet with latest created date
             latest_stored = MyTweet.objects.filter(screen_name=sn).latest('created_at')
@@ -25,50 +27,40 @@ class Command(BaseCommand):
             print("No entries in DB for " + sn)
             print("Will download tweets")
             # should be in a multiple of 200, which is what the api gets per request. This can be changed with MATH!!
-            at = t.get_num_newest_tweets(limit=200)
+            at = seeker.get_num_newest_tweets(limit=self.get_no_more_than)
             print("Will attempt to make %s models." % len(at))
             print("Could take a while or forever.")
             start = datetime.datetime.now()
             # store the tweets and time it
-            tr.make_model(at)
+            trans.make_model(at)
             end = datetime.datetime.now()
-            print("Created %s MyTweets in %s somethings" % (len(at), end - start))
+            print(end - start)
             # log:
             print("Try MyTweet.objects.filter(screen_name='" + sn + "')")
             return
         if latest_stored is not None:
             # fetch the latest tweet by the username from internet
-            n = t.get_newest_single()
+            n = seeker.get_newest_single()
             # does its id match our latest stored twitter message id?
             if n.id_str == latest_stored.twitter_msg_id:
-                print("DB up to date (only checking latest entry) for " + sn)
-                print(n.id_str == latest_stored.twitter_msg_id)
+                print(self.colors['GREEN'] + n.id_str + "=" + latest_stored.twitter_msg_id + self.colors['END'])
+                print(self.colors['BLUE'] + "DB up to date (only checking latest entry) for " + sn + self.colors['END'])
                 return
             else:
                 # the ids do not match, meaning we know that we are at least 1 tweet behind
                 print(n.id_str + " != " + latest_stored.twitter_msg_id)
                 print("DB not up to date for " + sn)
-                # get the two hundred newest
-                newest_tweets = t.get_newest_num()
-                i = 0
-                # compare stored ids to downloaded ids. how far back (i) do we have to go find the id?
-                for nt in newest_tweets:
-                    if nt.id_str == latest_stored.twitter_msg_id:
-                        print("DB is %s tweets behind" % i)
-                        break
-                    else:
-                        i += 1
-                # download i tweets. Max is 200.
-                # Could iterate in chunks of 200 but the database insert/transaction is REALLY. REALLY slow.
-                # are tweets that old interesting? could be losing connection
-                # TODO: Update from sqlite to other db driver or w/e?
-                # so keep at 200 for now
-                if i > 200:
-                    print("More than two hundred behind. Get just 200 newest for now *cough, cough*.")
-                    i = 200
-                created = tr.make_model(t.get_newest_num(i))
+
+                # how far behind is the db?
+                num_behind = seeker.get_num_new_since_id(latest_stored.twitter_msg_id)
+                # don't want too many tweets
+                if num_behind > self.get_no_more_than:
+                    print("Very far behind. Get just %s newest for now *cough, cough*." % self.get_no_more_than)
+                    num_behind = self.get_no_more_than
+                created = trans.make_model(seeker.get_newest_num(num_behind))
 
                 # logging:
                 print("%s created" % len(created))
+                print('try "python manage.py scan ' + sn + '"')
                 return
 

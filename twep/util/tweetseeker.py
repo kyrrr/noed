@@ -2,11 +2,14 @@ import tweepy
 from twep import settings
 from twep.models import MyTweet
 
-
 # An implementation of necessary tweepy functionality
 # Or is it?? It's just what I need is what it is
 # Is based on a user and their tweets.
+# Uses keys from settings.py when initialized
+# Gets tweets in a lot of ways
 # Needs a twitter screen name (url name) when initialized
+
+
 class TweetSeeker:
 
     # holds an OAuth object
@@ -49,6 +52,16 @@ class TweetSeeker:
     def get_tweets_under_id(self, max_id):
         print("Get tweets up to id %s" % max_id + " for " + self.screen_name)
         return self.api.user_timeline(screen_name=self.screen_name, max_id=max_id, count=200)
+
+    def get_num_new_since_id(self, latest_stored_id, look_back=200):
+        # 200!!! never forget it's just 200
+        newest_tweets = self.get_num_newest_tweets(look_back)
+        # compare stored ids to downloaded ids. how far back (i) do we have to go find the id?
+        for i, nt in enumerate(newest_tweets):
+            if nt.id_str == latest_stored_id:
+                print("DB is %s tweets behind" % i)
+                return i
+        pass
 
     # download tweets from user up to a limit. Higher limit means slow DB insert later on..
     def get_num_newest_tweets(self, limit):
