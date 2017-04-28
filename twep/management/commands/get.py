@@ -5,6 +5,7 @@ from twep.util.tweetseeker import TweetSeeker
 from twep.util.tweettransformer import TweetTransformer
 import twep.settings
 
+
 class Command(BaseCommand):
 
     help = 'Checks for new tweets by user and updates data'

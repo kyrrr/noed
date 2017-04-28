@@ -23,16 +23,7 @@ class Command(BaseCommand):
             print("====" + bt.twitter_msg_id + "====")
             print("First text:")
             print(bt.text.encode("UTF-8"))
-            if bt.keyword.all().count() > 0:
-                print("With keywords:")
-                for kw in bt.keyword.all():
-                    print(kw.word.encode("UTF-8"))
-            print("With children:")
-            for t in tweets:
-                print(t.text.encode("UTF-8"))
-                if t.keyword.all().count() > 0:
-                    print("child keywords:")
-                    for ckw in t.keyword.all():
-                        print(ckw.word.encode("UTF-8"))
-        print("\n")
+            for kw in bt.keyword_set:
+                print(kw.word.encode("UTF-8"))
+
 
