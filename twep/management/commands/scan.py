@@ -21,7 +21,7 @@ class Command(BaseCommand):
         print("Scan tweets by " + sn)
         tr = tweettransformer.TweetTransformer(sn)
         tr.set_parent_child()
-        tr.make_timeline()
+        tr.make_situation()
         # tr.scan('crime')
         for cat in self.kws:
             tr.scan(cat)

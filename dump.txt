@@ -136,4 +136,19 @@ class Command(BaseCommand):
                 tr.make_model(t.get_newest_num(i))
                 return
         return
+
+        print("\n")
+            print("====" + bt.twitter_msg_id + "====")
+            print(bt.text.encode("UTF-8"))
+            for kw in bt.keyword_set.all():
+                print(kw.word.encode("UTF-8"))
+            for c in children:
+                print(c.text.encode("UTF-8"))
+                for ckw in c.keyword_set.all():
+                    print(ckw.word.encode("UTF-8"))
+                    f = KeywordCategory.objects.get(keyword=ckw)
+                    print(f)
+                    # SOMe shit about counting categories
+
+            print("===" + "/" + bt.twitter_msg_id + "====")
 ///////

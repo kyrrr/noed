@@ -1,4 +1,5 @@
 import time
+import re
 from twep.models import MyTweet, Keyword, KeywordCategory, Situation
 
 
@@ -15,24 +16,25 @@ class TweetTransformer:
         return MyTweet.objects.filter(screen_name=self.screen_name).latest('created_at')
 
     # places tweets in a "situation" object, in the order they were tweeted
-    def make_timeline(self):
-        # parent null, child notnull
-        # the first part of a series
-        orphans_with_children = MyTweet.objects.filter(screen_name=self.screen_name)\
-            .filter(child__isnull=False)\
-            .filter(parent__isnull=True)
-        print("Found %s" % orphans_with_children.count() + " base tweets for " + self.screen_name)
-        created = []
-        for oc in orphans_with_children:
-            exists = Situation.objects.filter(base_tweet=oc).count()
-            if exists > 0:
-                # print("situation based on " + oc.twitter_msg_id + " exists")
-                continue
-            else:
-                Situation.objects.create(base_tweet=oc)
-                m = Situation.objects.get(base_tweet=oc)
-                created.append(m)
+    # also picks up single tweets BAD IDEA
+    def make_situation(self):
+        user_tweets = MyTweet.objects.filter(screen_name=self.screen_name)
+        # orphans_with_children = MyTweet.objects.filter(screen_name=self.screen_name)\
+            # .filter(child__isnull=False)\
+            # .filter(parent__isnull=True)
+        # print("Found %s" % orphans_with_children.count() + " base tweets for " + self.screen_name)
+        created = {}
+        for ut in user_tweets:
+            if MyTweet.is_orphan_with_child(ut) or MyTweet.is_orphan(ut):
+                try:
+                    Situation.objects.get(base_tweet=ut)
+                except Situation.DoesNotExist:
+                    s = Situation.objects.create(screen_name=ut.screen_name, base_tweet=ut)
+                    c = MyTweet.get_all_children(ut, include_self=False)
+                    s.children = c
+                    created[s.id] = s
         print("created %s" % len(created) + " new situations for " + self.screen_name)
+        exit()
         return created
 
     # assigns parent and child to tweets
@@ -76,13 +78,14 @@ class TweetTransformer:
                 for t in tweets:
                     # print(t.text.encode("UTF-8"))
                     for kw in keywords:
+                        # search = re.search('(\s*)(kw)([,.!?\s])', t.text, re.IGNORECASE)
                         if kw.word.upper() in t.text.upper():
                             t.keyword_set.add(kw)
                             t.save()
                             print(t.twitter_msg_id + " has keyword: ")
                             print(kw.word.encode("UTF-8"))
             except KeywordCategory.DoesNotExist:
-                print("No such category")
+                print("No such category: " + keyword_category_str)
 
     # makes models of tweets. if the tweet is a reply, first make a model of that tweet.
     # TODO: reply_to as actual foreign key to another MyTweet object. Just a string for now.

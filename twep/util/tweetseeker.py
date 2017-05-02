@@ -54,7 +54,7 @@ class TweetSeeker:
         return self.api.user_timeline(screen_name=self.screen_name, max_id=max_id, count=200)
 
     def get_num_new_since_id(self, latest_stored_id, look_back=200):
-        # 200!!! never forget it's just 200
+        # 200!!! never forget it's just 200 at a time
         newest_tweets = self.get_num_newest_tweets(look_back)
         # compare stored ids to downloaded ids. how far back (i) do we have to go find the id?
         for i, nt in enumerate(newest_tweets):
@@ -64,6 +64,7 @@ class TweetSeeker:
         pass
 
     # download tweets from user up to a limit. Higher limit means slow DB insert later on..
+    # TODO: is sqlite bad?
     def get_num_newest_tweets(self, limit):
         all_tweets = []  # store tweets
         print("Get many tweets, limit to %s" % limit)
@@ -79,7 +80,7 @@ class TweetSeeker:
             # print(len(all_tweets))
             oldest = all_tweets[-1].id - 1
             if len(all_tweets) > limit:
-                print("LIMIT REACHED")
+                print("Download limit reached")
                 trimmed_tweets = all_tweets[:limit]
                 print("Downloaded %s tweets" % len(all_tweets))
                 print("Returning %s tweets" % len(trimmed_tweets))

@@ -16,6 +16,10 @@ class MyTweet(models.Model):
     parent = models.ForeignKey('self', null=True, default=None, related_name='+')
     child = models.ForeignKey('self', null=True, default=None)
 
+    # situation_children = models.ForeignKey('Situation', null=True, default=None)
+
+    prevalent_category = models.ForeignKey('KeywordCategory', null=True, default=None)
+
     def __str__(self):
         # prints the msg id when the object itself is print()-ed, etc
         return self.twitter_msg_id
@@ -32,8 +36,26 @@ class MyTweet(models.Model):
                 r.extend(_r)
         return r
 
+    def is_orphan(self):
+        return self.parent is None
+
+    def is_orphan_with_child(self):
+        return self.parent is None and self.child is not None
+
+    def is_orphan_with_no_child(self):
+        return self.parent is None and self.child is not None
+
+    def has_parent_and_child(self):
+        return self.parent is not None and self.child is not None
+
     def is_last_child(self):
         return self.child is None and self.parent is not None
+
+    def get_most_popular_keyword_category(self):
+        max = 0
+        for kw in self.keyword_set.all():
+            print("fart tits")
+            exit()
 
 
 class Situation(models.Model):
@@ -57,9 +79,10 @@ class Situation(models.Model):
         (UNKNOWN, 'Unknown')
     )
     # TODO: is this timezone ok?
-    base_tweet = models.ForeignKey('MyTweet', verbose_name='base_mytweet_id', null=True, default=None)
-    status = models.CharField(max_length=20, choices=STATUS_CHOICES, default=UNKNOWN)
-    danger_level = models.CharField(max_length=20, choices=THREAT_CHOICES, default=UNKNOWN)
+    screen_name = models.CharField(max_length=200, null=True, default=None)
+    base_tweet = models.ForeignKey('MyTweet', related_name="base_tweet", null=True, default=None)
+    children = models.ManyToManyField('MyTweet', related_name="children", default=None)
+    description = models.CharField(max_length=140, null=True, default=None)
 
     def __str__(self):
         return str(self.id)
@@ -76,6 +99,7 @@ class Keyword(models.Model):
     word = models.CharField(max_length=200)
     category = models.ForeignKey('KeywordCategory', null=True, default=None)
     tweets = models.ManyToManyField('MyTweet', default=None)
+    situation = models.ForeignKey('Situation', null=True, default=None)
 
     def __str__(self):
-        return self.word
+        return str(self.id)
