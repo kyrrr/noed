@@ -22,7 +22,7 @@ class Command(BaseCommand):
         tr = tweettransformer.TweetTransformer(sn)
         tr.set_parent_child()
         tr.make_situation()
-        # tr.scan('crime')
-        for cat in self.kws:
-            tr.scan(cat)
+        tr.location_scan("oslo")
+        # for cat in self.kws:
+            # tr.scan(cat)
 

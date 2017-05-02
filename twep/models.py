@@ -16,6 +16,8 @@ class MyTweet(models.Model):
     parent = models.ForeignKey('self', null=True, default=None, related_name='+')
     child = models.ForeignKey('self', null=True, default=None)
 
+    location = models.ForeignKey('Location', null=True, default=None)
+
     # situation_children = models.ForeignKey('Situation', null=True, default=None)
 
     prevalent_category = models.ForeignKey('KeywordCategory', null=True, default=None)
@@ -35,6 +37,23 @@ class MyTweet(models.Model):
             if 0 < len(_r):
                 r.extend(_r)
         return r
+
+    def get_last_parent(self):
+        try:
+            # find tweet where this is the child
+            t = MyTweet.objects.get(child=self)
+            # if it has a parent
+            if t.parent:
+                # find the next parent ??
+                MyTweet.get_last_parent(t.parent)
+            else:
+                # if it does not have a parent
+                # it must be the last one ??
+                # as a tweet can only have one parent and one child
+                return t
+        except MyTweet.DoesNotExist:
+            # print("tweet is not a child??")
+            pass
 
     def is_orphan(self):
         return self.parent is None
@@ -56,6 +75,26 @@ class MyTweet(models.Model):
         for kw in self.keyword_set.all():
             print("fart tits")
             exit()
+
+
+class City(models.Model):
+    name = models.CharField(max_length=200)
+
+
+class District(models.Model):
+    city = models.ForeignKey('City', null=False)
+    name = models.CharField(max_length=200)
+
+
+class SubDistrict(models.Model):
+    district = models.ForeignKey('District', null=False)
+    name = models.CharField(max_length=200)
+
+
+class Location(models.Model):
+    city = models.ForeignKey('City', null=False)
+    district = models.ForeignKey('District', null=True, default=None)
+    sub_district = models.ForeignKey('SubDistrict', null=True, default=None)
 
 
 class Situation(models.Model):

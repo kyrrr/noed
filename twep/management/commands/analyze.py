@@ -1,5 +1,5 @@
 from django.core.management.base import BaseCommand
-from twep.models import MyTweet, Situation, Keyword, KeywordCategory
+from twep.models import MyTweet, Situation, Keyword, KeywordCategory, Location
 from twep.util import tweetanalyzer
 
 
@@ -19,15 +19,31 @@ class Command(BaseCommand):
     def handle(self, *args, **options):
         # get the twitter user name
         sn = options['screen_name']
-        ta = tweetanalyzer.TweetAnalyzer(screen_name=sn)
         situations = Situation.objects.filter(screen_name=sn)
         for sit in situations:
-            print("\n")
             print("===" + sit.base_tweet.twitter_msg_id + "===")
+            print("First text:")
             print(sit.base_tweet.text.encode("UTF-8"))
-            if sit.children is not None:
+            try:
+                l = Location.objects.get(mytweet=sit.base_tweet)
+                print("Possible location:")
+                print(l.sub_district.name.encode("UTF-8"))
+            except Location.DoesNotExist:
+                pass
+            if sit.children.all().count() > 0:
+                print("Children texts:")
                 for sc in sit.children.all():
                     print(sc.text.encode("UTF-8"))
+                    try:
+                        cl = Location.objects.get(mytweet=sit.base_tweet)
+                        print("Possible location:")
+                        print(cl.sub_district.name.encode("UTF-8"))
+                    except Location.DoesNotExist:
+                        pass
+                    if sc.get_last_parent() and sit.base_tweet == sc.get_last_parent():
+                        pass
+                        # print(sc.get_last_parent().text.encode("UTF-8"))
+                        # print("SAME")
             print("==/" + sit.base_tweet.twitter_msg_id + "===")
             print("\n")
 

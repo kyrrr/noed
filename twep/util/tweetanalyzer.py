@@ -1,4 +1,4 @@
-from twep.models import MyTweet, KeywordCategory, Keyword, Situation
+from twep.models import *
 
 
 class TweetAnalyzer:

@@ -1,1411 +1,1569 @@
+===859484011630088192===
+First text:
+b'\xc3\x8c Kongsveien har noen smarte hoder lagt kastet ute "falske pengesedler" som reklame. Skaper trafikkfarlige situasjoner'
+Children texts:
+==/859484011630088192===
+
+
+===859480552503738368===
+First text:
+b'Vi har en uavklart situasjon p\xc3\xa5 Stovner Senter. En hissig person p\xc3\xa5 taket som ut\xc3\xb8ver skadeverk'
+Possible location:
+b'stovner'
+Children texts:
+b'En ruset mann tatt kontroll p\xc3\xa5. Kj\xc3\xb8res sykehus'
+Possible location:
+b'stovner'
+==/859480552503738368===
 
 
 ===859384454032314369===
+First text:
 b'Melding om brann i rekkehus i Lusetjernveien p\xc3\xa5 Holmlia. Ryker ut fa en takluke. N\xc3\xb8detatene er p\xc3\xa5 vei.'
+Possible location:
+b'holmlia'
+Children texts:
 b'Bekreftet brann i rekkehus i Lusetjernveien. Brannvesenet er i innsats p\xc3\xa5 stedet.'
+Possible location:
+b'holmlia'
 b'Brannen er bekreftet slukket. En boenhet er brannskadet. Ikke meldt om personskade. Vi og brannvesenet jobber videre p\xc3\xa5 stedet.'
+Possible location:
+b'holmlia'
 ==/859384454032314369===
 
 
-
-
 ===859381030549172225===
+First text:
 b'Bekkestuatunnelen stengt i en kortere periode ifm at en sekk skal fjernes fra inne i tunnelen.'
+Children texts:
+b'Bekkestuatunnelen er \xc3\xa5pnet igjen. Kun v\xc3\xa6rt stengt i \xc3\xb8stg\xc3\xa5ende retning.'
 ==/859381030549172225===
 
 
-
-
 ===859352843484049410===
+First text:
 b'Bil med problemer st\xc3\xa5r p\xc3\xa5 E18 inng\xc3\xa5ende i Bellevuedumpa i Asker. St\xc3\xa5r like etter en bakketopp. Kommer br\xc3\xa5tt p\xc3\xa5. Patrulje er p\xc3\xa5 vei.'
+Children texts:
 ==/859352843484049410===
 
 
-
-
 ===859344220414521344===
+First text:
 b'P\xc3\xa5kj\xc3\xb8ringsrampen til Ring3 \xc3\xb8stg\xc3\xa5ende p\xc3\xa5 \xc3\x98kern er sperret av en lastebil som har f\xc3\xa5tt stans.'
+Possible location:
+b'\xc3\xb8kern'
+Children texts:
 ==/859344220414521344===
 
 
-
-
 ===859317676434436096===
+First text:
 b'Arbeidsulykke i Tanuveien. Arbeider falt ca 2 m ned p\xc3\xa5 betonggulv.  Smerter i albue og rygg. Kj\xc3\xb8rt B\xc3\xa6rum sykehus.'
+Children texts:
 ==/859317676434436096===
 
 
-
-
 ===859275503265615872===
+First text:
 b'Grunnet teknisk feil er Ekebergtunnelen nordg\xc3\xa5ende sperret inntil videre. VTS jobber med \xc3\xa5 l\xc3\xb8se problemet. F\xc3\xb8rer til mye ekstra k\xc3\xb8 p\xc3\xa5 E6/E18'
+Children texts:
 b'For \xc3\xa5 f\xc3\xa5 \xc3\xa5pnet tunnelen igjen m\xc3\xa5 \xc3\xb8stg\xc3\xa5ende l\xc3\xb8p i Bj\xc3\xb8rvikatunnelen stenges i noen minutter. Forh\xc3\xa5pentligvis \xc3\xa5pnes alle felt om kort tid.'
 b'Ogs\xc3\xa5 Ekebergtunnelen vestg\xc3\xa5ende er stengt i Lodalen inntil videre. F\xc3\xb8rer til MYE ekstra k\xc3\xb8 inntil videre.'
 b'Alle felt i tunnelene er \xc3\xa5pne i alle retninger. K\xc3\xb8en vil forh\xc3\xa5pentligvis avta n\xc3\xa5.'
 ==/859275503265615872===
 
 
-
-
 ===859249127867154433===
+First text:
 b'Det er en stor vannlekkasje i Torggata/ Hausmannsgate. OBRE og kommunale etater er varslet for \xc3\xa5 stanse lekkasjen og sikre restverdi.'
+Children texts:
 b'Dette vil p\xc3\xa5virke kollektivtransporten i omr\xc3\xa5det i en periode fremover.'
 b'Vannlekkasjen er stanset. Vi er p\xc3\xa5 stedet litt til.'
 ==/859249127867154433===
 
 
-
-
 ===859242161149227009===
+First text:
 b'E18 utg\xc3\xa5ende retning, Lysaker: R\xc3\xb8ykutvikling fra to russebusser. N\xc3\xb8detatene er p\xc3\xa5 vei.'
+Children texts:
 b'Skal v\xc3\xa6re en r\xc3\xb8ykmaskin p\xc3\xa5 russebuss som har for\xc3\xa5rsaket dette. Kan ha sett dramatisk for andre bilister, men dette var ikke brann.'
 ==/859242161149227009===
 
 
-
-
 ===859232506381565952===
+First text:
 b'Bogstad: Flere som mister nattes\xc3\xb8vnen pga. h\xc3\xb8ylydt musikk fra russebusser. Politiet er p\xc3\xa5 vei til stedet.'
+Children texts:
 b'Patrulje verken s\xc3\xa5 eller h\xc3\xb8rte russ p\xc3\xa5 Bogstad.'
 ==/859232506381565952===
 
 
-
-
 ===859216639774031873===
+First text:
 b'Thorvald Meyersgt: 3 russ brakt inn til arrest for ordensforstyrrelse.'
+Children texts:
 ==/859216639774031873===
 
 
-
-
 ===859193155958300674===
+First text:
 b'Mariholtet, melding om flere russe-busser p\xc3\xa5 stedet som generer mye st\xc3\xb8y. Politiet er p\xc3\xa5 vei til stedet.'
+Children texts:
 b'5 russebusser ble kontrollert og bortvist fra stedet. Flere overstadig berusede personer p\xc3\xa5 stedet, og en ble kj\xc3\xb8rt sykehus for oppf\xc3\xb8lging.'
 ==/859193155958300674===
 
 
-
-
 ===859134442954248193===
+First text:
 b'Trafikkulykke Ring 3 ved avkj\xc3\xb8ring Nydalen, retning Storo. Skal ikke v\xc3\xa6re alvorlig personskade. Trafikale problemer p\xc3\xa5 stedet.'
+Children texts:
 b'Det er ryddet p\xc3\xa5 stedet, ingen personskade. Partene skriver skademelding.'
 ==/859134442954248193===
 
 
-
-
 ===859104224608694272===
+First text:
 b'Mannen ble p\xc3\xa5grepet av bev\xc3\xa6pnet politi p\xc3\xa5 utsiden av leiligheten sin.'
+Children texts:
 ==/859104224608694272===
 
 
-
-
 ===859104087681445889===
+First text:
 b'Politiet har v\xc3\xa6rt i Nordkappgata, hvor en mann var truende og aggressiv mot en ambulanse. Han hadde ogs\xc3\xa5 vist frem en kniv.'
+Children texts:
 ==/859104087681445889===
 
 
-
-
 ===859057573684817920===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Smalgangen i forbindelse med melding om r\xc3\xb8yklukt fra en oppgang.'
+Children texts:
 b'...ogs\xc3\xa5 denne gangen lukter det brent papir. Lukten er avtakende, og OBRE jobber p\xc3\xa5 stedet for \xc3\xa5 finne ut hvor lukten kommer fra.'
 b'Alle enheter har forlatt stedet.'
 ==/859057573684817920===
 
 
-
-
 ===859043593310359552===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 Aker Brygge, hvor det er meldt om r\xc3\xb8yk i en oppgang.'
+Children texts:
 b'Det lukter brent papir p\xc3\xa5 stedet. OBRE jobber med \xc3\xa5 f\xc3\xa5 lokalisert hvor lukten kommer fra.'
 b'\xc3\x85rsak til r\xc3\xb8ykutvikling viste seg \xc3\xa5 v\xc3\xa6re en d\xc3\xa5rlig konstruert kullovn som over tid har f\xc3\xa5tt varmegang i veggen bak. Vi har forlatt stedet.'
 ==/859043593310359552===
 
 
-
-
 ===858976510069415936===
+First text:
 b'1.mai-toget. Avmarsj fra Youngstorget kl. 1245. Paroler i forkant. Redusert fremkommelighet for bilister i sentrumskjernen.'
+Children texts:
 ==/858976510069415936===
 
 
-
-
 ===858956945067266048===
+First text:
 b'Det har v\xc3\xa6rt innbrudd i noen kontorer p\xc3\xa5 F\xc3\xb8yka i Asker. Patrulje er p\xc3\xa5 stedet for \xc3\xa5stedsunders\xc3\xb8kelse.'
+Children texts:
 ==/858956945067266048===
 
 
-
-
 ===858932745984253953===
+First text:
 b'V\xc3\xa5lerengatunnelen: Bilf\xc3\xb8rer forlot en bil i tunnelen. P\xc3\xa5truffet p\xc3\xa5 Etterstad. Mistenkt for promillekj\xc3\xb8ring og kj\xc3\xb8ring uten gyldig f\xc3\xb8rerkort.'
+Possible location:
+b'v\xc3\xa5lerenga'
+Children texts:
 ==/858932745984253953===
 
 
-
-
 ===858900559444807681===
+First text:
 b'Torshov: Slagsm\xc3\xa5l inne p\xc3\xa5 en trikk. Vi har nettopp ankommet stedet'
+Possible location:
+b'torshov'
+Children texts:
 b'To personer har kranglet og sl\xc3\xa5tt hverandre. Ingen alvorlige skader, og partene vil vurdere \xc3\xa5 anmelde hverandre i ettertid'
+Possible location:
+b'torshov'
 ==/858900559444807681===
 
 
-
-
 ===858856748802871297===
+First text:
 b'Gr\xc3\xb8nland: Melding om slagsm\xc3\xa5l mellom ca 15 personer. Vekter skadet, patruljer og ambulanser p\xc3\xa5 vei'
+Possible location:
+b'gr\xc3\xb8nland'
+Children texts:
 b'Vi har s\xc3\xa5 langt ikke funnet noen som sl\xc3\xa5ss, eller noen vekter som er skadet.'
+Possible location:
+b'gr\xc3\xb8nland'
 ==/858856748802871297===
 
 
-
-
 ===858854717585338368===
+First text:
 b'Festlokale i Oslo sentrum: En mann er p\xc3\xa5grepet etter \xc3\xa5 ha truet flere vektere og andre, samt \xc3\xb8delagt en d\xc3\xb8r. Blir kj\xc3\xb8rt arrest og anmeldt'
+Children texts:
 ==/858854717585338368===
 
 
-
-
 ===858838897115238400===
+First text:
 b'Vi mottar mange klager p\xc3\xa5 st\xc3\xb8yende russ flere steder i Oslo og Asker &amp; B\xc3\xa6rum. Vi fors\xc3\xb8ker \xc3\xa5 h\xc3\xa5ndtere s\xc3\xa5 mange av disse vi har kapasitet til'
+Children texts:
 b'S\xc3\xa5 langt har vi i natt loggf\xc3\xb8rt over 20 klager p\xc3\xa5 st\xc3\xb8yende russ i v\xc3\xa5rt politidistrikt. Vi har ikke rukket \xc3\xa5 rykke ut til alle disse.'
 ==/858838897115238400===
 
 
-
-
 ===858837803328839682===
+First text:
 b'Majorstua T-banestasjon: Slagsm\xc3\xa5l mellom flere personer. En person rispet med kniv. En antatt gjerningsmann p\xc3\xa5grepet, kj\xc3\xb8rt arresten. Anm.'
+Children texts:
 ==/858837803328839682===
 
 
-
-
 ===858829397561921537===
+First text:
 b'Sandakerveien: Melding om r\xc3\xb8yk fra et vindu. Vi er p\xc3\xa5 stedet sammen med brannvesenet.'
+Possible location:
+b'sandaker'
+Children texts:
 b'Viste seg \xc3\xa5 v\xc3\xa6re damp fra vaskerom, alts\xc3\xa5 ingen brann.'
+Possible location:
+b'sandaker'
 ==/858829397561921537===
 
 
-
-
 ===858749845955383297===
+First text:
 b'Kongens gate. Innbruddstyv tatt p\xc3\xa5 fersk gjerning i et kontorbygg.'
+Children texts:
 ==/858749845955383297===
 
 
-
-
 ===858656519520485376===
+First text:
 b'Bil stod med motoren i gang og hindret bilene bak p\xc3\xa5 Sinsen. Inni satt sj\xc3\xa5f\xc3\xb8ren og sov. Vi mistenker at han var ruset.'
+Possible location:
+b'sinsen'
+Children texts:
 ==/858656519520485376===
 
 
-
-
 ===858649378793426944===
+First text:
 b'Str\xc3\xb8msveien. Vi er p\xc3\xa5 stedet i forbindelse med en arbeidsulykke p\xc3\xa5 et bilverksted.'
+Children texts:
 b'En bil har sklidd fra en jekk, slik at forn\xc3\xa6rmede fikk et bilhjul over l\xc3\xa5ret, samt akslingen p\xc3\xa5 bilen over mageregionen. Kj\xc3\xb8res sykehus'
 ==/858649378793426944===
 
 
-
-
 ===858628225018232832===
+First text:
 b'Stasjonsveien. Vi er p\xc3\xa5 vei til stedet etter melding om en russebuss og en personbil som har krasjet.'
+Children texts:
 b'I f\xc3\xb8lge melder er det trafikkaos p\xc3\xa5 stedet.'
 b'Stasjonsveien: En russebil har kj\xc3\xb8rt p\xc3\xa5 r\xc3\xb8dt lys og kollidert med en annen bil. Russebilen m\xc3\xa5 taues. Ikke meldt om personskade.'
 b'Trafikken skal flyte greit forbi stedet.'
 ==/858628225018232832===
 
 
-
-
 ===858615564243259392===
+First text:
 b'Smestadtunnellen vestg\xc3\xa5ende. Vi er p\xc3\xa5 vei til melding om ulykke mellom bil og motorsyklist.'
+Children texts:
 b'Kollisjon mellom mc og bil har skjedd p\xc3\xa5 den vestlige siden av Smestad-tunnelen og ikke i selve tunnelen. Trafikken flyter fint.'
 ==/858615564243259392===
 
 
-
-
 ===858614451469246464===
+First text:
 b'Vi er p\xc3\xa5 vei til Fekjan i Asker etter melding at en syklist og bilist har kollidert. Syklisten bevisst, men har skader i ansiktet.'
+Children texts:
 b'Spor p\xc3\xa5 stedet tyder p\xc3\xa5 at bilisten p\xc3\xa5 Fekjan har brutt vikeplikten. F\xc3\xb8rerkortet beslaglegges. Syklisten har hodeskader, men er bevisst.'
 b'Syklisten fra Fekjan er kj\xc3\xb8rt til legevakta med lettere skader.'
 ==/858614451469246464===
 
 
-
-
 ===858565250425249795===
+First text:
 b'Maridalsveien. Vi er p\xc3\xa5 stedet etter melding om at det sov en dame i en bil med motoren i gang. Viste seg at bilen var stj\xc3\xa5let.'
+Children texts:
 b'Damen anholdt, kj\xc3\xb8res arrest, sak opprettes.'
 ==/858565250425249795===
 
 
-
-
 ===858552098694344704===
+First text:
 b'Registrert ett f\xc3\xb8rerkortbeslag fra russebussj\xc3\xa5f\xc3\xb8r i natt. Dette grunnet for mange passasjerer under kj\xc3\xb8ring. Bussen ble stoppet p\xc3\xa5 Hjortnes.'
+Children texts:
 ==/858552098694344704===
 
 
-
-
 ===858423755244277766===
+First text:
 b'Har v\xc3\xa6rt et branntill\xc3\xb8p p\xc3\xa5 Ellingsrud skole. Slukket av OBRE. Mindre skader.'
+Possible location:
+b'ellingsrud'
+Children texts:
 ==/858423755244277766===
 
 
-
-
 ===858414928042086401===
+First text:
 b'Brann i s\xc3\xb8ppel ved Smiuveien. OBRE er p\xc3\xa5 stedet.'
+Children texts:
 b'Har brent i et s\xc3\xb8ppelhus. OBRE har kontroll.'
 ==/858414928042086401===
 
 
-
-
 ===858399449734840320===
+First text:
 b'E6 Klemetsrud kl 2110. Bil m\xc3\xa5lt til 118 i 80-sone. F\xc3\xb8rerkortbeslag.'
+Children texts:
 ==/858399449734840320===
 
 
-
-
 ===858398798049136641===
+First text:
 b'Vi er p\xc3\xa5 vei til Lindeberg\xc3\xa5sen. Melding om brann i en container.'
+Possible location:
+b'lindeberg'
+Children texts:
 b'Ikke brann i container, men i s\xc3\xb8ppeldunk. Slukket av beboer.'
+Possible location:
+b'lindeberg'
 ==/858398798049136641===
 
 
-
-
 ===858360052696088576===
+First text:
 b'Personbil stanset i R\xc3\xa5dhusgata ca 1820. F\xc3\xb8rer har ikke f\xc3\xb8rerkort. Mistenkes for kj\xc3\xb8ring i rus.'
+Children texts:
 ==/858360052696088576===
 
 
-
-
 ===858306922218442752===
+First text:
 b'Sinsenveien, vi er p\xc3\xa5 vei til melding om r\xc3\xb8yklukt og utl\xc3\xb8st brannalarm.'
+Possible location:
+b'sinsen'
+Children texts:
 b'Viste seg \xc3\xa5 v\xc3\xa6re t\xc3\xb8rrkok. Ingen hjemme i den aktuelle leiligheten. Vi oppretter sak.'
+Possible location:
+b'sinsen'
 ==/858306922218442752===
 
 
-
-
 ===858244248155693056===
+First text:
 b'Smestad tunnellen,  vestg\xc3\xa5ende. Vi er p\xc3\xa5 vei til stedet etter melding om en person som skal g\xc3\xa5 i tunnellen.'
+Children texts:
 ==/858244248155693056===
 
 
-
-
 ===858209162794332161===
+First text:
 b'E 18 ved Holmen. Vi er p\xc3\xa5 vei til stedet etter at et r\xc3\xa5dyr har blitt p\xc3\xa5kj\xc3\xb8rt. Viltnemda er varslet.'
+Possible location:
+b'holmen'
+Children texts:
 ==/858209162794332161===
 
 
-
-
 ===858161038751145984===
+First text:
 b'G\xc3\xb8teborggata: R\xc3\xb8yklukt fra leilighet. En mann skal ha fors\xc3\xb8kt seg p\xc3\xa5 pizzasteking. Har f\xc3\xa5tt i seg en r\xc3\xb8yk og blir sjekket av ambulanse.'
+Children texts:
 ==/858161038751145984===
 
 
-
-
 ===858155284820365312===
+First text:
 b'Vi mottar flere meldinger om st\xc3\xb8y fra russen, men rekker ikke \xc3\xa5 h\xc3\xa5ndtere alle disse.'
+Children texts:
 ==/858155284820365312===
 
 
-
-
 ===858142797215531008===
+First text:
 b'M\xc3\xb8llergata: Vi er p\xc3\xa5 et hotell, hvor en person skal v\xc3\xa6re knivstukket. Hendelsesforl\xc3\xb8p og skadegrad uavklart. Politi og ambulanse p\xc3\xa5 stedet'
+Children texts:
 b'En person er skadet, kj\xc3\xb8rt til sykehus og lagt p\xc3\xa5 operasjonsbordet. En person er p\xc3\xa5grepet p\xc3\xa5 stedet, mistenkt for \xc3\xa5 ha for\xc3\xb8vet skaden.'
 b'Vi foretar \xc3\xa5stedsunders\xc3\xb8kelser, samt snakker med vitner. P\xc3\xa5grepne blir kj\xc3\xb8rt arresten, og avh\xc3\xb8rt. Vi f\xc3\xb8lger ogs\xc3\xa5 opp forn\xc3\xa6rmede p\xc3\xa5 sykehuset'
 ==/858142797215531008===
 
 
-
-
 ===858102147442987011===
+First text:
 b'Vi har stanset en russebuss med alt for mange passasjerer. 61 pers. i en buss reg. for 21. F\xc3\xb8rerkortbeslag og anmeldelse av sj\xc3\xa5f\xc3\xb8ren.'
+Children texts:
 ==/858102147442987011===
 
 
-
-
 ===858057494970683393===
+First text:
 b'Full mann funnet i gr\xc3\xb8ft p\xc3\xa5 \xc3\x98ster\xc3\xa5s ca 1900. Sjekket p\xc3\xa5 legevakten og kj\xc3\xb8rt i arrest. Anmeldes etter \xc3\xa5 ha bitt og spyttet p\xc3\xa5 politiet.'
+Children texts:
 ==/858057494970683393===
 
 
-
-
 ===858056069297451009===
+First text:
 b'Mann sl\xc3\xa5tt ned i Asker sentrum ca 2200. Skal ha blitt sparket mens han l\xc3\xa5 nede. Vitner til hendelsen. Vi s\xc3\xb8ker etter gjerningsmannen.'
+Children texts:
 ==/858056069297451009===
 
 
-
-
 ===858048825558282242===
+First text:
 b'Trafikkuhell X Bispegata - Dronning Aufemias gate. 3 biler. N\xc3\xb8detatene er p\xc3\xa5 vei.'
+Children texts:
 b'1 person sjekkes av helse. 1 bil taues. Bil som stod p\xc3\xa5 r\xc3\xb8dt lys skal ha blitt p\xc3\xa5kj\xc3\xb8rt bakfra. F\xc3\xb8rer mistenkes for kj\xc3\xb8ring i rus.'
 ==/858048825558282242===
 
 
-
-
 ===857973840198201344===
+First text:
 b'Ammerudhellinga. Branntill\xc3\xb8p i et s\xc3\xb8ppelrom. Slukket av brannvesenet.'
+Possible location:
+b'ammerud'
+Children texts:
 ==/857973840198201344===
 
 
-
-
 ===857933529254158336===
+First text:
 b'Gordon Setter hund tatt h\xc3\xa5nd om av Pets i Asker. Dersom du savner hunden ta kontakt med Pet`s i Asker'
+Children texts:
 ==/857933529254158336===
 
 
-
-
 ===857897510207148032===
+First text:
 b'En bil har kj\xc3\xb8rt i gr\xc3\xb8fta p\xc3\xa5 Gamle Ringeriksvei. F\xc3\xb8rer kj\xc3\xb8rt til legevakta, fremst\xc3\xa5r uskadet og har bl\xc3\xa5st til gr\xc3\xb8nt. Store skader p\xc3\xa5 bilen.'
+Children texts:
 b'Bilen har tilsynelatende f\xc3\xa5tt hjulene utenfor veibanen og havnet i gr\xc3\xb8fta. H\xc3\xb8yre side p\xc3\xa5 bilen er godt skrapet opp mot fjellveggen.'
 ==/857897510207148032===
 
 
-
-
 ===857853083954622464===
+First text:
 b'Bekkestua: Vi er p\xc3\xa5 \xc3\xa5stedsunders\xc3\xb8kelse ifm en innbruddsfors\xc3\xb8k i en bedrift. Skjedd ila natta. Uvisst om noe er stj\xc3\xa5let.'
+Children texts:
 ==/857853083954622464===
 
 
-
-
 ===857852917105209344===
+First text:
 b'N\xc3\xb8detatene er i D\xc3\xa6lenenggata etter melding om brann i en vaskemaskin i en leilighet.'
+Children texts:
 b'Brannen i vaskemaskin er meldt slukket. Ukjent skadeomfang forel\xc3\xb8pig. Ikke meldt om personskade.'
 ==/857852917105209344===
 
 
-
-
 ===857825213593133057===
+First text:
 b'Bilen i V\xc3\xa5lerengatunnelen er fjernet slik at alle felt i retning mot Gardermoen er n\xc3\xa5 \xc3\xa5pne.'
+Possible location:
+b'v\xc3\xa5lerenga'
+Children texts:
 ==/857825213593133057===
 
 
-
-
 ===857822472489578497===
+First text:
 b'En bil har f\xc3\xa5tt stans i h\xc3\xb8yre felt i V\xc3\xa5lerengatunnelen i retning mot Gardermoen. Ett felt stengt. Tauebil p\xc3\xa5 vei.'
+Possible location:
+b'v\xc3\xa5lerenga'
+Children texts:
 ==/857822472489578497===
 
 
-
-
 ===857795104412770304===
+First text:
 b'Vi er i kirkeveien i forbindelse med brann i bildekk som st\xc3\xa5r ved en container. Endel svart r\xc3\xb8yk, ingen spredningsfare.'
+Children texts:
 b'Brannen er slukket, vi har forlatt stedet.'
 ==/857795104412770304===
 
 
-
-
 ===857647823097122823===
+First text:
 b'P\xc3\xa5 E18 vestover ved Blommenholm st\xc3\xa5r en bil med stans i midtre felt. Politiet er p\xc3\xa5 stedet'
+Children texts:
 b'Bilen er flyttet ut av veien'
 ==/857647823097122823===
 
 
-
-
 ===857638994196275201===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 Comfort hotell B\xc3\xb8rsparken ifm melding om r\xc3\xb8yklukt. Bygget er evakuert. Lukter sigarettr\xc3\xb8yk. Udramatisk'
+Children texts:
 ==/857638994196275201===
 
 
-
-
 ===857569097365770244===
+First text:
 b'Nordkappgata. N\xc3\xb8detatene er p\xc3\xa5 stedet i forbindelse med melding om brann.'
+Children texts:
 b'Mindre branntill\xc3\xb8p. Slukket. Ingen skadet.'
 ==/857569097365770244===
 
 
-
-
 ===857544871745380352===
+First text:
 b'Risveien. N\xc3\xb8detatene rykker ut til en melding om brann i enebolig.'
+Children texts:
 b'Slukket, brent i s\xc3\xb8ppelkasser og en husvegg.'
 ==/857544871745380352===
 
 
-
-
 ===857526996741619712===
+First text:
 b'Kyrre Grepps gate. N\xc3\xb8detatene rykker ut til en melding om brann.'
+Children texts:
 b'Det observeres svak r\xc3\xb8yk som siver ut av et vindu. Brannvesenet har personell p\xc3\xa5 vei inn i bygget.'
 b'En person har f\xc3\xa5tt i seg noe r\xc3\xb8yk. Blir unders\xc3\xb8kt av helsepersonell p\xc3\xa5 stedet.'
 ==/857526996741619712===
 
 
-
-
 ===857514493190057984===
+First text:
 b'Vi er i Hollendergata. Beboer sjekkes av helse etter \xc3\xa5 ha v\xc3\xa6rt eksponert for r\xc3\xb8yk. Trolig t\xc3\xb8rrkok.'
+Children texts:
 ==/857514493190057984===
 
 
-
-
 ===857476161240281088===
+First text:
 b'Trafikkuhell p\xc3\xa5 Griniveien ved avkj\xc3\xb8ring til Ila. Bil i gr\xc3\xb8fta. Uvisst om det er personskade.'
+Possible location:
+b'ila'
+Children texts:
 b'Ikke personskade. Bilberging er p\xc3\xa5 vei.'
+Possible location:
+b'ila'
 ==/857476161240281088===
 
 
-
-
 ===857470775535841282===
+First text:
 b'Hittet hund: En langh\xc3\xa5ret sort Dachs. Funnet ved Jacobs p\xc3\xa5 Ekeberg. Eier kan ringe 02800'
+Children texts:
 ==/857470775535841282===
 
 
-
-
 ===857334880027455489===
+First text:
 b'Jordal Terrasse: R\xc3\xb8yk fra garasje, unders\xc3\xb8kt av brannvesenet. Ingen personskader meldt. Brannen slukket og r\xc3\xb8yken luftes ut, ingen evakuerte'
+Children texts:
 ==/857334880027455489===
 
 
-
-
 ===857314429096132608===
+First text:
 b'Fjellstuveien, Stovner: Det brenner i gresset p\xc3\xa5 et st\xc3\xb8rre omr\xc3\xa5de. Politi og brannvesen p\xc3\xa5 vei'
+Possible location:
+b'stovner'
+Children texts:
 b'Brannen er slukket, og vi har s\xc3\xb8kt etter noen ungdommer som muligens kan ha tent p\xc3\xa5 gresset. Negativt s\xc3\xb8k, og vi avslutter dette n\xc3\xa5'
+Possible location:
+b'stovner'
 ==/857314429096132608===
 
 
-
-
 ===857254919488905217===
+First text:
 b'Vi har f\xc3\xa5tt melding om brann i en bil ved Padderudvannet, E-18 inng\xc3\xa5ende. Bilen skal st\xc3\xa5 p\xc3\xa5 vegskulderen. N\xc3\xb8detater er p\xc3\xa5 vei'
+Children texts:
 b'En politipatrulje har kj\xc3\xb8rt E18 forbi stedet og ikke sett noen brann.'
 ==/857254919488905217===
 
 
-
-
 ===857245402717933570===
+First text:
 b'Keysers gate: Det er meldt om r\xc3\xb8yk fra bygning. N\xc3\xb8detatene er p\xc3\xa5 vei.'
+Children texts:
 b'Det viste seg at det var et batteri som hadde selvantent. Ingen personskader, n\xc3\xb8detatene har forlatt stedet'
 ==/857245402717933570===
 
 
-
-
 ===857209501954564098===
+First text:
 b'E18 inng\xc3\xa5ende like f\xc3\xb8r Slependen. Lastebil har "sakset" og s\xc3\xb8rger for at minst to felt er sperret.'
+Children texts:
 b'Lastebilen st\xc3\xa5r vis-a-vis IKEA p\xc3\xa5 E18 inng\xc3\xa5ende. F\xc3\xb8reren er uskadet. Kun ett felt \xc3\xa5pent. Kommer til \xc3\xa5 medf\xc3\xb8re ekstra k\xc3\xb8 i noe tid.'
 b'Tauebil er p\xc3\xa5 vei til stedet. Uvisst hvor lenge til alle felt p\xc3\xa5 E18 \xc3\xa5pnes. Det kan ta noe tid da trekkvogna st\xc3\xa5r med fronten mot Asker.'
 b'E18 ved Slependen er \xc3\xa5pen igjen'
 ==/857209501954564098===
 
 
-
-
 ===857205931125473280===
+First text:
 b'En bil har f\xc3\xa5tt stans p\xc3\xa5 Mosseveien utg\xc3\xa5ende, rett etter Operatunnelen. F\xc3\xb8rer til ekstra sakteg\xc3\xa5ende k\xc3\xb8 bakover. Tauebil p\xc3\xa5 vei.'
+Children texts:
 b'Tauebilen har fjernet bilen som hadde hatt stans p\xc3\xa5 Mosseveien. Alle felt \xc3\xa5pne.'
 ==/857205931125473280===
 
 
-
-
 ===857195961445216256===
+First text:
 b'I en studentbolig p\xc3\xa5 Kringsj\xc3\xa5 har det v\xc3\xa6rt en brannalarm. \xc3\x85rsaken var smeltet plast p\xc3\xa5 en stekepanne som var \xc3\xa5rsaken. Ingen personskade.'
+Children texts:
 ==/857195961445216256===
 
 
-
-
 ===857187828941430784===
+First text:
 b'Operasjonssentralene i Sandvika og Oslo er sl\xc3\xa5tt sammen i dag. Fra n\xc3\xa5 twitrer vi ogs\xc3\xa5 om hendelser i Asker og B\xc3\xa6rum! https://t.co/AdjICkejmb'
+Children texts:
 ==/857187828941430784===
 
 
-
-
 ===857184680088621056===
+First text:
 b'Sandvika: En bil har havnet i trappa ved R\xc3\xa5dhuset etter et mindre trafikkuhell. Ingen personskade, men bilf\xc3\xb8rer blir fratatt f\xc3\xb8rerkortet.'
+Children texts:
 b'Etter en mindre p\xc3\xa5kj\xc3\xb8ring bakfra rygget den mistenkte bilf\xc3\xb8reren inn i r\xc3\xa5dhustrappa i Sandvika. Kun mindre materielle skader p\xc3\xa5 stedet.'
 ==/857184680088621056===
 
 
-
-
 ===857117005958311936===
+First text:
 b'Teisen: R\xc3\xb8ykutvikling i boligbygg. En familie har evakuert seg selv. N\xc3\xb8detater er p\xc3\xa5 vei.'
+Possible location:
+b'teisen'
+Children texts:
 b'Brannvesenet har kontroll p\xc3\xa5 brannen i Teisenveien. Trolig t\xc3\xb8rrkok av noe slag. Familien sjekkes av helse, ikke meldt om personskade.'
+Possible location:
+b'teisen'
 ==/857117005958311936===
 
 
-
-
 ===857109232746934273===
+First text:
 b'E 6 inng v/Furuseth, trafikkuhell, n\xc3\xb8detatene er p\xc3\xa5 vei.'
+Possible location:
+b'furuset'
+Children texts:
 b'Ingen personskade.'
+Possible location:
+b'furuset'
 ==/857109232746934273===
 
 
-
-
 ===857096473439342592===
+First text:
 b'Politi og ambulanse er p\xc3\xa5 vei til St. J\xc3\xb8rgens vei ifm melding om trafikkulykke. En bil skal ha rygget p\xc3\xa5 en fotgjenger.'
+Children texts:
 b'En person er kj\xc3\xb8rt til legevakta med smerter i en fot. Politiet oppretter sak.'
 ==/857096473439342592===
 
 
-
-
 ===857026482358583296===
+First text:
 b'Vi er ogs\xc3\xa5 p\xc3\xa5 Esso Gaustad ifm at flere russebusser spiller h\xc3\xb8y musikk'
+Children texts:
 b'En av bussene hadde 60 passasjerer, men er registrert for 30. F\xc3\xb8rer f\xc3\xa5r beslaglagt f\xc3\xb8rerkortet og vi oppretter anmeldelse'
 ==/857026482358583296===
 
 
-
-
 ===857025641954373632===
+First text:
 b'Vi er p\xc3\xa5 Esso Ryen ifm at det har v\xc3\xa6rt amper stemning og slagsm\xc3\xa5l blandt russ. Det er rolig n\xc3\xa5. Flere busser p\xc3\xa5 stedet'
+Children texts:
 b'Vi er ferdig p\xc3\xa5 stedet. Flere busser bortvist fra stedet'
 ==/857025641954373632===
 
 
-
-
 ===856957692803506182===
+First text:
 b'Politi og ambulanse er p\xc3\xa5 T\xc3\xa5sen, hvor det har v\xc3\xa6rt et slagsm\xc3\xa5l. 2 forn\xc3\xa6rmede blir behandlet av en ambulans med skader i ansiktet.'
+Possible location:
+b't\xc3\xa5sen'
+Children texts:
 b'Vi s\xc3\xb8ker etter 3 gjerningsmenn med flere enheter, ogs\xc3\xa5 ved bruk av politihelikopter.'
+Possible location:
+b't\xc3\xa5sen'
 ==/856957692803506182===
 
 
-
-
 ===856926105395134464===
+First text:
 b'Fra i morgen, 26.4.17, vil OPS Politiet i Oslo ogs\xc3\xa5 melde om hendelser i Asker og B\xc3\xa6rum. Dette pga sammensl\xc3\xa5ing av politidistriktene.'
+Children texts:
 ==/856926105395134464===
 
 
-
-
 ===856739948648648704===
+First text:
 b'Trafikkuhell mellom trailer og bil i Bj\xc3\xb8rvikatunellen vestg\xc3\xa5ende. Vi er p\xc3\xa5 vei.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet . Ingen personskade. Begge bilene kj\xc3\xb8rbare og blir fjernet fra tunnelen n\xc3\xa5.'
 ==/856739948648648704===
 
 
-
-
 ===856697318770343937===
+First text:
 b'Vi har p\xc3\xa5grepet 4 innbruddstyver i Kv\xc3\xa6rnerbyen. Dette er trolig mobile vinningskriminelle ute etter kobber.'
+Children texts:
 b'Hundef\xc3\xb8rer ble sl\xc3\xa5tt i hodet med en planke med spiker. Ikke alvorlig skadd. 2 gjerningsmenn m\xc3\xa5tte til behandling etter hundebitt'
 ==/856697318770343937===
 
 
-
-
 ===856694961844211712===
+First text:
 b'Politiet er p\xc3\xa5ny p\xc3\xa5 Esso Gaustad grunnet st\xc3\xb8y og amper stemning blandt noe russ. Rolig n\xc3\xa5. Samtlige busser blir bortvist fra stedet'
+Children texts:
 b'En person blir innbragt til arresten for ordensforstyrrelse'
 ==/856694961844211712===
 
 
-
-
 ===856667057097781249===
+First text:
 b'Politiet er p\xc3\xa5 Esso Gaustad ifm at det har v\xc3\xa6rt klammeri mellom russ og vektere. Rolig p\xc3\xa5 stedet n\xc3\xa5. Russen bortvises fra stedet'
+Children texts:
 ==/856667057097781249===
 
 
-
-
 ===856604362281553924===
+First text:
 b'Ammerud T bane. Vi er p\xc3\xa5 stedet etter at en person har g\xc3\xa5tt i sporet. Mannen er n\xc3\xa5 ute av sporet og vi har kontroll p\xc3\xa5 han.'
+Possible location:
+b'ammerud'
+Children texts:
 ==/856604362281553924===
 
 
-
-
 ===856602924306366466===
+First text:
 b'Schous plass. Vi er p\xc3\xa5 stedet i forbindelse med en trafikkulykke mellom en fotgjenger og en bil.'
+Children texts:
 b'Fotgjengeren skal v\xc3\xa6re skadd i en fot.'
 ==/856602924306366466===
 
 
-
-
 ===856543102147940352===
+First text:
 b'Granfosstunnellen \xc3\xb8stg\xc3\xa5ende; bil med stans. Vi er p\xc3\xa5 vei'
+Children texts:
 b'Tunnellen er stengt i begge retninger. Skaper lang k\xc3\xb8 bakover. Bilberger er p\xc3\xa5 vei til stedet.'
 b'Bilen er berget og tunnellen er \xc3\xa5pnet for trafikk igjen.'
 ==/856543102147940352===
 
 
-
-
 ===856501049347198985===
+First text:
 b'RT @Ravnene: Vi har et stort behov for natteravner i Oslo sentrum! Se v\xc3\xa5r nye film om Oslonatta hvor Ingebj\xc3\xb8rg Bratland synger: https://t.c\xe2\x80\xa6'
+Children texts:
 ==/856501049347198985===
 
 
-
-
 ===856499238724927488===
+First text:
 b'Vi har f\xc3\xa5tt melding om brann i Nebbejordet p\xc3\xa5 Bj\xc3\xb8rnerud. N\xc3\xb8detatene er p\xc3\xa5 vei.'
+Possible location:
+b'bj\xc3\xb8rnerud'
+Children texts:
 b'If\xc3\xb8lge Brannvesenet p\xc3\xa5 stedet er det ikke brann, kun litt sot p\xc3\xa5 en vegg.'
+Possible location:
+b'bj\xc3\xb8rnerud'
 ==/856499238724927488===
 
 
-
-
 ===856457630457487360===
+First text:
 b'E6 nordg\xc3\xa5ende ved Alnabru. Lastebil som har mistet last i veibanen og kj\xc3\xb8rt videre. Trafikkfarlig p\xc3\xa5 stedet. Vi er p\xc3\xa5 vei.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet. Veibanen er n\xc3\xa5 ryddet. Lastebilen var en s\xc3\xb8ppelbil som ikke hadde sikret sin last godt nok.'
 ==/856457630457487360===
 
 
-
-
 ===856381971068530689===
+First text:
 b'Kj\xc3\xb8ret\xc3\xb8ystans i avkj\xc3\xb8ringen til Ryen p\xc3\xa5 E6 retning nord. Politi p\xc3\xa5 vei. Trafikken glir forbi, noe redusert hastighet.'
+Children texts:
 b'Bilberger har n\xc3\xa5 fjernet bilen og veien er fri igjen.'
 ==/856381971068530689===
 
 
-
-
 ===856358781483188224===
+First text:
 b'Politi og OBRE er p\xc3\xa5 vei til Hammeren Bru i Maridalen, hvor en lastebil har kollidert med en stolpe.'
+Children texts:
 b'Det rapporteres om glatt vegbane i Maridalen, og det anbefales p\xc3\xa5 det sterkeste \xc3\xa5 kj\xc3\xb8re etter forholdene.'
 b'Vi er p\xc3\xa5 stedet, og det er en h\xc3\xb8yspentmast som er p\xc3\xa5kj\xc3\xb8rt. Den ligger over vegbanen.'
 ==/856358781483188224===
 
 
-
-
 ===856309390126850049===
+First text:
 b'Vi har f\xc3\xa5tt en del telefoner om st\xc3\xb8y fra russebusser. Vi pr\xc3\xb8ver \xc3\xa5 ta de fortl\xc3\xb8pende men har dessverre ikke anledning \xc3\xa5 rykke ut p\xc3\xa5 alle.'
+Children texts:
 ==/856309390126850049===
 
 
-
-
 ===856181224963964928===
+First text:
 b'Slemdal skole: melding om brann i en s\xc3\xb8ppelkasse, brannvesen og politi er p\xc3\xa5 vei.'
+Possible location:
+b'slemdal'
+Children texts:
 b'Brannen er slukket og vi drar fra stedet.'
+Possible location:
+b'slemdal'
 ==/856181224963964928===
 
 
-
-
 ===856164448624685056===
+First text:
 b'E18 utg.ved avkj. Framnes. Russebuss med stans i avkj\xc3\xb8ringsfeltet.'
+Children texts:
 ==/856164448624685056===
 
 
-
-
 ===856145282295361538===
+First text:
 b'Vi er p\xc3\xa5 vei til Bekkefaret hvor vi har f\xc3\xa5tt melding om trafikkulykke. En person skal v\xc3\xa6re p\xc3\xa5kj\xc3\xb8rt.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet sammen med de andre n\xc3\xb8detatene. En person blir tatt h\xc3\xa5nd om av helsepersonell. Ingen trafikale problemer.'
 ==/856145282295361538===
 
 
-
-
 ===856138437921034240===
+First text:
 b'Melding om trafikkulykke med personskade i omr\xc3\xa5det Carl Berners Plass. Uvisst skadeomfang, muligens syklist mot st\xc3\xb8rre kj\xc3\xb8ret\xc3\xb8y.'
+Children texts:
 b'Ulykken har skjedd midt i krysset. Trafikkaos i omr\xc3\xa5det, men vi pr\xc3\xb8ver omdirigere. Personskader p\xc3\xa5 en syklist.'
 b'Syklist har brudd i ankel, kj\xc3\xb8rt sykehus.'
 ==/856138437921034240===
 
 
-
-
 ===856120138357239809===
+First text:
 b'Politiet er i omr\xc3\xa5det Nedre Ullev\xc3\xa5l. Der ble et pizzabud fraranet pizza som skulle leveres. Forn. er uskadd og er i samtale med politiet n\xc3\xa5.'
+Children texts:
 b'Beskrivelse:4 jenter(18-20),2 av dem var kraftige med sorte jakker,1 var spedbygd med caps. 3 med afrikansk utseende,1 med arabisk utseende.'
 b'Vi har n\xc3\xa5 kontroll p\xc3\xa5 samtlige involverte. De blir kj\xc3\xb8rt barnevernsvakta for videre oppf\xc3\xb8lging der.'
 ==/856120138357239809===
 
 
-
-
 ===856115991625027584===
+First text:
 b'R\xc3\xa5dhusplassen. Vi leter etter en jente(6) som har kommet bort fra sin mor. Hun er ikledd rosa kl\xc3\xa6r. Observasjoner av jenta til 02800.'
+Children texts:
 b'Jenta er tilrette og lykkelig gjenforent med sin familie.'
 ==/856115991625027584===
 
 
-
-
 ===856092042807697408===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Bredtveit hvor det skal v\xc3\xa6re en gressbrann langs med Trondheimsveien.'
+Children texts:
 ==/856092042807697408===
 
 
-
-
 ===856082390057443334===
+First text:
 b'Patrulje stanset en MC med to personer p\xc3\xa5. F\xc3\xb8rer ville f\xc3\xb8rst ikke stanse for politiet, men han kj\xc3\xb8rte seg fast i en blindvei. Anmeldes.'
+Children texts:
 ==/856082390057443334===
 
 
-
-
 ===855996884736933888===
+First text:
 b'En brannvarsler har g\xc3\xa5tt i tilknytning til et garasjeanlegg i Trondheimsveien 197. Vi er p\xc3\xa5 stedet med OBRE, ikke funnet \xc3\xa5rsaken enn\xc3\xa5.'
+Children texts:
 b'Mange personer har evakuert seg selv fra blokka som ligger p\xc3\xa5 adressen. Brannvesenet jobber p\xc3\xa5 stedet, ikke funnet noen brann enn\xc3\xa5.'
 ==/855996884736933888===
 
 
-
-
 ===855987853062529024===
+First text:
 b'Gr\xc3\xb8nland: En mann har blitt rispet med kniv i overarmen inne i en oppgang. Han unders\xc3\xb8kes av ambulanse, fremst\xc3\xa5r lettere skadet.'
+Possible location:
+b'gr\xc3\xb8nland'
+Children texts:
 b'Vi s\xc3\xb8ker etter en gjerningsperson som forlot oppgangen f\xc3\xb8r politiet kom til stedet. Uklart foranledning til hendelsen s\xc3\xa5 langt.'
+Possible location:
+b'gr\xc3\xb8nland'
 ==/855987853062529024===
 
 
-
-
 ===855986257251504128===
+First text:
 b'Vi er p\xc3\xa5 vei til Sandaker hvor en taxi har kj\xc3\xb8rt inn i flere parkerte biler. Ikke meldt om alvorlig personskade.'
+Possible location:
+b'sandaker'
+Children texts:
 b'P\xc3\xa5 Sandaker har det v\xc3\xa6rt en form for kjedekollisjon hvor 5 biler har skader. Taxien og en annen har betydelig st\xc3\xb8rre skader enn de tre andre'
+Possible location:
+b'sandaker'
 ==/855986257251504128===
 
 
-
-
 ===855982594877521920===
+First text:
 b'Vi skulle hjelpe en overstadig beruset mann p\xc3\xa5 beina i sentrum. Endte med at han spyttet p\xc3\xa5 patruljen. Blir derfor kj\xc3\xb8rt i arresten.'
+Children texts:
 ==/855982594877521920===
 
 
-
-
 ===855969183703629825===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til boligbrann i Dr. Holms vei.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet sammen med brannvesenet. Ser ingen flammer eller r\xc3\xb8yk p\xc3\xa5 stedet, men vi unders\xc3\xb8ker videre.'
 b'Flammene det ble meldt om i Doktor Holms vei stammet fra en peis. Brannvesenet har sjekket forholdene i huset og alt er ok. Vi forlater.'
 ==/855969183703629825===
 
 
-
-
 ===855909820444135424===
+First text:
 b'Ammerud: Bil har kj\xc3\xb8rt inn i en stolpe slik at denne har brukket. Vi er i kontakt med f\xc3\xb8rer, lettere skadet, sier han har drukket alkohol.'
+Possible location:
+b'ammerud'
+Children texts:
 b'F\xc3\xb8reren kj\xc3\xb8res til legevakta for \xc3\xa5 lappe noen kutt i ansiktet f\xc3\xb8r det blir blodpr\xc3\xb8ve i arresten.'
+Possible location:
+b'ammerud'
 ==/855909820444135424===
 
 
-
-
 ===855907291308204033===
+First text:
 b'En mann i 50-\xc3\xa5rene har f\xc3\xa5tt seg et slag i ansiktet ved et utested p\xc3\xa5 Linderud. Kj\xc3\xb8rt legevakta. Vi har kontroll p\xc3\xa5 en mistenkt mann.'
+Possible location:
+b'linderud'
+Children texts:
 ==/855907291308204033===
 
 
-
-
 ===855884808479813632===
+First text:
 b'Politi og ambulanse er p\xc3\xa5 vei til Nationalteateret stasjon, etter melding om en bevisstl\xc3\xb8s person.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet, og forn\xc3\xa6rmede er bevisst. Vi har kontroll p\xc3\xa5 en formentlig mistenkt.'
 ==/855884808479813632===
 
 
-
-
 ===855862248589471746===
+First text:
 b'N\xc3\xb8detatene er i fjorden utenfor Malm\xc3\xb8ya etter melding om mulig veltet kajakk. Pr n\xc3\xa5 har vi ikke funnet noen veltet kajakk.'
+Children texts:
 b'Vi fortsetter \xc3\xa5 s\xc3\xb8ke i omr\xc3\xa5det etter personer, men har s\xc3\xa5 langt ikke noen indikasjoner p\xc3\xa5 at det skal v\xc3\xa6re noen personer i vannet.'
 ==/855862248589471746===
 
 
-
-
 ===855850036604882944===
+First text:
 b'R\xc3\xb8dvedt skole: melding om gressbrann rett ved skolen. Brannvesenet og politi er p\xc3\xa5 vei til stedet.'
+Children texts:
 b'En beboer slukket brannen f\xc3\xb8r vi kom frem. Ingen stor brann.'
 ==/855850036604882944===
 
 
-
-
 ===855846354169589765===
+First text:
 b'Takket v\xc3\xa6re observant vitne fikk politiet p\xc3\xa5grepet en person i en stj\xc3\xa5let bil. Biltyven blir kj\xc3\xb8rt arrest.'
+Children texts:
 ==/855846354169589765===
 
 
-
-
 ===855780815501918208===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til L\xc3\xb8rentunnelen, vestg\xc3\xa5ende. Trafikkulykke mellom 4 biler. Forel\xc3\xb8pig g\xc3\xa5r trafikken forbi i h\xc3\xb8yre felt.'
+Children texts:
 b'N\xc3\xb8detatene er p\xc3\xa5 stedet. Meldt om mindre personskader. L\xc3\xb8rentunnelen vestg\xc3\xa5ende er inntil videre stengt.'
 b'Politiet arbeider fremdeles p\xc3\xa5 stedet. 2 f\xc3\xb8rere har f\xc3\xa5tt beslaglagt f\xc3\xb8rerkortet sitt.'
 b'Politiet er ferdig p\xc3\xa5 stedet, tunnelen er \xc3\xa5pnet igjen.'
 ==/855780815501918208===
 
 
-
-
 ===855750831257399296===
+First text:
 b'Det brenner i noen planter p\xc3\xa5 en veranda. OBRE jobber med slokking. Ingen hjemme, og ikke meldt om noen personskade.'
+Children texts:
 b'Brannen er slokket og politiet oppretter sak.'
 ==/855750831257399296===
 
 
-
-
 ===855749597662236672===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til P. T. Mallingsvei hvor det brenner p\xc3\xa5 en terrasse.'
+Children texts:
 ==/855749597662236672===
 
 
-
-
 ===855740762251808769===
+First text:
 b'Politiet er p\xc3\xa5 vei til Tonsenhagen skole hvor det har g\xc3\xa5tt innbruddsalarm.'
+Children texts:
 ==/855740762251808769===
 
 
-
-
 ===855713274117181440===
+First text:
 b'N\xc3\xb8detatene er i Ensj\xc3\xb8veien hvor en fotgjenger er p\xc3\xa5kj\xc3\xb8rt av en bil. Har smerter i benet og armen. Blir sjekket av amb.'
+Children texts:
 b'Den skadde er kj\xc3\xb8rt til OKL for ytterliere sjekk og behandling. Politiet oppretter sak, og f\xc3\xb8rerkortet til f\xc3\xb8reren er beslaglagt.'
 ==/855713274117181440===
 
 
-
-
 ===855708055291482117===
+First text:
 b'Politiet har v\xc3\xa6rt i kontakt med medlemmer fra Natur og Ungdom som har brukt sin ytringsfriheten ved \xc3\xa5 henge opp et banner p\xc3\xa5 L\xc3\xb8vebakken.'
+Children texts:
 b'De hadde ikke s\xc3\xb8kt grunneier om tillatelse til dette og de m\xc3\xa5tte derfor fjerne banneret. De er ogs\xc3\xa5 forklart reglene rundt dette.'
 ==/855708055291482117===
 
 
-
-
 ===855679572427362308===
+First text:
 b'Melding om tagging p\xc3\xa5 Gr\xc3\xb8nland bazar. Veldig kort tid etterp\xc3\xa5 p\xc3\xa5grep vi 2 personer for forholdet. Kj\xc3\xb8res arresten.'
+Possible location:
+b'gr\xc3\xb8nland'
+Children texts:
 ==/855679572427362308===
 
 
-
-
 ===855566544843288576===
+First text:
 b'Vi har mottatt flere st\xc3\xb8yklager p\xc3\xa5 russebusser ved Lambertseter og Skullerud. Vi f\xc3\xb8lger opp st\xc3\xb8yklagene n\xc3\xa5r vi har ledig kapasitet.'
+Possible location:
+b'lambertseter'
+Children texts:
 ==/855566544843288576===
 
 
-
-
 ===855563053810765828===
+First text:
 b'Ubev\xc3\xa6pnet patrulje p\xc3\xa5 husbr\xc3\xa5k p\xc3\xa5 Ekeberg ble truet med machete av aggressiv beboer. Patrulje og en forn\xc3\xa6rmet kvinne trakk seg unna.'
+Children texts:
 b'Patruljen bev\xc3\xa6pnet seg og fikk bistand av andre patruljer. Kontroll p\xc3\xa5 mistenkte ved bruk av pepperspray. Ingen personer skadet.'
 b'Mistenkte var sv\xc3\xa6rt aggressiv p\xc3\xa5 stedet. Han blir anmeldt for blant annet \xc3\xa5 ha truet politiet med machete.'
 ==/855563053810765828===
 
 
-
-
 ===855552239628414976===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Uelands gate etter melding om brannalarm som g\xc3\xa5r samtidig som det lukter brent i oppgangen.'
+Children texts:
 b'N\xc3\xb8detatene er i kontakt med en mann som var i en leilighet med brent mat av noe slag. Ikke meldt om personskade.'
 ==/855552239628414976===
 
 
-
-
 ===855534307879907329===
+First text:
 b'Huitfeldtsgate: en person skal v\xc3\xa6re p\xc3\xa5kj\xc3\xb8rt, n\xc3\xb8detatene er p\xc3\xa5 vei.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet i Huitfeldts gate sammen med ambulansen. Kvinnen som ble p\xc3\xa5kj\xc3\xb8rt blir kj\xc3\xb8rt til sykehus. Ukjent skadeomfang, men var bevisst'
 b'Spor p\xc3\xa5 stedet tyder p\xc3\xa5 at kvinnen ble p\xc3\xa5kj\xc3\xb8rt i fotgjengerfeltet. Bilf\xc3\xb8rers f\xc3\xb8rerkort blir beslaglagt.'
 ==/855534307879907329===
 
 
-
-
 ===855430717035216896===
+First text:
 b'Trondheimsveien: melding om kollisjon mellom 2 biler, lettere personskade. Politiet er p\xc3\xa5 vei til stedet.'
+Children texts:
 ==/855430717035216896===
 
 
-
-
 ===855383381227581441===
+First text:
 b'Vi er p\xc3\xa5 vei til trafikkulykke mellom bil og lastebil i Vogtsgate x Marcus Thranesgate.'
+Children texts:
 b'Ambulanse er p\xc3\xa5 stedet. Noe trafikale problemer.'
 ==/855383381227581441===
 
 
-
-
 ===855364301955182592===
+First text:
 b'Trafikkulykke Solli plass. En fotgjenger er p\xc3\xa5kj\xc3\xb8rt av en buss. Skal v\xc3\xa6re bevisst, blir unders\xc3\xb8kt av ambulanse p\xc3\xa5 stedet.'
+Children texts:
 ==/855364301955182592===
 
 
-
-
 ===855339859409371136===
+First text:
 b'Bj\xc3\xb8rvikatunnellen \xc3\xb8stg\xc3\xa5ende: Motorsykkel som har veltet. Singelulykke. Ukjent skadeomfang. Vi er p\xc3\xa5 stedet'
+Children texts:
 b'En person med tilsynelatende mindre personskader blir tatt h\xc3\xa5nd om av helsepersonell. Sak opprettes.'
 ==/855339859409371136===
 
 
-
-
 ===855338942622650369===
+First text:
 b'Vi er i Trondheimsveien i forbindelse med trussel med skytev\xc3\xa5pen. Vi har kontroll p\xc3\xa5 alle involverte parter og gjennomf\xc3\xb8rer avh\xc3\xb8r p\xc3\xa5 stedet.'
+Children texts:
 b'Det har v\xc3\xa6rt snakk om verbale trusler.'
 b'En mann p\xc3\xa5grepet og kj\xc3\xb8rt i politiarresten.'
 ==/855338942622650369===
 
 
-
-
 ===855130231656591360===
+First text:
 b'Lofsrudh\xc3\xb8gda: Vi er p\xc3\xa5 stedet sammen med brannv ifb. melding om r\xc3\xb8yklukt. Viste seg \xc3\xa5 v\xc3\xa6re t\xc3\xb8rrkok'
+Children texts:
 ==/855130231656591360===
 
 
-
-
 ===855129985325162497===
+First text:
 b'Brugata: En kvinne ble skallet ned av en mann: Vi har kontroll p\xc3\xa5 kvinnen som er lettere skadet. Vi s\xc3\xb8ker etter gj.mannen'
+Children texts:
 ==/855129985325162497===
 
 
-
-
 ===855071279266844674===
+First text:
 b'Vi er i Haakon Tvetersvei etter melding om knivtrusler og br\xc3\xa5k i en leilighet.'
+Children texts:
 b'Vi har kontroll p\xc3\xa5 stedet. Ingen skadde. Den som har truet med kniv har l\xc3\xb8pt fra leiligheten. Vi s\xc3\xb8ker i omr\xc3\xa5det'
 ==/855071279266844674===
 
 
-
-
 ===855002353971449856===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Haugenstua togstasjon, hvor en person skal v\xc3\xa6re p\xc3\xa5kj\xc3\xb8rt.'
+Possible location:
+b'haugenstua'
+Children texts:
 b'All togtrafikk er stoppet p\xc3\xa5 stedet.'
+Possible location:
+b'haugenstua'
 b'En person er bekreftet d\xc3\xb8d p\xc3\xa5 stedet.'
+Possible location:
+b'haugenstua'
 ==/855002353971449856===
 
 
-
-
 ===854984993474576384===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Agathe Gr\xc3\xb8ndahls gate, hvor det er meldt om r\xc3\xb8ykutvikling i en leilighet.'
+Children texts:
 b'Ingen r\xc3\xb8yk eller brann p\xc3\xa5 stedet.'
 ==/854984993474576384===
 
 
-
-
 ===854860850389233664===
+First text:
 b'E6 inng\xc3\xa5ende ved Abilds\xc3\xb8. En politipatrulje har stanset en bil hvor f\xc3\xb8rer ikke innehar gyldig f\xc3\xb8rerkort. Blir anmeldt.'
+Possible location:
+b'abilds\xc3\xb8'
+Children texts:
 ==/854860850389233664===
 
 
-
-
 ===854837680164753408===
+First text:
 b'Nordaaks gate. Vi er p\xc3\xa5 stedet etter at det har blitt knust en rute p\xc3\xa5 en bil. En person stanset i umiddelbar n\xc3\xa6rhet til stedet.'
+Children texts:
 b'Vedkommende hadde glassk\xc3\xa5r i genseren, samt at hundepatruljen v\xc3\xa5r gikk et spor fra den aktuelle bilen rett til personen vi har anholdt.'
 b'Personen kj\xc3\xb8res arrest, anmeldelse opprettes.'
 ==/854837680164753408===
 
 
-
-
 ===854785980007632897===
+First text:
 b'Vestil/Jesperud: Vi har kontroll p\xc3\xa5 noen ungdommer som har kastet steiner mot spillere p\xc3\xa5 fotballbanen. Ingen skadde s\xc3\xa5 langt'
+Children texts:
 ==/854785980007632897===
 
 
-
-
 ===854687949585350656===
+First text:
 b'\xc3\x98stbanehallen: Det brenner i en s\xc3\xb8ppelkasse, og flere personer skal v\xc3\xa6re eksponert for r\xc3\xb8yk. N\xc3\xb8detater p\xc3\xa5 stedet'
+Children texts:
 b'Brannen er i en s\xc3\xb8ppelsjakt. Reisende og andre er evakuert inntil videre'
 b'Brannen, som til slutt viste seg \xc3\xa5 v\xc3\xa6re i et lager, er slukket, men det er mye r\xc3\xb8yk i omr\xc3\xa5det, og hele \xc3\x98stbanehallen blir evakuert.'
 b'Alle evakuerte kan f\xc3\xa5 slippe inn igjen til Oslo S.'
 ==/854687949585350656===
 
 
-
-
 ===854675022820126720===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Hoffsveien. Melding om brann'
+Children texts:
 b'Vi er fremme p\xc3\xa5 stedet. Det er flammer ut fra leilighet i 2. etg. og obre jobber med \xc3\xa5 slukke.'
 b'Da bekrefter brannvesenet at brannen er slukket. En person har evakuert seg selv'
 ==/854675022820126720===
 
 
-
-
 ===854606785134686208===
+First text:
 b'N\xc3\xb8detatene deltar p\xc3\xa5 en \xc3\xb8velse p\xc3\xa5 \xc3\x85sland pukkverk i samarbeid med Follobanen.'
+Children texts:
 ==/854606785134686208===
 
 
-
-
 ===854597518012887041===
+First text:
 b'E18 vestg\xc3\xa5ende v/Bygd\xc3\xb8ylokket st\xc3\xa5r det en liten lastebil med stans i kollektivfeltet. Kommer br\xc3\xa5tt p\xc3\xa5. Vi er p\xc3\xa5 vei'
+Possible location:
+b'bygd\xc3\xb8y'
+Children texts:
 b'Bilen er fjernet og kj\xc3\xb8refeltet er \xc3\xa5pent'
+Possible location:
+b'bygd\xc3\xb8y'
 ==/854597518012887041===
 
 
-
-
 ===854595783487889408===
+First text:
 b'I L\xc3\xb8rentunnellen h\xc3\xb8yre felt \xc3\xb8stg\xc3\xa5ende l\xc3\xb8p st\xc3\xa5r det en bil med stans. Vaktbilen fra vts er p\xc3\xa5 stedet'
+Children texts:
 b'Bilen er fjernet og kj\xc3\xb8refeltet er \xc3\xa5pent'
 ==/854595783487889408===
 
 
-
-
 ===854503228037365760===
+First text:
 b'Aker Brygge: Slagsm\xc3\xa5l mellom flere personer. Vi er p\xc3\xa5 vei.'
+Children texts:
 b'Patrulje er p\xc3\xa5 stedet. Sl\xc3\xa5ssinga har opph\xc3\xb8rt. Vi unders\xc3\xb8ker hva som har skjedd.'
 b'Noen stakk fra stedet f\xc3\xb8r vi kom. Ingen med synlige skader. Partene anmelder hverandre i ettertid.'
 ==/854503228037365760===
 
 
-
-
 ===854495637366345728===
+First text:
 b'Storo: Patrulje kontrollerte en person, hvor vedkommende var i besittelse av et gassv\xc3\xa5pen og narkotika. P\xc3\xa5grepet og kj\xc3\xb8rt arrest.'
+Children texts:
 ==/854495637366345728===
 
 
-
-
 ===854489725427691520===
+First text:
 b'Rusel\xc3\xb8kkveien: Melding om brann. Vi er p\xc3\xa5 vei.'
+Children texts:
 b'Brannvesenet melder at brannen skal v\xc3\xa6re slukket. Ingen evakuerte. Ingen skadde.'
 b'Et kubbelys som har brent ned og tatt fyr inne hos Baker Hansen. OBRE lufter ut p\xc3\xa5 stedet n\xc3\xa5.'
 ==/854489725427691520===
 
 
-
-
 ===854476940643897344===
+First text:
 b'Karl Johans gate: Melding om slagsm\xc3\xa5l mellom to-tre personer. Vi er p\xc3\xa5 vei.'
+Children texts:
 b'Finner ingen sl\xc3\xa5sskamp, og heller ingen skadde.'
 ==/854476940643897344===
 
 
-
-
 ===854454803891707905===
+First text:
 b'Granstangen: Patrulje stanset en rusp\xc3\xa5virket f\xc3\xb8rer. Vedkommende hadde heller ikke gyldig f\xc3\xb8rerkort. Kj\xc3\xb8res inn for utvidet pr\xc3\xb8vetaking.'
+Children texts:
 ==/854454803891707905===
 
 
-
-
 ===854450505325715459===
+First text:
 b'Oscars gate: Taxi kj\xc3\xb8rte p\xc3\xa5 r\xc3\xb8dt lys og fors\xc3\xb8kte \xc3\xa5 unndra seg kontroll. Vedkommende er n\xc3\xa5 fratatt f\xc3\xb8rerkortet, og anmeldes for dette.'
+Children texts:
 ==/854450505325715459===
 
 
-
-
 ===854447357320192000===
+First text:
 b'Holmlia: Trafikkulykke mellom to biler. Ingen av bilene er kj\xc3\xb8rbare. Kan se ut som det er snakk om lettere personskader.'
+Possible location:
+b'holmlia'
+Children texts:
 b'Brudd p\xc3\xa5 vikeplikt som er \xc3\xa5rsaken til dette. Lettere personskader.'
+Possible location:
+b'holmlia'
 b'Vedkommende som br\xc3\xb8t vikeplikten fikk beslaglagt sitt f\xc3\xb8rerkort. Patrulje oppretter sak. Begge bilene er n\xc3\xa5 tauet bort.'
+Possible location:
+b'holmlia'
 ==/854447357320192000===
 
 
-
-
 ===854415162337525760===
+First text:
 b'Vekter tok kontroll p\xc3\xa5 en tyv som sa hun hadde en slange i sekken. Viste seg at det var et slangefutteral som raslet n\xc3\xa5r det ble ristet.'
+Children texts:
 b'Kvinnen hadde ikke stj\xc3\xa5let noe og ble dimittert av oss. Uklart hvorfor hun hadde oppgitt \xc3\xa5 ha en slange i sekken.'
 ==/854415162337525760===
 
 
-
-
 ===854361056126394369===
+First text:
 b'Trafikkontroll i Ullev\xc3\xa5lsveien hvor det er gjennomkj\xc3\xb8ring forbudt endte med 20 b\xc3\xb8ter og to anmeldelser. Ny kontroll i sentrum etter en pause'
+Children texts:
 b'De to som ble anmeldt \xc3\xb8nsket ikke \xc3\xa5 vedta boten p\xc3\xa5 stedet. Omr\xc3\xa5det er skiltet slik grunnet arbeider i Ullev\xc3\xa5lsveien.'
 ==/854361056126394369===
 
 
-
-
 ===854355573361561600===
+First text:
 b'Melder ble p\xc3\xa5kj\xc3\xb8rt bakfra p\xc3\xa5 Tveita. Mente at den andre f\xc3\xb8reren var beruset. Det kunne v\xc3\xa5rt alkometer bekrefte. Ingen personskade.'
+Possible location:
+b'tveita'
+Children texts:
 ==/854355573361561600===
 
 
-
-
 ===854328813701955584===
+First text:
 b'Bil med stans p\xc3\xa5 brua i Lodalen mot Ekebergtunnelen. Bilbergning er straks p\xc3\xa5 vei. Medf\xc3\xb8rer enda mer k\xc3\xb8 i V\xc3\xa5lerengatunnelen.'
+Possible location:
+b'lodalen'
+Children texts:
 b'Bilen kom seg avg\xc3\xa5rde for egen maskin og dermed er alle felt \xc3\xa5pne p\xc3\xa5 Lodalsbrua.'
+Possible location:
+b'lodalen'
 ==/854328813701955584===
 
 
-
-
 ===854233233499848704===
+First text:
 b'Kirkeveien v/Suhmsgt er vi p\xc3\xa5 stedet ifm trafikkulykke. MC mot bil. Uvisst skadeomfang. Ambulanse er p\xc3\xa5 vei'
+Children texts:
 b'Bilf\xc3\xb8reren f\xc3\xa5r beslaglagt f\xc3\xb8rerkortet. Politiet oppretter sak p\xc3\xa5 forholdet.'
 ==/854233233499848704===
 
 
-
-
 ===854216882395783169===
+First text:
 b'Sandakerveien. Trafikkulykke. Trikk mot bil. N\xc3\xb8detatene p\xc3\xa5 vei.'
+Possible location:
+b'sandaker'
+Children texts:
 b'Mindre materielle skader. En kvinne blir unders\xc3\xb8kt av ambulanse grunnet nakkesmerter.'
+Possible location:
+b'sandaker'
 ==/854216882395783169===
 
 
-
-
 ===854211044994142208===
+First text:
 b'E6 inng\xc3\xa5ende mellom V\xc3\xa5lerengtunnelen og Ekebergtunnelen. Trafikkulykke. Tre biler involvert. N\xc3\xb8detatene og bergingsbil p\xc3\xa5 vei. Skaper k\xc3\xb8.'
+Children texts:
 b'En kvinne f\xc3\xa5r tilsyn av ambulanse p\xc3\xa5 stedet grunnet nakkesmerter.'
 b'Bergingsbil p\xc3\xa5 stedet.'
 b'Veien \xc3\xa5pnet for normal ferdsel.'
 ==/854211044994142208===
 
 
-
-
 ===854148037194768384===
+First text:
 b'Maria Dehlis vei: Melding om r\xc3\xb8yk fra 2. etasje i boligblokk. N\xc3\xb8detatene p\xc3\xa5 vei'
+Children texts:
 b'Enhetene er p\xc3\xa5 stedet, og det lukter r\xc3\xb8yk, ingen flammer sett. Brannvesenet jobber med \xc3\xa5 lokalisere kilden.'
 b'R\xc3\xb8yken stammet fra svidd mat i en leilighet. Beboere blir unders\xc3\xb8kt av ambulansepersonell.'
 ==/854148037194768384===
 
 
-
-
 ===854071274871672832===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 E6 utg\xc3\xa5ende ved Furuset. Trafikkulykke mellom 2 biler. Amb tar en sjekk av involverte.'
+Possible location:
+b'furuset'
+Children texts:
 b'Det viser seg at det er 3 biler som har kollidert. Bilberger er p\xc3\xa5 vei, men det skapes k\xc3\xb8.'
+Possible location:
+b'furuset'
 b'Veien er fri igjen. 3 biler er tauet vekk.'
+Possible location:
+b'furuset'
 b'4 personer sendt til Oslo kommunale legevakt for lettere skader.'
+Possible location:
+b'furuset'
 ==/854071274871672832===
 
 
-
-
 ===854032906897031168===
+First text:
 b'Mina Beiteplukksvei. Politiet har anholdt en f\xc3\xb8rer som vi mistenker har kj\xc3\xb8rt i rusp\xc3\xa5virket tilstand.'
+Children texts:
 b'Anholdte kj\xc3\xb8res arrest for utvidet pr\xc3\xb8ve, f\xc3\xb8rerkortbeslag.'
 ==/854032906897031168===
 
 
-
-
 ===853974545266552832===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Selvbyggerveien p\xc3\xa5 melding om brann.'
+Children texts:
 b'Noen har evakuert seg selv, men brannen er slokket. Beboere skal ikke ha f\xc3\xa5tt i seg r\xc3\xb8yk.'
 ==/853974545266552832===
 
 
-
-
 ===853855911215063040===
+First text:
 b'Hvit MAN buss tilh\xc3\xb8rende Norway bussekspress stj\xc3\xa5let i Oslo sentrum for kort tid siden. Kjennemerke PR 34187. Ser du denne, ring politiet.'
+Children texts:
 b'Bussen er til rette. Funnet like ved R\xc3\xa5duskaien .'
 ==/853855911215063040===
 
 
-
-
 ===853745686331969538===
+First text:
 b'Vi har f\xc3\xa5tt melding om mulig t\xc3\xb8rrkok fra Enebakkveien. N\xc3\xb8detatene er p\xc3\xa5 vei til stedet'
+Children texts:
 b'Vi er p\xc3\xa5 stedet. Brannvesenet har kontroll p\xc3\xa5 stedet. En person f\xc3\xa5tt i seg litt r\xc3\xb8yk.'
 ==/853745686331969538===
 
 
-
-
 ===853687250202361859===
+First text:
 b'Vi er i Olav V`s gt. ifm at en person skal v\xc3\xa6re knivstukket. Vedkommende er kj\xc3\xb8rt sykehus med uvisst skadeomfang.'
+Children texts:
 b'Politiet er p\xc3\xa5 \xc3\xa5stedet og jobber med teknisk og taktisk etterforskning. Fremdeles uvisst skadeomfang p\xc3\xa5 forn\xc3\xa6rmede'
 ==/853687250202361859===
 
 
-
-
 ===853623396109885442===
+First text:
 b'N\xc3\xb8detatene er i Sigurds gate ifm at det har v\xc3\xa6rt brann i en s\xc3\xb8ppelkasse. Denne er slukket og det fremst\xc3\xa5r som udramatisk. Ingen pers. skade'
+Children texts:
 ==/853623396109885442===
 
 
-
-
 ===853570383445929984===
+First text:
 b'Bil stanset i sentrum. 6 personer i bilen. hvorav 2 usikrede sm\xc3\xa5 barn. F\xc3\xb8rer hadde ikke f\xc3\xb8rekort og bilen skulle avskiltes.'
+Children texts:
 ==/853570383445929984===
 
 
-
-
 ===853452193449594880===
+First text:
 b'Melding om brann i en restaurant i Motzfeldtsgate. Vi og Brannvesenet p\xc3\xa5 er stedet.'
+Children texts:
 b'Det har v\xc3\xa6rt brann i et elektrisk apparat. Brannvesenet har n\xc3\xa5 slukket dette og lufter ut endel r\xc3\xb8yk. Ingen personer skadet.'
 ==/853452193449594880===
 
 
-
-
 ===853425840658493440===
+First text:
 b'Vi er i Osterhausgate i forbindelse med r\xc3\xb8ykutvikling fra en garasje.'
+Children texts:
 b'\xc3\x85rsak til r\xc3\xb8ykutvikling var en motorsykkel som har "b\xc3\xb8rnet".'
 ==/853425840658493440===
 
 
-
-
 ===853414798977105922===
+First text:
 b'Melding om nok en sl\xc3\xa5sskamp mellom flere personer p\xc3\xa5 Bl\xc3\xa5 i Brenneriveien.Vi er p\xc3\xa5 stedet.'
+Children texts:
 b'Ingen er skadet. Vi er p\xc3\xa5 stedet med flere enheter for \xc3\xa5 bevare ro og orden.'
 ==/853414798977105922===
 
 
-
-
 ===853407659210526722===
+First text:
 b'Melding om en naken mann som l\xc3\xb8per rundt i Sandakerveien. Vi er p\xc3\xa5 vei for \xc3\xa5 fors\xc3\xb8ke \xc3\xa5 f\xc3\xa5 p\xc3\xa5 han noe kl\xc3\xa6r.'
+Possible location:
+b'sandaker'
+Children texts:
 b'Vi har ikke sett noe til mannen. Vi avslutter s\xc3\xb8ket.'
+Possible location:
+b'sandaker'
 ==/853407659210526722===
 
 
-
-
 ===853390583745925120===
+First text:
 b'Melding om sl\xc3\xa5sskamp mellom 3 personer p\xc3\xa5 Bl\xc3\xa5 i Brenneriveien .Vi er p\xc3\xa5 stedet og har kontroll.'
+Children texts:
 b'Tre personer p\xc3\xa5grepet og kj\xc3\xb8res arrest for ordensforstyrrelse. Vi m\xc3\xa5tte bruke pepperspray for \xc3\xa5 f\xc3\xa5 kontroll p\xc3\xa5 kamphanene.'
 ==/853390583745925120===
 
 
-
-
 ===853373944736473092===
+First text:
 b'Melding om flere smell og lysglimt fra omr\xc3\xa5det Sagene kirke. Vi er p\xc3\xa5 stedet med flere enheter og unders\xc3\xb8ker dette.'
+Children texts:
 b'Vi har s\xc3\xb8kt av omr\xc3\xa5det. Ingen skade p\xc3\xa5 personer eller materielle ting funnet . Vi konkluderer med at noen har fyrt av fyrverkeri .'
 b'Vi leter etter en bil og to personer som kan settes i sammenheng med saken.'
 ==/853373944736473092===
 
 
-
-
 ===853314508508540929===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 Lilleborg skole ifm at det brenner i noen s\xc3\xb8ppelkasser. Skal ikke v\xc3\xa6re fare for spredning.'
+Children texts:
 b'Obre bekrefter at brannen er slukket. Vi blir p\xc3\xa5 stedet en stund til'
 ==/853314508508540929===
 
 
-
-
 ===853290957533437953===
+First text:
 b'Politiet har p\xc3\xa5grepet to personer i Enebakkveien etter at en drosje ble stj\xc3\xa5let p\xc3\xa5 Stovner ca 1 time tidligere. Begge to kj\xc3\xb8res arresten'
+Possible location:
+b'stovner'
+Children texts:
 ==/853290957533437953===
 
 
-
-
 ===853194029537820673===
+First text:
 b'Vi er ute og ser etter en offensiv kar p\xc3\xa5 rullesk\xc3\xb8yter. Kj\xc3\xb8rer sikksakk mellom bilene i Thereses gate'
+Children texts:
 ==/853194029537820673===
 
 
-
-
 ===853087793706356737===
+First text:
 b'Melding om husbr\xc3\xa5k fra en leilighet p\xc3\xa5 Majorstua. Da vi ankom ble mannen p\xc3\xa5grepet og kvinnen gitt f\xc3\xb8rstehjelp etter at de hadde sloss.'
+Children texts:
 b'Mannen blir anmeldt for kropps skade og trusler. Kj\xc3\xb8res i arrest.'
 ==/853087793706356737===
 
 
-
-
 ===852984377311154176===
+First text:
 b'Politiet er i Linderudveien ifm s\xc3\xb8k etter en saknet somalisk gutt p\xc3\xa5 11 \xc3\xa5r. Besk: ca 140 cm, bl\xc3\xa5 jakke, r\xc3\xb8d joggebukse.'
+Possible location:
+b'linderud'
+Children texts:
 b'Dersom gutten p\xc3\xa5treffes ber vi om at en ringer politiet p\xc3\xa5 02800'
+Possible location:
+b'linderud'
 b'Da kom gutten til rette hjemme p\xc3\xa5 bopel'
+Possible location:
+b'linderud'
 ==/852984377311154176===
 
 
-
-
 ===852968882407190528===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Nils Huus gate ifm melding om r\xc3\xb8yk fra oppgang'
+Children texts:
 b'Vi er fremme og det er ingen brann. R\xc3\xb8yken kom fra grilling s\xc3\xa5 vi drar straks fra stedet'
 ==/852968882407190528===
 
 
-
-
 ===852840147670282245===
+First text:
 b'Helgesens gate. N\xc3\xb8detatene rykker ut til en melding om brann.'
+Children texts:
 b'R\xc3\xb8ykutvikling grunnet d\xc3\xa5rlig vedlikehold av pipe. Brannvesenet tillater ikke videre fyring f\xc3\xb8r dette er utbedret.'
 ==/852840147670282245===
 
 
-
-
 ===852822482876637184===
+First text:
 b'Stjernemyrveien: Melding om brann i en leilighet. Vi er straks p\xc3\xa5 stedet.'
+Children texts:
 b'Brannen er slukket. Ingen personskade.'
 ==/852822482876637184===
 
 
-
-
 ===852738803445899265===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Olaf Schous vei p\xc3\xa5 melding om r\xc3\xb8ykutvikling i en leilighet.'
+Children texts:
 b'Brannen er slokket av beboere. Har v\xc3\xa6rt endel r\xc3\xb8yk i leiligheten, og beboere sjekkes av amb.'
 ==/852738803445899265===
 
 
-
-
 ===852712973625937920===
+First text:
 b'N\xc3\xb8detatene og mannskaper fra Jernbanen er ved Geita bru/ gamlebyen. Et godstog har sporet av. Ingen personskade og mindre materielle skader.'
+Children texts:
 b'Toget har sporet av i lav hastighet. Bergingsarbeidet vil trolig ta noe tid grunnet den betydelige vekten p\xc3\xa5 materiellet som skal berges.'
 b'Dette vil trolig ikke ber\xc3\xb8re passasjertrafikken, men kun godstrafikken, og de ber\xc3\xb8rte selskaper er orientert.'
 b'Foto av vogna som lener seg mot brupillarene p\xc3\xa5 Geita bru. Foto tatt av politiets Innsatsleder. https://t.co/4O4zcaaqKU'
@@ -1413,880 +1571,994 @@ b'Arbeid p\xc3\xa5 stedet medf\xc3\xb8rer allikevel at passasjertrafikken blir b
 ==/852712973625937920===
 
 
-
-
 ===852694672669642752===
+First text:
 b'Politiet er ved McDonalds p\xc3\xa5 Alnabru hvor det er flere russebusser. Noen av russen klarer ikke \xc3\xa5 oppf\xc3\xb8re seg og har kastet ting p\xc3\xa5 fasaden.'
+Children texts:
 ==/852694672669642752===
 
 
-
-
 ===852672931897462785===
+First text:
 b'Politiet er p\xc3\xa5 vei til et utested i Skippergata hvor det et slagsm\xc3\xa5l mellom to gjester.'
+Children texts:
 b'Politiet har v\xc3\xa6rt i kontakt med de to kamphanene. Det var to kompiser som falt uklar og gjorde opp med knyttnevene. De har ordnet opp n\xc3\xa5.'
 ==/852672931897462785===
 
 
-
-
 ===852657386108186629===
+First text:
 b'Politiet har kontroll p\xc3\xa5 en tagger i Vallegata. Tatt mens han satt p\xc3\xa5 huk og tagget p\xc3\xa5 en vegg.'
+Children texts:
 b'Mannen er p\xc3\xa5grepet og kj\xc3\xb8res arresten.'
 ==/852657386108186629===
 
 
-
-
 ===852643854050369536===
+First text:
 b'En blodig mann har tatt seg til Shell Grorud. Politiet p\xc3\xa5 vei for \xc3\xa5 unders\xc3\xb8ke hva som har skjedd.'
+Possible location:
+b'grorud'
+Children texts:
 b'Da politiet kom frem til Shell Grorud hadde personen forlatt stedet i bil.'
+Possible location:
+b'grorud'
 ==/852643854050369536===
 
 
-
-
 ===852643328466268160===
+First text:
 b'Politiet og bilberger p\xc3\xa5 vei til E6 nordg\xc3\xa5ende ved Alnabru. En bil har f\xc3\xa5tt stans og st\xc3\xa5r i kollektivfeltet. 3-4 personer st\xc3\xa5r ved bilen.'
+Children texts:
 b'Bilen er hentet av bilberger, og veien er fri igjen.'
 ==/852643328466268160===
 
 
-
-
 ===852632772925681665===
+First text:
 b'Vi er i omr\xc3\xa5det B\xc3\xb8lerbakken. Flere meldere har meldt fra om h\xc3\xb8ye smell utend\xc3\xb8rs. Uvisst hva dette kan v\xc3\xa6re, mulig skudd.'
+Possible location:
+b'b\xc3\xb8ler'
+Children texts:
 ==/852632772925681665===
 
 
-
-
 ===852621100433494018===
+First text:
 b'Lakkegata Skole: Melding om slagsm\xc3\xa5l hvor en person muligens er sl\xc3\xa5tt med en hammer. Politi p\xc3\xa5 vei.'
+Children texts:
 ==/852621100433494018===
 
 
-
-
 ===852604706073575426===
+First text:
 b'Hausmannsgate: Melding om slagsm\xc3\xa5l mellom fire personer. Politiet er p\xc3\xa5 stedet n\xc3\xa5, ser ikke noe unormalt.'
+Children texts:
 b'Guttene hadde hoppa p\xc3\xa5 en trikk. Patrulje f\xc3\xb8lger n\xc3\xa5 trikken.'
 b'Patruljen stanset trikken ved Birkelunden. Stemningen var n\xc3\xa5 s\xc3\xa5pass god at det endte med en liten alvorsprat fra patruljen sin side.'
 ==/852604706073575426===
 
 
-
-
 ===852603997370372097===
+First text:
 b'Inga Bj\xc3\xb8rnsons vei: N\xc3\xb8detatene rykket ut til melding om brann. Viste seg \xc3\xa5 v\xc3\xa6re matlaging.'
+Children texts:
 ==/852603997370372097===
 
 
-
-
 ===852523683784609792===
+First text:
 b'Oslo S: Det har v\xc3\xa6rt en trusselsak med kniv inne p\xc3\xa5 omr\xc3\xa5det. Vektere fikk kontroll p\xc3\xa5 en person som var truende med kniv. Kontroll p\xc3\xa5 n\xc3\xa5.'
+Children texts:
 ==/852523683784609792===
 
 
-
-
 ===852507532908253184===
+First text:
 b'Ankerveien: Vi er p\xc3\xa5 vei til stedet i forbindelse med melding om t\xc3\xb8rrkok. En person skal ha f\xc3\xa5tt i seg noe r\xc3\xb8yk. Unders\xc3\xb8kes av ambulanse.'
+Children texts:
 ==/852507532908253184===
 
 
-
-
 ===852375440790626304===
+First text:
 b'I Badebakken har vi hentet en naken, agressiv og ruset mann. Skremte en rekke beboere. N\xc3\xa5 skal han hvile i arresten'
+Children texts:
 ==/852375440790626304===
 
 
-
-
 ===852317063444082688===
+First text:
 b'En beruset mann ringte og meldte om slossing p\xc3\xa5 Oppsal. Da vi kom frem var det kun melder som ville sloss. Han kj\xc3\xb8res i arrest.'
+Possible location:
+b'oppsal'
+Children texts:
 ==/852317063444082688===
 
 
-
-
 ===852253425647722498===
+First text:
 b'Trondheimsveien: Politiet p\xc3\xa5 vei til en leilighet hvor det trolig er en person som er skadet. Meldt om knivstikking.'
+Children texts:
 b'Vi har kontroll p\xc3\xa5 stedet n\xc3\xa5. En person er lettere skadet etter skade i et bein. Mulig brukt kniv/skarp gjenstand.'
 ==/852253425647722498===
 
 
-
-
 ===852246554589237248===
+First text:
 b'Vi er p\xc3\xa5 et utested p\xc3\xa5 Gr\xc3\xb8nland. Her har v\xc3\xa6rt slagsm\xc3\xa5l mellom flere personer. En mann er sl\xc3\xa5tt i hodet med en flaske. Lite hyggelig stemning'
+Possible location:
+b'gr\xc3\xb8nland'
+Children texts:
 ==/852246554589237248===
 
 
-
-
 ===852210327563493376===
+First text:
 b'Ved Veitvet Skole: Politiet fikk melding om noen ungdommer som skulle v\xc3\xa6re i besittelse av et v\xc3\xa5pen. Kort tid etterp\xc3\xa5 p\xc3\xa5traff vi 2 personer.'
+Possible location:
+b'veitvet'
+Children texts:
 b'Patruljene fant ogs\xc3\xa5 2 stk replika-v\xc3\xa5pen ved guttene.'
+Possible location:
+b'veitvet'
 b'Etter en god alvorsprat med guttene fikk de g\xc3\xa5 fra stedet. De skj\xc3\xb8nte at dette kunne skape frykt, og ville ikke leke slik mer.'
+Possible location:
+b'veitvet'
 ==/852210327563493376===
 
 
-
-
 ===852195998642438146===
+First text:
 b'Stovner senter: Melding om r\xc3\xb8ykutvikling i oppgang. N\xc3\xb8detatene er p\xc3\xa5 vei.'
+Possible location:
+b'stovner'
+Children texts:
 b'Askebeger p\xc3\xa5 utsiden av blokka f\xc3\xb8rte til litt r\xc3\xb8yklukt i oppgang. Ingenting for oss.'
+Possible location:
+b'stovner'
 ==/852195998642438146===
 
 
-
-
 ===852163914053931008===
+First text:
 b'N\xc3\xb8detatene er i \xc3\x98stensj\xc3\xb8veien. Melding om brann i en bedrift. Trolig ikke spredningsfare, mindre brann i en kjeller.'
+Children texts:
 ==/852163914053931008===
 
 
-
-
 ===852065368403259392===
+First text:
 b'Fredensborg: Melding om brann. N\xc3\xb8detatene er p\xc3\xa5 vei.'
+Children texts:
 b'Udramatisk, mindre r\xc3\xb8ykutvikling inne p\xc3\xa5 et rom. Ingen skadde.'
 ==/852065368403259392===
 
 
-
-
 ===851999206848045056===
+First text:
 b'Vi er i Hovseterveien med flere enheter, etter en melding om mulig knivstikking.'
+Possible location:
+b'hovseter'
+Children texts:
 b'Vi har forel\xc3\xb8pig ikke funnet noen som er skadd p\xc3\xa5 stedet.'
+Possible location:
+b'hovseter'
 b'Vi er i kontakt med en forn\xc3\xa6rmet som har f\xc3\xa5tt et slag i ansiktet. Det er ingenting som tyder p\xc3\xa5 at det har v\xc3\xa6rt brukt kniv.'
+Possible location:
+b'hovseter'
 ==/851999206848045056===
 
 
-
-
 ===851888728591282177===
+First text:
 b'Bogstadvannet. Vi er p\xc3\xa5 stedet etter melding om et r\xc3\xb8dt lys ute p\xc3\xa5 vannet. Dykkere er p\xc3\xa5 vei ut i vannet.'
+Children texts:
 b'Viste seg \xc3\xa5 v\xc3\xa6re en drone.'
 ==/851888728591282177===
 
 
-
-
 ===851788689378299904===
+First text:
 b'V\xc3\xa6ker\xc3\xb8veien. Vi er p\xc3\xa5 vei etter melding om brann i en hekk.'
+Children texts:
 b'V\xc3\xa6rt brann i en hekk som har spredd seg og gjort skade p\xc3\xa5 en bod. Ingen personskade.'
 ==/851788689378299904===
 
 
-
-
 ===851727031314374657===
+First text:
 b"Solveien: Meldinger om to BMW'er parkert langs denne veien, som er oppbrutt og t\xc3\xb8mt for dyrt utstyr. Vi foretar \xc3\xa5stedsunders\xc3\xb8kelser"
+Children texts:
 b'Vi har f\xc3\xa5tt melding om nok en BMW som har hatt innbrudd og blitt t\xc3\xb8mt for dyrt utstyr i Solveien. Vi foretar \xc3\xa5stedsunders\xc3\xb8kelse ogs\xc3\xa5 her.'
 ==/851727031314374657===
 
 
-
-
 ===851677217226711040===
+First text:
 b'Trondheimsveien/Helgesens gate: Fotgjenger p\xc3\xa5kj\xc3\xb8rt av lastebil, trolig personskader. N\xc3\xb8detater p\xc3\xa5 vei'
+Children texts:
 b'Fotgjengeren er bevisst, trolig brukket en fot. Blir ivaretatt av helse.'
 b'Fotgjenger kj\xc3\xb8rt sykehus. Trondheimsveien forel\xc3\xb8pig stengt fra Blytts gate. Vi jobber p\xc3\xa5 stedet'
 ==/851677217226711040===
 
 
-
-
 ===851530717402206209===
+First text:
 b'I Ekebergtunnellen har en bil mistet en tilhenger. Vi er p\xc3\xa5 stedet. Ingen personskade'
+Children texts:
 ==/851530717402206209===
 
 
-
-
 ===851386987152060416===
+First text:
 b'Furuset t-banestasjon: Ung kvinne er sett  g\xc3\xa5ende i t-banesporet. T-banen holdes tilbake i begge retninger. N\xc3\xb8detater er p\xc3\xa5 stedet.'
+Possible location:
+b'furuset'
+Children texts:
 b'Vi har kontroll p\xc3\xa5 jenta i T-banesporet. T-banen g\xc3\xa5r igjen som normalt'
+Possible location:
+b'furuset'
 ==/851386987152060416===
 
 
-
-
 ===851382713617719296===
+First text:
 b'RV4 etter avkj\xc3\xb8ring til Aker sykehus: Trafikkulykke med personskader. N\xc3\xb8detater er p\xc3\xa5 vei.'
+Children texts:
 b'Store materielle skader p\xc3\xa5 to biler som skal taues fra stedet. En person har f\xc3\xa5tt sjokk, men ellers skal ingen v\xc3\xa6re fysisk skadd.'
 b'Det er snakk om en p\xc3\xa5kj\xc3\xb8rsel bakfra, og tre personer er kj\xc3\xb8rt legevakt for sjekk. Den ene f\xc3\xb8reren fikk beslaglagt f\xc3\xb8rerkortet. Veien \xc3\xa5pnet'
 ==/851382713617719296===
 
 
-
-
 ===851345006396923904===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Fredensborgveien i forbindelse med melding om r\xc3\xb8ykutvikling fra en bygning.'
+Children texts:
 b'Det var en dorull som brant. Denne er n\xc3\xa5 slukket.'
 ==/851345006396923904===
 
 
-
-
 ===851159185161105410===
+First text:
 b'Furuset: Melding om brann p\xc3\xa5 balkong. Trolig er det snakk om matlaging. Vi er p\xc3\xa5 stedet.'
+Possible location:
+b'furuset'
+Children texts:
 ==/851159185161105410===
 
 
-
-
 ===851118672110383104===
+First text:
 b'Holmlia: Brann i gress og l\xc3\xb8v. Brannen er snart slukket.'
+Possible location:
+b'holmlia'
+Children texts:
 b'Brannen er slukket. Politiet oppretter sak.'
+Possible location:
+b'holmlia'
 ==/851118672110383104===
 
 
-
-
 ===851118535271174144===
+First text:
 b'Hegdehaugsveien: Brann i byg\xc3\xa5rd. En person unders\xc3\xb8kes av helsepersonell. Medf\xc3\xb8rer sperringer i Welhavens gt.'
+Children texts:
 b'En person kj\xc3\xb8res til legevakt for n\xc3\xa6rmere sjekk. Politiet oppretter en sak.'
 ==/851118535271174144===
 
 
-
-
 ===851002829800185856===
+First text:
 b'Hittet l\xc3\xb8s hund: Liten, brun og svart, lang h\xc3\xa5ret. Tispe. Funnet i omr\xc3\xa5det Ulven. Eier kan ringe 02800.'
+Children texts:
 ==/851002829800185856===
 
 
-
-
 ===850809227660623872===
+First text:
 b'Gr\xc3\xb8nland: Vi har sperret av et st\xc3\xb8rre omr\xc3\xa5de da vi har funnet en bombeliknende gjenstand. Vi kommer tilbake med mer.'
+Possible location:
+b'gr\xc3\xb8nland'
+Children texts:
 b'Presse kan m\xc3\xb8te i Kristian Kroghs gate, ved Cafe Con Bar. De vil f\xc3\xa5 mer info fra innsatsleder p\xc3\xa5 stedet.'
+Possible location:
+b'gr\xc3\xb8nland'
 b'Det kan virke som at dette er en gjenstand som ikke har stort skadepotensiale. Sperringene er opprettet for \xc3\xa5 holde folk unna...'
+Possible location:
+b'gr\xc3\xb8nland'
 b'...til vi har f\xc3\xa5tt unders\xc3\xb8kt stedet.'
+Possible location:
+b'gr\xc3\xb8nland'
 b'Vi har kontroll p\xc3\xa5 stedet, og avventer n\xc3\xa5 til vi har f\xc3\xa5tt foretatt n\xc3\xb8dvendige unders\xc3\xb8kelser.Vi har kontroll p\xc3\xa5 en person med status mistenkt'
+Possible location:
+b'gr\xc3\xb8nland'
 b'Politiets bombegruppe er n\xc3\xa5 p\xc3\xa5 stedet og starter med sine unders\xc3\xb8kelser.'
+Possible location:
+b'gr\xc3\xb8nland'
 b'OPD sender snarlig ut en pressemelding.'
+Possible location:
+b'gr\xc3\xb8nland'
 b'Gjenstanden er bekreftet uskadeliggjort av bombegruppen.'
+Possible location:
+b'gr\xc3\xb8nland'
 ==/850809227660623872===
 
 
-
-
 ===850792367833718784===
+First text:
 b'Gamlebyen: En person ut\xc3\xb8vde skadeverk mot flere biler. Hundepatruljen p\xc3\xa5traff riktig person. Han er n\xc3\xa5 p\xc3\xa5grepet og kj\xc3\xb8rt arrest.'
+Children texts:
 ==/850792367833718784===
 
 
-
-
 ===850714386872377345===
+First text:
 b'Tennisveien: Melding om brann i blokk, skal v\xc3\xa6re synlige flammer. N\xc3\xb8detatene er p\xc3\xa5 vei.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet. Synlige flammer fra 1. etg i bygget. En person er brannskadd, uvisst skadeomfang.'
 b'OBRE jobber med \xc3\xa5 slukke brannen. En person er lettere skadet, sjekkes av helse p\xc3\xa5 stedet. Trolig er brannen p\xc3\xa5tent.'
 b'Brannen er slukket. En person er kj\xc3\xb8rt legevakt.'
 ==/850714386872377345===
 
 
-
-
 ===850701287079522304===
+First text:
 b'Mortensrud/Stenbr\xc3\xa5ten; Noen meldere har h\xc3\xb8rt smell/skudd i omr\xc3\xa5det. Vi unders\xc3\xb8ker saken.'
+Possible location:
+b'mortensrud'
+Children texts:
 ==/850701287079522304===
 
 
-
-
 ===850675904728748033===
+First text:
 b'Maridalsveien 54: Meldt om r\xc3\xb8klukt. N\xc3\xb8detatene p\xc3\xa5 vei'
+Children texts:
 b'T\xc3\xb8rrkok var \xc3\xa5rsaken til r\xc3\xb8yklukten. Beboer sjekkes av amb personell'
 ==/850675904728748033===
 
 
-
-
 ===850499849904586752===
+First text:
 b'Lysaker. Taxisj\xc3\xa5f\xc3\xb8r fraranet bilen. Vi har sporet den opp og p\xc3\xa5grepet en person.'
+Children texts:
 ==/850499849904586752===
 
 
-
-
 ===850414518786281472===
+First text:
 b'Trasop: Melding om brann - n\xc3\xb8detatene er p\xc3\xa5 vei.'
+Children texts:
 b'Viste seg \xc3\xa5 v\xc3\xa6re engangsgrill p\xc3\xa5 taket p\xc3\xa5 Trasop skole.'
 ==/850414518786281472===
 
 
-
-
 ===850403297232072706===
+First text:
 b'Mosseveien ca ved nr. 200. Vi er p\xc3\xa5 vei til stedet etter melding om gressbrann.'
+Children texts:
 b'Brannen er n\xc3\xa5 slukket av beboer selv.'
 ==/850403297232072706===
 
 
-
-
 ===850380087845433344===
+First text:
 b'Vi er p\xc3\xa5 vei til Johan Castbergs vei, hvor det er melding om en bil i brann.'
+Children texts:
 b'Brannen er n\xc3\xa5 slukket.'
 ==/850380087845433344===
 
 
-
-
 ===850286456337829892===
+First text:
 b'Politi og OBRE er p\xc3\xa5 vei til Ekeberg Camping, hvor det er meldt om brann i et kj\xc3\xb8ret\xc3\xb8y.'
+Children texts:
 ==/850286456337829892===
 
 
-
-
 ===850163469953511425===
+First text:
 b'P\xc3\xa5 Hasle har vi kontroll p\xc3\xa5 en bilf\xc3\xb8rer som ikke ville stanse for kontroll. Funn av pistol i bilen. Han var p\xc3\xa5virket av narkotika'
+Children texts:
 ==/850163469953511425===
 
 
-
-
 ===850136604865957888===
+First text:
 b'Vi har v\xc3\xa6rt hjemme hos en kar p\xc3\xa5 Sandaker og tatt beslag i hans mobiltelefon. Han brukte natten til \xc3\xa5 ringe 112'
+Possible location:
+b'sandaker'
+Children texts:
 ==/850136604865957888===
 
 
-
-
 ===850087492611170307===
+First text:
 b'Trafikkuhell i Svartdalstunnellen retning Ryen. Venstre felt er stengt, trafikken g\xc3\xa5r forbi i h\xc3\xb8yre felt. Endel k\xc3\xb8 m\xc3\xa5 p\xc3\xa5regnes.'
+Children texts:
 b'F\xc3\xb8rer av personbil er p\xc3\xa5grepet. Siktet for bruk og besittelse av narkotika'
 ==/850087492611170307===
 
 
-
-
 ===850082365221326853===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 E6 inng\xc3\xa5ende ved Ulvensplitten i forbindelse med en ulykke. Trafikken g\xc3\xa5r forbi i et felt.'
+Children texts:
 b'E6 vil bli stengt en liten periode da n\xc3\xb8detatene har behov for \xc3\xa5 arbeide p\xc3\xa5 stedet. Trafikanter m\xc3\xa5 p\xc3\xa5regne k\xc3\xb8.'
 b'Trafikken g\xc3\xa5r n\xc3\xa5 forbi i et felt.'
 ==/850082365221326853===
 
 
-
-
 ===850071868723867648===
+First text:
 b'Vi og brannvesenet er p\xc3\xa5 vei til pipebrann i Ekraveien.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet. Det brenner i pipa med ikke behov for \xc3\xa5 evakuere bygget. Brannvesenet har kontroll.'
 ==/850071868723867648===
 
 
-
-
 ===849984069295362049===
+First text:
 b'Melding om brann i bygning i Olav Nyg\xc3\xa5rdsvei. Alle n\xc3\xb8detater p\xc3\xa5 vei'
+Children texts:
 b'Vi er p\xc3\xa5 stedet. Brannen slukket. En person f\xc3\xa5tt i seg noe r\xc3\xb8yk.'
 ==/849984069295362049===
 
 
-
-
 ===849861186266988544===
+First text:
 b'E18 inng\xc3\xa5ende ved Orm\xc3\xb8ya. Vi er p\xc3\xa5 vei til melding om trafikkulykke mellom en bil og en motorsyklist. Uvisst skadeomfang.'
+Children texts:
 b'Trafikken skal flyte greit forbi stedet.'
 b'Skal v\xc3\xa6re snakk om overflatiske skader p\xc3\xa5 motorsyklist.'
 ==/849861186266988544===
 
 
-
-
 ===849851745954131968===
+First text:
 b'T\xc3\xa5senveien. Vi er p\xc3\xa5 vei til melding om trafikkulykke mellom bil og syklist.'
+Possible location:
+b't\xc3\xa5sen'
+Children texts:
 b'Syklist har et brudd i ben og bl\xc3\xb8r fra hodet, kj\xc3\xb8res sykehus. Er ved bevissthet.'
+Possible location:
+b't\xc3\xa5sen'
 b'Skaper en del k\xc3\xb8 p\xc3\xa5 stedet.'
+Possible location:
+b't\xc3\xa5sen'
 b'Vi jobber fremdeles p\xc3\xa5 stedet, men trafikken skal n\xc3\xa5 flyte greit forbi.'
+Possible location:
+b't\xc3\xa5sen'
 ==/849851745954131968===
 
 
-
-
 ===849812813224849410===
+First text:
 b'I Wessels gate stanset vi en bilf\xc3\xb8rer. Hadde promille, ikke f\xc3\xb8rerkort og det var avskiltingsbegj\xc3\xa6ring p\xc3\xa5 bilen'
+Children texts:
 ==/849812813224849410===
 
 
-
-
 ===849770999277137920===
+First text:
 b'P\xc3\xa5 Oslo S tok vi kontroll p\xc3\xa5 en kar med en replica pistol i en veske. Ingen trusler, men hadde vist dette frem til venner.'
+Children texts:
 ==/849770999277137920===
 
 
-
-
 ===849712537826463744===
+First text:
 b'Christian Kroghs gate. N\xc3\xb8detatene rykker ut til en melding om brann.'
+Children texts:
 b'Varmgang i en lampe. Ingen brann.'
 ==/849712537826463744===
 
 
-
-
 ===849674933403865088===
+First text:
 b'Carl Kjelsens vei. N\xc3\xb8detatene rykker ut til en trafikkulykke. Bil mot syklist.'
+Children texts:
 b'Syklisten har f\xc3\xa5tt et rundkast, men fremst\xc3\xa5r ikke som alvorlig skadet. Smerter i en skulder.'
 ==/849674933403865088===
 
 
-
-
 ===849647503909818368===
+First text:
 b'Pilestredet. Vannlekkasje. Vi er sammen med brannvesenet i en leilighet for \xc3\xa5 stanse denne.'
+Children texts:
 b'Kun en mindre lekkasje fra vaskemaskin. Den er stanset.'
 ==/849647503909818368===
 
 
-
-
 ===849596056514023426===
+First text:
 b'N\xc3\xb8detatene p\xc3\xa5 vei til Refstadsvingen, hvor det er meldt om mulig brann p\xc3\xa5 stedet.'
+Children texts:
 ==/849596056514023426===
 
 
-
-
 ===849591267038199809===
+First text:
 b'Politi og ambulanse p\xc3\xa5 vei til Ytre Ringvei p\xc3\xa5 Tveita, hvor det har v\xc3\xa6rt en trafikkulykke.'
+Possible location:
+b'tveita'
+Children texts:
 ==/849591267038199809===
 
 
-
-
 ===849582697165008900===
+First text:
 b'Politiet er p\xc3\xa5 vei til Bj\xc3\xb8rvika tunnelen vestg\xc3\xa5ende, hvor det g\xc3\xa5r en mann i l\xc3\xb8pet.'
+Children texts:
 ==/849582697165008900===
 
 
-
-
 ===849565965536907264===
+First text:
 b'Politiet er p\xc3\xa5 Oslo S, og s\xc3\xb8ker etter en mann som har l\xc3\xb8pt inn i sporet.'
+Children texts:
 b'Vi har f\xc3\xa5tt kontroll p\xc3\xa5 mannen.'
 b'Togene kan begynne \xc3\xa5 g\xc3\xa5 igjen, men det m\xc3\xa5 p\xc3\xa5regnes forsinkelser.'
 ==/849565965536907264===
 
 
-
-
 ===849506831458349058===
+First text:
 b'Hellerudveien. Vi er p\xc3\xa5 stedet i forbindelse med en trafikkulykke. V\xc3\xa6rt p\xc3\xa5kj\xc3\xb8rsel bakfra. En passasjer klaget over nakkesmerter.'
+Children texts:
 b'En person blir anholdt og kj\xc3\xb8res arrest. Mistanke om kj\xc3\xb8ring i rusp\xc3\xa5virket tilstand, samt at han ikke hadde gyldig f\xc3\xb8rerkort.'
 ==/849506831458349058===
 
 
-
-
 ===849456760087826432===
+First text:
 b'Bredo Stabells vei: Vannlekkasje fra et kumlokk, trolig pga brudd i hovedr\xc3\xb8rledning. Brannvesen, politi og OVA p\xc3\xa5 stedet.'
+Children texts:
 b'Det er ikke behov for \xc3\xa5 sperre av veier i omr\xc3\xa5det. Politiet forlater stedet, og OVA jobber med \xc3\xa5 stanse lekkasjen.'
 ==/849456760087826432===
 
 
-
-
 ===849430278007398400===
+First text:
 b'En person er kj\xc3\xb8rt Ullev\xc3\xa5l etter en knivstikking som skal ha funnet sted i en leilighet p\xc3\xa5 Rodel\xc3\xb8kka. Forn\xc3\xa6rmede er ikke livstruende skadd.'
+Children texts:
 ==/849430278007398400===
 
 
-
-
 ===849360738644787200===
+First text:
 b'Karihaugen. Melding om brann i lastebil. N\xc3\xb8detatene p\xc3\xa5 vei.'
+Children texts:
 b'Brannen slukket. Kun materielle skader.'
 ==/849360738644787200===
 
 
-
-
 ===849350735317880832===
+First text:
 b'P\xc3\xa5 \xc3\x98stre Aker vei var f\xc3\xb8rer av en Tesla vel offensiv ved utkj\xc3\xb8ring fra bensinstasjon. Kj\xc3\xb8rte rett i autovernet. Blir anmeldt.F\xc3\xb8rerkortbeslag'
+Children texts:
 ==/849350735317880832===
 
 
-
-
 ===849326737360027651===
+First text:
 b'Ammerudhellinga. N\xc3\xb8detatene rykker ut til en melding om brann.'
+Possible location:
+b'ammerud'
+Children texts:
 b'Brann i et s\xc3\xb8ppelrom. Forel\xc3\xb8pig foretas det ikke evakuering p\xc3\xa5 adressen.'
+Possible location:
+b'ammerud'
 b'Brannen er slukket. Brannvesenet starter utlufting.'
+Possible location:
+b'ammerud'
 ==/849326737360027651===
 
 
-
-
 ===849315991565848579===
+First text:
 b'Oskar Braatens gate. N\xc3\xb8detatene rykker ut til en melding om r\xc3\xb8yklukt i oppgang.'
+Children texts:
 b'T\xc3\xb8rrkoking. Kun en hund til stede i leiligheten.'
 ==/849315991565848579===
 
 
-
-
 ===849282701580537856===
+First text:
 b'Sonja Henies plass. Et vindu p\xc3\xa5 en fasade er knust. Fare for fotgjengere. Et omr\xc3\xa5de blir sperret av i p\xc3\xa5vente av sikring.'
+Children texts:
 ==/849282701580537856===
 
 
-
-
 ===849259750969749505===
+First text:
 b'E6 inng\xc3\xa5ende v/ Furuset. Trafikkulykke mellom lastebil og 3 biler. Skal ikke v\xc3\xa6re personskade, men vil trolig skape litt k\xc3\xb8.'
+Possible location:
+b'furuset'
+Children texts:
 ==/849259750969749505===
 
 
-
-
 ===849243762073227264===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 Tine Meierier p\xc3\xa5 Kalbakken etter melding om r\xc3\xb8ykutvikling p\xc3\xa5 et teknisk rom.'
+Children texts:
 b'Udramatisk p\xc3\xa5 stedet, if\xc3\xb8lge brannvesenet. Har v\xc3\xa6rt r\xc3\xb8ykutvikling p\xc3\xa5 et tavlerom. Kontroll p\xc3\xa5 stedet.'
 ==/849243762073227264===
 
 
-
-
 ===848788051648290816===
+First text:
 b'Stjerneblokkveien. Vi er p\xc3\xa5 vei til stedet etter melding om en person som skal ha knust et vindu i en blokk.'
+Children texts:
 b'Vi er i kontakt med en person som skal ha utf\xc3\xb8rt skadeverket.'
 ==/848788051648290816===
 
 
-
-
 ===848752367726211072===
+First text:
 b'\xc3\x98stre Aker vei ved avkj\xc3\xb8ringen til Stovner: En p\xc3\xa5kj\xc3\xb8rt hund i veibane. Vegtrafikksentralen har vaktbilen sin p\xc3\xa5 vei til stedet.'
+Possible location:
+b'stovner'
+Children texts:
 b'Vaktbilen til Vegtrafikksentralen har s\xc3\xb8kt etter hunden, men ikke funnet den.'
+Possible location:
+b'stovner'
 b'Vegtrafikksentralen melder at de fant en p\xc3\xa5kj\xc3\xb8rt og d\xc3\xb8d grevling like ved avs\xc3\xb8kt omr\xc3\xa5de.'
+Possible location:
+b'stovner'
 ==/848752367726211072===
 
 
-
-
 ===848656182688591872===
+First text:
 b'N\xc3\xb8detatene er i Industrigata p\xc3\xa5 brann. Ukjent omfang, men det kommer r\xc3\xb8yk ut fra vinduet til en leilighet.'
+Children texts:
 b'OBRE har slokket brannen, og gj\xc3\xb8r noen ytterligere unders\xc3\xb8kelser i bygningsmassen for sikkerhets skyld. Ingen evakuerte.'
 b'3 personer fra leil har f\xc3\xa5tt i seg r\xc3\xb8yk og kj\xc3\xb8res OKL for sjekk. Noen personer fra adressen er n\xc3\xa5 evakuert i p\xc3\xa5vente av OBREs unders\xc3\xb8kelser.'
 ==/848656182688591872===
 
 
-
-
 ===848614620222959618===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Frennings vei, hvor det er meldt om r\xc3\xb8yk i en bolig.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet, og det har kun v\xc3\xa6rt matlaging,'
 ==/848614620222959618===
 
 
-
-
 ===848577633877209088===
+First text:
 b'Eldre dement mann forsvunnet fra Fjellstuveien. Nordisk  utseende, m\xc3\xb8rkt h\xc3\xa5r, r\xc3\xb8d genser, m\xc3\xb8rk bukse og rullator. Ring 02800 ved p\xc3\xa5treff'
+Children texts:
 ==/848577633877209088===
 
 
-
-
 ===848539449910845440===
+First text:
 b'Politiet er p\xc3\xa5 legevakten med flere biler etter at en mann har kommet inn med kuttskader.'
+Children texts:
 b'En mann er kj\xc3\xb8rt videre til sykehus med kritiske skader etter kutt.'
 b'Tilstanden til forn\xc3\xa6rmede er bedre, og han er ikke lenger alvorlig skadet.'
 b'Politiet har p\xc3\xa5grepet en mann i 30 \xc3\xa5rene p\xc3\xa5 bopel i Oslo, som er siktet for grov kroppskade.'
 ==/848539449910845440===
 
 
-
-
 ===848520966942666752===
+First text:
 b'N\xc3\xb8detatene p\xc3\xa5 vei til Maridalsveien. Melding om brann i en leilighet. Mulig den kan alt v\xc3\xa6re slukket, vi sjekker ut dette.'
+Children texts:
 b'Antagelsene stemte. Ingen brann p\xc3\xa5 stedet n\xc3\xa5. Det har v\xc3\xa6rt en mindre udramatisk brann p\xc3\xa5 et kj\xc3\xb8kken. Ingen skadet.'
 ==/848520966942666752===
 
 
-
-
 ===848493568234848256===
+First text:
 b'N\xc3\xb8detatene er i Pilestredet etter melding om brann i 2. etg i en oppgang.'
+Children texts:
 b'Pilestredet er sperret mellom rundkj\xc3\xb8ringa Bislett og Sporveisgata. Flere personer har evakuert seg selv. OBRE jobber med slukking.'
 b'Brannvesenet har sl\xc3\xa5tt ned brannen, men jobber med \xc3\xa5 utelukke spredning bak vegger og tak i den gamle byg\xc3\xa5rden.'
 b'Vi er i kontakt med de tre guttene som hadde v\xc3\xa6rt i den aktuelle leiligheten. Ikke meldt om personskader s\xc3\xa5 langt.'
 ==/848493568234848256===
 
 
-
-
 ===848381158790504448===
+First text:
 b'Fra Vogts gate fikk vi melding om trusler. Viste seg at en mann var sl\xc3\xa5tt i hodet med en stekepanne og truet med kniv. En mann p\xc3\xa5grepet'
+Children texts:
 ==/848381158790504448===
 
 
-
-
 ===848354017789063169===
+First text:
 b'Vi er p\xc3\xa5 vei til Nordkappgata. En hissig kvinne som skal sl\xc3\xa5 og sparke i biler.'
+Children texts:
 ==/848354017789063169===
 
 
-
-
 ===848351880254238722===
+First text:
 b'I Skippergata ble en taxisj\xc3\xa5f\xc3\xb8r sl\xc3\xa5tt, samt truet med kniv. Vi har p\xc3\xa5grepet 2 personer'
+Children texts:
 ==/848351880254238722===
 
 
-
-
 ===848319717014216705===
+First text:
 b'Nissens gate: Vektere melder om r\xc3\xb8ykutvikling som de kan se via kamera. N\xc3\xb8detater er p\xc3\xa5 vei.'
+Children texts:
 b'Det er mest sannsynlig en teknisk feil, og det er ikke noe r\xc3\xb8ykutvikling p\xc3\xa5 stedet.'
 ==/848319717014216705===
 
 
-
-
 ===848319390525386753===
+First text:
 b'Sinsen: Melding om r\xc3\xb8yk i oppgang. N\xc3\xb8detater er p\xc3\xa5 vei til stedet.'
+Possible location:
+b'sinsen'
+Children texts:
 ==/848319390525386753===
 
 
-
-
 ===848285544702500864===
+First text:
 b'Politi og ambulanse er i Dalsbergstien, hvor det har v\xc3\xa6rt en trafikkulykke mellom bil og fotgjenger.'
+Children texts:
 b'Fotgjenger er lettere skadd. F\xc3\xb8rerkortet til f\xc3\xb8rer beslaglegges'
 ==/848285544702500864===
 
 
-
-
 ===848279343101083648===
+First text:
 b'Politiet har stanset en bil som kj\xc3\xb8rte p\xc3\xa5 r\xc3\xb8dt lys i Dronning Eufemias gate, hvor f\xc3\xb8rer er overstadig beruset.'
+Children texts:
 ==/848279343101083648===
 
 
-
-
 ===848271049372422149===
+First text:
 b'Vi s\xc3\xb8ker etter flere ungdommer i omr\xc3\xa5det Torggata, som har sendt av g\xc3\xa5rde fyrverkeri i Oslo sentrum.'
+Children texts:
 b'De skal blant annet ha sprengt et vindu i Badstugata ved buk av fyrverkeri. Vi har kontroll p\xc3\xa5 6 gutter p\xc3\xa5 Stortovet.'
 b'De 6 guttene i 20 \xc3\xa5rene blir bortvist fra Oslo sentrum frem til imorgen. Det ble ikke funnet fyrverkeri p\xc3\xa5 de.'
 ==/848271049372422149===
 
 
-
-
 ===848261973355765762===
+First text:
 b'Politiet er p\xc3\xa5 vei til R\xc3\xb8a, hvor vi har f\xc3\xa5tt inn en rekke meldinger p\xc3\xa5 en ungdomsfest som har tatt av.'
+Possible location:
+b'r\xc3\xb8a'
+Children texts:
 ==/848261973355765762===
 
 
-
-
 ===848258535641284608===
+First text:
 b'Politiet har stanset en bil ved Sandaker senter, hvor f\xc3\xb8rer er overstadig beruset. F\xc3\xb8reren blir kj\xc3\xb8rt inn for en utvidet pr\xc3\xb8ve.'
+Possible location:
+b'sandaker'
+Children texts:
 ==/848258535641284608===
 
 
-
-
 ===848163143918530560===
+First text:
 b'Tre biler har krasjet i L\xc3\xb8rentunnelen vestg\xc3\xa5ende. Ingen personskade, men alle m\xc3\xa5 taues. Ett felt \xc3\xa5pent inntil videre.'
+Children texts:
 ==/848163143918530560===
 
 
-
-
 ===848112473890836481===
+First text:
 b'Bil med stans i Festningstunnelen i retning mot Asker. To felt stengt, ett \xc3\xa5pent inntil videre. Tauebil er p\xc3\xa5 vei.'
+Children texts:
 b'N\xc3\xa5 er to felt i Festningstunnelen \xc3\xa5pne mens vi venter p\xc3\xa5 at tauebilen skal fjerne bilen med stans.'
 ==/848112473890836481===
 
 
-
-
 ===848108808568270850===
+First text:
 b'En bil fors\xc3\xb8kte \xc3\xa5 stikke unna en patrulje i sentrum. Satte fra seg bilen p\xc3\xa5 Ryen etter kort tid. Vi har kontroll p\xc3\xa5 to som gikk fra bilen.'
+Children texts:
 b'De to fra bilen er hjemmeh\xc3\xb8rende i Telemark. F\xc3\xb8reren har ikke gyldig f\xc3\xb8rerkort. Funn av narkotika i og utenfor bilen.'
 ==/848108808568270850===
 
 
-
-
 ===848027925869887488===
+First text:
 b'Person ranet med kniv p\xc3\xa5 \xc3\xa5pen gate i Markveien. Ingen fysisk skadet. Vi s\xc3\xb8ker etter gjerningsmannen.'
+Children texts:
 b'Forn\xc3\xa6rmede har blitt fraranet en lommebok. S\xc3\xb8ket etter de mistenkte er avsluttet uten resultat. Vi har opprettet anmeldelse p\xc3\xa5 ranet.'
 ==/848027925869887488===
 
 
-
-
 ===847902939356299264===
+First text:
 b'Politi og ambulanse er p\xc3\xa5 vei til Brobekk, hvor det har v\xc3\xa6rt en trafikkulykke.'
+Children texts:
 ==/847902939356299264===
 
 
-
-
 ===847892633146068993===
+First text:
 b'I Stasjonsveien har en politimann p\xc3\xa5 fritiden stoppet en bil, hvor f\xc3\xb8rer er overstadig beruset.'
+Children texts:
 b'En mann i 50 \xc3\xa5ra blir kj\xc3\xb8rt til arresten for utvidet pr\xc3\xb8ve.'
 ==/847892633146068993===
 
 
-
-
 ===847892305377992704===
+First text:
 b'Politi og ambulanse er p\xc3\xa5 Mortensrud, hvor en jente i 20 \xc3\xa5ra har blitt sl\xc3\xa5tt i hodet. Vi har kontroll p\xc3\xa5 mistenkte.'
+Possible location:
+b'mortensrud'
+Children texts:
 b'En mann i 20 \xc3\xa5ra har blitt p\xc3\xa5grepet og kj\xc3\xb8res til arresten for kroppsskade.'
+Possible location:
+b'mortensrud'
 ==/847892305377992704===
 
 
-
-
 ===847872345171742720===
+First text:
 b'N\xc3\xb8detane er p\xc3\xa5 veil til Bj\xc3\xb8rndal der vi har f\xc3\xa5tt melding om brann. Kan muligens v\xc3\xa6re t\xc3\xb8rrkok men er ikke bekreftet.'
+Possible location:
+b'bj\xc3\xb8rndal'
+Children texts:
 b'Brannvesenet bekrefter at det ikke er brann.'
+Possible location:
+b'bj\xc3\xb8rndal'
 ==/847872345171742720===
 
 
-
-
 ===847833724590977024===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Hellerud, da vi har f\xc3\xa5tt melding om pipebrann.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet og har kontroll. Mulig et fuglereir i pipa som har tatt fyr.'
 ==/847833724590977024===
 
 
-
-
 ===847784603381370882===
+First text:
 b'L\xc3\xb8rentunnellen vestg\xc3\xa5ende h\xc3\xb8yre felt. Melding om kjedekollisjon mellom 3-5 biler. Uvisst skadeomgang. N\xc3\xb8detatene er p\xc3\xa5 vei'
+Children texts:
 b'Vi er fremme p\xc3\xa5 stedet. Virker \xc3\xa5 v\xc3\xa6re lettere personskade. Kan bli noe trafikale utfordinger en stund fremover'
 b'Kj\xc3\xb8refeltet som var stengt i tunellen er n\xc3\xa5 \xc3\xa5pnet igjen for trafikk. Vi har forlatt stedet.'
 ==/847784603381370882===
 
 
-
-
 ===847753092435247105===
+First text:
 b'Vi er p\xc3\xa5 vei til Ekebergtunellen vestg\xc3\xa5ende fra p\xc3\xa5kj\xc3\xb8ring Kv\xc3\xa6rnerdalen i forbindelse med en trafikkulykke. Flere biler involvert.'
+Children texts:
 b'Ingen personskader. Det er endel trafikk p\xc3\xa5 stedet, noe k\xc3\xb8 m\xc3\xa5 p\xc3\xa5regnes.'
 b'Vi har forlatt stedet. Veien er ryddet og \xc3\xa5pnet igjen'
 ==/847753092435247105===
 
 
-
-
 ===847618373475160064===
+First text:
 b'V\xc3\xa5lerengtunnelen: Bilist kj\xc3\xb8rte mot skilting i felt som var stengt i forbindelse med arbeid i tunnelen. F\xc3\xa5r beslaglagt f\xc3\xb8rerkort, anmeldes'
+Children texts:
 ==/847618373475160064===
 
 
-
-
 ===847611246786387968===
+First text:
 b'Fagerborg: Patrulje stanset en beruset f\xc3\xb8rer som nettopp hadde kj\xc3\xb8rt inn i en kantstein. Fratatt f\xc3\xb8rerkort, bilen taues bort, anmeldes'
+Possible location:
+b'fagerborg'
+Children texts:
 ==/847611246786387968===
 
 
-
-
 ===847572123690430464===
+First text:
 b'Vil presisere at dette er et nytt tilfelle av en saknet person, og ikke samme mann som var saknet tidligere p\xc3\xa5 kvelden.'
+Children texts:
 ==/847572123690430464===
 
 
-
-
 ===847568005902946304===
+First text:
 b'Nordstrand: Saknet mann p\xc3\xa5 79 \xc3\xa5r. Beskr: Ca. 180cm, lyst gr\xc3\xa5tt h\xc3\xa5r, ca. 80kg, normalt bygd, lyse fl\xc3\xb8yelsbukser, m\xc3\xb8rk jakke, svarte sko.'
+Possible location:
+b'nordstrand'
+Children texts:
 b'Ved observasjon, v\xc3\xa6r snill og ring oss p\xc3\xa5 tlf. 02800.'
+Possible location:
+b'nordstrand'
 b'Savnede er til rette, p\xc3\xa5 egen bopel'
+Possible location:
+b'nordstrand'
 ==/847568005902946304===
 
 
-
-
 ===847564909873209346===
+First text:
 b'Takket v\xc3\xa6re sv\xc3\xa6rt gode observasjoner fra en T-banef\xc3\xb8rer, ble mannen nettopp funnet p\xc3\xa5 en perrong. Blir tilbakef\xc3\xb8rt familien, i god behold'
+Children texts:
 ==/847564909873209346===
 
 
-
-
 ===847467699210903553===
+First text:
 b'Hoffsveien. Vi er p\xc3\xa5 vei til melding om trafikkulykke mellom en personbil og en syklist.'
+Children texts:
 b'Syklisten har noen skrubbs\xc3\xa5r p\xc3\xa5 leggen, blir ivaretatt av helse p\xc3\xa5 stedet.'
 ==/847467699210903553===
 
 
-
-
 ===847379629211959297===
+First text:
 b'Politiet har kontroll p\xc3\xa5 to personer p\xc3\xa5 Ikea Furuset som skal ha lusket rundt p\xc3\xa5 p-plassen. Kunder har reagert og v\xc3\xa6rt bekymret for tyveri.'
+Possible location:
+b'furuset'
+Children texts:
 b'De to personene oppga ikke noen god grunn for \xc3\xa5 v\xc3\xa6re p\xc3\xa5 stedet, og ble bortvist for \xc3\xa5 hindre videre sjenanse av kunder.'
+Possible location:
+b'furuset'
 ==/847379629211959297===
 
 
-
-
 ===847374561347682305===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Mortensrudveien p\xc3\xa5 melding om en trafikkulykke. En bil har kj\xc3\xb8rt inn i autovernet. Ukjent skadeomfang.'
+Possible location:
+b'mortensrud'
+Children texts:
 ==/847374561347682305===
 
 
-
-
 ===847347776639836161===
+First text:
 b'Politiet er i Sandakerveien ved Grefsenveien p\xc3\xa5 trafikkuhell mellom trikk og bil. Ikke personskade, men skaper k\xc3\xb8 for trikken.'
+Possible location:
+b'grefsen'
+Children texts:
 ==/847347776639836161===
 
 
-
-
 ===847238880919076866===
+First text:
 b'Hammersborggata: Melding om brann i avfalls-sekk. Trolig ikke spredningsfare. N\xc3\xb8detatene p\xc3\xa5 vei'
+Possible location:
+b'hammersborg'
+Children texts:
 b'Korrigering p\xc3\xa5 adressen: Skal v\xc3\xa6re i Youngs gate. Brannen er n\xc3\xa5 slukket'
+Possible location:
+b'hammersborg'
 ==/847238880919076866===
 
 
-
-
 ===847223022322827264===
+First text:
 b'Melder ble plaget av en potetgullspisende mann som nektet ham inngang til oppgangen sin. Mannen er n\xc3\xa5 p\xc3\xa5grepet, han var nemlig etterlyst.'
+Children texts:
 ==/847223022322827264===
 
 
-
-
 ===847173680035696640===
+First text:
 b'Kingosgt: Politiet p\xc3\xa5 stedet pga melding om husbr\xc3\xa5k'
+Children texts:
 ==/847173680035696640===
 
 
-
-
 ===847120417861128192===
+First text:
 b'Bilister anbefales \xc3\xa5 kj\xc3\xb8re andre veier enn inn mot Mosseveien.'
+Children texts:
 ==/847120417861128192===
 
 
-
-
 ===847103120786313217===
+First text:
 b'Mosseveien ved Ulv\xc3\xb8ya blir stengt i begge retninger.'
+Children texts:
 b'Omkj\xc3\xb8ringer vil bli via E6'
 b'En person bekreftet omkommet i ulykken av ambulansepersonell p\xc3\xa5 stedet.'
 b'Mosseveien er fortsatt stengt i begge retninger. P\xc3\xa5g\xc3\xa5r \xc3\xa5stedsunders\xc3\xb8kelser ved Ulv\xc3\xb8ya'
@@ -2295,423 +2567,501 @@ b'E18 Mosseveien \xc3\xa5pnet. Normal ferdsel i begge retninger.'
 ==/847103120786313217===
 
 
-
-
 ===847102624713379840===
+First text:
 b'Mosseveien ved Ulv\xc3\xb8ya: Trafikkulykke. N\xc3\xb8detatene p\xc3\xa5 vei'
+Children texts:
 ==/847102624713379840===
 
 
-
-
 ===847101687068327936===
+First text:
 b'Geitmyrsveien. Trafikkulykke. N\xc3\xb8detatene p\xc3\xa5 vei.'
+Children texts:
 b'Ingen personskader. Vi jobber med \xc3\xa5 f\xc3\xa5 ryddet veibanen'
 ==/847101687068327936===
 
 
-
-
 ===847058136414474241===
+First text:
 b'E6 utg\xc3\xa5ende ved Skullderuddumpa. Trafikkulykke. En bil har snurret, ikke meldt om personskade. Endel k\xc3\xb8 m\xc3\xa5 p\xc3\xa5regnes langs E6.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet sammen med de andre n\xc3\xb8detatene. En person klager p\xc3\xa5 nakkesmerter, blir behandlet av ambulanse.'
 b'H\xc3\xb8yre felt er n\xc3\xa5 \xc3\xa5pnet igjen for trafikk. Vi har forlatt stedet'
 ==/847058136414474241===
 
 
-
-
 ===847038299667660800===
+First text:
 b'V\xc3\xa5leregtunnellen sydg\xc3\xa5ende. Bil med stans i h\xc3\xb8yre felt. Vi er p\xc3\xa5 vei'
+Children texts:
 b'Bilen er tauet og h\xc3\xb8yre felt er \xc3\xa5pent'
 ==/847038299667660800===
 
 
-
-
 ===846984985206833154===
+First text:
 b'L\xc3\xb8kkeveien/ Henrik Ibsensgate: Ingen personskade. Trafikken flyter som normalt.'
+Children texts:
 ==/846984985206833154===
 
 
-
-
 ===846980477730873345===
+First text:
 b'Politiet p\xc3\xa5 vei til L\xc3\xb8kkeveien/Henrik Ibsensgate hvor det har v\xc3\xa6rt et trafikkuhell mellom en leddbuss og personbil. Trolig ikke personskade.'
+Children texts:
 b'Hendelsen skaper endel k\xc3\xb8.'
 ==/846980477730873345===
 
 
-
-
 ===846910903954161665===
+First text:
 b'Vi er p\xc3\xa5 Oppsal etter melding om innbrudd i en barnehage. Noen har brutt seg inn gjennom hovedd\xc3\xb8ra.'
+Possible location:
+b'oppsal'
+Children texts:
 b'Verken politihunden eller andre involverte fant innbruddstyven som hadde brutt seg inn i barnehagen. Sak opprettet og eier sikrer bygget.'
+Possible location:
+b'oppsal'
 ==/846910903954161665===
 
 
-
-
 ===846904546349764608===
+First text:
 b'Vi er p\xc3\xa5 \xc3\x85rvoll sammen med brannvesenet fordi det brenner i lasterommet p\xc3\xa5 en parkert minibuss der.'
+Possible location:
+b'\xc3\xa5rvoll'
+Children texts:
 b'Kun skader p\xc3\xa5 den ene HiAcen hvor brannen startet. Brannvesenet har slukket brannen. Ukjent \xc3\xa5rsak. Vi oppretter sak p\xc3\xa5 forholdet.'
+Possible location:
+b'\xc3\xa5rvoll'
 ==/846904546349764608===
 
 
-
-
 ===846901619769823232===
+First text:
 b'Mann (52) p\xc3\xa5grepet etter flere meldinger om at han lusket rundt og var inne i et par biler i sentrum. Mannen hadde ogs\xc3\xa5 en kniv p\xc3\xa5 seg.'
+Children texts:
 ==/846901619769823232===
 
 
-
-
 ===846882622605316096===
+First text:
 b'Vi har mottatt flere meldinger om et kraftig smell/dr\xc3\xb8nn i omr\xc3\xa5det Alnabru/Tveita/Haugerud. Vi vet ikke hva det stammer fra, men unders\xc3\xb8ker.'
+Possible location:
+b'tveita'
+Children texts:
 b'Flere meldinger p\xc3\xa5 Haugerud mener at smellet stammer fra n\xc3\xa6romr\xc3\xa5det der. Vi har likefullt ikke funnet \xc3\xa5rsaken enn\xc3\xa5. Heli s\xc3\xb8ker i omr\xc3\xa5det.'
+Possible location:
+b'tveita'
 b'Vi har unders\xc3\xb8kt flere blokker p\xc3\xa5 Haugerud uten \xc3\xa5 bli klokere. Vi er ogs\xc3\xa5 klar over tunnelbygging ved Haugerud, men det skal ikke p\xc3\xa5g\xc3\xa5 n\xc3\xa5.'
+Possible location:
+b'tveita'
 b'Vi unders\xc3\xb8ker om en container p\xc3\xa5 byggeplass ved Haugerudveien 77 kan ha for\xc3\xa5rsaket smellet. OBRE skal hjelpe oss med \xc3\xa5 sjekke dette.'
+Possible location:
+b'tveita'
 b'Vi antar at smellet stammer fra fjernvarmeanlegget, muligens en container, i Haugerudveien. Beboere i omr\xc3\xa5det bes holde seg innend\xc3\xb8rs.'
+Possible location:
+b'tveita'
 b'Vi har ingen opplysninger om at det foreligger fare for ytterligere smell, men vi jobber med \xc3\xa5 forsikre oss om dette sammen med OBRE.'
+Possible location:
+b'tveita'
 b'\xc3\x85rsaken til smellet var propanlekkasje i en st\xc3\xa5lcontainer p\xc3\xa5 byggeplass ved Haugerudveien 77. Ingen fare for ytterligere lekkasje/smell.'
+Possible location:
+b'tveita'
 b'Politiet oppretter sak p\xc3\xa5 forholdet. Ingen skade meldt p\xc3\xa5 annet enn containeren, som har blitt l\xc3\xb8ftet/smelt av gulvet sitt.'
+Possible location:
+b'tveita'
 ==/846882622605316096===
 
 
-
-
 ===846876960684957697===
+First text:
 b'Vi leter etter en m\xc3\xb8rk BMW som stakk fra oss p\xc3\xa5 Kjels\xc3\xa5s. Bilen var p\xc3\xa5satt stj\xc3\xa5lne kjennemerker.'
+Possible location:
+b'kjels\xc3\xa5s'
+Children texts:
 ==/846876960684957697===
 
 
-
-
 ===846770416865759232===
+First text:
 b'Trolig kommer ikke guttene fra R\xc3\xb8de kors. Guttene er ca 14-17 \xc3\xa5r, mulig nordafrikansk opprinnelse. Den ene if\xc3\xb8rt en gul t-skjorte.'
+Children texts:
 b'En patrulje har n\xc3\xa5 kontroll p\xc3\xa5 guttene.'
 ==/846770416865759232===
 
 
-
-
 ===846770010991312896===
+First text:
 b'Nydalen: To unge gutter g\xc3\xa5r rundt og samler inn penger. Viser frem en papirlapp hvor det st\xc3\xa5r R\xc3\xb8de kors, men lappen er full av skrivefeil.'
+Children texts:
 ==/846770010991312896===
 
 
-
-
 ===846763329947348997===
+First text:
 b'Slimeveien v/Bj\xc3\xb8rnholt skole: Enslig kj\xc3\xb8ret\xc3\xb8y kj\xc3\xb8rt av veien, uvisst skadeomfang. N\xc3\xb8detatene er p\xc3\xa5 vei'
+Children texts:
 b'N\xc3\xb8detatene p\xc3\xa5 stedet. En bilist har rygget utfor en liten skrent, trolig ikke alvorlige personskader. Kan skyldes akutt sykdom.'
 ==/846763329947348997===
 
 
-
-
 ===846745312907681792===
+First text:
 b'Ekebergveien i Gamlebyen: Melding om r\xc3\xb8yk fra boligblokk. N\xc3\xb8detatene p\xc3\xa5 vei'
+Children texts:
 b'Vi er p\xc3\xa5 stedet, og ser forel\xc3\xb8pig ikke r\xc3\xb8yk. Brannvesenet unders\xc3\xb8ker bygget'
 b'Brannvesenet har lokalisert litt r\xc3\xb8yk som kom fra en grill. Ingen dramatikk, og n\xc3\xb8detatene forlater stedet'
 ==/846745312907681792===
 
 
-
-
 ===846741728421908481===
+First text:
 b'Teisenveien: Kollisjon mellom tre biler. Uvisst skadeomfang, n\xc3\xb8detatene p\xc3\xa5 vei.'
+Possible location:
+b'teisen'
+Children texts:
 b'N\xc3\xb8detatene er p\xc3\xa5 stedet. Det er ingen personskader. Vi jobber med \xc3\xa5 avklare hendelsen og f\xc3\xa5 ryddet \xc3\xa5stedet.'
+Possible location:
+b'teisen'
 ==/846741728421908481===
 
 
-
-
 ===846715119216287744===
+First text:
 b'Hovseter: En lift har rullet ned en skr\xc3\xa5ning og gjennom et gjerde. En person m\xc3\xa5tte hoppe unna, men ble ikke skadd. Vi er p\xc3\xa5 stedet.'
+Possible location:
+b'hovseter'
+Children texts:
 b'En f\xc3\xb8rer som benyttet sin bil for \xc3\xa5 flytte liften, og mistet kontrollen p\xc3\xa5 den, ble fratatt sitt f\xc3\xb8rerkort. Vi oppretter sak'
+Possible location:
+b'hovseter'
 ==/846715119216287744===
 
 
-
-
 ===846658275299020801===
+First text:
 b'Karihaugveien: Trafikkulykke - MC som har havnet utenfor veien. Uvisst skadeomfang, og vi er p\xc3\xa5 vei.'
+Children texts:
 b'Singelulykke, kun lettere skadd. Vedkommende kj\xc3\xb8res legevakt.'
 ==/846658275299020801===
 
 
-
-
 ===846597555593134080===
+First text:
 b'E18 utg. v/ Orm\xc3\xb8ya: Trafikkulykke - en MC som har kj\xc3\xb8rt ut. Uvisst skadeomfang. Vi er p\xc3\xa5 vei.'
+Children texts:
 b'Rettelse: Dette skal v\xc3\xa6re en sykkelulykke, ikke MC- ulykke. Uvisst hva som har skjedd forel\xc3\xb8pig, men vedkommende er ved bevissthet.'
 ==/846597555593134080===
 
 
-
-
 ===846535321575702528===
+First text:
 b'Torshov. Person sl\xc3\xa5tt ned. Vi s\xc3\xb8ker etter gjerningsmannen.'
+Possible location:
+b'torshov'
+Children texts:
 b'Forn\xc3\xa6rmede kj\xc3\xb8res sykehus for oppf\xc3\xb8lging. Vi s\xc3\xb8ker fortsatt etter gjerningsmennene.'
+Possible location:
+b'torshov'
 ==/846535321575702528===
 
 
-
-
 ===846520846764134400===
+First text:
 b'Akersbakken, ved gamle Aker kirke. Vi er p\xc3\xa5 vei til melding om brann fra en container. Skal ikke v\xc3\xa6re spredningsfare.'
+Children texts:
 b'Obre er n\xc3\xa5 i ferd med \xc3\xa5 slukke brannen.'
 ==/846520846764134400===
 
 
-
-
 ===846463015620890624===
+First text:
 b'Mortensrud: Et st\xc3\xb8rre antall utenbys russ barket sammen. Vi er p\xc3\xa5 stedet med flere patruljer, og har kontroll.'
+Possible location:
+b'mortensrud'
+Children texts:
 b'Ingen er skadet, men de f\xc3\xa5r en muntlig advarsel fra politiet, og blir deretter dimittert.'
+Possible location:
+b'mortensrud'
 ==/846463015620890624===
 
 
-
-
 ===846461771095429120===
+First text:
 b'De siste par dager har vi mottatt flere klager p\xc3\xa5 personer i en bl\xc3\xa5 BMW som kaster egg p\xc3\xa5 forbipasserende biler og personer.'
+Children texts:
 b'Siste hendelse for ca 15 minutter siden ved Grorud stasjon. Tips og observasjoner, eventuelt registreringsnummer, \xc3\xb8nskes p\xc3\xa5 tlf 02800.'
 ==/846461771095429120===
 
 
-
-
 ===846456031588835334===
+First text:
 b'Tre bilf\xc3\xb8rer anmeldt for kj\xc3\xb8ring uten gyldig f\xc3\xb8rerkort i kveld. \xc3\x88n f\xc3\xb8rer oppga falsk personalia i tillegg, men ble raskt avsl\xc3\xb8rt.'
+Children texts:
 ==/846456031588835334===
 
 
-
-
 ===846452965414187009===
+First text:
 b'En mystisk bil hadde st\xc3\xa5tt utenfor en butikk flere kvelder p\xc3\xa5 rad. Viste seg at de i bilen benyttet seg av butikkens gratis wifi.'
+Children texts:
 ==/846452965414187009===
 
 
-
-
 ===846296148709117952===
+First text:
 b'E18 inng. v/ Frognerstranda: Melding om en sammenrullet madrass i venstre felt. Vi skal s\xc3\xb8rge for at denne blir fjernet.'
+Possible location:
+b'frogner'
+Children texts:
 ==/846296148709117952===
 
 
-
-
 ===846271070453858304===
+First text:
 b'Ring 3 Granfosstunnelen \xc3\xb8stg\xc3\xa5ende: Trafikkulykke mellom lastebil og personbil. Uvisst om det er personskade. Vi er p\xc3\xa5 vei.'
+Children texts:
 b'Ikke personskader p\xc3\xa5 de involverte. Personbilen er ikke kj\xc3\xb8rbar, og tauebil er underveis.'
 b'H\xc3\xb8yre og midtre felt er midlertidig sperret. Trafikken flyter forel\xc3\xb8pig greit i venstre felt.'
 b'Veien er n\xc3\xa5 \xc3\xa5pen. Det ble f\xc3\xb8rerkortbeslag p\xc3\xa5 f\xc3\xb8rer av lastebil. Patrulje oppretter sak.'
 ==/846271070453858304===
 
 
-
-
 ===846199272584462336===
+First text:
 b'I omr\xc3\xa5det Ullev\xc3\xa5l ser vi etter en person som sender opp fyrverkeri.'
+Children texts:
 ==/846199272584462336===
 
 
-
-
 ===846188935663550464===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Schweigaards gate. Melding om brann i byg\xc3\xa5rd.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet. Det brenner i en pall utend\xc3\xb8rs. Forel\xc3\xb8big ingen som er evakuert fra bygget.'
 b'Brannen er slukket og sak opprettes.'
 ==/846188935663550464===
 
 
-
-
 ===846054603791761412===
+First text:
 b'Vi leter etter en gutt p\xc3\xa5 7 \xc3\xa5r som har blitt borte i omr\xc3\xa5det Ekeberg. Han er if\xc3\xb8rt m\xc3\xb8rk gr\xc3\xa5svart jakke, er 150 cm h\xc3\xb8y og lyst kort h\xc3\xa5r.'
+Children texts:
 b'Gutten forsvant p\xc3\xa5 en sparkesykkel for en time siden. Dersom han observeres \xc3\xb8nsker vi at politiet kontaktes p\xc3\xa5 02800.'
 b'Gutten har kommet til rette i god behold.'
 ==/846054603791761412===
 
 
-
-
 ===845981851747581956===
+First text:
 b'Melding om brann fra blokk i Rustadgrenda. Alle n\xc3\xb8detater p\xc3\xa5 vei.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet. T\xc3\xb8rrkok og en person har f\xc3\xa5tt i seg endel r\xc3\xb8yk.'
 ==/845981851747581956===
 
 
-
-
 ===845971074231783424===
+First text:
 b'Vi s\xc3\xb8ker etter en 3 \xc3\xa5r gammel jente. Forsvant fra Parkteateret p\xc3\xa5 Gr.l\xc3\xb8kka. Rosa strikkegenser, bl\xc3\xa5 kjole og gr\xc3\xa5 str\xc3\xb8mper. Ring 02800.'
+Children texts:
 b'Den vesle jenta er til rette. Tusen takk for hjelp fra publikum.'
 ==/845971074231783424===
 
 
-
-
 ===845938542098436096===
+First text:
 b'Trafikkulykke mellom bil og MC p\xc3\xa5 Trondheimsveien ved avkj\xc3\xb8ring Ammerud. Vi og ambulanse er p\xc3\xa5 stedet'
+Possible location:
+b'ammerud'
+Children texts:
 b'MC har kj\xc3\xb8rt inn i bilen bakfra.F\xc3\xb8rer av MC kj\xc3\xb8res sykehus med skader. Vi oppretter sak.'
+Possible location:
+b'ammerud'
 ==/845938542098436096===
 
 
-
-
 ===845931586637959168===
+First text:
 b'Ifm ran av person natt til s\xc3\xb8ndag 26/3 ca kl 0330 p\xc3\xa5 Youngstorget, \xc3\xb8nsker politiet \xc3\xa5 komme i kontakt med ei jente som skal ha blitt ranet'
+Children texts:
 b'Kontakt Politiet p\xc3\xa5 tlf 22705328'
 ==/845931586637959168===
 
 
-
-
 ===845925354409771008===
+First text:
 b'Melding om pipebrann fra byg\xc3\xa5rd i Urtegata. Alle n\xc3\xb8detater p\xc3\xa5 vei.'
+Children texts:
 b'Vi og Brannvesenet er p\xc3\xa5 stedet. Ikke pipebrann men kun r\xc3\xb8yknedslag i forbindelse med normal vedfyring. Vi drar fra stedet.'
 ==/845925354409771008===
 
 
-
-
 ===845883206431858688===
+First text:
 b'Vi er p\xc3\xa5 Oslo S med en del patruljer da det er meldt om at minst en person er knivstukket.'
+Children texts:
 b'En person knivstukket i h\xc3\xa5nda. F\xc3\xa5r behandling av ambulanse p\xc3\xa5 stedet. Vi har kontroll p\xc3\xa5 3 personer p\xc3\xa5 stedet.'
 b'En person kj\xc3\xb8rt legevakta. De to andre blir avh\xc3\xb8rt som vitner. Toget har f\xc3\xa5tt kj\xc3\xb8re fra Oslo S.'
 b'Vi unders\xc3\xb8ker videre. Hendelsen har ikke skjedd p\xc3\xa5 toget men et annet sted i Oslo tidligere i natt.'
 ==/845883206431858688===
 
 
-
-
 ===845821624171577347===
+First text:
 b'Politiet er i Nordahl Bruns gate ifm en trusselsak. Forn\xc3\xa6rmede har blitt truet med kniv. 3 personer p\xc3\xa5gripes og kj\xc3\xb8res arrest.'
+Children texts:
 ==/845821624171577347===
 
 
-
-
 ===845776271162400772===
+First text:
 b'Politiet er i Gr\xc3\xb8nlandsleiret ifm en voldsepisode. En person skal v\xc3\xa6re sl\xc3\xa5tt ned og har v\xc3\xa6rt bevisstl\xc3\xb8s. Kontroll p\xc3\xa5 gjerningspersonen'
+Possible location:
+b'gr\xc3\xb8nland'
+Children texts:
 b'Forn\xc3\xa6rmede er uskadd og har ikke v\xc3\xa6rt bevisstl\xc3\xb8s. Begge parter var like gode og har sl\xc3\xa5tt til hver sin politimann s\xc3\xa5 de kj\xc3\xb8res i arresten'
+Possible location:
+b'gr\xc3\xb8nland'
 ==/845776271162400772===
 
 
-
-
 ===845661321383284736===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Haugenstua i forbindelse med melding om r\xc3\xb8ykutvikling.'
+Possible location:
+b'haugenstua'
+Children texts:
 b'To personer er evakuert fra leiligheten, blir sjekket av ambulanse p\xc3\xa5 stedet. \xc3\x85rsak til brann er mest sannsynlig matolje.'
+Possible location:
+b'haugenstua'
 b'Brannen er slukket, utluftning p\xc3\xa5g\xc3\xa5r.'
+Possible location:
+b'haugenstua'
 ==/845661321383284736===
 
 
-
-
 ===845640870191939588===
+First text:
 b'Trafikkulykke mellom bil og fotgjenger i Grefsenveien . Alle n\xc3\xb8detater p\xc3\xa5 vei.'
+Possible location:
+b'grefsen'
+Children texts:
 b'Vi er p\xc3\xa5 stedet. Fotgjenger skadet. Bilen skal ogs\xc3\xa5 ha kj\xc3\xb8rt inn i en annen bil .Fotgjenger f\xc3\xa5r behandling av ambulanse p\xc3\xa5 stedet.'
+Possible location:
+b'grefsen'
 b'Fotgjenger kj\xc3\xb8res legevakta.  Vi oppretter sak og vurderer f\xc3\xb8rerkortbeslag p\xc3\xa5 den ene bilf\xc3\xb8reren.'
+Possible location:
+b'grefsen'
 ==/845640870191939588===
 
 
-
-
 ===845619270365204480===
+First text:
 b'Vi \xc3\xb8nsker tips vedr\xc3\xb8rende en savnet kvinne: Hun er 80 \xc3\xa5r, ca 165 cm, lysebl\xc3\xa5 genser, m\xc3\xb8rke bukser og m\xc3\xb8rk veske. Ring 02800 ved observasjon'
+Children texts:
 b'Kvinnen er til rette - etter tre og halv time - hun hadde tatt seg en tur ned til Oslo sentrum i det fine v\xc3\xa5rv\xc3\xa6ret.'
 ==/845619270365204480===
 
 
-
-
 ===845481352879390721===
+First text:
 b'Politiet er i omr Deichmanske bibliotek hvor to personer muligens skal ha blitt ranet. Fire gjerningspersoner l\xc3\xb8p i retning Grubbegata'
+Children texts:
 b'En forn\xc3\xa6rmet kj\xc3\xb8rt legevakten for sjekk. Vi har s\xc3\xb8kt i omr\xc3\xa5det uten resultat. Politiet oppretter anmeldelse p\xc3\xa5 forholdet'
 ==/845481352879390721===
 
 
-
-
 ===845468761394237441===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Jens Bjelkes gate. Lukter svidd i oppgangen s\xc3\xa5 det er mistanke om mulig t\xc3\xb8rrkok.'
+Children texts:
 b'Vi er fremme p\xc3\xa5 stedet. Skal v\xc3\xa6re snakk om en godt stekt pizza. En person kj\xc3\xb8res legevakten for behandling av noe r\xc3\xb8ykskader.'
 ==/845468761394237441===
 
 
-
-
 ===845446167274176512===
+First text:
 b'Politiet er i Badstugata etter noe br\xc3\xa5k med russ. Har v\xc3\xa6rt noe ampert p\xc3\xa5 stedet, men er rolig n\xc3\xa5'
+Children texts:
 ==/845446167274176512===
 
 
-
-
 ===845390929083207684===
+First text:
 b'Utenfor Vippetangen har det v\xc3\xa6rt en drukningsulykke. N\xc3\xb8detatene er p\xc3\xa5 stedet'
+Children texts:
 b'Brannvesenet har hentet opp to livl\xc3\xb8se personer fra vannet. De blir begge behandlet av ambulanse, en kj\xc3\xb8rt sykehus.'
 ==/845390929083207684===
 
 
-
-
 ===845167216496599041===
+First text:
 b'Nydalen: To tr\xc3\xa5syklister har st\xc3\xb8tt sammen, trolig noen skader. Politi og ambulanse p\xc3\xa5 vei'
+Children texts:
 b'Syklistene hadde allerede blitt kj\xc3\xb8rt legevakt for sjekk, s\xc3\xa5 vi er p\xc3\xa5 vei dit for \xc3\xa5 avklare hendelsesforl\xc3\xb8p og skadeomfang.'
 ==/845167216496599041===
 
 
-
-
 ===845037124235792384===
+First text:
 b'Bogstadveien: Flere personer har sl\xc3\xa5ss i og ved et p-hus. Vi har kontroll p\xc3\xa5 seks involverte, mens noen har kj\xc3\xb8rt fra stedet i ukjente biler'
+Children texts:
 b'Ikke meldt om skadde personer i Bogstadveien. Fremst\xc3\xa5r som om partene som sl\xc3\xa5ss hadde kjennskap til hverandre fra f\xc3\xb8r.'
 ==/845037124235792384===
 
 
-
-
 ===844975894158544896===
+First text:
 b'Norstrandsveien, fra avkj E6 til Munkerudkleiva, blir stengt grunnet redningsarbeid. OBRE kapper tr\xc3\xa6r som medf\xc3\xb8rer at veien m\xc3\xa5 stenges.'
+Possible location:
+b'munkerud'
+Children texts:
 b'Veien blir ogs\xc3\xa5 stengt fra Langb\xc3\xb8lgen retn Munkerudkleiva.'
+Possible location:
+b'munkerud'
 b'Veien er n\xc3\xa5 \xc3\xa5pnet igjen.'
+Possible location:
+b'munkerud'
 ==/844975894158544896===
 
 
-
-
 ===844943495261511681===
+First text:
 b'V\xc3\xa5lerengtunenelen nordg\xc3\xa5ende: Kj\xc3\xb8ret\xc3\xb8ystans i i midtre felt. Vi er p\xc3\xa5 stedet.'
+Children texts:
 ==/844943495261511681===
 
 
-
-
 ===844902430953410561===
+First text:
 b'Vi er p\xc3\xa5 vei til Ammerudhellinga. Melding om brann i ei s\xc3\xb8ppelsjakt'
+Possible location:
+b'ammerud'
+Children texts:
 b'Falsk melding. Ingen funn eller tegn til brann'
+Possible location:
+b'ammerud'
 ==/844902430953410561===
 
 
-
-
 ===844857394974748674===
+First text:
 b'Vi er p\xc3\xa5 til en byg\xc3\xa5rd i Frognerveien. Melding om r\xc3\xb8yk i en oppgang'
+Possible location:
+b'frogner'
+Children texts:
 b'Det har v\xc3\xa6rt et lite branntill\xc3\xb8p i en leilighet som brannvesenet har slukket. Ingen personskader'
+Possible location:
+b'frogner'
 ==/844857394974748674===
 
 
-
-
 ===844695862861348867===
+First text:
 b'En person ankom sykehus med skuddskader litt f\xc3\xb8r midnatt. Forn\xc3\xa6rmede var bevisst, men tilsynelatende alvorlig skadet.'
+Children texts:
 b'Vi jobber med \xc3\xa5 innhente opplysninger om hvor \xc3\xa5stedet for hendelsen er. Forn\xc3\xa6rmede er en mann i 20-\xc3\xa5rene.'
 b'Vi har forel\xc3\xb8pig ikke lokalisert \xc3\xa5stedet for hendelsen, men vi jobber med dette. Forn\xc3\xa6rmede er til behandling p\xc3\xa5 sykehuset.'
 b'Vi har jobbet og jobber videre med opplysninger om at skytingen kan ha skjedd utend\xc3\xb8rs p\xc3\xa5 St.Hanshaugen. Tips om saken ringer du til 02800.'
@@ -2719,250 +3069,288 @@ b'En person som i utgangspunktet var et vitne er p\xc3\xa5grepet og siktet for f
 ==/844695862861348867===
 
 
-
-
 ===844570921264431104===
+First text:
 b'Festningstunnellen: Flere biler som er involvert i et trafikkuhell. Ikke personskader. Medf\xc3\xb8rer k\xc3\xb8 i \xc3\xb8stg\xc3\xa5ende retning.'
+Children texts:
 b'Da er bilene borte og kj\xc3\xb8refeltet er \xc3\xa5pent'
 ==/844570921264431104===
 
 
-
-
 ===844544793631952897===
+First text:
 b'Ludvig Karstens vei: Melding om brann. Observert r\xc3\xb8yk fra stedet. N\xc3\xb8detatene er p\xc3\xa5 vei.'
+Children texts:
 b'Ikke v\xc3\xa6rt noen brann. Mulig det er betongskj\xc3\xa6ring som er \xc3\xa5rsaken til r\xc3\xb8yken.'
 ==/844544793631952897===
 
 
-
-
 ===844537856202821632===
+First text:
 b'E6 utg. etter V\xc3\xa5lerengatunnelen: Kj\xc3\xb8ret\xc3\xb8ystans. Tauebil er underveis.'
+Possible location:
+b'v\xc3\xa5lerenga'
+Children texts:
 b'Bilen er hentet, og veien er \xc3\xa5pen.'
+Possible location:
+b'v\xc3\xa5lerenga'
 ==/844537856202821632===
 
 
-
-
 ===844537596005007368===
+First text:
 b'\xc3\x98vre Slottsgate: Melding om brann. En person skal ha f\xc3\xa5tt i seg noe r\xc3\xb8yk. Brannvesenet er p\xc3\xa5 stedet.'
+Children texts:
 b'Ingen brann, men r\xc3\xb8ykutvikling fra et sikringsskap. Ingen er skadd.'
 ==/844537596005007368===
 
 
-
-
 ===844532479474241536===
+First text:
 b'Brynstunnelen vestg\xc3\xa5ende: Rett etter utl\xc3\xb8pet av tunnelen ligger det en stor metallgjenstand midt i vegbanen. Skaper farlige situasjoner.'
+Children texts:
 ==/844532479474241536===
 
 
-
-
 ===844522147473244161===
+First text:
 b'P\xc3\xa5kj\xc3\xb8ringen fra Maridalsveien ut p\xc3\xa5 Ring 3 \xc3\xb8stg\xc3\xa5ende: Kj\xc3\xb8ret\xc3\xb8ystans - tilhenger full av m\xc3\xb8bler, men ingen bil.'
+Children texts:
 b'Hengeren hadde punktert. Veien er n\xc3\xa5 \xc3\xa5pen.'
 ==/844522147473244161===
 
 
-
-
 ===844509438220419072===
+First text:
 b'Ring 3 fra Storo avkj. Sinsenkrysset: Trafikkuhell - lastebil og bil sperrer feltet helt til h\xc3\xb8yre.'
+Possible location:
+b'sinsen'
+Children texts:
 b'Veien er n\xc3\xa5 \xc3\xa5pnet igjen.'
+Possible location:
+b'sinsen'
 ==/844509438220419072===
 
 
-
-
 ===844503772638429184===
+First text:
 b'R\xc3\xa5dhusplassen: Trafikkuhell mellom buss og lastebil. Medf\xc3\xb8rer en del trafikale utfordringer.'
+Children texts:
 b'Situasjonen har n\xc3\xa5 l\xc3\xb8st seg. Trafikken skal g\xc3\xa5 som normalt.'
 ==/844503772638429184===
 
 
-
-
 ===844490500166107137===
+First text:
 b'Smestadlokket: Trafikkuhell - to biler som har v\xc3\xa6rt i hverandre. Noe trafikale utfordringer, da de sperrer det ene feltet.'
+Children texts:
 b'Ingen personskade, men begge bilene m\xc3\xa5 taues. Tauebil er underveis.'
 b'Det tok litt tid, men begge bilene er n\xc3\xa5 tauet bort. Veien er n\xc3\xa5 helt \xc3\xa5pen igjen.'
 ==/844490500166107137===
 
 
-
-
 ===844447816353300484===
+First text:
 b'Gaustad: Vi har f\xc3\xa5tt melding om nok en trafikkulykke mellom bil og syklist. Vi er p\xc3\xa5 vei, uvisst skadeomfang.'
+Children texts:
 b'Syklisten er i god behold. Vi foretar unders\xc3\xb8kelser p\xc3\xa5 stedet.'
 ==/844447816353300484===
 
 
-
-
 ===844441320542363648===
+First text:
 b'Kongsveien: Vi har f\xc3\xa5tt melding om trafikkulykke - bil mot sykkel. Uvisst skadeomfang.'
+Children texts:
 b'Vi foretar unders\xc3\xb8kelser p\xc3\xa5 stedet. Syklisten er ved bevissthet.'
 b'Syklisten er lettere skadet. Det blir f\xc3\xb8rerkortbeslag ogs\xc3\xa5 i denne saken.'
 ==/844441320542363648===
 
 
-
-
 ===844441161896988672===
+First text:
 b'Blakkens vei: Trafikkulykke - en person p\xc3\xa5kj\xc3\xb8rt. Letter skadd. Vi er p\xc3\xa5 stedet.'
+Children texts:
 b'En person p\xc3\xa5kj\xc3\xb8rt i forbindelse med kryssing av vei. Lettere skadd - snakk om skrubbs\xc3\xa5r. F\xc3\xb8rer av bilen f\xc3\xa5r beslaglagt sitt f\xc3\xb8rerkort.'
 ==/844441161896988672===
 
 
-
-
 ===844434532254277635===
+First text:
 b'Tveita: Vi er p\xc3\xa5 vei til brann i kj\xc3\xb8ret\xc3\xb8y. Skal ikke v\xc3\xa6re spredningsfare.'
+Possible location:
+b'tveita'
+Children texts:
 b'Brannen er slukket.'
+Possible location:
+b'tveita'
 ==/844434532254277635===
 
 
-
-
 ===844406227002109952===
+First text:
 b'Ruset person stod inne p\xc3\xa5 Oslo S og p\xc3\xa5stod han var politi. Endte med en tur i arresten. Han var etterlyst'
+Children texts:
 ==/844406227002109952===
 
 
-
-
 ===844261531198132224===
+First text:
 b'Det er tre biler som har kollidert, to personer sjekkes av helsepersonell. Vi jobber med \xc3\xa5 avklare hendelsesforl\xc3\xb8pet, samt rydde veibanen'
+Children texts:
 b'To personer med noe nakkesmerter. Bilene er tauet og veien er \xc3\xa5pnet for trafikk. Politiet er fremdeles p\xc3\xa5 stedet'
 ==/844261531198132224===
 
 
-
-
 ===844177900177936384===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til en melding om brann i Kristinelundveien.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet, og det brenner i et reisverk.  Det har v\xc3\xa6rt mye r\xc3\xb8yk i omr\xc3\xa5det, men dette er avtagende.'
 b'OBRE har slukket brannen p\xc3\xa5 stedet.'
 ==/844177900177936384===
 
 
-
-
 ===844106994508357637===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Kleiva p\xc3\xa5 H\xc3\xb8ybr\xc3\xa5ten, hvor det er meldt om r\xc3\xb8yk p\xc3\xa5 et kj\xc3\xb8kken.'
+Possible location:
+b'h\xc3\xb8ybr\xc3\xa5ten'
+Children texts:
 b'Vi er p\xc3\xa5 stedet, og det kommer litt r\xc3\xb8yk fra boligen. Alle skal v\xc3\xa6re evakuert.'
+Possible location:
+b'h\xc3\xb8ybr\xc3\xa5ten'
 b'OBRE melder at brannen er slokket.'
+Possible location:
+b'h\xc3\xb8ybr\xc3\xa5ten'
 ==/844106994508357637===
 
 
-
-
 ===844093438140338176===
+First text:
 b'I forbindelse med statsbes\xc3\xb8k av Islands president, vil Karl Johans gate v\xc3\xa6re stengt for \xc3\xb8vrig trafikk.'
+Children texts:
 ==/844093438140338176===
 
 
-
-
 ===844078301207560193===
+First text:
 b'Politiet er p\xc3\xa5 vei til en trafikkulykke ved Henrik Ibsens gate, hvor en trikk og en personbil har kollidert.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet, og trikken har kj\xc3\xb8rt videre. Bilf\xc3\xb8rer blir tatt med til legevakten av ambulansen for sjekk.'
 ==/844078301207560193===
 
 
-
-
 ===844051446484127744===
+First text:
 b'Bestum: N\xc3\xb8detatene er p\xc3\xa5 vei etter melding om sort r\xc3\xb8yk fra en enebolig.'
+Children texts:
 ==/844051446484127744===
 
 
-
-
 ===844010594525204482===
+First text:
 b'En politipatrulje har stoppet en bil p\xc3\xa5 RV 4 etter melding fra vitne om mulig promillekj\xc3\xb8ring. Er funnet narkotika p\xc3\xa5 sj\xc3\xa5f\xc3\xb8r, kj\xc3\xb8res arrest.'
+Children texts:
 ==/844010594525204482===
 
 
-
-
 ===843928026983415809===
+First text:
 b'Trafikkulykke mellom lastebil og personbil p\xc3\xa5 Ring 3, ved L\xc3\xb8rentunellen, \xc3\xb8stg\xc3\xa5ende retning.Vi er p\xc3\xa5 vei'
+Children texts:
 b'Vi er p\xc3\xa5 stedet. Ingen personskade. H\xc3\xb8yre felt sperret.'
 ==/843928026983415809===
 
 
-
-
 ===843876022957326336===
+First text:
 b'Vi har flere patruljer i omr\xc3\xa5det ved Ullev\xc3\xa5l sykehus etter melding om at en person ble fraranet en sekk med diverse innhold.'
+Children texts:
 b'Forn\xc3\xa6rmede ble truet med kniv, og politiet er bev\xc3\xa6pnet. Dette har ikke noe med selve sykehuset \xc3\xa5 gj\xc3\xb8re, men skjedde ved en boligblokk.'
 ==/843876022957326336===
 
 
-
-
 ===843825260776620033===
+First text:
 b'Melding om brann i Arendals gata. Vi og Brannvesenet er p\xc3\xa5 stedet.Sett r\xc3\xb8yk og flere har evakuert seg selv'
+Children texts:
 b'Brannen er n\xc3\xa5 slukket. En beboer kj\xc3\xb8res legevakta med mindre r\xc3\xb8ykskader.'
 ==/843825260776620033===
 
 
-
-
 ===843734871633805312===
+First text:
 b'Politi og ambulanse er p\xc3\xa5 Kampen, hvor en syklist har blitt p\xc3\xa5kj\xc3\xb8rt. En mann i 30 \xc3\xa5ra blir kj\xc3\xb8rt til sykehus for sjekk.'
+Possible location:
+b'kampen'
+Children texts:
 b'En f\xc3\xb8rer i 60 \xc3\xa5ra har f\xc3\xa5tt f\xc3\xb8rerkortet sitt beslaglagt, og er anmeldt for brudd p\xc3\xa5 vikeplikten.'
+Possible location:
+b'kampen'
 ==/843734871633805312===
 
 
-
-
 ===843690473466318848===
+First text:
 b'Gr\xc3\xb8nlandsleiret: Melding om brann i en bakg\xc3\xa5rd. \xc3\x85pne flammer. N\xc3\xb8detatene er p\xc3\xa5 vei.'
+Possible location:
+b'gr\xc3\xb8nland'
+Children texts:
 b'Riktig adresse er i Hollendergata. Det brenner i en s\xc3\xb8ppelcontainer. Det er ikke spredningsfare.'
+Possible location:
+b'gr\xc3\xb8nland'
 b'Brannen er n\xc3\xa5 slukket, men det er en god del r\xc3\xb8yk p\xc3\xa5 stedet.'
+Possible location:
+b'gr\xc3\xb8nland'
 ==/843690473466318848===
 
 
-
-
 ===843658551197425664===
+First text:
 b'Jens Bjelkes gate: N\xc3\xb8detatene p\xc3\xa5 en t\xc3\xb8rrkokt kjele. Ikke melding om skadde personer.'
+Children texts:
 b'En beboer hadde sovnet fra en pizza som var satt inn i en varm ovn. Vi oppretter sak'
 ==/843658551197425664===
 
 
-
-
 ===843541074408804354===
+First text:
 b'Vi leter etter en eldre mann i omr\xc3\xa5de Frogner. Har r\xc3\xb8d skjorte, gr\xc3\xa5 cardigan, sort bukse, er 150 cm h\xc3\xb8y, er pukkelrygget med litt mage.'
+Possible location:
+b'frogner'
+Children texts:
 b'Videre har han briller, er skallet og har litt vanskelig for \xc3\xa5 orientere seg. Han er rask til bens. Ring oss p\xc3\xa5 02800.'
+Possible location:
+b'frogner'
 b'Da har vi funnet mannen. Han er i god form. Takk for hjelpen.'
+Possible location:
+b'frogner'
 ==/843541074408804354===
 
 
-
-
 ===843476071639146496===
+First text:
 b'Tollboden. Vi er p\xc3\xa5 vei etter melding om brann i en s\xc3\xb8ppelkasse.'
+Children texts:
 ==/843476071639146496===
 
 
-
-
 ===843441286220824580===
+First text:
 b'Vestli Torget: Ungdommer som t\xc3\xb8mmer et brannslukningsapparat p\xc3\xa5 parkerte biler. Politiet p\xc3\xa5 vei.'
+Possible location:
+b'vestli'
+Children texts:
 b'Vi har kontroll p\xc3\xa5 noen ungdommer som kan har v\xc3\xa6rt involvert'
+Possible location:
+b'vestli'
 ==/843441286220824580===
 
 
-
-
 ===843440995991719936===
+First text:
 b'Mosseveien 6: Meldt om slagsm\xc3\xa5l inne i bygget. Politiet p\xc3\xa5 stedet n\xc3\xa5.'
+Children texts:
 b'Vi har forel\xc3\xb8pig kontroll p\xc3\xa5 2 personer p\xc3\xa5 utsiden. Vi tar oss inn i bygget'
 b'Vi har kontroll inne i en leilighet, kontroll p\xc3\xa5 4 personer. Forel\xc3\xb8pig funnet en lettere skadet person'
 b'Har v\xc3\xa6rt et 40 \xc3\xa5rs lag med 6 voksne menn som endte i et slagsm\xc3\xa5l. Den skadde blir tatt h\xc3\xa5nd av amb personell'
@@ -2970,103 +3358,119 @@ b'Den skadde ble kj\xc3\xb8rt til legevakt. Ingen  av de andre involverte \xc3\x
 ==/843440995991719936===
 
 
-
-
 ===843440852647186436===
+First text:
 b'RV 4 Skillebekk: Trafikkuhell.  Noe trafikale utfordringer p\xc3\xa5 stedet.'
+Possible location:
+b'skillebekk'
+Children texts:
 b'Ikke meldt om skadde personer'
+Possible location:
+b'skillebekk'
 ==/843440852647186436===
 
 
-
-
 ===843415488092934144===
+First text:
 b'Vestlisvingen: N\xc3\xb8detatene p\xc3\xa5 stedet ifbm t\xc3\xb8rrkokt kjele. Beboer blir tatt h\xc3\xa5nd om av amb personell. Kun lettere skadet'
+Possible location:
+b'vestli'
+Children texts:
 ==/843415488092934144===
 
 
-
-
 ===843302322788880388===
+First text:
 b'N\xc3\xb8datene er i Kongsveien ved Holmenkollanlegget. Det brenner i et stort telt p\xc3\xa5 stedet, mye sort r\xc3\xb8yk. Ikke melding om personskader'
+Possible location:
+b'holmen'
+Children texts:
 b'Det viser seg at det ikke har v\xc3\xa6rt brann. Kun et aggregat med ufullstendig forbrenning som resulterer i sort r\xc3\xb8yk. Vi forlater stedet.'
+Possible location:
+b'holmen'
 ==/843302322788880388===
 
 
-
-
 ===843300811350462464===
+First text:
 b'Sj\xc3\xb8lyst: Det har v\xc3\xa6rt innbrudd i en bedrift. Etter god jobb fra patruljene p\xc3\xa5 stedet, ble tyven fanget. Han er n\xc3\xa5 p\xc3\xa5 vei til arrest.'
+Children texts:
 ==/843300811350462464===
 
 
-
-
 ===843275272002682882===
+First text:
 b'Rosenholm stasjon: Vi er p\xc3\xa5 vei til brann i kj\xc3\xb8ret\xc3\xb8y.'
+Children texts:
 b'Bilen er i full fyr.'
 b'Brannen er n\xc3\xa5 slukket.'
 ==/843275272002682882===
 
 
-
-
 ===843227546120572928===
+First text:
 b'RT @Ravnene: Vi trenger fler Natteravner i Oslo sentrum. Derfor lager vi reklamefilm i natt\xf0\x9f\x8e\xac https://t.co/c0ieQubvVH'
+Children texts:
 ==/843227546120572928===
 
 
-
-
 ===843222611295461376===
+First text:
 b'Melding om brann i Samvirkeveien. N\xc3\xb8detatene p\xc3\xa5 vei.'
+Children texts:
 b'Alle skal v\xc3\xa6re evakuert.'
 b'Brannen skal v\xc3\xa6re slukket, obre jobber n\xc3\xa5 med etterslukking.'
 ==/843222611295461376===
 
 
-
-
 ===843212452464660480===
+First text:
 b'Melding om r\xc3\xb8ykutvikling i Arbeidergata.'
+Children texts:
 b'Ser ut til \xc3\xa5 v\xc3\xa6re varmegang i en kompressor.'
 b'Luftet ut. Kompressoren sjekkes. Ingen skadde.'
 ==/843212452464660480===
 
 
-
-
 ===843190678427525122===
+First text:
 b'RV 4 ved Bjerke. Politiet har stanset en personbil etter melding om h\xc3\xb8y hastighet. F\xc3\xb8rer bl\xc3\xa5ste til over lovlig verdi. Sak opprettes.'
+Children texts:
 ==/843190678427525122===
 
 
-
-
 ===843120312380243968===
+First text:
 b'Hammersborgtunnellen, \xc3\xb8stg\xc3\xa5ende. Vi er p\xc3\xa5 vei til stedet etter melding om en mann som g\xc3\xa5r i tunnellen.'
+Possible location:
+b'hammersborg'
+Children texts:
 ==/843120312380243968===
 
 
-
-
 ===843064149940813824===
+First text:
 b'Nydalen/T\xc3\xa5sen: Vi tar beslag i en bilf\xc3\xb8rers f\xc3\xb8rerkort pga brudd p\xc3\xa5 vegtrafikkloven \xc2\xa7 3.'
+Possible location:
+b't\xc3\xa5sen'
+Children texts:
 b'En bil nr 2 var involvert i uvettig kj\xc3\xb8ring. Ingen i bilen har f\xc3\xb8rerkort. Ogs\xc3\xa5 funn og beslag av narkotika og penger. 2 biler blir inntauet'
+Possible location:
+b't\xc3\xa5sen'
 ==/843064149940813824===
 
 
-
-
 ===843054226532171778===
+First text:
 b'I forbindelse med St.Patriks Day vil det g\xc3\xa5 et opptog fra Jernbanetorget til Universitetsplassen n\xc3\xa5.  Vi gratulerer Irland med dagen'
+Children texts:
 ==/843054226532171778===
 
 
-
-
 ===843046547583569920===
+First text:
 b'Calmeyersgt:   trafikkulykke. Fotgjenger som er p\xc3\xa5kj\xc3\xb8rt. N\xc3\xb8detatene p\xc3\xa5 vei'
+Children texts:
 b'Ikke meldt om trafikale utfordringer p\xc3\xa5 stedet'
 b'P\xc3\xa5kj\xc3\xb8rt fotgjenger er lettere skadet. Blir kj\xc3\xb8rt til legevakt for kontroll'
 b'Vi tar beslag i bilf\xc3\xb8rers f\xc3\xb8rerkort'
@@ -3074,104 +3478,110 @@ b'Den skadde ble p\xc3\xa5kj\xc3\xb8rt i fotgjengerfelt'
 ==/843046547583569920===
 
 
-
-
 ===843037505431715840===
+First text:
 b'Vidars gt: Vi har kontroll p\xc3\xa5 2 menn , hvor den ene skal ha truet den andre med kniv.'
+Children texts:
 b'Kniven ble ikke funnet, men begge blir bortvist fra omr\xc3\xa5det.'
 ==/843037505431715840===
 
 
-
-
 ===843036875711528961===
+First text:
 b'Ensj\xc3\xb8: Vi har kontroll p\xc3\xa5 3 personer som har beg\xc3\xa5tt skadeverk p\xc3\xa5 en drosje og muligens flere parkerte biler.'
+Children texts:
 ==/843036875711528961===
 
 
-
-
 ===842919101509111808===
+First text:
 b'Homannsbyen: Det har v\xc3\xa6rt innbrudd i en bedrift. Vi er i s\xc3\xb8k etter gjerningspersonen.'
+Children texts:
 b'God jobb fra hundepatruljen v\xc3\xa5r f\xc3\xb8rte fram til innbruddstyven og funn av stj\xc3\xa5let gods. Hurra!'
 ==/842919101509111808===
 
 
-
-
 ===842916385042915328===
+First text:
 b'Filerveien: Melding om r\xc3\xb8yklukt fra en blokk. N\xc3\xb8detatene er p\xc3\xa5 vei.'
+Children texts:
 b'Sliter med \xc3\xa5 finne \xc3\xa5rsaken til r\xc3\xb8yklukten. Brannvesenet jobber med \xc3\xa5 finne ut av dette.'
 b'Ikke mer r\xc3\xb8yk, og ikke funn av noen \xc3\xa5rsak. N\xc3\xb8detatene er ferdig p\xc3\xa5 stedet.'
 ==/842916385042915328===
 
 
-
-
 ===842911516521353216===
+First text:
 b'H\xc3\xb8ybr\xc3\xa5ten: En person utsatt for vold p\xc3\xa5 en fest. Vi har kontroll p\xc3\xa5 flere mistenkte som kj\xc3\xb8res arresten. Uvisst skadeomfang p\xc3\xa5 forn\xc3\xa6rmede.'
+Possible location:
+b'h\xc3\xb8ybr\xc3\xa5ten'
+Children texts:
 ==/842911516521353216===
 
 
-
-
 ===842895054628966401===
+First text:
 b'Nydalen: Flere som bekymrer seg over et lavtflyvende sm\xc3\xa5fly. Luftfartstilsynet har gitt tillatelse til flyvingen. Ferdig rundt kl. 0200.'
+Children texts:
 ==/842895054628966401===
 
 
-
-
 ===842851433082904576===
+First text:
 b'Grefsenveien ved Nordpolen: En bil har satt seg fast i trikkeskinnene. Patrulje, bilberger og brannvesenet er p\xc3\xa5 vei for \xc3\xa5 fjerne bilen.'
+Possible location:
+b'grefsen'
+Children texts:
 b'Bilen er fjernet. F\xc3\xb8rer blir anmeldt for overtredelse av Veitrafikklovens bestemmelser.'
+Possible location:
+b'grefsen'
 ==/842851433082904576===
 
 
-
-
 ===842804545705205761===
+First text:
 b'Kirkeveien. Ved Ullev\xc3\xa5l sykehus. Melding om flere gjenstander i veibanen.'
+Children texts:
 ==/842804545705205761===
 
 
-
-
 ===842765537721696256===
+First text:
 b'N\xc3\xb8detatene til Kyrre Grepps gate, hvor det trolig er en t\xc3\xb8rrkokt kjele.'
+Children texts:
 b'Bekreftet t\xc3\xb8rrkok. Ingen skadet.'
 ==/842765537721696256===
 
 
-
-
 ===842690181496999936===
+First text:
 b'En lastebil har veltet i rundkj\xc3\xb8ringen opp\xc3\xa5 Klemetsrudlokket ved E6. Ikke meldt om personskade, men vil bli noe ekstra k\xc3\xb8 i omr\xc3\xa5det.'
+Children texts:
 b'P\xc3\xa5kj\xc3\xb8ringen til E6 inng\xc3\xa5ende fra Klemetsrud blir stengt inntil lastebilen er berget. Det vil ta noe tid.'
 b'Det er inntil videre IKKE mulig \xc3\xa5 kj\xc3\xb8re p\xc3\xa5 E6 fra Klemetsrud. Vanskelig \xc3\xa5 si n\xc3\xa5r p\xc3\xa5kj\xc3\xb8ringen \xc3\xa5pnes. Omkj\xc3\xb8ring via Mortensrud el Mosseveien.'
 b'Bergingen av s\xc3\xb8ppelet som var i den veltede lastebilen er i gang. Uvisst n\xc3\xa5r dette er ferdig. P\xc3\xa5kj\xc3\xb8ringen er fortsatt sperret.'
 ==/842690181496999936===
 
 
-
-
 ===842685779352735744===
+First text:
 b'En bil har f\xc3\xa5tt stans i midtre felt i Festningstunnelens \xc3\xb8stg\xc3\xa5ende retning. Medf\xc3\xb8rer at kun ett felt er \xc3\xa5pent inntil videre.'
+Children texts:
 b'Alle felt er \xc3\xa5pne i Festningtunnelen \xc3\xb8stg\xc3\xa5ende, men det k\xc3\xb8 bakover til Sk\xc3\xb8yen.'
 ==/842685779352735744===
 
 
-
-
 ===842646786099597312===
+First text:
 b'Haugerud: Kvinne p\xc3\xa5kj\xc3\xb8rt av i bil i lav hastighet etter at hun l\xc3\xb8p ut i veien. Kvinnen lettere skadet, kj\xc3\xb8rt legevakta. Sak opprettet.'
+Children texts:
 ==/842646786099597312===
 
 
-
-
 ===842562555759525892===
+First text:
 b'Melding om brann i tomannsbolig p\xc3\xa5 Bryn. Alle n\xc3\xb8detater p\xc3\xa5 vei.'
+Children texts:
 b'Vi og Brannvesenet er p\xc3\xa5 stedet.Det er full fyr i taket.'
 b'2 beboere er evakuerte og brannvesenet har startet slokking.'
 b'Nabohuset blir ogs\xc3\xa5 evakuert. Totalt 4 personer er n\xc3\xa5 evakuert. Ingen fysisk skadet.'
@@ -3180,154 +3590,182 @@ b'Brannen er n\xc3\xa5 slukket. En av de som har f\xc3\xa5tt i seg r\xc3\xb8yk b
 ==/842562555759525892===
 
 
-
-
 ===842538492181843969===
+First text:
 b'Sykkeltyv tatt p\xc3\xa5 fersk gjerning av hundepatruljen i Brettevillesgate i Torshov dalen. Han blir p\xc3\xa5grepet og sykkelen levert riktig eier.'
+Possible location:
+b'torshov'
+Children texts:
 ==/842538492181843969===
 
 
-
-
 ===842514655079731201===
+First text:
 b'Melding om r\xc3\xb8yklukt fra en byg\xc3\xa5rd i Bergensveien. Alle n\xc3\xb8detater p\xc3\xa5 vei.'
+Children texts:
 b'Vi og Brannvesenet er p\xc3\xa5 stedet. Ingen brann, bare litt r\xc3\xb8yk fra matlaging. Vi drar fra stedet.'
 ==/842514655079731201===
 
 
-
-
 ===842362185703669760===
+First text:
 b'Vi har f\xc3\xa5tt melding om brann i Ragnild Schibbyes vei.  Alle n\xc3\xb8detater er p\xc3\xa5 vei til stedet.'
+Children texts:
 b'Brannen i Ragnhild Schibbyes vei er slukket. Det er ikke meldt om noen evakuerte eller skadde.'
 ==/842362185703669760===
 
 
-
-
 ===842276424253898752===
+First text:
 b'Vi har f\xc3\xa5tt melding om gasslukt i omr\xc3\xa5det Guller\xc3\xa5sen. Brannvesenet og politiet er p\xc3\xa5 vei for \xc3\xa5 unders\xc3\xb8ke.'
+Children texts:
 b'Skal v\xc3\xa6re litt propan som er lekket fra en tank i et skur ved Hemingbanen. Politi og brann er fremdeles p\xc3\xa5 stedet.'
 b'Skal v\xc3\xa6re snakk om sv\xc3\xa6rt f\xc3\xa5 mengder. Brann unders\xc3\xb8ker tanken n\xc3\xa5.'
 b'Brann har sjekket ut tanken, den er tett. Ingen lukt i omr\xc3\xa5det lengre.'
 ==/842276424253898752===
 
 
-
-
 ===842179858197278720===
+First text:
 b'Bekreftet ran av Shell bensinstasjon p\xc3\xa5 Ellingsrud. To personer med pistoler har l\xc3\xb8pt fra stedet.'
+Possible location:
+b'ellingsrud'
+Children texts:
 b'Ansatte ikke fysisk skadet. Vi s\xc3\xb8ker etter gjerningsmennene.'
+Possible location:
+b'ellingsrud'
 b'Rettelse p\xc3\xa5 \xc3\xa5stedet er Esso bensinstasjon, Per Krohgs vei p\xc3\xa5 Ellingsrud. ( Den het Shell f\xc3\xb8r)'
+Possible location:
+b'ellingsrud'
 b'2 personer er n\xc3\xa5 p\xc3\xa5grepet i forbindelse med ranet.'
+Possible location:
+b'ellingsrud'
 ==/842179858197278720===
 
 
-
-
 ===842110092568862720===
+First text:
 b'Politiet er p\xc3\xa5 Esso Kalbakken ifm bekreftet ran. Vi er i omr\xc3\xa5det med flere patruljer som s\xc3\xb8ker etter gjerningspersonen. Besk kommer'
+Children texts:
 b'Besk: mann, if\xc3\xb8rt lue eller balaklava, briller, bl\xc3\xa5/sort boblejakke m/hvit logo p\xc3\xa5 venstre bryst, cargo pants og m\xc3\xb8rke Nike sko m/hvit s\xc3\xa5le'
 ==/842110092568862720===
 
 
-
-
 ===842099844269408263===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Sinsenveien. Melding om r\xc3\xb8yk fra leilighet'
+Possible location:
+b'sinsen'
+Children texts:
 b'Vi er fremme p\xc3\xa5 stedet. Skal v\xc3\xa6re en t\xc3\xb8rrkok s\xc3\xa5 det er udramatisk'
+Possible location:
+b'sinsen'
 ==/842099844269408263===
 
 
-
-
 ===842071035868524553===
+First text:
 b'N\xc3\xb8detatene er i St. J\xc3\xb8rgens vei. Mulig pipebrann'
+Children texts:
 b'Det har ikke v\xc3\xa6rt brann. R\xc3\xb8yken stammer fra r\xc3\xb8yknedslag ifm fyring i peisen'
 ==/842071035868524553===
 
 
-
-
 ===842063209238528001===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Sigurd Hoels vei. Melding om at det har brent p\xc3\xa5 en veranda'
+Children texts:
 b'Ikke v\xc3\xa6rt brann p\xc3\xa5 stedet. Vi har dratt'
 ==/842063209238528001===
 
 
-
-
 ===842054294434136065===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Arthur Nordliesvei. Melding om r\xc3\xb8yk i leilighet'
+Children texts:
 b'Vi er fremme p\xc3\xa5 stedet. Har ikke v\xc3\xa6rt brann. R\xc3\xb8yken kom ifm r\xc3\xb8yknedslag etter fyring i peis.'
 ==/842054294434136065===
 
 
-
-
 ===841967241226784773===
+First text:
 b'T\xc3\xa5sentunnelen \xc3\xb8stg\xc3\xa5ende: melding om trafikkuhell, ukjent om det er personskader.'
+Possible location:
+b't\xc3\xa5sen'
+Children texts:
 ==/841967241226784773===
 
 
-
-
 ===841951839268569088===
+First text:
 b'S\xc3\xb8renga: N\xc3\xb8detatene er p\xc3\xa5 vei til stedet hvor en trailer har satt seg fast i brygga.'
+Children texts:
 b'Trailerens forhjul hadde g\xc3\xa5tt gjennom tredekket p\xc3\xa5 brygga, og det jobbes med \xc3\xa5 f\xc3\xa5 den opp. Ingen personer er skadet.'
 b'Trailen er fjernet og brannvesenet har sikret omr\xc3\xa5det midlertidig.'
 ==/841951839268569088===
 
 
-
-
 ===841689785756483585===
+First text:
 b'E18 inng. v/Frognerstranda: Trafikkuhell. Kun materielle skader. 2 biler involvert.'
+Possible location:
+b'frogner'
+Children texts:
 b'Begge biler kj\xc3\xb8rbare. Skademeldingsutfylling f\xc3\xb8r partene kj\xc3\xb8rer videre.'
+Possible location:
+b'frogner'
 ==/841689785756483585===
 
 
-
-
 ===841674707376177152===
+First text:
 b'Sinsenkrysset: Melding om bil med stans rett f\xc3\xb8r avskj\xc3\xb8ringsrampe \xc3\xb8stg\xc3\xa5ende retning. Ukjent \xc3\xa5rsak.'
+Possible location:
+b'sinsen'
+Children texts:
 b'Vi har kj\xc3\xb8rt sinsenkrysset og tilst\xc3\xb8tende gater uten \xc3\xa5 se noen bil. Trolig kommet seg videre p\xc3\xa5 egen h\xc3\xa5nd.'
+Possible location:
+b'sinsen'
 ==/841674707376177152===
 
 
-
-
 ===841635012281827328===
+First text:
 b'Kl  1047: Nedre Bekkelaget skole: Etter klager p\xc3\xa5 personer som campet i en bil like ved skolen, ble det 3 personer kj\xc3\xb8rt i arrest.'
+Possible location:
+b'bekkelaget'
+Children texts:
 b'1 person var etterlyst, samt at det ble tatt beslag i 10 kanner med diesel + div verkt\xc3\xb8y, som antas \xc3\xa5 v\xc3\xa6re tyvegods.'
+Possible location:
+b'bekkelaget'
 ==/841635012281827328===
 
 
-
-
 ===841632545116676097===
+First text:
 b'E6 inng v Alnabru. Vi har kontroll p\xc3\xa5 en mann som gikk i veibanen.'
+Children texts:
 ==/841632545116676097===
 
 
-
-
 ===841632186927370240===
+First text:
 b'Jernbanetorget: Overstadig beruset mann tatt ut av en rute buss. Blir kj\xc3\xb8rt inn til sentralarresten.'
+Children texts:
 ==/841632186927370240===
 
 
-
-
 ===841631720055164929===
+First text:
 b'E6 inn f\xc3\xb8r Ryenkrysset. L\xc3\xb8st komlokk i veibanen. Vaktbilen VTS og politiet p\xc3\xa5 stedet. Til OBS'
+Children texts:
 ==/841631720055164929===
 
 
-
-
 ===841611165310562306===
+First text:
 b'Kaldbakken: Trafikkulykke. N\xc3\xb8detatene p\xc3\xa5 vei'
+Children texts:
 b'Kun en bil involvert. Kj\xc3\xb8rt inn i et tre ved en rundkj\xc3\xb8ring. En person er tatt ut av bilen. Uklart skadeomfang'
 b'Ulykken har skjedd ved rundkj\xc3\xb8ringen ved Kaldbakken senter. Mindre trafikale utfordringer p\xc3\xa5 stedet. Vi jobber med \xc3\xa5 f\xc3\xa5 ryddet'
 b'Den skadde sj\xc3\xa5f\xc3\xb8ren var alene i bilen. Lettere skadet, Blir kj\xc3\xb8rt av amb til legevakt'
@@ -3335,96 +3773,110 @@ b'Veibanen er ryddet. Normal trafikk p\xc3\xa5 stedet'
 ==/841611165310562306===
 
 
-
-
 ===841511253268975616===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til E6 utg\xc3\xa5ende ved Alnabru. Trafikkulykke'
+Children texts:
 b'2 personer involvert. Begge er sjekket av helsepersonell, og de fremst\xc3\xa5r som uskadd.'
 ==/841511253268975616===
 
 
-
-
 ===841491914088173568===
+First text:
 b'N\xc3\xb8detatene er i Nydalen all\xc3\xa9 ifm r\xc3\xb8yklukt. Kommer noe r\xc3\xb8yk fra en restaurant p\xc3\xa5 stedet. Forel\xc3\xb8pig uavklart'
+Children texts:
 b'Obre har lokalisert et branntill\xc3\xb8p ifm et kj\xc3\xb8leskap. De har kontroll p\xc3\xa5 brannen og r\xc3\xb8yken er avtagende. Noen beboere har evakuert seg selv'
 b'Brannen er slukket, men obre jobber fremdeles p\xc3\xa5 stedet. De fleste evakuerte har f\xc3\xa5tt returnere til leilighetene sine.'
 ==/841491914088173568===
 
 
-
-
 ===841463033599819776===
+First text:
 b'Tidlig p\xc3\xa5 natten fikk vi melding om at skudd var avfyrt p\xc3\xa5 Holmlia. Vi har unders\xc3\xb8kt, men har ikke funnet bevis for at dette har skjedd'
+Possible location:
+b'holmlia'
+Children texts:
 ==/841463033599819776===
 
 
-
-
 ===841451202743287808===
+First text:
 b'P\xc3\xa5 E6 ved Furuset g\xc3\xa5r det en m\xc3\xb8rkkledd mann i veibanen. Patrulje p\xc3\xa5 vei for \xc3\xa5 f\xc3\xa5 han ut av veibanen'
+Possible location:
+b'furuset'
+Children texts:
 ==/841451202743287808===
 
 
-
-
 ===841437952634957824===
+First text:
 b'I Kirkeveien har det v\xc3\xa6rt innbrudd i bedrift. Flere kniver er stj\xc3\xa5let fra utstillingsvindu. 2 personer p\xc3\xa5grepet i n\xc3\xa6rheten.'
+Children texts:
 ==/841437952634957824===
 
 
-
-
 ===841351208442961920===
+First text:
 b'Trafikkulykke mellom bil og fotgjenger i R\xc3\xb8dbergveien p\xc3\xa5 \xc3\x85rvoll. Vi og ambulanse er p\xc3\xa5 stedet.'
+Possible location:
+b'\xc3\xa5rvoll'
+Children texts:
 b'Fotgjenger lettere skadet og blir med ambulansen til legevakta. Vi oppretter sak p\xc3\xa5 forholdet.'
+Possible location:
+b'\xc3\xa5rvoll'
 ==/841351208442961920===
 
 
-
-
 ===841282436172517377===
+First text:
 b'Gr\xc3\xb8nland: Vi s\xc3\xb8ker med bev\xc3\xa6pnede enheter etter en gjerningsmann som skal ha truet og sl\xc3\xa5tt etter en annen mann med kniv. Ingen skadet.'
+Possible location:
+b'gr\xc3\xb8nland'
+Children texts:
 ==/841282436172517377===
 
 
-
-
 ===841240572723679232===
+First text:
 b'Marienlyst ved Shell: Bil og syklist som har kollidert. N\xc3\xb8detater er p\xc3\xa5 vei.'
+Children texts:
 b'Det viste seg at det var en fotgjenger som hadde blitt p\xc3\xa5kj\xc3\xb8rt i fotgjengerfelt. Kj\xc3\xb8rt sykehus med uavklarte skader. Vi jobber p\xc3\xa5 stedet.'
 b'Bilisten har trolig ikke overholdt vikeplikt for fotgjenger, og fikk derfor beslaglagt sitt f\xc3\xb8rerkort. Vi er ferdig p\xc3\xa5 stedet, oppretter sak'
 ==/841240572723679232===
 
 
-
-
 ===841173879062175747===
+First text:
 b'Festningstunnelen, \xc3\xb8stg\xc3\xa5ende retning: Kj\xc3\xb8ret\xc3\xb8ystans i h\xc3\xb8yre felt. Bilberger p\xc3\xa5 vei. H\xc3\xb8yre felt stengt inntil videre'
+Children texts:
 b'Kj\xc3\xb8ret\xc3\xb8yet er fjernet og kj\xc3\xb8rebanen er \xc3\xa5pnet igjen.'
 ==/841173879062175747===
 
 
-
-
 ===841159683494838273===
+First text:
 b'N\xc3\xb8detater p\xc3\xa5 vei ut med redningsb\xc3\xa5t etter det som kan v\xc3\xa6re n\xc3\xb8dsignaler sendt midtfjords fra. Observert mellom Hellvig og Ljan.'
+Possible location:
+b'ljan'
+Children texts:
 b'S\xc3\xb8k avsluttet. Via melder har det blitt konkludert med at dette er Storeflua fyr som har signatur VQ(9)W10s - 9 blink for s\xc3\xa5 pause i 10 sek'
+Possible location:
+b'ljan'
 ==/841159683494838273===
 
 
-
-
 ===841153563460005888===
+First text:
 b'Byporten: Melding om r\xc3\xb8ykutvikling i forretningslokale. N\xc3\xb8detater p\xc3\xa5 stedet.'
+Children texts:
 b'Ingen brann, men litt r\xc3\xb8yk i et lokale og det lukter litt svidd. Mulig varmegang i noe elektrisk. Brannvesenet unders\xc3\xb8ker videre.'
 ==/841153563460005888===
 
 
-
-
 ===841132371294449664===
+First text:
 b'N\xc3\xb8detatene er i Kantarellen Terrasse der det brenner i et rekkehus. Beboere i n\xc3\xa6rheten anmodes om \xc3\xa5 holde vinduer lukket grunnet r\xc3\xb8yken.'
+Children texts:
 b'Det er evakuert 14 personer fra boligene, og de blir ivaretatt av ambulansen p\xc3\xa5 stedet.'
 b'Taket er overtent og kan ikke reddes. Brannvesenet jobber med skadebegrensning. Rekkehuslengden er evakuert. Ingen meldinger om personskader'
 b'Brannvesenet har kontroll p\xc3\xa5 brannen, men vil bedrive etterslukking utover dagen. De evakuerte kan forel\xc3\xb8pig ikke flytte inn igjen.'
@@ -3432,677 +3884,741 @@ b'Brannvesenet melder at ingen av de evakuerte boligene er beboelige, s\xc3\xa5 
 ==/841132371294449664===
 
 
-
-
 ===841043767591329793===
+First text:
 b'Ved Mortensrud skole har det v\xc3\xa6rt en uoverensstemmelse mellom noen ungdommer. Noen har v\xc3\xa6rt truende med et balltre.Vi snakker med involverte'
+Possible location:
+b'mortensrud'
+Children texts:
 ==/841043767591329793===
 
 
-
-
 ===841035738317746177===
+First text:
 b'Sinsen: Mann funnet liggende p\xc3\xa5 gata med noe blod i ansiktet. Han er ved bevissthet og unders\xc3\xb8kes av ambulansen.'
+Possible location:
+b'sinsen'
+Children texts:
 b'Uklart hva som har for\xc3\xa5rsaket blodet p\xc3\xa5 mannen, s\xc3\xa5 vi jobber med \xc3\xa5 finne ut det. Ingen indikasjon p\xc3\xa5 noe kriminelt forel\xc3\xb8pig.'
+Possible location:
+b'sinsen'
 b'Hvis noen har opplysninger i saken \xc3\xb8nsker vi at du enten kontakter politiet p\xc3\xa5 stedet eller ringer oss p\xc3\xa5 tlf 02800.'
+Possible location:
+b'sinsen'
 ==/841035738317746177===
 
 
-
-
 ===840852341666545664===
+First text:
 b'Vi har hatt en promille kontroll i Munkedamsveien, 150 kontrollerte, 1 f\xc3\xb8rer anmeldt for kj\xc3\xb8ring i p\xc3\xa5virket tilstand.'
+Children texts:
 ==/840852341666545664===
 
 
-
-
 ===840765572497473536===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Ammerudhellinga, hvor det skal lukte brent i en oppgang.'
+Possible location:
+b'ammerud'
+Children texts:
 b'Ingen brann.'
+Possible location:
+b'ammerud'
 ==/840765572497473536===
 
 
-
-
 ===840754002346295296===
+First text:
 b'Hundepatruljen har stanset 2 personer som formentlig har tagget p\xc3\xa5 en murvegg ved Skullerud. Takk til observante vitner.'
+Possible location:
+b'skullerud'
+Children texts:
 b'2 menn i slutten av 20 \xc3\xa5rene ble p\xc3\xa5grepet for grovt skadeverk.'
+Possible location:
+b'skullerud'
 b'Begge drakk formentlig GHB rett forut for p\xc3\xa5gripelsen, og blir kj\xc3\xb8rt til sykehus for sjekk.'
+Possible location:
+b'skullerud'
 ==/840754002346295296===
 
 
-
-
 ===840723948232929284===
+First text:
 b'Politiet har p\xc3\xa5grepet en mann i 30 \xc3\xa5ra i Gamlebyen, og han blir anmeldt for familievold. Forn\xc3\xa6rmede har et kutt og et bl\xc3\xa5merke i ansiktet.'
+Children texts:
 ==/840723948232929284===
 
 
-
-
 ===840699708674854912===
+First text:
 b'Fougstads gate, n\xc3\xb8detatene er p\xc3\xa5 vei da det er g\xc3\xa5tt en brannalarm p\xc3\xa5 stedet. Mistanke om t\xc3\xb8rrkok, men er ikke bekreftet enn\xc3\xa5.'
+Children texts:
 b'@Oslo110sentral bekrefter t\xc3\xb8rrkok. Politiet forlater straks stedet.'
 ==/840699708674854912===
 
 
-
-
 ===840616787511246848===
+First text:
 b'Melder la bak en Ford som vinglet veldig p\xc3\xa5 RV4 mot sentrum. F\xc3\xb8reren var godt beruset og blir n\xc3\xa5 kj\xc3\xb8rt arresten.'
+Children texts:
 ==/840616787511246848===
 
 
-
-
 ===840613475386834945===
+First text:
 b'Majorstua: Beruset mann (23) p\xc3\xa5grepet etter \xc3\xa5 ha sl\xc3\xa5tt en politimann i magen etter at han hadde kranglet med en taxisj\xc3\xa5f\xc3\xb8r forut.'
+Children texts:
 ==/840613475386834945===
 
 
-
-
 ===840601071118618625===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til en oppgang i Borger Withs gate etter melding om en r\xc3\xb8ykvarsler som g\xc3\xa5r, samt at det lukter brent i oppgangen.'
+Children texts:
 b'En t\xc3\xb8rrkokt kjele av noe slag var \xc3\xa5rsaken til r\xc3\xb8yklukta. Brannvesenet er inne i aktuell leilighet og har kontroll.'
 ==/840601071118618625===
 
 
-
-
 ===840584953515659264===
+First text:
 b'Tbaneleder melder om mye folk p\xc3\xa5 Midtstuen tbanestasjon. Vi bist\xc3\xa5r tbanen og vektere p\xc3\xa5 stedet.'
+Children texts:
 b'V\xc3\xa6rt veldig mye folk i Holmenkollen i godv\xc3\xa6ret i dag. N\xc3\xa5 er mange p\xc3\xa5 vei nedover mot byen. V\xc3\xa6rt noen meldinger om berusede folk til sjenanse'
 ==/840584953515659264===
 
 
-
-
 ===840549711367004160===
+First text:
 b'Bilf\xc3\xb8rer stanset p\xc3\xa5 \xc3\x98stre Aker vei. Han kj\xc3\xb8rte i 21 km/t over fartsgrensen. 6 prikker fra f\xc3\xb8r, 3 nye idag. F\xc3\xb8rerkortet beslaglagt p\xc3\xa5 stedet'
+Children texts:
 ==/840549711367004160===
 
 
-
-
 ===840388470673702912===
+First text:
 b'Vi og OBRE er p\xc3\xa5 vei til Brattlikollen, hvor det er meldt om brann i en lyktestolpe.'
+Children texts:
 ==/840388470673702912===
 
 
-
-
 ===840343763985825793===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Bjerregaards gate, hvor det er meldt om r\xc3\xb8yk i oppgangen.'
+Children texts:
 ==/840343763985825793===
 
 
-
-
 ===840331142142279681===
+First text:
 b'I Ljabruveien har det v\xc3\xa6rt en trafikkulykke. Minst to biler involvert, to personer er meldt skadet, men de er oppeg\xc3\xa5ende.'
+Children texts:
 ==/840331142142279681===
 
 
-
-
 ===840320699822661632===
+First text:
 b'Hundepatrulje stanset en bil som kj\xc3\xb8rte veldig. F\xc3\xb8rer hadde mistet lappen i fjor, men skulle f\xc3\xa5 den tilbake om 3 dager.'
+Children texts:
 b'F\xc3\xb8reren oppgav falsk personalia og blir anmeldt for dette i tillegg. N\xc3\xa5 venter en ny og lengre periode uten f\xc3\xb8rerkort.'
 b'Hvis det skulle v\xc3\xa6re tvil, s\xc3\xa5 kj\xc3\xb8rte bilen veldig _fort_. Dette skjedde i tunnelsystemet ned fra Ryen og til sentrum.'
 ==/840320699822661632===
 
 
-
-
 ===840274511505285120===
+First text:
 b'D\xc3\xa6lenenga: Sv\xc3\xa6rt mange meldinger p\xc3\xa5 en beruset mann som ravet i veibanen og var sjenerende mot forbipasserende. Vi har kontroll p\xc3\xa5 ham.'
+Possible location:
+b'd\xc3\xa6lenenga'
+Children texts:
 b'Mannen ble tatt vare p\xc3\xa5 av ambulansen, men valgte \xc3\xa5 sl\xc3\xa5 til to derfra. De ble ikke skadet. Han blir derfor kj\xc3\xb8rt inn i arresten.'
+Possible location:
+b'd\xc3\xa6lenenga'
 ==/840274511505285120===
 
 
-
-
 ===840218367608905728===
+First text:
 b'Tre mindre trafikkulykker p\xc3\xa5 E6 utg\xc3\xa5ende meldt inn n\xc3\xa5. En i V\xc3\xa5lerengatunnelen, og to p\xc3\xa5 E6 ved Furuset og H\xc3\xb8ybr\xc3\xa5ten.'
+Possible location:
+b'furuset'
+Children texts:
 b'Ulykken i V\xc3\xa5lerengatunnelen er i inng\xc3\xa5ende l\xc3\xb8p. F\xc3\xb8rer til at ett felt er stengt inntil videre. Mye k\xc3\xb8 i begge retninger.'
+Possible location:
+b'furuset'
 b'Bilen som st\xc3\xa5r p\xc3\xa5 E6 utg\xc3\xa5ende ved H\xc3\xb8ybr\xc3\xa5ten er straks fjernet. Da blir alle felt \xc3\xa5pne. Veldig mye k\xc3\xb8 i nordg\xc3\xa5ende ut av byen n\xc3\xa5.'
+Possible location:
+b'furuset'
 b'Bilen som visstnok stod i veien p\xc3\xa5 E6 Furuset var borte f\xc3\xb8r vi ankom. Ingen som sperrer noe p\xc3\xa5 E6 utg\xc3\xa5ende n\xc3\xa5.'
+Possible location:
+b'furuset'
 b'N\xc3\xa5 er endelig begge felt i V\xc3\xa5lerengatunnelen i retning mot sentrum \xc3\xa5pnet igjen. Vi f\xc3\xb8lger opp partene p\xc3\xa5 utsiden av tunnelen.'
+Possible location:
+b'furuset'
 ==/840218367608905728===
 
 
-
-
 ===840205647358640131===
+First text:
 b'En bil har stans i Festningstunnelen vestg\xc3\xa5ende. Tauebil er p\xc3\xa5 vei, men inntil videre er ett felt sperret i tunnelen.'
+Children texts:
 b'Bilen er fjernet fra Festningstunnelen og alle felt er \xc3\xa5pne.'
 ==/840205647358640131===
 
 
-
-
 ===840192644542320641===
+First text:
 b'Brann i blokk i Ole Deviks vei. Alle n\xc3\xb8detater p\xc3\xa5 stedet.'
+Children texts:
 b'67 evakuerte, 3 personer blir sjekket av ambulanse for r\xc3\xb8ykskader.'
 ==/840192644542320641===
 
 
-
-
 ===839980044390977536===
+First text:
 b'Nedre Sk\xc3\xb8yenvei / Askekroken, vi er p\xc3\xa5 stedet da en bil st\xc3\xa5r midt i trikkeskinnene og sperrer for trikken.'
+Possible location:
+b'sk\xc3\xb8yen'
+Children texts:
 b'Bilen hadde to forskjellige kjennemerker. Det ene kjennemerket var stj\xc3\xa5let. \n3 personer innbringes arrest. Funnet narkotika i bilen.'
+Possible location:
+b'sk\xc3\xb8yen'
 b'F\xc3\xb8rer mistenkes for \xc3\xa5 ha kj\xc3\xb8rt i p\xc3\xa5virket tilstand. Anmeldelse opprettes.'
+Possible location:
+b'sk\xc3\xb8yen'
 ==/839980044390977536===
 
 
-
-
 ===839958338263740417===
+First text:
 b'Rosenhoff/Carl Berner: Vi har kontroll p\xc3\xa5 en mann som har viftet med en kniv ved trikkeholdeplassen. Hadde truet noen ungdommer ogs\xc3\xa5,'
+Children texts:
 ==/839958338263740417===
 
 
-
-
 ===839957545309593600===
+First text:
 b'Arendalsgata: Person sl\xc3\xa5tt ned, ukjent skadeomfang. Politi og ambulanse p\xc3\xa5 vei. Forel\xc3\xb8pig ingen opplysninger om gjerningsperson'
+Children texts:
 ==/839957545309593600===
 
 
-
-
 ===839953249566355456===
+First text:
 b'Brinken/Kampen:  Taxisj\xc3\xa5f\xc3\xb8r ble sl\xc3\xa5tt av passasjer. Vi har kontroll p\xc3\xa5 stedet. Amb. sjekker sj\xc3\xa5f\xc3\xb8r. Passasjer blir p\xc3\xa5grepet.'
+Possible location:
+b'kampen'
+Children texts:
 ==/839953249566355456===
 
 
-
-
 ===839936537915715586===
+First text:
 b'Brenneriveien: N\xc3\xb8detatene p\xc3\xa5 stedet pga r\xc3\xb8ykutvikling. Flere har evakuert seg selv, \xc3\xa9n kj\xc3\xb8rt OKL for sjekk. Brann i isbitmaskin slukket.'
+Children texts:
 ==/839936537915715586===
 
 
-
-
 ===839932524512043014===
+First text:
 b'T-banestasjon, Oslo sentrum: En gatemusikant fikk \xc3\xb8delagt sin fiolin av en forbipasserende mann. \xc3\x85rsaken kan vi bare spekulere i.'
+Children texts:
 b'Vi har snakket med forn\xc3\xa6rmede og vitner, men fant ikke gjerningsmannen. Saken blir anmeldt.'
 ==/839932524512043014===
 
 
-
-
 ===839913426067591170===
+First text:
 b'Toftesgt. Kvinnen som ble overfalt av 2 menn med en hund. Ble ogs\xc3\xa5 dyttet ned en trapp.Vi er p\xc3\xa5 stedet og s\xc3\xb8ker etter gj.menn'
+Children texts:
 b'Kvinnen er letter skadet. Hadde blitt sl\xc3\xa5tt og dyttet fordi hun ikke vil la egen hund hilse p\xc3\xa5 de mistenktes hund.'
 b'Hunden til de mistenkte beskrives som en "kamphund".  Den ene mistenkte har gr\xc3\xb8nn jakke og langt kr\xc3\xb8llete h\xc3\xa5r.'
 ==/839913426067591170===
 
 
-
-
 ===839889273499365376===
+First text:
 b'Lofsrudh\xc3\xb8gda:  Vi s\xc3\xb8ker etter en mann som skal ha skadet en kvinne med kniv og sl\xc3\xa5tt henne. Kvinnen er ikke alvorlig skadet.'
+Children texts:
 b'Den mistenkte mannen er kjent, men forel\xc3\xb8pig ikke funnet. Vi avslutter s\xc3\xb8ket og etterforskning overtar saken.'
 ==/839889273499365376===
 
 
-
-
 ===839881941344272384===
+First text:
 b'Langb\xc3\xb8lgen: N\xc3\xb8detatene p\xc3\xa5 stedet ifbm t\xc3\xb8rrkok. En person blir kj\xc3\xb8rt Ullev\xc3\xa5l for behandling.'
+Children texts:
 ==/839881941344272384===
 
 
-
-
 ===839880256471248896===
+First text:
 b'Normannsgt. 71:  N\xc3\xb8detatene p\xc3\xa5 stedet ifbm melding om brannlukt.'
+Children texts:
 b'Det har v\xc3\xa6rt mye r\xc3\xb8yk i en leilighet, men ingen \xc3\xa5pne flammer. Ingen personer, kun en katt til stede. Den er uskadd. Vi oppretter sak'
 ==/839880256471248896===
 
 
-
-
 ===839879941994901504===
+First text:
 b'Pilestredet 63: Trafikkulykke . 2 biler. Ingen alvorlig personskade'
+Children texts:
 ==/839879941994901504===
 
 
-
-
 ===839774130295668737===
+First text:
 b'En s\xc3\xb8ppelbil har sklidd i en glatt bakke p\xc3\xa5 Kampen. Fire personbiler er p\xc3\xa5f\xc3\xb8rt materielle skader. Ingen personskader. Vi er p\xc3\xa5 stedet.'
+Possible location:
+b'kampen'
+Children texts:
 ==/839774130295668737===
 
 
-
-
 ===839761321608499201===
+First text:
 b'Trafikkorpset trener p\xc3\xa5 eskortekj\xc3\xb8ring i hele Oslo-omr\xc3\xa5det i formiddag. Kan f\xc3\xb8re til noe ekstra k\xc3\xb8 og stans i trafikken i korte perioder.'
+Children texts:
 ==/839761321608499201===
 
 
-
-
 ===839681716079964160===
+First text:
 b'Gr\xc3\xbcnerl\xc3\xb8kka. Vi er p\xc3\xa5 stedet etter slagsm\xc3\xa5l inne p\xc3\xa5 en kiosk. En person har f\xc3\xa5tt sl\xc3\xa5tt ut noen tenner.'
+Children texts:
 ==/839681716079964160===
 
 
-
-
 ===839623609157046273===
+First text:
 b'Politiet p\xc3\xa5 vei til Vestli hvor det brenner i en bil.'
+Possible location:
+b'vestli'
+Children texts:
 b'Full overtenning i en bil, spredningsfare til andre biler.'
+Possible location:
+b'vestli'
 b'En bil er totalt utbrent og en bil har smelteskader i plasten.'
+Possible location:
+b'vestli'
 ==/839623609157046273===
 
 
-
-
 ===839612461523341312===
+First text:
 b'Trondheimsveien inng\xc3\xa5ende ved Linderud. Bil har kj\xc3\xb8rt i autovernet. Ingen fremst\xc3\xa5r som skadet p\xc3\xa5 stedet. Store materielle skader p\xc3\xa5 bilen.'
+Possible location:
+b'linderud'
+Children texts:
 ==/839612461523341312===
 
 
-
-
 ===839568886207025161===
+First text:
 b'Stovner t- bane: Vi har tatt kontroll p\xc3\xa5 en mann som sto og blottet seg. Vedkommende blir n\xc3\xa5 kj\xc3\xb8rt arrest og anmeldt for forholdet.'
+Possible location:
+b'stovner'
+Children texts:
 ==/839568886207025161===
 
 
-
-
 ===839532545352089603===
+First text:
 b'Oslo S: Et observant vitne meldte om en person med pistol i bukselinningen p\xc3\xa5 toget fra Romerike inn mot Oslo. Patrulje gjenkjente...'
+Children texts:
 b'...vedkommende p\xc3\xa5 beskrivelse, og tok kontroll ved ankomst Oslo S. Det ble funn av et v\xc3\xa5pen, og tur i arresten.'
 ==/839532545352089603===
 
 
-
-
 ===839524054436569088===
+First text:
 b'Ring 3 vestg\xc3\xa5ende ved Bryn Senter, melding om trafikkuhell mellom bil og lastebil. Politiet er p\xc3\xa5 vei.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet, sammen med ambulanse. Ingen personskader.'
 ==/839524054436569088===
 
 
-
-
 ===839501756195356672===
+First text:
 b'Vi har ogs\xc3\xa5 f\xc3\xa5tt melding om brann i Lindeall\xc3\xa9en. Den skal n\xc3\xa5 v\xc3\xa6re slukket, en person blir sjekket av ambulanse p\xc3\xa5 stedet.'
+Children texts:
 ==/839501756195356672===
 
 
-
-
 ===839501365944664065===
+First text:
 b'Melding om brann i Helgesens gate, n\xc3\xb8detatene er p\xc3\xa5 vei.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet og det har brent i en glassmesterbedrift. Ingen evakuerte. OBRE har kontroll'
 ==/839501365944664065===
 
 
-
-
 ===839471370522210306===
+First text:
 b'N\xc3\xb8detatene rykker ut etter melding om brann i Thorvald Meyers gate'
+Children texts:
 ==/839471370522210306===
 
 
-
-
 ===839426982224007170===
+First text:
 b'Flere som melder om mye diesel p\xc3\xa5 E6 inng\xc3\xa5ende ved Alnabru.'
+Children texts:
 b'En stor flerre i dieseltanken til en lastebil skal ha v\xc3\xa6rt \xc3\xa5rsaken til lekkasjen. Veien blir str\xc3\xb8dd med absol.'
 ==/839426982224007170===
 
 
-
-
 ===839381030918320129===
+First text:
 b'I V\xc3\xa5lerengatunnelens h\xc3\xb8yre felt gikk en bil tom for bensin. F\xc3\xb8rer forlot kj\xc3\xb8ret\xc3\xb8yet, uten \xc3\xa5 varsle andre, for \xc3\xa5 skaffe bensin. Blir anmeldt.'
+Possible location:
+b'v\xc3\xa5lerenga'
+Children texts:
 ==/839381030918320129===
 
 
-
-
 ===839365506360569857===
+First text:
 b'Vi er p\xc3\xa5 Ring 3 \xc3\xb8stg\xc3\xa5ende ved Smestad hvor en trailer har f\xc3\xa5tt stans. Kommet noe r\xc3\xb8yk fra bilen, derfor unders\xc3\xb8ker brannvesenet dette.'
+Children texts:
 b'Lastebilen p\xc3\xa5 Ring 3 Smestad kan kj\xc3\xb8res videre for egen maskin til verksted. V\xc3\xa6rt varmgang i en aksling til tilhengeren.'
 ==/839365506360569857===
 
 
-
-
 ===839309539740692480===
+First text:
 b'Oslo sentrum: En mann ble fors\xc3\xb8kt ranet av to andre menn. En forbipasserende grep inn, og gjerningsmennene avbr\xc3\xb8t fors\xc3\xb8ket og l\xc3\xb8p.'
+Children texts:
 b'Patruljer p\xc3\xa5grep de to umiddelbart etterp\xc3\xa5, i besittelse av stj\xc3\xa5let gods. Vi foretar unders\xc3\xb8kelser, og ivaretar forn\xc3\xa6rmede. P\xc3\xa5gripelser/anm'
 ==/839309539740692480===
 
 
-
-
 ===839263445912535048===
+First text:
 b'Manglerud: N\xc3\xb8detatene p\xc3\xa5 vei til en blokk hvor det er kraftig r\xc3\xb8ykutvikling. En brann skal angivelig v\xc3\xa6re slukket, men fortsatt mye r\xc3\xb8yk.'
+Possible location:
+b'manglerud'
+Children texts:
 b'Noe overdreven melding. Et h\xc3\xa5ndkle p\xc3\xa5 en varm komfyr hadde medf\xc3\xb8rt litt r\xc3\xb8ykutvikling. Ingen er skadet. Vi oppretter sak.'
+Possible location:
+b'manglerud'
 ==/839263445912535048===
 
 
-
-
 ===839221235779260417===
+First text:
 b'Savnet dement mann, 67 \xc3\xa5r. \nBesk. 180 cm, halvlangt gr\xc3\xa5tt h\xc3\xa5r, ikledd gul jakke, jeans og brun veske. D\xc3\xa5rlig til beins...'
+Children texts:
 b'Mannen er kommet til rette.'
 ==/839221235779260417===
 
 
-
-
 ===839100799271718913===
+First text:
 b'Vi er p\xc3\xa5 vei til Pilestredet hvor vi har f\xc3\xa5tt melding om en trafikkulykke. Trikk mot fotgjenger. Tilsynelatende ingen personskader.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet sammen med ambulanse. Fotgjengeren har noe smerter i arm og hode. Blir sjekket av helsepersonell.'
 b'Rettelse: Fotgjengeren hadde vondt i hoften, ikke hodet.'
 b'Forn\xc3\xa6rmet er kj\xc3\xb8rt til sykehus. Sperringene oppheves og trafikken g\xc3\xa5r som normalt igjen. Sak opprettes.'
 ==/839100799271718913===
 
 
-
-
 ===838914569531756544===
+First text:
 b'Vi s\xc3\xb8ker etter kvinnen med en rekke patruljer, samt et politihelikopter. En mulig nylig observasjon er i omr\xc3\xa5det Ammerud - Grorud.'
+Possible location:
+b'ammerud'
+Children texts:
 b'Kvinnen er ikke funnet, og vi ber publikum ta kontakt p\xc3\xa5 02800 dersom de observerer en person som passer til beskrivelsen.'
+Possible location:
+b'ammerud'
 ==/838914569531756544===
 
 
-
-
 ===838909058753032194===
+First text:
 b'N\xc3\xb8detatene sjekker ut melding om r\xc3\xb8yklukt fra Narvesen ved Stovner senter'
+Possible location:
+b'stovner'
+Children texts:
 b'Det har v\xc3\xa6rt en liten brann, men den er n\xc3\xa5 slukket. Det er ikke meldt om skadde personer.'
+Possible location:
+b'stovner'
 ==/838909058753032194===
 
 
-
-
 ===838907406566506498===
+First text:
 b'Rosenhoff: Vi leter etter en 58 \xc3\xa5r gammel kvinne. Beskr: Ca. 175cm, tynn, lyseblondt skulderlangt h\xc3\xa5r, svart jakke, jeans, joggesko...'
+Children texts:
 b'...og hettegenser - ukjent farge, men med hvite striper. Ved observasjon - ring politiet p\xc3\xa5 tlf. 02800.'
 b'Rettelse, saknede skal v\xc3\xa6re 160 cm h\xc3\xb8y, ikke 175 cm .'
 b'Kvinnen har n\xc3\xa5 kommet til rette i god behold.'
 ==/838907406566506498===
 
 
-
-
 ===838853589363732480===
+First text:
 b'Frognerveien. Melding om r\xc3\xb8yklukt. N\xc3\xb8detatene p\xc3\xa5 vei til stedet.'
+Possible location:
+b'frogner'
+Children texts:
 b'Udramatisk. Kun os fra matlaging.'
+Possible location:
+b'frogner'
 ==/838853589363732480===
 
 
-
-
 ===838842240734736387===
+First text:
 b'Abilds\xc3\xb8krysset. N\xc3\xb8detatene er p\xc3\xa5 stedet i forbindelse med en trafikkulykke. Ingen alvorlig skadet.'
+Possible location:
+b'abilds\xc3\xb8'
+Children texts:
 ==/838842240734736387===
 
 
-
-
 ===838789555935457280===
+First text:
 b'Olaf Ryes plass. Barn har falt ut av vognen i forbindelse med p\xc3\xa5stigning til en trikk. Ambulansepersonell er sammen med barnet.'
+Children texts:
 b'Barnet fremst\xc3\xa5r som formentlig uskadd.'
 ==/838789555935457280===
 
 
-
-
 ===838775807325667328===
+First text:
 b'Svartdalstunnelen utg\xc3\xa5ende. Bil med stans i h\xc3\xb8yre felt. Politi og bergingsbil p\xc3\xa5 vei.'
+Children texts:
 ==/838775807325667328===
 
 
-
-
 ===838772738206666752===
+First text:
 b'Ring 3 vestg\xc3\xa5ende Smestad. Trafikkuhell. Skaper k\xc3\xb8. Vi jobber med \xc3\xa5 f\xc3\xa5 bilene ut av veibanen.'
+Children texts:
 ==/838772738206666752===
 
 
-
-
 ===838754969981497349===
+First text:
 b'Ullev\xc3\xa5lsveien. Fotgjenger p\xc3\xa5kj\xc3\xb8rt. Vi er p\xc3\xa5 vei til stedet.'
+Children texts:
 b'Vi er p\xc3\xa5 stedet. Ambulanse kj\xc3\xb8rer fotgjengeren til legevakten. Vi jobber med \xc3\xa5 innhente opplysninger om forholdet.'
 b'Vi oppretter dialog med forn\xc3\xa6rmede p\xc3\xa5 legevakten og med bilf\xc3\xb8reren. Vi oppretter sak. Fotgjengeren er ikke alvorlig skadet.'
 ==/838754969981497349===
 
 
-
-
 ===838706690698711040===
+First text:
 b'N\xc3\xb8detatene er i Herslebs gate 17 etter melding om at det lukter r\xc3\xb8yk i en oppgang.'
+Children texts:
 b'If\xc3\xb8lge beboere i blokka har det luktet r\xc3\xb8yk i en liten stund. R\xc3\xb8ykdykkere fra OBRE g\xc3\xa5r inn for \xc3\xa5 unders\xc3\xb8ke n\xc3\xa5.'
 b'Forel\xc3\xb8pig ikke p\xc3\xa5vist hvilken leilighet lukta evt kommer fra. Mulig det kommer fra ventilasjonsanlegget. Vi venter p\xc3\xa5 en vaktmester.'
 b'Vi har v\xc3\xa6rt i kontakt med beboer i aktuelle leilighet. En mild t\xc3\xb8rrkok var \xc3\xa5rsaken til r\xc3\xb8yken. Ingen personskade, men vi oppretter sak.'
 ==/838706690698711040===
 
 
-
-
 ===838679881433108481===
+First text:
 b'Festningstunnelen vestg\xc3\xa5ende: En bil har stans og det medf\xc3\xb8rer at to felt er sperret inntil videre.'
+Children texts:
 b'Bilen er fjernet og alle felt er \xc3\xa5pne igjen.'
 ==/838679881433108481===
 
 
-
-
 ===838599974887821312===
+First text:
 b'En mann  ranet av 3 personer med skytev\xc3\xa5pen i Niels Juelsgate. Forn\xc3\xa6rmede er lettere skadet. Vi s\xc3\xb8ker etter gjerningsmennene.'
+Children texts:
 b'Taxisj\xc3\xa5f\xc3\xb8r truet med skytev\xc3\xa5pen av 3 personer i Trondheimsveien.'
 b'3 personer p\xc3\xa5grepet i Trondheimsveien. Funn av skytev\xc3\xa5pen.'
 ==/838599974887821312===
 
 
-
-
 ===838572458923941888===
+First text:
 b'Vi er i Trelastgata i forbindelse med en aktivisert brannalarm.'
+Children texts:
 b'Alarmen har blitt aktivert p\xc3\xa5 grunn av sigarettr\xc3\xb8yking. Mange som evakuerte seg selv, de er n\xc3\xa5 sluppet tilbake til sine leiligheter.'
 ==/838572458923941888===
 
 
-
-
 ===838518024453951488===
+First text:
 b'Politiet er p\xc3\xa5 vei til Carl Berners plass p\xc3\xa5 melding om slagsm\xc3\xa5l mellom 3 menn.'
+Children texts:
 b'Vi har n\xc3\xa5 kontroll p\xc3\xa5 kranglefantene. Viste seg \xc3\xa5 v\xc3\xa6re en krangel mellom en drosjesj\xc3\xa5f\xc3\xb8r og en mann, vi n\xc3\xb8ster i \xc3\xa5rsakssammenhengen.'
 ==/838518024453951488===
 
 
-
-
 ===838408852794191872===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til Lofsrudh\xc3\xb8gda p\xc3\xa5 melding om brann.'
+Children texts:
 b'N\xc3\xb8detatene er p\xc3\xa5 stedet. Ikke funnet noe brann enn\xc3\xa5, men vi s\xc3\xb8ker i omr\xc3\xa5det.'
 b'Da har vi funnet frem til rett sted. Der var det grilling p\xc3\xa5 en balkong. N\xc3\xb8detatene forlater stedet.'
 ==/838408852794191872===
 
 
-
-
 ===838345182403780612===
+First text:
 b'N\xc3\xb8detatene er p\xc3\xa5 vei til en muligens t\xc3\xb8rrkok i Martin Linges vei.'
+Children texts:
 b'Vi er fremme p\xc3\xa5 stedet. Obre lufter ut noe r\xc3\xb8yk og beboer blir sjekket av ambulanse mtp evt r\xc3\xb8ykskader'
 ==/838345182403780612===
 
 
-
-
 ===838333300758425600===
+First text:
 b'Politi og brannvesen er p\xc3\xa5 en t\xc3\xb8rrkok i Refstadveien. Fremst\xc3\xa5r som udramatisk'
+Children texts:
 b'Litt r\xc3\xb8yk ifm et overkokt egg. Vi drar fra stedet'
 ==/838333300758425600===
 
 
-
-
 ===838259224392134656===
+First text:
 b'Gr\xc3\xb8nli tunnelen: En mann og en dame krangler, sloss og t\xc3\xb8mmer et brannslukningsapparat inne i tunnelen. Vi er p\xc3\xa5 vei.'
+Children texts:
 ==/838259224392134656===
 
 
-
-
 ===838224854625157121===
+First text:
 b'Vi er p\xc3\xa5 vei til Skillebekk i forbindelse med melding om t\xc3\xb8rrkok. En person skal ha f\xc3\xa5tt i seg noe r\xc3\xb8yk.'
+Possible location:
+b'skillebekk'
+Children texts:
 ==/838224854625157121===
 
 
-
-
 ===838206243374252032===
+First text:
 b'Melding om r\xc3\xb8yk fra en adresse i Markveien. Vi er p\xc3\xa5 vei til stedet sammen med de andre n\xc3\xb8detatene.'
+Children texts:
 b'Vi har ikke funnet noen brann eller observert noe r\xc3\xb8yk p\xc3\xa5 stedet.'
 ==/838206243374252032===
 
 
-
-
 ===838178568660205572===
+First text:
 b'Smedstadkrysset. Trafikkulykke mellom to personbiler. Ukjent skadeomfang.'
+Children texts:
 b'Ingen alvorlige personskader, men en person blir sjekket av ambulanse pga smerter i ryggen. Begge biler blir hentet av Falck.'
 ==/838178568660205572===
 
 
-
-
 ===838146221437042689===
+First text:
 b'Midtveien: melding om brann i en garasje, n\xc3\xb8detatene er p\xc3\xa5 vei til stedet.'
+Children texts:
 b'Garasjen er utbrent, 2 biler er skadet, ingen skadde personer.'
 ==/838146221437042689===
 
 
-
-
 ===838119332894883840===
+First text:
 b'Dronning Mauds gate. Sannsynligvis deler av et stillas som har falt ned. Setter opp sperringer p\xc3\xa5 stedet.'
+Children texts:
 ==/838119332894883840===
 
 
-
-
 ===838101152696795137===
+First text:
 b'E6 Utg\xc3\xa5ende ved Furuset. Bil som st\xc3\xa5r p\xc3\xa5 tvers. Melding om at folk som sloss ved bilen.'
+Possible location:
+b'furuset'
+Children texts:
 b'Vi har kontroll p\xc3\xa5 bilen, stansen skyldtes at en passasjer dro i h\xc3\xa5ndbrekket.'
+Possible location:
+b'furuset'
 ==/838101152696795137===
 
 
-
-
 ===838095622490161152===
+First text:
 b'Johannes Bruns gt: melding om brann, n\xc3\xb8detatene er p\xc3\xa5 vei til stedet.'
+Children texts:
 b'Ingen brann, men det lukter svidd p\xc3\xa5 stedet.'
 ==/838095622490161152===
 
 
-
-
 ===838095196978032641===
+First text:
 b'Car Berner krysset: en buss som har kj\xc3\xb8rt feil, sperrer n\xc3\xa5 s\xc3\xa5 og si hele krysset. For\xc3\xa5rsaker en del trafikale utfordringer p\xc3\xa5 stedet.'
+Children texts:
 b'Bussen er fjernet, trafikken g\xc3\xa5r som normalt.'
 ==/838095196978032641===
 
 
-
-
 ===838065799772454912===
+First text:
 b'Evnt mail: kriminalvakten.oslo@politiet.no'
+Children texts:
 ==/838065799772454912===
 
 
-
-
 ===838065752464900097===
+First text:
 b'Opplysninger om observasjoner p\xc3\xa5 saknede kan rettes til Oslo Politidistrikt ved Kriminalvakten tlf: 22669966'
+Children texts:
 ==/838065752464900097===
 
 
-
-
 ===838065392098607105===
+First text:
 b'm\xc3\xb8rk bukse, hjemmestrikkede turkise leggvarmere og sorte joggesko med lisser.'
+Children texts:
 ==/838065392098607105===
 
 
-
-
 ===838065072354308096===
+First text:
 b'Lyst blondt h\xc3\xa5r til rett under \xc3\xb8rene, bl\xc3\xa5 \xc3\xb8yne, etnisk norsk, bruker briller \xe2\x80\x93 men har de ikke alltid p\xc3\xa5'
+Children texts:
 b'M\xc3\xb8rk brun ytterjakke med hette og fuskepelskant p\xc3\xa5 hetta, gr\xc3\xa5tt/turkis/m\xc3\xb8rkebl\xc3\xa5tt skjerf, oransje/r\xc3\xb8d lue, m\xc3\xb8rk bukse.'
 ==/838065072354308096===
 
 
-
-
 ===838064851327025154===
+First text:
 b'Sist observert ved Ullev\xc3\xa5l Sykehus, torsdag 2.3.17 kl 1350.\nBeskrivelse av saknede: 160 cm h\xc3\xb8y, ca 70 kg,'
+Children texts:
 b'Saknede har med seg en gr\xc3\xa5 liten trillekoffert og en svart sekk(ca 35 I)med flere rom'
 ==/838064851327025154===
 
 
-
-
 ===837979148597481472===
+First text:
 b'E6 utg\xc3\xa5ende i Skulleruddumpa har vi f\xc3\xa5tt melding en koffert som skal ligge i veibanen. Vts sender vaktbilen for \xc3\xa5 plukke opp denne'
+Possible location:
+b'skullerud'
+Children texts:
 ==/837979148597481472===
 
 
-
-
 ===837874387088965632===
+First text:
 b'Melding om at det lukter brent i en blokk i Ullev\xc3\xa5lsveien. Vi er p\xc3\xa5 vei til stedet sammen med de andre n\xc3\xb8detatene.'
+Children texts:
 b'Noe r\xc3\xb8yk fra en av etasjene. Sannsynligvis matlaging som har g\xc3\xa5tt galt. Obre er p\xc3\xa5 vei inn.'
 b'"Kokken" hadde sovnet fra matlagingen. P\xc3\xa5 denne tiden av d\xc3\xb8gnet er nok take-away et tryggere alternativ.'
 ==/837874387088965632===
 
 
-
-
 ===837795702239526913===
+First text:
 b'E6 inn mot Oslo sentrum. Bil som har kj\xc3\xb8rt i motg\xc3\xa5ende retning og vinglet masse i veibanen. Vi fors\xc3\xb8ker \xc3\xa5 stanse bilen.'
+Children texts:
 b'Bilen stanset ved Bygd\xc3\xb8y lokket. Innr\xc3\xb8mmet \xc3\xa5 ha kj\xc3\xb8rt i motg\xc3\xa5ende. F\xc3\xb8rerkortet til f\xc3\xb8rer tatt i beslag og vi oppretter sak.'
 ==/837795702239526913===
 
 
-
-
-===837763006536814597===
-b'Melding om brann i Arbeidergata 2, Alle n\xc3\xb8detater p\xc3\xa5 vei'
+===837763125231435777===
+First text:
 b'R\xc3\xb8ykutvikling fra en bar'
+Children texts:
 b'Vi og Brannvesenet er p\xc3\xa5 stedet. Ingen brann p\xc3\xa5 stedet. Ingen skadde.'
-==/837763006536814597===
-
-
-
-
-===837718497362849792===
-b'Melding om brann i bygning i Oppsalveien. Alle n\xc3\xb8detater p\xc3\xa5 vei.'
-b'Brannen var i en enebolig. 3 personer evakuert. Ingen skadet. Brannvesenet har slukket brannen.'
-==/837718497362849792===
-
-
-
-
-===837655505828864000===
-b'Det er en buss som har f\xc3\xa5tt stans. Det jobbes p\xc3\xa5 stedet med \xc3\xa5 f\xc3\xa5 den i gang igjen.'
-==/837655505828864000===
+==/837763125231435777===
 
 
