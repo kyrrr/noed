@@ -1,5 +1,33 @@
 # store here for easy maintenance
 
+location_kws = {
+    'oslo': {
+        'discrict': {
+            "gamle oslo": [
+
+            ],
+        "grünerløkka": [
+
+        ],
+        "sagene": [],
+        "st.hanshaugen": [],
+        "frogner": [],
+        "ullern": [],
+        "vestre aker": [],
+        "nordre aker": [],
+        "bjerke": [],
+        "grorud": [],
+        "stovner": [],
+        "alna": [],
+        "østensjø": [],
+        "nordstrand": [],
+        "søndre nordstrand": [],
+        "sentrum": [],
+        "marka": [],
+        }
+    }
+}
+
 kws = {
         'negative': [
             "ingen", "ikke", "mangler",
@@ -84,3 +112,8 @@ kws = {
             "beslag", "beslaglegges", "ryddet veibanen", "forlatt stedet",
         ],
     }
+
+FOO = [
+            "gamle oslo", "grünerløkka", "sagene", "st.hanshaugen", "frogner", "ullern", "vestre aker", "nordre aker",
+            "bjerke", "grorud", "stovner", "alna", "østensjø", "nordstrand", "søndre nordstrand", "sentrum", "marka",
+        ],
