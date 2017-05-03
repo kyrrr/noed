@@ -1,5 +1,4 @@
-API_KEYS = [
-    {
+API_KEYS = {
         'TWITTER': {
             'CONSUMER_KEY': '8C8E7EhZQAXS6YJ2eeu2NSSmb',
             'CONSUMER_SECRET': 'd4L7DGxHbZDlTm39E2UvWqrhZ8GbqnXTyMUrVo1ygxzruyi6fW',
@@ -7,7 +6,7 @@ API_KEYS = [
             'ACCESS_SECRET': 'dJwD9Pw1gLA1biMSbHZASgmn0NoUjTd0ivK3Q1G8q83p4'
         }
     }
-]
+
 
 COLORS = {
     'HEADER': '\033[95m',

@@ -23,12 +23,12 @@ class TweetSeeker:
     def __init__(self, screen_name):
         self.authenticate()
         self.api = tweepy.API(self.auth)
-        # print("Authenticated... ??")
+        # print("Authenticated")
         self.screen_name = screen_name
 
     # Put your twitter api keys in settings.py
     def authenticate(self):
-        keys = settings.API_KEYS[0]['TWITTER']
+        keys = settings.API_KEYS['TWITTER']
         auth = tweepy.OAuthHandler(keys['CONSUMER_KEY'], keys['CONSUMER_SECRET'])
         auth.set_access_token(keys['ACCESS_TOKEN'], keys['ACCESS_SECRET'])
         self.auth = auth
