@@ -23,6 +23,6 @@ class Command(BaseCommand):
         tr.set_parent_child()
         tr.make_situation()
         tr.location_scan("oslo")
-        # for cat in self.kws:
-            # tr.scan(cat)
+        for cat in self.kws:
+            tr.scan(cat)
 

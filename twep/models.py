@@ -18,7 +18,7 @@ class MyTweet(models.Model):
 
     location = models.ForeignKey('Location', null=True, default=None)
 
-    # situation_children = models.ForeignKey('Situation', null=True, default=None)
+    # situation = models.ForeignKey('Situation', null=True, default=None)
 
     prevalent_category = models.ForeignKey('KeywordCategory', null=True, default=None)
 
@@ -38,6 +38,14 @@ class MyTweet(models.Model):
                 r.extend(_r)
         return r
 
+    def get_last_child(self):
+        r = [self]
+        for c in MyTweet.objects.filter(parent=self):
+            _r = c.get_all_children()
+            if 0 < len(_r):
+                r.extend(_r)
+        return r[len(r) - 1]
+
     def get_last_parent(self):
         try:
             # find tweet where this is the child
@@ -55,7 +63,10 @@ class MyTweet(models.Model):
             # print("tweet is not a child??")
             pass
 
-    def is_orphan(self):
+    def is_first_in_series(self):
+        return self.is_alone() or self.is_orphan_with_child()
+
+    def is_alone(self):
         return self.parent is None
 
     def is_orphan_with_child(self):
@@ -119,8 +130,8 @@ class Situation(models.Model):
     )
     # TODO: is this timezone ok?
     screen_name = models.CharField(max_length=200, null=True, default=None)
-    base_tweet = models.ForeignKey('MyTweet', related_name="base_tweet", null=True, default=None)
-    children = models.ManyToManyField('MyTweet', related_name="children", default=None)
+    first_tweet = models.ForeignKey('MyTweet', related_name="prophet", null=True, default=None)
+    children = models.ManyToManyField('MyTweet', related_name="apostles", default=None)
     description = models.CharField(max_length=140, null=True, default=None)
 
     def __str__(self):

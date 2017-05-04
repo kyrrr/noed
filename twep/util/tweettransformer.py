@@ -22,16 +22,23 @@ class TweetTransformer:
         print("%s" % user_tweets.count() + " to be put in Situations " + self.screen_name)
         created = {}
         for ut in user_tweets:
-            # is the tweet either a parent or a "lonely" object (means single tweet situation?)
-            if MyTweet.is_orphan_with_child(ut) or MyTweet.is_orphan(ut):
-                try:
-                    Situation.objects.get(base_tweet=ut)
-                except Situation.DoesNotExist:
-                    s = Situation.objects.create(screen_name=ut.screen_name, base_tweet=ut)
-                    c = MyTweet.get_all_children(ut, include_self=False)
-                    s.children = c
-                    created[s.id] = s
-        print("created %s" % len(created) + " new situations for " + self.screen_name)
+            # is the tweet either a parent without a parent, or a "lonely" object
+            # it can form the base of a "situation"
+            # if MyTweet.is_orphan_with_child(ut) or MyTweet.is_alone(ut):
+            if MyTweet.is_first_in_series(ut):
+                s = Situation.objects.get_or_create(
+                    screen_name=ut.screen_name,
+                    first_tweet=ut
+                )
+                # s[1] is a boolean, true if created - false if gotten. I don't care about those,
+                # just make sure all situations are updated
+                s_obj = s[0]
+                for c in MyTweet.get_all_children(ut, include_self=False):
+                    s_obj.children.add(c)
+                created[s_obj.id] = s_obj
+        # we have to ensure the newest tweets also get in, so just scan everything...
+        # probably we will not have 1000 tweets to care about "in production"
+        print("Found or created %s" % len(created) + " new situations for " + self.screen_name)
         return created
 
     # assigns parent and child to tweets

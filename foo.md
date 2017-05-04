@@ -12,14 +12,14 @@ Politiet har kontroll på involverte enheter på stedet nå. Trolig en krangel/s
 ### First text:
 Området Bjølsen, Ålesundgata. Vi har fått melding om slagsmål i området. Mulig noen mistenkte har gått innendørs nå.
 #### Possible location:
-b'bj\xc3\xb8lsen'
+bjølsen
 
 
 # 859775054611173377
 ### First text:
 Trafikkuhell i Svartdalstunnelen utgående, mot Ryen. Høyre felt sperret. Politi og bilberger på vei.
 ### Children texts:
-b'Bilberger p\xc3\xa5 stedet. En bil i ferd med \xc3\xa5 tas opp p\xc3\xa5 planet etter driftstans. Ingen personskade.'
+Bilberger på stedet. En bil i ferd med å tas opp på planet etter driftstans. Ingen personskade.
 
 
 # 859753776772780032
@@ -31,73 +31,73 @@ Politi og brannvesenet er på vei til Neptunveien ifm en bråtebrann som kan væ
 ### First text:
 Sørgående løp i Brennetunnelen på E16 er stengt inntil videre . Lastebil som har mistet mye av lasten.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet. F\xc3\xb8rer og hjelpemann p\xc3\xa5 lastebilen er satt i marsj inn i tunnelen for \xc3\xa5 bist\xc3\xa5 opprydding for raskere \xc3\xa5pning. F\xc3\xb8rer anmeldes.'
-b'Brennetunnelen er \xc3\xa5pnet.'
+Vi er på stedet. Fører og hjelpemann på lastebilen er satt i marsj inn i tunnelen for å bistå opprydding for raskere åpning. Fører anmeldes.
+Brennetunnelen er åpnet.
 
 
 # 859699117748084736
 ### First text:
 Festningstunnelen vestgående avkjøring Dronning Mauds gate. Lastebil med stans. Berging på vei.
 ### Children texts:
-b'Festningstunnelen er \xc3\xa5pnet.'
+Festningstunnelen er åpnet.
 
 
 # 859617062897033216
 ### First text:
 Nødetatene er på vei til Solbergliveien der det er utløst brannvarsler i en leilighet. Det er mulig kjent røyklukt på stedet.
 ### Children texts:
-b'OBRE er fremme p\xc3\xa5 stedet. Ingen lukt, og heller ingen r\xc3\xb8yk. De unders\xc3\xb8ker n\xc3\xa6rmere.'
-b'Matlaging var \xc3\xa5rsak til at brannalarmen ble utl\xc3\xb8st. Grunnet en mindre r\xc3\xb8ykutvikling ble en person sjekket av helse - funnet ok.'
+OBRE er fremme på stedet. Ingen lukt, og heller ingen røyk. De undersøker nærmere.
+Matlaging var årsak til at brannalarmen ble utløst. Grunnet en mindre røykutvikling ble en person sjekket av helse - funnet ok.
 
 
 # 859598192706498560
 ### First text:
 Vi er på McDonalds Alnabru der tre russ har blitt angrepet og sparket av medruss. Gjerningspersonen forlot stedet før vår ankomst.
 ### Children texts:
-b'En russ har f\xc3\xa5tt brukket beinet. I tillegg har gj.personene stj\xc3\xa5let en mac book. Vi ser etter aktuell buss.'
-b'Ambulanse har sjekket fire personer for "sm\xc3\xa5skader". Det viser seg at personen alikevel ikke har brukket beinet.'
+En russ har fått brukket beinet. I tillegg har gj.personene stjålet en mac book. Vi ser etter aktuell buss.
+Ambulanse har sjekket fire personer for "småskader". Det viser seg at personen alikevel ikke har brukket beinet.
 
 
 # 859583527825940481
 ### First text:
 Vi er på vei til området Grefsenkollen etter flere klager på høy musikk fra russebusser.
 #### Possible location:
-b'grefsen'
+grefsen
 ### Children texts:
-b'Flere busser p\xc3\xa5 stedet , men stille og rolig da vi kom. Bussene er straks p\xc3\xa5 vei bort. De blir gitt p\xc3\xa5legg om \xc3\xa5 holde ro resten av natten.'
+Flere busser på stedet , men stille og rolig da vi kom. Bussene er straks på vei bort. De blir gitt pålegg om å holde ro resten av natten.
 #### Possible location:
-b'grefsen'
-b'Samtlige busser er n\xc3\xa5 bortvist'
+grefsen
+Samtlige busser er nå bortvist
 #### Possible location:
-b'grefsen'
+grefsen
 
 
 # 859577469942345728
 ### First text:
 Vi er på vei til McDonalds i Asker der russebusser har parkert, og flere russ er truende mot ansatte.
 ### Children texts:
-b'Vi er p\xc3\xa5 McDonalds. Mye russ, men rolig stemning n\xc3\xa5. De blir gitt p\xc3\xa5legg om \xc3\xa5 forlate stedet. McDonalds er stengt for i natt.'
+Vi er på McDonalds. Mye russ, men rolig stemning nå. De blir gitt pålegg om å forlate stedet. McDonalds er stengt for i natt.
 
 
 # 859553774486073344
 ### First text:
 Skytterkollen, melding om mye støy fra russ. Vi er på vei til stedet.
 ### Children texts:
-b'Opp til 15 russe busser p\xc3\xa5 stedet, de ble bedt om \xc3\xa5 kj\xc3\xb8re derfra.'
+Opp til 15 russe busser på stedet, de ble bedt om å kjøre derfra.
 
 
 # 859540067701968896
 ### First text:
 Vi er på vei til Sandvika v/ Rådhuset etter melding om ansamling av flere russebusser. Det klages på høy musikk.
 ### Children texts:
-b'Vi har v\xc3\xa6rt p\xc3\xa5 stedet en stund, og gitt p\xc3\xa5legg til flere busser om \xc3\xa5 sl\xc3\xa5 av musikken. Stille da vi forlot stedet.'
+Vi har vært på stedet en stund, og gitt pålegg til flere busser om å slå av musikken. Stille da vi forlot stedet.
 
 
 # 859519577901936640
 ### First text:
 Mariholtet; melding om støy fra flere russebusser. Vi er på vei til stedet.
 ### Children texts:
-b'Bussene borte ved politiets ankomst.'
+Bussene borte ved politiets ankomst.
 
 
 # 859484011630088192
@@ -109,32 +109,32 @@ b'Bussene borte ved politiets ankomst.'
 ### First text:
 Vi har en uavklart situasjon på Stovner Senter. En hissig person på taket som utøver skadeverk
 #### Possible location:
-b'stovner'
+stovner
 ### Children texts:
-b'En ruset mann tatt kontroll p\xc3\xa5. Kj\xc3\xb8res sykehus'
+En ruset mann tatt kontroll på. Kjøres sykehus
 #### Possible location:
-b'stovner'
+stovner
 
 
 # 859384454032314369
 ### First text:
 Melding om brann i rekkehus i Lusetjernveien på Holmlia. Ryker ut fa en takluke. Nødetatene er på vei.
 #### Possible location:
-b'holmlia'
+holmlia
 ### Children texts:
-b'Bekreftet brann i rekkehus i Lusetjernveien. Brannvesenet er i innsats p\xc3\xa5 stedet.'
+Bekreftet brann i rekkehus i Lusetjernveien. Brannvesenet er i innsats på stedet.
 #### Possible location:
-b'holmlia'
-b'Brannen er bekreftet slukket. En boenhet er brannskadet. Ikke meldt om personskade. Vi og brannvesenet jobber videre p\xc3\xa5 stedet.'
+holmlia
+Brannen er bekreftet slukket. En boenhet er brannskadet. Ikke meldt om personskade. Vi og brannvesenet jobber videre på stedet.
 #### Possible location:
-b'holmlia'
+holmlia
 
 
 # 859381030549172225
 ### First text:
 Bekkestuatunnelen stengt i en kortere periode ifm at en sekk skal fjernes fra inne i tunnelen.
 ### Children texts:
-b'Bekkestuatunnelen er \xc3\xa5pnet igjen. Kun v\xc3\xa6rt stengt i \xc3\xb8stg\xc3\xa5ende retning.'
+Bekkestuatunnelen er åpnet igjen. Kun vært stengt i østgående retning.
 
 
 # 859352843484049410
@@ -146,7 +146,7 @@ Bil med problemer står på E18 inngående i Bellevuedumpa i Asker. Står like e
 ### First text:
 Påkjøringsrampen til Ring3 østgående på Økern er sperret av en lastebil som har fått stans.
 #### Possible location:
-b'\xc3\xb8kern'
+økern
 
 
 # 859317676434436096
@@ -158,31 +158,31 @@ Arbeidsulykke i Tanuveien. Arbeider falt ca 2 m ned på betonggulv.  Smerter i a
 ### First text:
 Grunnet teknisk feil er Ekebergtunnelen nordgående sperret inntil videre. VTS jobber med å løse problemet. Fører til mye ekstra kø på E6/E18
 ### Children texts:
-b'For \xc3\xa5 f\xc3\xa5 \xc3\xa5pnet tunnelen igjen m\xc3\xa5 \xc3\xb8stg\xc3\xa5ende l\xc3\xb8p i Bj\xc3\xb8rvikatunnelen stenges i noen minutter. Forh\xc3\xa5pentligvis \xc3\xa5pnes alle felt om kort tid.'
-b'Ogs\xc3\xa5 Ekebergtunnelen vestg\xc3\xa5ende er stengt i Lodalen inntil videre. F\xc3\xb8rer til MYE ekstra k\xc3\xb8 inntil videre.'
-b'Alle felt i tunnelene er \xc3\xa5pne i alle retninger. K\xc3\xb8en vil forh\xc3\xa5pentligvis avta n\xc3\xa5.'
+For å få åpnet tunnelen igjen må østgående løp i Bjørvikatunnelen stenges i noen minutter. Forhåpentligvis åpnes alle felt om kort tid.
+Også Ekebergtunnelen vestgående er stengt i Lodalen inntil videre. Fører til MYE ekstra kø inntil videre.
+Alle felt i tunnelene er åpne i alle retninger. Køen vil forhåpentligvis avta nå.
 
 
 # 859249127867154433
 ### First text:
 Det er en stor vannlekkasje i Torggata/ Hausmannsgate. OBRE og kommunale etater er varslet for å stanse lekkasjen og sikre restverdi.
 ### Children texts:
-b'Dette vil p\xc3\xa5virke kollektivtransporten i omr\xc3\xa5det i en periode fremover.'
-b'Vannlekkasjen er stanset. Vi er p\xc3\xa5 stedet litt til.'
+Dette vil påvirke kollektivtransporten i området i en periode fremover.
+Vannlekkasjen er stanset. Vi er på stedet litt til.
 
 
 # 859242161149227009
 ### First text:
 E18 utgående retning, Lysaker: Røykutvikling fra to russebusser. Nødetatene er på vei.
 ### Children texts:
-b'Skal v\xc3\xa6re en r\xc3\xb8ykmaskin p\xc3\xa5 russebuss som har for\xc3\xa5rsaket dette. Kan ha sett dramatisk for andre bilister, men dette var ikke brann.'
+Skal være en røykmaskin på russebuss som har forårsaket dette. Kan ha sett dramatisk for andre bilister, men dette var ikke brann.
 
 
 # 859232506381565952
 ### First text:
 Bogstad: Flere som mister nattesøvnen pga. høylydt musikk fra russebusser. Politiet er på vei til stedet.
 ### Children texts:
-b'Patrulje verken s\xc3\xa5 eller h\xc3\xb8rte russ p\xc3\xa5 Bogstad.'
+Patrulje verken så eller hørte russ på Bogstad.
 
 
 # 859216639774031873
@@ -194,14 +194,14 @@ Thorvald Meyersgt: 3 russ brakt inn til arrest for ordensforstyrrelse.
 ### First text:
 Mariholtet, melding om flere russe-busser på stedet som generer mye støy. Politiet er på vei til stedet.
 ### Children texts:
-b'5 russebusser ble kontrollert og bortvist fra stedet. Flere overstadig berusede personer p\xc3\xa5 stedet, og en ble kj\xc3\xb8rt sykehus for oppf\xc3\xb8lging.'
+5 russebusser ble kontrollert og bortvist fra stedet. Flere overstadig berusede personer på stedet, og en ble kjørt sykehus for oppfølging.
 
 
 # 859134442954248193
 ### First text:
 Trafikkulykke Ring 3 ved avkjøring Nydalen, retning Storo. Skal ikke være alvorlig personskade. Trafikale problemer på stedet.
 ### Children texts:
-b'Det er ryddet p\xc3\xa5 stedet, ingen personskade. Partene skriver skademelding.'
+Det er ryddet på stedet, ingen personskade. Partene skriver skademelding.
 
 
 # 859104224608694272
@@ -218,16 +218,16 @@ Politiet har vært i Nordkappgata, hvor en mann var truende og aggressiv mot en 
 ### First text:
 Nødetatene er på vei til Smalgangen i forbindelse med melding om røyklukt fra en oppgang.
 ### Children texts:
-b'...ogs\xc3\xa5 denne gangen lukter det brent papir. Lukten er avtakende, og OBRE jobber p\xc3\xa5 stedet for \xc3\xa5 finne ut hvor lukten kommer fra.'
-b'Alle enheter har forlatt stedet.'
+...også denne gangen lukter det brent papir. Lukten er avtakende, og OBRE jobber på stedet for å finne ut hvor lukten kommer fra.
+Alle enheter har forlatt stedet.
 
 
 # 859043593310359552
 ### First text:
 Nødetatene er på Aker Brygge, hvor det er meldt om røyk i en oppgang.
 ### Children texts:
-b'Det lukter brent papir p\xc3\xa5 stedet. OBRE jobber med \xc3\xa5 f\xc3\xa5 lokalisert hvor lukten kommer fra.'
-b'\xc3\x85rsak til r\xc3\xb8ykutvikling viste seg \xc3\xa5 v\xc3\xa6re en d\xc3\xa5rlig konstruert kullovn som over tid har f\xc3\xa5tt varmegang i veggen bak. Vi har forlatt stedet.'
+Det lukter brent papir på stedet. OBRE jobber med å få lokalisert hvor lukten kommer fra.
+Årsak til røykutvikling viste seg å være en dårlig konstruert kullovn som over tid har fått varmegang i veggen bak. Vi har forlatt stedet.
 
 
 # 858976510069415936
@@ -244,29 +244,29 @@ Det har vært innbrudd i noen kontorer på Føyka i Asker. Patrulje er på stede
 ### First text:
 Vålerengatunnelen: Bilfører forlot en bil i tunnelen. Påtruffet på Etterstad. Mistenkt for promillekjøring og kjøring uten gyldig førerkort.
 #### Possible location:
-b'v\xc3\xa5lerenga'
+vålerenga
 
 
 # 858900559444807681
 ### First text:
 Torshov: Slagsmål inne på en trikk. Vi har nettopp ankommet stedet
 #### Possible location:
-b'torshov'
+torshov
 ### Children texts:
-b'To personer har kranglet og sl\xc3\xa5tt hverandre. Ingen alvorlige skader, og partene vil vurdere \xc3\xa5 anmelde hverandre i ettertid'
+To personer har kranglet og slått hverandre. Ingen alvorlige skader, og partene vil vurdere å anmelde hverandre i ettertid
 #### Possible location:
-b'torshov'
+torshov
 
 
 # 858856748802871297
 ### First text:
 Grønland: Melding om slagsmål mellom ca 15 personer. Vekter skadet, patruljer og ambulanser på vei
 #### Possible location:
-b'gr\xc3\xb8nland'
+grønland
 ### Children texts:
-b'Vi har s\xc3\xa5 langt ikke funnet noen som sl\xc3\xa5ss, eller noen vekter som er skadet.'
+Vi har så langt ikke funnet noen som slåss, eller noen vekter som er skadet.
 #### Possible location:
-b'gr\xc3\xb8nland'
+grønland
 
 
 # 858854717585338368
@@ -278,7 +278,7 @@ Festlokale i Oslo sentrum: En mann er pågrepet etter å ha truet flere vektere 
 ### First text:
 Vi mottar mange klager på støyende russ flere steder i Oslo og Asker &amp; Bærum. Vi forsøker å håndtere så mange av disse vi har kapasitet til
 ### Children texts:
-b'S\xc3\xa5 langt har vi i natt loggf\xc3\xb8rt over 20 klager p\xc3\xa5 st\xc3\xb8yende russ i v\xc3\xa5rt politidistrikt. Vi har ikke rukket \xc3\xa5 rykke ut til alle disse.'
+Så langt har vi i natt loggført over 20 klager på støyende russ i vårt politidistrikt. Vi har ikke rukket å rykke ut til alle disse.
 
 
 # 858837803328839682
@@ -290,11 +290,11 @@ Majorstua T-banestasjon: Slagsmål mellom flere personer. En person rispet med k
 ### First text:
 Sandakerveien: Melding om røyk fra et vindu. Vi er på stedet sammen med brannvesenet.
 #### Possible location:
-b'sandaker'
+sandaker
 ### Children texts:
-b'Viste seg \xc3\xa5 v\xc3\xa6re damp fra vaskerom, alts\xc3\xa5 ingen brann.'
+Viste seg å være damp fra vaskerom, altså ingen brann.
 #### Possible location:
-b'sandaker'
+sandaker
 
 
 # 858749845955383297
@@ -306,45 +306,45 @@ Kongens gate. Innbruddstyv tatt på fersk gjerning i et kontorbygg.
 ### First text:
 Bil stod med motoren i gang og hindret bilene bak på Sinsen. Inni satt sjåføren og sov. Vi mistenker at han var ruset.
 #### Possible location:
-b'sinsen'
+sinsen
 
 
 # 858649378793426944
 ### First text:
 Strømsveien. Vi er på stedet i forbindelse med en arbeidsulykke på et bilverksted.
 ### Children texts:
-b'En bil har sklidd fra en jekk, slik at forn\xc3\xa6rmede fikk et bilhjul over l\xc3\xa5ret, samt akslingen p\xc3\xa5 bilen over mageregionen. Kj\xc3\xb8res sykehus'
+En bil har sklidd fra en jekk, slik at fornærmede fikk et bilhjul over låret, samt akslingen på bilen over mageregionen. Kjøres sykehus
 
 
 # 858628225018232832
 ### First text:
 Stasjonsveien. Vi er på vei til stedet etter melding om en russebuss og en personbil som har krasjet.
 ### Children texts:
-b'I f\xc3\xb8lge melder er det trafikkaos p\xc3\xa5 stedet.'
-b'Stasjonsveien: En russebil har kj\xc3\xb8rt p\xc3\xa5 r\xc3\xb8dt lys og kollidert med en annen bil. Russebilen m\xc3\xa5 taues. Ikke meldt om personskade.'
-b'Trafikken skal flyte greit forbi stedet.'
+I følge melder er det trafikkaos på stedet.
+Stasjonsveien: En russebil har kjørt på rødt lys og kollidert med en annen bil. Russebilen må taues. Ikke meldt om personskade.
+Trafikken skal flyte greit forbi stedet.
 
 
 # 858615564243259392
 ### First text:
 Smestadtunnellen vestgående. Vi er på vei til melding om ulykke mellom bil og motorsyklist.
 ### Children texts:
-b'Kollisjon mellom mc og bil har skjedd p\xc3\xa5 den vestlige siden av Smestad-tunnelen og ikke i selve tunnelen. Trafikken flyter fint.'
+Kollisjon mellom mc og bil har skjedd på den vestlige siden av Smestad-tunnelen og ikke i selve tunnelen. Trafikken flyter fint.
 
 
 # 858614451469246464
 ### First text:
 Vi er på vei til Fekjan i Asker etter melding at en syklist og bilist har kollidert. Syklisten bevisst, men har skader i ansiktet.
 ### Children texts:
-b'Spor p\xc3\xa5 stedet tyder p\xc3\xa5 at bilisten p\xc3\xa5 Fekjan har brutt vikeplikten. F\xc3\xb8rerkortet beslaglegges. Syklisten har hodeskader, men er bevisst.'
-b'Syklisten fra Fekjan er kj\xc3\xb8rt til legevakta med lettere skader.'
+Spor på stedet tyder på at bilisten på Fekjan har brutt vikeplikten. Førerkortet beslaglegges. Syklisten har hodeskader, men er bevisst.
+Syklisten fra Fekjan er kjørt til legevakta med lettere skader.
 
 
 # 858565250425249795
 ### First text:
 Maridalsveien. Vi er på stedet etter melding om at det sov en dame i en bil med motoren i gang. Viste seg at bilen var stjålet.
 ### Children texts:
-b'Damen anholdt, kj\xc3\xb8res arrest, sak opprettes.'
+Damen anholdt, kjøres arrest, sak opprettes.
 
 
 # 858552098694344704
@@ -356,14 +356,14 @@ Registrert ett førerkortbeslag fra russebussjåfør i natt. Dette grunnet for m
 ### First text:
 Har vært et branntilløp på Ellingsrud skole. Slukket av OBRE. Mindre skader.
 #### Possible location:
-b'ellingsrud'
+ellingsrud
 
 
 # 858414928042086401
 ### First text:
 Brann i søppel ved Smiuveien. OBRE er på stedet.
 ### Children texts:
-b'Har brent i et s\xc3\xb8ppelhus. OBRE har kontroll.'
+Har brent i et søppelhus. OBRE har kontroll.
 
 
 # 858399449734840320
@@ -375,11 +375,11 @@ E6 Klemetsrud kl 2110. Bil målt til 118 i 80-sone. Førerkortbeslag.
 ### First text:
 Vi er på vei til Lindebergåsen. Melding om brann i en container.
 #### Possible location:
-b'lindeberg'
+lindeberg
 ### Children texts:
-b'Ikke brann i container, men i s\xc3\xb8ppeldunk. Slukket av beboer.'
+Ikke brann i container, men i søppeldunk. Slukket av beboer.
 #### Possible location:
-b'lindeberg'
+lindeberg
 
 
 # 858360052696088576
@@ -391,11 +391,11 @@ Personbil stanset i Rådhusgata ca 1820. Fører har ikke førerkort. Mistenkes f
 ### First text:
 Sinsenveien, vi er på vei til melding om røyklukt og utløst brannalarm.
 #### Possible location:
-b'sinsen'
+sinsen
 ### Children texts:
-b'Viste seg \xc3\xa5 v\xc3\xa6re t\xc3\xb8rrkok. Ingen hjemme i den aktuelle leiligheten. Vi oppretter sak.'
+Viste seg å være tørrkok. Ingen hjemme i den aktuelle leiligheten. Vi oppretter sak.
 #### Possible location:
-b'sinsen'
+sinsen
 
 
 # 858244248155693056
@@ -407,7 +407,7 @@ Smestad tunnellen,  vestgående. Vi er på vei til stedet etter melding om en pe
 ### First text:
 E 18 ved Holmen. Vi er på vei til stedet etter at et rådyr har blitt påkjørt. Viltnemda er varslet.
 #### Possible location:
-b'holmen'
+holmen
 
 
 # 858161038751145984
@@ -424,8 +424,8 @@ Vi mottar flere meldinger om støy fra russen, men rekker ikke å håndtere alle
 ### First text:
 Møllergata: Vi er på et hotell, hvor en person skal være knivstukket. Hendelsesforløp og skadegrad uavklart. Politi og ambulanse på stedet
 ### Children texts:
-b'En person er skadet, kj\xc3\xb8rt til sykehus og lagt p\xc3\xa5 operasjonsbordet. En person er p\xc3\xa5grepet p\xc3\xa5 stedet, mistenkt for \xc3\xa5 ha for\xc3\xb8vet skaden.'
-b'Vi foretar \xc3\xa5stedsunders\xc3\xb8kelser, samt snakker med vitner. P\xc3\xa5grepne blir kj\xc3\xb8rt arresten, og avh\xc3\xb8rt. Vi f\xc3\xb8lger ogs\xc3\xa5 opp forn\xc3\xa6rmede p\xc3\xa5 sykehuset'
+En person er skadet, kjørt til sykehus og lagt på operasjonsbordet. En person er pågrepet på stedet, mistenkt for å ha forøvet skaden.
+Vi foretar åstedsundersøkelser, samt snakker med vitner. Pågrepne blir kjørt arresten, og avhørt. Vi følger også opp fornærmede på sykehuset
 
 
 # 858102147442987011
@@ -447,14 +447,14 @@ Mann slått ned i Asker sentrum ca 2200. Skal ha blitt sparket mens han lå nede
 ### First text:
 Trafikkuhell X Bispegata - Dronning Aufemias gate. 3 biler. Nødetatene er på vei.
 ### Children texts:
-b'1 person sjekkes av helse. 1 bil taues. Bil som stod p\xc3\xa5 r\xc3\xb8dt lys skal ha blitt p\xc3\xa5kj\xc3\xb8rt bakfra. F\xc3\xb8rer mistenkes for kj\xc3\xb8ring i rus.'
+1 person sjekkes av helse. 1 bil taues. Bil som stod på rødt lys skal ha blitt påkjørt bakfra. Fører mistenkes for kjøring i rus.
 
 
 # 857973840198201344
 ### First text:
 Ammerudhellinga. Branntilløp i et søppelrom. Slukket av brannvesenet.
 #### Possible location:
-b'ammerud'
+ammerud
 
 
 # 857933529254158336
@@ -466,7 +466,7 @@ Gordon Setter hund tatt hånd om av Pets i Asker. Dersom du savner hunden ta kon
 ### First text:
 En bil har kjørt i grøfta på Gamle Ringeriksvei. Fører kjørt til legevakta, fremstår uskadet og har blåst til grønt. Store skader på bilen.
 ### Children texts:
-b'Bilen har tilsynelatende f\xc3\xa5tt hjulene utenfor veibanen og havnet i gr\xc3\xb8fta. H\xc3\xb8yre side p\xc3\xa5 bilen er godt skrapet opp mot fjellveggen.'
+Bilen har tilsynelatende fått hjulene utenfor veibanen og havnet i grøfta. Høyre side på bilen er godt skrapet opp mot fjellveggen.
 
 
 # 857853083954622464
@@ -478,35 +478,35 @@ Bekkestua: Vi er på åstedsundersøkelse ifm en innbruddsforsøk i en bedrift. 
 ### First text:
 Nødetatene er i Dælenenggata etter melding om brann i en vaskemaskin i en leilighet.
 ### Children texts:
-b'Brannen i vaskemaskin er meldt slukket. Ukjent skadeomfang forel\xc3\xb8pig. Ikke meldt om personskade.'
+Brannen i vaskemaskin er meldt slukket. Ukjent skadeomfang foreløpig. Ikke meldt om personskade.
 
 
 # 857825213593133057
 ### First text:
 Bilen i Vålerengatunnelen er fjernet slik at alle felt i retning mot Gardermoen er nå åpne.
 #### Possible location:
-b'v\xc3\xa5lerenga'
+vålerenga
 
 
 # 857822472489578497
 ### First text:
 En bil har fått stans i høyre felt i Vålerengatunnelen i retning mot Gardermoen. Ett felt stengt. Tauebil på vei.
 #### Possible location:
-b'v\xc3\xa5lerenga'
+vålerenga
 
 
 # 857795104412770304
 ### First text:
 Vi er i kirkeveien i forbindelse med brann i bildekk som står ved en container. Endel svart røyk, ingen spredningsfare.
 ### Children texts:
-b'Brannen er slukket, vi har forlatt stedet.'
+Brannen er slukket, vi har forlatt stedet.
 
 
 # 857647823097122823
 ### First text:
 På E18 vestover ved Blommenholm står en bil med stans i midtre felt. Politiet er på stedet
 ### Children texts:
-b'Bilen er flyttet ut av veien'
+Bilen er flyttet ut av veien
 
 
 # 857638994196275201
@@ -518,22 +518,22 @@ Nødetatene er på Comfort hotell Børsparken ifm melding om røyklukt. Bygget e
 ### First text:
 Nordkappgata. Nødetatene er på stedet i forbindelse med melding om brann.
 ### Children texts:
-b'Mindre branntill\xc3\xb8p. Slukket. Ingen skadet.'
+Mindre branntilløp. Slukket. Ingen skadet.
 
 
 # 857544871745380352
 ### First text:
 Risveien. Nødetatene rykker ut til en melding om brann i enebolig.
 ### Children texts:
-b'Slukket, brent i s\xc3\xb8ppelkasser og en husvegg.'
+Slukket, brent i søppelkasser og en husvegg.
 
 
 # 857526996741619712
 ### First text:
 Kyrre Grepps gate. Nødetatene rykker ut til en melding om brann.
 ### Children texts:
-b'Det observeres svak r\xc3\xb8yk som siver ut av et vindu. Brannvesenet har personell p\xc3\xa5 vei inn i bygget.'
-b'En person har f\xc3\xa5tt i seg noe r\xc3\xb8yk. Blir unders\xc3\xb8kt av helsepersonell p\xc3\xa5 stedet.'
+Det observeres svak røyk som siver ut av et vindu. Brannvesenet har personell på vei inn i bygget.
+En person har fått i seg noe røyk. Blir undersøkt av helsepersonell på stedet.
 
 
 # 857514493190057984
@@ -545,11 +545,11 @@ Vi er i Hollendergata. Beboer sjekkes av helse etter å ha vært eksponert for r
 ### First text:
 Trafikkuhell på Griniveien ved avkjøring til Ila. Bil i grøfta. Uvisst om det er personskade.
 #### Possible location:
-b'ila'
+ila
 ### Children texts:
-b'Ikke personskade. Bilberging er p\xc3\xa5 vei.'
+Ikke personskade. Bilberging er på vei.
 #### Possible location:
-b'ila'
+ila
 
 
 # 857470775535841282
@@ -566,41 +566,41 @@ Jordal Terrasse: Røyk fra garasje, undersøkt av brannvesenet. Ingen personskad
 ### First text:
 Fjellstuveien, Stovner: Det brenner i gresset på et større område. Politi og brannvesen på vei
 #### Possible location:
-b'stovner'
+stovner
 ### Children texts:
-b'Brannen er slukket, og vi har s\xc3\xb8kt etter noen ungdommer som muligens kan ha tent p\xc3\xa5 gresset. Negativt s\xc3\xb8k, og vi avslutter dette n\xc3\xa5'
+Brannen er slukket, og vi har søkt etter noen ungdommer som muligens kan ha tent på gresset. Negativt søk, og vi avslutter dette nå
 #### Possible location:
-b'stovner'
+stovner
 
 
 # 857254919488905217
 ### First text:
 Vi har fått melding om brann i en bil ved Padderudvannet, E-18 inngående. Bilen skal stå på vegskulderen. Nødetater er på vei
 ### Children texts:
-b'En politipatrulje har kj\xc3\xb8rt E18 forbi stedet og ikke sett noen brann.'
+En politipatrulje har kjørt E18 forbi stedet og ikke sett noen brann.
 
 
 # 857245402717933570
 ### First text:
 Keysers gate: Det er meldt om røyk fra bygning. Nødetatene er på vei.
 ### Children texts:
-b'Det viste seg at det var et batteri som hadde selvantent. Ingen personskader, n\xc3\xb8detatene har forlatt stedet'
+Det viste seg at det var et batteri som hadde selvantent. Ingen personskader, nødetatene har forlatt stedet
 
 
 # 857209501954564098
 ### First text:
 E18 inngående like før Slependen. Lastebil har "sakset" og sørger for at minst to felt er sperret.
 ### Children texts:
-b'Lastebilen st\xc3\xa5r vis-a-vis IKEA p\xc3\xa5 E18 inng\xc3\xa5ende. F\xc3\xb8reren er uskadet. Kun ett felt \xc3\xa5pent. Kommer til \xc3\xa5 medf\xc3\xb8re ekstra k\xc3\xb8 i noe tid.'
-b'Tauebil er p\xc3\xa5 vei til stedet. Uvisst hvor lenge til alle felt p\xc3\xa5 E18 \xc3\xa5pnes. Det kan ta noe tid da trekkvogna st\xc3\xa5r med fronten mot Asker.'
-b'E18 ved Slependen er \xc3\xa5pen igjen'
+Lastebilen står vis-a-vis IKEA på E18 inngående. Føreren er uskadet. Kun ett felt åpent. Kommer til å medføre ekstra kø i noe tid.
+Tauebil er på vei til stedet. Uvisst hvor lenge til alle felt på E18 åpnes. Det kan ta noe tid da trekkvogna står med fronten mot Asker.
+E18 ved Slependen er åpen igjen
 
 
 # 857205931125473280
 ### First text:
 En bil har fått stans på Mosseveien utgående, rett etter Operatunnelen. Fører til ekstra saktegående kø bakover. Tauebil på vei.
 ### Children texts:
-b'Tauebilen har fjernet bilen som hadde hatt stans p\xc3\xa5 Mosseveien. Alle felt \xc3\xa5pne.'
+Tauebilen har fjernet bilen som hadde hatt stans på Mosseveien. Alle felt åpne.
 
 
 # 857195961445216256
@@ -617,61 +617,61 @@ Operasjonssentralene i Sandvika og Oslo er slått sammen i dag. Fra nå twitrer 
 ### First text:
 Sandvika: En bil har havnet i trappa ved Rådhuset etter et mindre trafikkuhell. Ingen personskade, men bilfører blir fratatt førerkortet.
 ### Children texts:
-b'Etter en mindre p\xc3\xa5kj\xc3\xb8ring bakfra rygget den mistenkte bilf\xc3\xb8reren inn i r\xc3\xa5dhustrappa i Sandvika. Kun mindre materielle skader p\xc3\xa5 stedet.'
+Etter en mindre påkjøring bakfra rygget den mistenkte bilføreren inn i rådhustrappa i Sandvika. Kun mindre materielle skader på stedet.
 
 
 # 857117005958311936
 ### First text:
 Teisen: Røykutvikling i boligbygg. En familie har evakuert seg selv. Nødetater er på vei.
 #### Possible location:
-b'teisen'
+teisen
 ### Children texts:
-b'Brannvesenet har kontroll p\xc3\xa5 brannen i Teisenveien. Trolig t\xc3\xb8rrkok av noe slag. Familien sjekkes av helse, ikke meldt om personskade.'
+Brannvesenet har kontroll på brannen i Teisenveien. Trolig tørrkok av noe slag. Familien sjekkes av helse, ikke meldt om personskade.
 #### Possible location:
-b'teisen'
+teisen
 
 
 # 857109232746934273
 ### First text:
 E 6 inng v/Furuseth, trafikkuhell, nødetatene er på vei.
 #### Possible location:
-b'furuset'
+furuset
 ### Children texts:
-b'Ingen personskade.'
+Ingen personskade.
 #### Possible location:
-b'furuset'
+furuset
 
 
 # 857096473439342592
 ### First text:
 Politi og ambulanse er på vei til St. Jørgens vei ifm melding om trafikkulykke. En bil skal ha rygget på en fotgjenger.
 ### Children texts:
-b'En person er kj\xc3\xb8rt til legevakta med smerter i en fot. Politiet oppretter sak.'
+En person er kjørt til legevakta med smerter i en fot. Politiet oppretter sak.
 
 
 # 857026482358583296
 ### First text:
 Vi er også på Esso Gaustad ifm at flere russebusser spiller høy musikk
 ### Children texts:
-b'En av bussene hadde 60 passasjerer, men er registrert for 30. F\xc3\xb8rer f\xc3\xa5r beslaglagt f\xc3\xb8rerkortet og vi oppretter anmeldelse'
+En av bussene hadde 60 passasjerer, men er registrert for 30. Fører får beslaglagt førerkortet og vi oppretter anmeldelse
 
 
 # 857025641954373632
 ### First text:
 Vi er på Esso Ryen ifm at det har vært amper stemning og slagsmål blandt russ. Det er rolig nå. Flere busser på stedet
 ### Children texts:
-b'Vi er ferdig p\xc3\xa5 stedet. Flere busser bortvist fra stedet'
+Vi er ferdig på stedet. Flere busser bortvist fra stedet
 
 
 # 856957692803506182
 ### First text:
 Politi og ambulanse er på Tåsen, hvor det har vært et slagsmål. 2 fornærmede blir behandlet av en ambulans med skader i ansiktet.
 #### Possible location:
-b't\xc3\xa5sen'
+tåsen
 ### Children texts:
-b'Vi s\xc3\xb8ker etter 3 gjerningsmenn med flere enheter, ogs\xc3\xa5 ved bruk av politihelikopter.'
+Vi søker etter 3 gjerningsmenn med flere enheter, også ved bruk av politihelikopter.
 #### Possible location:
-b't\xc3\xa5sen'
+tåsen
 
 
 # 856926105395134464
@@ -683,21 +683,21 @@ Fra i morgen, 26.4.17, vil OPS Politiet i Oslo også melde om hendelser i Asker 
 ### First text:
 Trafikkuhell mellom trailer og bil i Bjørvikatunellen vestgående. Vi er på vei.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet . Ingen personskade. Begge bilene kj\xc3\xb8rbare og blir fjernet fra tunnelen n\xc3\xa5.'
+Vi er på stedet . Ingen personskade. Begge bilene kjørbare og blir fjernet fra tunnelen nå.
 
 
 # 856697318770343937
 ### First text:
 Vi har pågrepet 4 innbruddstyver i Kværnerbyen. Dette er trolig mobile vinningskriminelle ute etter kobber.
 ### Children texts:
-b'Hundef\xc3\xb8rer ble sl\xc3\xa5tt i hodet med en planke med spiker. Ikke alvorlig skadd. 2 gjerningsmenn m\xc3\xa5tte til behandling etter hundebitt'
+Hundefører ble slått i hodet med en planke med spiker. Ikke alvorlig skadd. 2 gjerningsmenn måtte til behandling etter hundebitt
 
 
 # 856694961844211712
 ### First text:
 Politiet er påny på Esso Gaustad grunnet støy og amper stemning blandt noe russ. Rolig nå. Samtlige busser blir bortvist fra stedet
 ### Children texts:
-b'En person blir innbragt til arresten for ordensforstyrrelse'
+En person blir innbragt til arresten for ordensforstyrrelse
 
 
 # 856667057097781249
@@ -709,22 +709,22 @@ Politiet er på Esso Gaustad ifm at det har vært klammeri mellom russ og vekter
 ### First text:
 Ammerud T bane. Vi er på stedet etter at en person har gått i sporet. Mannen er nå ute av sporet og vi har kontroll på han.
 #### Possible location:
-b'ammerud'
+ammerud
 
 
 # 856602924306366466
 ### First text:
 Schous plass. Vi er på stedet i forbindelse med en trafikkulykke mellom en fotgjenger og en bil.
 ### Children texts:
-b'Fotgjengeren skal v\xc3\xa6re skadd i en fot.'
+Fotgjengeren skal være skadd i en fot.
 
 
 # 856543102147940352
 ### First text:
 Granfosstunnellen østgående; bil med stans. Vi er på vei
 ### Children texts:
-b'Tunnellen er stengt i begge retninger. Skaper lang k\xc3\xb8 bakover. Bilberger er p\xc3\xa5 vei til stedet.'
-b'Bilen er berget og tunnellen er \xc3\xa5pnet for trafikk igjen.'
+Tunnellen er stengt i begge retninger. Skaper lang kø bakover. Bilberger er på vei til stedet.
+Bilen er berget og tunnellen er åpnet for trafikk igjen.
 
 
 # 856501049347198985
@@ -736,33 +736,33 @@ RT @Ravnene: Vi har et stort behov for natteravner i Oslo sentrum! Se vår nye f
 ### First text:
 Vi har fått melding om brann i Nebbejordet på Bjørnerud. Nødetatene er på vei.
 #### Possible location:
-b'bj\xc3\xb8rnerud'
+bjørnerud
 ### Children texts:
-b'If\xc3\xb8lge Brannvesenet p\xc3\xa5 stedet er det ikke brann, kun litt sot p\xc3\xa5 en vegg.'
+Ifølge Brannvesenet på stedet er det ikke brann, kun litt sot på en vegg.
 #### Possible location:
-b'bj\xc3\xb8rnerud'
+bjørnerud
 
 
 # 856457630457487360
 ### First text:
 E6 nordgående ved Alnabru. Lastebil som har mistet last i veibanen og kjørt videre. Trafikkfarlig på stedet. Vi er på vei.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet. Veibanen er n\xc3\xa5 ryddet. Lastebilen var en s\xc3\xb8ppelbil som ikke hadde sikret sin last godt nok.'
+Vi er på stedet. Veibanen er nå ryddet. Lastebilen var en søppelbil som ikke hadde sikret sin last godt nok.
 
 
 # 856381971068530689
 ### First text:
 Kjøretøystans i avkjøringen til Ryen på E6 retning nord. Politi på vei. Trafikken glir forbi, noe redusert hastighet.
 ### Children texts:
-b'Bilberger har n\xc3\xa5 fjernet bilen og veien er fri igjen.'
+Bilberger har nå fjernet bilen og veien er fri igjen.
 
 
 # 856358781483188224
 ### First text:
 Politi og OBRE er på vei til Hammeren Bru i Maridalen, hvor en lastebil har kollidert med en stolpe.
 ### Children texts:
-b'Det rapporteres om glatt vegbane i Maridalen, og det anbefales p\xc3\xa5 det sterkeste \xc3\xa5 kj\xc3\xb8re etter forholdene.'
-b'Vi er p\xc3\xa5 stedet, og det er en h\xc3\xb8yspentmast som er p\xc3\xa5kj\xc3\xb8rt. Den ligger over vegbanen.'
+Det rapporteres om glatt vegbane i Maridalen, og det anbefales på det sterkeste å kjøre etter forholdene.
+Vi er på stedet, og det er en høyspentmast som er påkjørt. Den ligger over vegbanen.
 
 
 # 856309390126850049
@@ -774,11 +774,11 @@ Vi har fått en del telefoner om støy fra russebusser. Vi prøver å ta de fort
 ### First text:
 Slemdal skole: melding om brann i en søppelkasse, brannvesen og politi er på vei.
 #### Possible location:
-b'slemdal'
+slemdal
 ### Children texts:
-b'Brannen er slukket og vi drar fra stedet.'
+Brannen er slukket og vi drar fra stedet.
 #### Possible location:
-b'slemdal'
+slemdal
 
 
 # 856164448624685056
@@ -790,30 +790,30 @@ E18 utg.ved avkj. Framnes. Russebuss med stans i avkjøringsfeltet.
 ### First text:
 Vi er på vei til Bekkefaret hvor vi har fått melding om trafikkulykke. En person skal være påkjørt.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet sammen med de andre n\xc3\xb8detatene. En person blir tatt h\xc3\xa5nd om av helsepersonell. Ingen trafikale problemer.'
+Vi er på stedet sammen med de andre nødetatene. En person blir tatt hånd om av helsepersonell. Ingen trafikale problemer.
 
 
 # 856138437921034240
 ### First text:
 Melding om trafikkulykke med personskade i området Carl Berners Plass. Uvisst skadeomfang, muligens syklist mot større kjøretøy.
 ### Children texts:
-b'Ulykken har skjedd midt i krysset. Trafikkaos i omr\xc3\xa5det, men vi pr\xc3\xb8ver omdirigere. Personskader p\xc3\xa5 en syklist.'
-b'Syklist har brudd i ankel, kj\xc3\xb8rt sykehus.'
+Ulykken har skjedd midt i krysset. Trafikkaos i området, men vi prøver omdirigere. Personskader på en syklist.
+Syklist har brudd i ankel, kjørt sykehus.
 
 
 # 856120138357239809
 ### First text:
 Politiet er i området Nedre Ullevål. Der ble et pizzabud fraranet pizza som skulle leveres. Forn. er uskadd og er i samtale med politiet nå.
 ### Children texts:
-b'Beskrivelse:4 jenter(18-20),2 av dem var kraftige med sorte jakker,1 var spedbygd med caps. 3 med afrikansk utseende,1 med arabisk utseende.'
-b'Vi har n\xc3\xa5 kontroll p\xc3\xa5 samtlige involverte. De blir kj\xc3\xb8rt barnevernsvakta for videre oppf\xc3\xb8lging der.'
+Beskrivelse:4 jenter(18-20),2 av dem var kraftige med sorte jakker,1 var spedbygd med caps. 3 med afrikansk utseende,1 med arabisk utseende.
+Vi har nå kontroll på samtlige involverte. De blir kjørt barnevernsvakta for videre oppfølging der.
 
 
 # 856115991625027584
 ### First text:
 Rådhusplassen. Vi leter etter en jente(6) som har kommet bort fra sin mor. Hun er ikledd rosa klær. Observasjoner av jenta til 02800.
 ### Children texts:
-b'Jenta er tilrette og lykkelig gjenforent med sin familie.'
+Jenta er tilrette og lykkelig gjenforent med sin familie.
 
 
 # 856092042807697408
@@ -830,29 +830,29 @@ Patrulje stanset en MC med to personer på. Fører ville først ikke stanse for 
 ### First text:
 En brannvarsler har gått i tilknytning til et garasjeanlegg i Trondheimsveien 197. Vi er på stedet med OBRE, ikke funnet årsaken ennå.
 ### Children texts:
-b'Mange personer har evakuert seg selv fra blokka som ligger p\xc3\xa5 adressen. Brannvesenet jobber p\xc3\xa5 stedet, ikke funnet noen brann enn\xc3\xa5.'
+Mange personer har evakuert seg selv fra blokka som ligger på adressen. Brannvesenet jobber på stedet, ikke funnet noen brann ennå.
 
 
 # 855987853062529024
 ### First text:
 Grønland: En mann har blitt rispet med kniv i overarmen inne i en oppgang. Han undersøkes av ambulanse, fremstår lettere skadet.
 #### Possible location:
-b'gr\xc3\xb8nland'
+grønland
 ### Children texts:
-b'Vi s\xc3\xb8ker etter en gjerningsperson som forlot oppgangen f\xc3\xb8r politiet kom til stedet. Uklart foranledning til hendelsen s\xc3\xa5 langt.'
+Vi søker etter en gjerningsperson som forlot oppgangen før politiet kom til stedet. Uklart foranledning til hendelsen så langt.
 #### Possible location:
-b'gr\xc3\xb8nland'
+grønland
 
 
 # 855986257251504128
 ### First text:
 Vi er på vei til Sandaker hvor en taxi har kjørt inn i flere parkerte biler. Ikke meldt om alvorlig personskade.
 #### Possible location:
-b'sandaker'
+sandaker
 ### Children texts:
-b'P\xc3\xa5 Sandaker har det v\xc3\xa6rt en form for kjedekollisjon hvor 5 biler har skader. Taxien og en annen har betydelig st\xc3\xb8rre skader enn de tre andre'
+På Sandaker har det vært en form for kjedekollisjon hvor 5 biler har skader. Taxien og en annen har betydelig større skader enn de tre andre
 #### Possible location:
-b'sandaker'
+sandaker
 
 
 # 855982594877521920
@@ -864,47 +864,47 @@ Vi skulle hjelpe en overstadig beruset mann på beina i sentrum. Endte med at ha
 ### First text:
 Nødetatene er på vei til boligbrann i Dr. Holms vei.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet sammen med brannvesenet. Ser ingen flammer eller r\xc3\xb8yk p\xc3\xa5 stedet, men vi unders\xc3\xb8ker videre.'
-b'Flammene det ble meldt om i Doktor Holms vei stammet fra en peis. Brannvesenet har sjekket forholdene i huset og alt er ok. Vi forlater.'
+Vi er på stedet sammen med brannvesenet. Ser ingen flammer eller røyk på stedet, men vi undersøker videre.
+Flammene det ble meldt om i Doktor Holms vei stammet fra en peis. Brannvesenet har sjekket forholdene i huset og alt er ok. Vi forlater.
 
 
 # 855909820444135424
 ### First text:
 Ammerud: Bil har kjørt inn i en stolpe slik at denne har brukket. Vi er i kontakt med fører, lettere skadet, sier han har drukket alkohol.
 #### Possible location:
-b'ammerud'
+ammerud
 ### Children texts:
-b'F\xc3\xb8reren kj\xc3\xb8res til legevakta for \xc3\xa5 lappe noen kutt i ansiktet f\xc3\xb8r det blir blodpr\xc3\xb8ve i arresten.'
+Føreren kjøres til legevakta for å lappe noen kutt i ansiktet før det blir blodprøve i arresten.
 #### Possible location:
-b'ammerud'
+ammerud
 
 
 # 855907291308204033
 ### First text:
 En mann i 50-årene har fått seg et slag i ansiktet ved et utested på Linderud. Kjørt legevakta. Vi har kontroll på en mistenkt mann.
 #### Possible location:
-b'linderud'
+linderud
 
 
 # 855884808479813632
 ### First text:
 Politi og ambulanse er på vei til Nationalteateret stasjon, etter melding om en bevisstløs person.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet, og forn\xc3\xa6rmede er bevisst. Vi har kontroll p\xc3\xa5 en formentlig mistenkt.'
+Vi er på stedet, og fornærmede er bevisst. Vi har kontroll på en formentlig mistenkt.
 
 
 # 855862248589471746
 ### First text:
 Nødetatene er i fjorden utenfor Malmøya etter melding om mulig veltet kajakk. Pr nå har vi ikke funnet noen veltet kajakk.
 ### Children texts:
-b'Vi fortsetter \xc3\xa5 s\xc3\xb8ke i omr\xc3\xa5det etter personer, men har s\xc3\xa5 langt ikke noen indikasjoner p\xc3\xa5 at det skal v\xc3\xa6re noen personer i vannet.'
+Vi fortsetter å søke i området etter personer, men har så langt ikke noen indikasjoner på at det skal være noen personer i vannet.
 
 
 # 855850036604882944
 ### First text:
 Rødvedt skole: melding om gressbrann rett ved skolen. Brannvesenet og politi er på vei til stedet.
 ### Children texts:
-b'En beboer slukket brannen f\xc3\xb8r vi kom frem. Ingen stor brann.'
+En beboer slukket brannen før vi kom frem. Ingen stor brann.
 
 
 # 855846354169589765
@@ -916,16 +916,16 @@ Takket være observant vitne fikk politiet pågrepet en person i en stjålet bil
 ### First text:
 Nødetatene er på vei til Lørentunnelen, vestgående. Trafikkulykke mellom 4 biler. Foreløpig går trafikken forbi i høyre felt.
 ### Children texts:
-b'N\xc3\xb8detatene er p\xc3\xa5 stedet. Meldt om mindre personskader. L\xc3\xb8rentunnelen vestg\xc3\xa5ende er inntil videre stengt.'
-b'Politiet arbeider fremdeles p\xc3\xa5 stedet. 2 f\xc3\xb8rere har f\xc3\xa5tt beslaglagt f\xc3\xb8rerkortet sitt.'
-b'Politiet er ferdig p\xc3\xa5 stedet, tunnelen er \xc3\xa5pnet igjen.'
+Nødetatene er på stedet. Meldt om mindre personskader. Lørentunnelen vestgående er inntil videre stengt.
+Politiet arbeider fremdeles på stedet. 2 førere har fått beslaglagt førerkortet sitt.
+Politiet er ferdig på stedet, tunnelen er åpnet igjen.
 
 
 # 855750831257399296
 ### First text:
 Det brenner i noen planter på en veranda. OBRE jobber med slokking. Ingen hjemme, og ikke meldt om noen personskade.
 ### Children texts:
-b'Brannen er slokket og politiet oppretter sak.'
+Brannen er slokket og politiet oppretter sak.
 
 
 # 855749597662236672
@@ -942,51 +942,51 @@ Politiet er på vei til Tonsenhagen skole hvor det har gått innbruddsalarm.
 ### First text:
 Nødetatene er i Ensjøveien hvor en fotgjenger er påkjørt av en bil. Har smerter i benet og armen. Blir sjekket av amb.
 ### Children texts:
-b'Den skadde er kj\xc3\xb8rt til OKL for ytterliere sjekk og behandling. Politiet oppretter sak, og f\xc3\xb8rerkortet til f\xc3\xb8reren er beslaglagt.'
+Den skadde er kjørt til OKL for ytterliere sjekk og behandling. Politiet oppretter sak, og førerkortet til føreren er beslaglagt.
 
 
 # 855708055291482117
 ### First text:
 Politiet har vært i kontakt med medlemmer fra Natur og Ungdom som har brukt sin ytringsfriheten ved å henge opp et banner på Løvebakken.
 ### Children texts:
-b'De hadde ikke s\xc3\xb8kt grunneier om tillatelse til dette og de m\xc3\xa5tte derfor fjerne banneret. De er ogs\xc3\xa5 forklart reglene rundt dette.'
+De hadde ikke søkt grunneier om tillatelse til dette og de måtte derfor fjerne banneret. De er også forklart reglene rundt dette.
 
 
 # 855679572427362308
 ### First text:
 Melding om tagging på Grønland bazar. Veldig kort tid etterpå pågrep vi 2 personer for forholdet. Kjøres arresten.
 #### Possible location:
-b'gr\xc3\xb8nland'
+grønland
 
 
 # 855566544843288576
 ### First text:
 Vi har mottatt flere støyklager på russebusser ved Lambertseter og Skullerud. Vi følger opp støyklagene når vi har ledig kapasitet.
 #### Possible location:
-b'lambertseter'
+lambertseter
 
 
 # 855563053810765828
 ### First text:
 Ubevæpnet patrulje på husbråk på Ekeberg ble truet med machete av aggressiv beboer. Patrulje og en fornærmet kvinne trakk seg unna.
 ### Children texts:
-b'Patruljen bev\xc3\xa6pnet seg og fikk bistand av andre patruljer. Kontroll p\xc3\xa5 mistenkte ved bruk av pepperspray. Ingen personer skadet.'
-b'Mistenkte var sv\xc3\xa6rt aggressiv p\xc3\xa5 stedet. Han blir anmeldt for blant annet \xc3\xa5 ha truet politiet med machete.'
+Patruljen bevæpnet seg og fikk bistand av andre patruljer. Kontroll på mistenkte ved bruk av pepperspray. Ingen personer skadet.
+Mistenkte var svært aggressiv på stedet. Han blir anmeldt for blant annet å ha truet politiet med machete.
 
 
 # 855552239628414976
 ### First text:
 Nødetatene er på vei til Uelands gate etter melding om brannalarm som går samtidig som det lukter brent i oppgangen.
 ### Children texts:
-b'N\xc3\xb8detatene er i kontakt med en mann som var i en leilighet med brent mat av noe slag. Ikke meldt om personskade.'
+Nødetatene er i kontakt med en mann som var i en leilighet med brent mat av noe slag. Ikke meldt om personskade.
 
 
 # 855534307879907329
 ### First text:
 Huitfeldtsgate: en person skal være påkjørt, nødetatene er på vei.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet i Huitfeldts gate sammen med ambulansen. Kvinnen som ble p\xc3\xa5kj\xc3\xb8rt blir kj\xc3\xb8rt til sykehus. Ukjent skadeomfang, men var bevisst'
-b'Spor p\xc3\xa5 stedet tyder p\xc3\xa5 at kvinnen ble p\xc3\xa5kj\xc3\xb8rt i fotgjengerfeltet. Bilf\xc3\xb8rers f\xc3\xb8rerkort blir beslaglagt.'
+Vi er på stedet i Huitfeldts gate sammen med ambulansen. Kvinnen som ble påkjørt blir kjørt til sykehus. Ukjent skadeomfang, men var bevisst
+Spor på stedet tyder på at kvinnen ble påkjørt i fotgjengerfeltet. Bilførers førerkort blir beslaglagt.
 
 
 # 855430717035216896
@@ -998,7 +998,7 @@ Trondheimsveien: melding om kollisjon mellom 2 biler, lettere personskade. Polit
 ### First text:
 Vi er på vei til trafikkulykke mellom bil og lastebil i Vogtsgate x Marcus Thranesgate.
 ### Children texts:
-b'Ambulanse er p\xc3\xa5 stedet. Noe trafikale problemer.'
+Ambulanse er på stedet. Noe trafikale problemer.
 
 
 # 855364301955182592
@@ -1010,15 +1010,15 @@ Trafikkulykke Solli plass. En fotgjenger er påkjørt av en buss. Skal være bev
 ### First text:
 Bjørvikatunnellen østgående: Motorsykkel som har veltet. Singelulykke. Ukjent skadeomfang. Vi er på stedet
 ### Children texts:
-b'En person med tilsynelatende mindre personskader blir tatt h\xc3\xa5nd om av helsepersonell. Sak opprettes.'
+En person med tilsynelatende mindre personskader blir tatt hånd om av helsepersonell. Sak opprettes.
 
 
 # 855338942622650369
 ### First text:
 Vi er i Trondheimsveien i forbindelse med trussel med skytevåpen. Vi har kontroll på alle involverte parter og gjennomfører avhør på stedet.
 ### Children texts:
-b'Det har v\xc3\xa6rt snakk om verbale trusler.'
-b'En mann p\xc3\xa5grepet og kj\xc3\xb8rt i politiarresten.'
+Det har vært snakk om verbale trusler.
+En mann pågrepet og kjørt i politiarresten.
 
 
 # 855130231656591360
@@ -1035,43 +1035,43 @@ Brugata: En kvinne ble skallet ned av en mann: Vi har kontroll på kvinnen som e
 ### First text:
 Vi er i Haakon Tvetersvei etter melding om knivtrusler og bråk i en leilighet.
 ### Children texts:
-b'Vi har kontroll p\xc3\xa5 stedet. Ingen skadde. Den som har truet med kniv har l\xc3\xb8pt fra leiligheten. Vi s\xc3\xb8ker i omr\xc3\xa5det'
+Vi har kontroll på stedet. Ingen skadde. Den som har truet med kniv har løpt fra leiligheten. Vi søker i området
 
 
 # 855002353971449856
 ### First text:
 Nødetatene er på vei til Haugenstua togstasjon, hvor en person skal være påkjørt.
 #### Possible location:
-b'haugenstua'
+haugenstua
 ### Children texts:
-b'All togtrafikk er stoppet p\xc3\xa5 stedet.'
+All togtrafikk er stoppet på stedet.
 #### Possible location:
-b'haugenstua'
-b'En person er bekreftet d\xc3\xb8d p\xc3\xa5 stedet.'
+haugenstua
+En person er bekreftet død på stedet.
 #### Possible location:
-b'haugenstua'
+haugenstua
 
 
 # 854984993474576384
 ### First text:
 Nødetatene er på vei til Agathe Grøndahls gate, hvor det er meldt om røykutvikling i en leilighet.
 ### Children texts:
-b'Ingen r\xc3\xb8yk eller brann p\xc3\xa5 stedet.'
+Ingen røyk eller brann på stedet.
 
 
 # 854860850389233664
 ### First text:
 E6 inngående ved Abildsø. En politipatrulje har stanset en bil hvor fører ikke innehar gyldig førerkort. Blir anmeldt.
 #### Possible location:
-b'abilds\xc3\xb8'
+abildsø
 
 
 # 854837680164753408
 ### First text:
 Nordaaks gate. Vi er på stedet etter at det har blitt knust en rute på en bil. En person stanset i umiddelbar nærhet til stedet.
 ### Children texts:
-b'Vedkommende hadde glassk\xc3\xa5r i genseren, samt at hundepatruljen v\xc3\xa5r gikk et spor fra den aktuelle bilen rett til personen vi har anholdt.'
-b'Personen kj\xc3\xb8res arrest, anmeldelse opprettes.'
+Vedkommende hadde glasskår i genseren, samt at hundepatruljen vår gikk et spor fra den aktuelle bilen rett til personen vi har anholdt.
+Personen kjøres arrest, anmeldelse opprettes.
 
 
 # 854785980007632897
@@ -1083,17 +1083,17 @@ Vestil/Jesperud: Vi har kontroll på noen ungdommer som har kastet steiner mot s
 ### First text:
 Østbanehallen: Det brenner i en søppelkasse, og flere personer skal være eksponert for røyk. Nødetater på stedet
 ### Children texts:
-b'Brannen er i en s\xc3\xb8ppelsjakt. Reisende og andre er evakuert inntil videre'
-b'Brannen, som til slutt viste seg \xc3\xa5 v\xc3\xa6re i et lager, er slukket, men det er mye r\xc3\xb8yk i omr\xc3\xa5det, og hele \xc3\x98stbanehallen blir evakuert.'
-b'Alle evakuerte kan f\xc3\xa5 slippe inn igjen til Oslo S.'
+Brannen er i en søppelsjakt. Reisende og andre er evakuert inntil videre
+Brannen, som til slutt viste seg å være i et lager, er slukket, men det er mye røyk i området, og hele Østbanehallen blir evakuert.
+Alle evakuerte kan få slippe inn igjen til Oslo S.
 
 
 # 854675022820126720
 ### First text:
 Nødetatene er på vei til Hoffsveien. Melding om brann
 ### Children texts:
-b'Vi er fremme p\xc3\xa5 stedet. Det er flammer ut fra leilighet i 2. etg. og obre jobber med \xc3\xa5 slukke.'
-b'Da bekrefter brannvesenet at brannen er slukket. En person har evakuert seg selv'
+Vi er fremme på stedet. Det er flammer ut fra leilighet i 2. etg. og obre jobber med å slukke.
+Da bekrefter brannvesenet at brannen er slukket. En person har evakuert seg selv
 
 
 # 854606785134686208
@@ -1105,26 +1105,26 @@ Nødetatene deltar på en øvelse på Åsland pukkverk i samarbeid med Follobane
 ### First text:
 E18 vestgående v/Bygdøylokket står det en liten lastebil med stans i kollektivfeltet. Kommer brått på. Vi er på vei
 #### Possible location:
-b'bygd\xc3\xb8y'
+bygdøy
 ### Children texts:
-b'Bilen er fjernet og kj\xc3\xb8refeltet er \xc3\xa5pent'
+Bilen er fjernet og kjørefeltet er åpent
 #### Possible location:
-b'bygd\xc3\xb8y'
+bygdøy
 
 
 # 854595783487889408
 ### First text:
 I Lørentunnellen høyre felt østgående løp står det en bil med stans. Vaktbilen fra vts er på stedet
 ### Children texts:
-b'Bilen er fjernet og kj\xc3\xb8refeltet er \xc3\xa5pent'
+Bilen er fjernet og kjørefeltet er åpent
 
 
 # 854503228037365760
 ### First text:
 Aker Brygge: Slagsmål mellom flere personer. Vi er på vei.
 ### Children texts:
-b'Patrulje er p\xc3\xa5 stedet. Sl\xc3\xa5ssinga har opph\xc3\xb8rt. Vi unders\xc3\xb8ker hva som har skjedd.'
-b'Noen stakk fra stedet f\xc3\xb8r vi kom. Ingen med synlige skader. Partene anmelder hverandre i ettertid.'
+Patrulje er på stedet. Slåssinga har opphørt. Vi undersøker hva som har skjedd.
+Noen stakk fra stedet før vi kom. Ingen med synlige skader. Partene anmelder hverandre i ettertid.
 
 
 # 854495637366345728
@@ -1136,15 +1136,15 @@ Storo: Patrulje kontrollerte en person, hvor vedkommende var i besittelse av et 
 ### First text:
 Ruseløkkveien: Melding om brann. Vi er på vei.
 ### Children texts:
-b'Brannvesenet melder at brannen skal v\xc3\xa6re slukket. Ingen evakuerte. Ingen skadde.'
-b'Et kubbelys som har brent ned og tatt fyr inne hos Baker Hansen. OBRE lufter ut p\xc3\xa5 stedet n\xc3\xa5.'
+Brannvesenet melder at brannen skal være slukket. Ingen evakuerte. Ingen skadde.
+Et kubbelys som har brent ned og tatt fyr inne hos Baker Hansen. OBRE lufter ut på stedet nå.
 
 
 # 854476940643897344
 ### First text:
 Karl Johans gate: Melding om slagsmål mellom to-tre personer. Vi er på vei.
 ### Children texts:
-b'Finner ingen sl\xc3\xa5sskamp, og heller ingen skadde.'
+Finner ingen slåsskamp, og heller ingen skadde.
 
 
 # 854454803891707905
@@ -1161,133 +1161,133 @@ Oscars gate: Taxi kjørte på rødt lys og forsøkte å unndra seg kontroll. Ved
 ### First text:
 Holmlia: Trafikkulykke mellom to biler. Ingen av bilene er kjørbare. Kan se ut som det er snakk om lettere personskader.
 #### Possible location:
-b'holmlia'
+holmlia
 ### Children texts:
-b'Brudd p\xc3\xa5 vikeplikt som er \xc3\xa5rsaken til dette. Lettere personskader.'
+Brudd på vikeplikt som er årsaken til dette. Lettere personskader.
 #### Possible location:
-b'holmlia'
-b'Vedkommende som br\xc3\xb8t vikeplikten fikk beslaglagt sitt f\xc3\xb8rerkort. Patrulje oppretter sak. Begge bilene er n\xc3\xa5 tauet bort.'
+holmlia
+Vedkommende som brøt vikeplikten fikk beslaglagt sitt førerkort. Patrulje oppretter sak. Begge bilene er nå tauet bort.
 #### Possible location:
-b'holmlia'
+holmlia
 
 
 # 854415162337525760
 ### First text:
 Vekter tok kontroll på en tyv som sa hun hadde en slange i sekken. Viste seg at det var et slangefutteral som raslet når det ble ristet.
 ### Children texts:
-b'Kvinnen hadde ikke stj\xc3\xa5let noe og ble dimittert av oss. Uklart hvorfor hun hadde oppgitt \xc3\xa5 ha en slange i sekken.'
+Kvinnen hadde ikke stjålet noe og ble dimittert av oss. Uklart hvorfor hun hadde oppgitt å ha en slange i sekken.
 
 
 # 854361056126394369
 ### First text:
 Trafikkontroll i Ullevålsveien hvor det er gjennomkjøring forbudt endte med 20 bøter og to anmeldelser. Ny kontroll i sentrum etter en pause
 ### Children texts:
-b'De to som ble anmeldt \xc3\xb8nsket ikke \xc3\xa5 vedta boten p\xc3\xa5 stedet. Omr\xc3\xa5det er skiltet slik grunnet arbeider i Ullev\xc3\xa5lsveien.'
+De to som ble anmeldt ønsket ikke å vedta boten på stedet. Området er skiltet slik grunnet arbeider i Ullevålsveien.
 
 
 # 854355573361561600
 ### First text:
 Melder ble påkjørt bakfra på Tveita. Mente at den andre føreren var beruset. Det kunne vårt alkometer bekrefte. Ingen personskade.
 #### Possible location:
-b'tveita'
+tveita
 
 
 # 854328813701955584
 ### First text:
 Bil med stans på brua i Lodalen mot Ekebergtunnelen. Bilbergning er straks på vei. Medfører enda mer kø i Vålerengatunnelen.
 #### Possible location:
-b'v\xc3\xa5lerenga'
+vålerenga
 ### Children texts:
-b'Bilen kom seg avg\xc3\xa5rde for egen maskin og dermed er alle felt \xc3\xa5pne p\xc3\xa5 Lodalsbrua.'
+Bilen kom seg avgårde for egen maskin og dermed er alle felt åpne på Lodalsbrua.
 #### Possible location:
-b'v\xc3\xa5lerenga'
+vålerenga
 
 
 # 854233233499848704
 ### First text:
 Kirkeveien v/Suhmsgt er vi på stedet ifm trafikkulykke. MC mot bil. Uvisst skadeomfang. Ambulanse er på vei
 ### Children texts:
-b'Bilf\xc3\xb8reren f\xc3\xa5r beslaglagt f\xc3\xb8rerkortet. Politiet oppretter sak p\xc3\xa5 forholdet.'
+Bilføreren får beslaglagt førerkortet. Politiet oppretter sak på forholdet.
 
 
 # 854216882395783169
 ### First text:
 Sandakerveien. Trafikkulykke. Trikk mot bil. Nødetatene på vei.
 #### Possible location:
-b'sandaker'
+sandaker
 ### Children texts:
-b'Mindre materielle skader. En kvinne blir unders\xc3\xb8kt av ambulanse grunnet nakkesmerter.'
+Mindre materielle skader. En kvinne blir undersøkt av ambulanse grunnet nakkesmerter.
 #### Possible location:
-b'sandaker'
+sandaker
 
 
 # 854211044994142208
 ### First text:
 E6 inngående mellom Vålerengtunnelen og Ekebergtunnelen. Trafikkulykke. Tre biler involvert. Nødetatene og bergingsbil på vei. Skaper kø.
 ### Children texts:
-b'En kvinne f\xc3\xa5r tilsyn av ambulanse p\xc3\xa5 stedet grunnet nakkesmerter.'
-b'Bergingsbil p\xc3\xa5 stedet.'
-b'Veien \xc3\xa5pnet for normal ferdsel.'
+En kvinne får tilsyn av ambulanse på stedet grunnet nakkesmerter.
+Bergingsbil på stedet.
+Veien åpnet for normal ferdsel.
 
 
 # 854148037194768384
 ### First text:
 Maria Dehlis vei: Melding om røyk fra 2. etasje i boligblokk. Nødetatene på vei
 ### Children texts:
-b'Enhetene er p\xc3\xa5 stedet, og det lukter r\xc3\xb8yk, ingen flammer sett. Brannvesenet jobber med \xc3\xa5 lokalisere kilden.'
-b'R\xc3\xb8yken stammet fra svidd mat i en leilighet. Beboere blir unders\xc3\xb8kt av ambulansepersonell.'
+Enhetene er på stedet, og det lukter røyk, ingen flammer sett. Brannvesenet jobber med å lokalisere kilden.
+Røyken stammet fra svidd mat i en leilighet. Beboere blir undersøkt av ambulansepersonell.
 
 
 # 854071274871672832
 ### First text:
 Nødetatene er på E6 utgående ved Furuset. Trafikkulykke mellom 2 biler. Amb tar en sjekk av involverte.
 #### Possible location:
-b'furuset'
+furuset
 ### Children texts:
-b'Det viser seg at det er 3 biler som har kollidert. Bilberger er p\xc3\xa5 vei, men det skapes k\xc3\xb8.'
+Det viser seg at det er 3 biler som har kollidert. Bilberger er på vei, men det skapes kø.
 #### Possible location:
-b'furuset'
-b'Veien er fri igjen. 3 biler er tauet vekk.'
+furuset
+Veien er fri igjen. 3 biler er tauet vekk.
 #### Possible location:
-b'furuset'
-b'4 personer sendt til Oslo kommunale legevakt for lettere skader.'
+furuset
+4 personer sendt til Oslo kommunale legevakt for lettere skader.
 #### Possible location:
-b'furuset'
+furuset
 
 
 # 854032906897031168
 ### First text:
 Mina Beiteplukksvei. Politiet har anholdt en fører som vi mistenker har kjørt i ruspåvirket tilstand.
 ### Children texts:
-b'Anholdte kj\xc3\xb8res arrest for utvidet pr\xc3\xb8ve, f\xc3\xb8rerkortbeslag.'
+Anholdte kjøres arrest for utvidet prøve, førerkortbeslag.
 
 
 # 853974545266552832
 ### First text:
 Nødetatene er på vei til Selvbyggerveien på melding om brann.
 ### Children texts:
-b'Noen har evakuert seg selv, men brannen er slokket. Beboere skal ikke ha f\xc3\xa5tt i seg r\xc3\xb8yk.'
+Noen har evakuert seg selv, men brannen er slokket. Beboere skal ikke ha fått i seg røyk.
 
 
 # 853855911215063040
 ### First text:
 Hvit MAN buss tilhørende Norway bussekspress stjålet i Oslo sentrum for kort tid siden. Kjennemerke PR 34187. Ser du denne, ring politiet.
 ### Children texts:
-b'Bussen er til rette. Funnet like ved R\xc3\xa5duskaien .'
+Bussen er til rette. Funnet like ved Råduskaien .
 
 
 # 853745686331969538
 ### First text:
 Vi har fått melding om mulig tørrkok fra Enebakkveien. Nødetatene er på vei til stedet
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet. Brannvesenet har kontroll p\xc3\xa5 stedet. En person f\xc3\xa5tt i seg litt r\xc3\xb8yk.'
+Vi er på stedet. Brannvesenet har kontroll på stedet. En person fått i seg litt røyk.
 
 
 # 853687250202361859
 ### First text:
 Vi er i Olav V`s gt. ifm at en person skal være knivstukket. Vedkommende er kjørt sykehus med uvisst skadeomfang.
 ### Children texts:
-b'Politiet er p\xc3\xa5 \xc3\xa5stedet og jobber med teknisk og taktisk etterforskning. Fremdeles uvisst skadeomfang p\xc3\xa5 forn\xc3\xa6rmede'
+Politiet er på åstedet og jobber med teknisk og taktisk etterforskning. Fremdeles uvisst skadeomfang på fornærmede
 
 
 # 853623396109885442
@@ -1304,61 +1304,61 @@ Bil stanset i sentrum. 6 personer i bilen. hvorav 2 usikrede små barn. Fører h
 ### First text:
 Melding om brann i en restaurant i Motzfeldtsgate. Vi og Brannvesenet på er stedet.
 ### Children texts:
-b'Det har v\xc3\xa6rt brann i et elektrisk apparat. Brannvesenet har n\xc3\xa5 slukket dette og lufter ut endel r\xc3\xb8yk. Ingen personer skadet.'
+Det har vært brann i et elektrisk apparat. Brannvesenet har nå slukket dette og lufter ut endel røyk. Ingen personer skadet.
 
 
 # 853425840658493440
 ### First text:
 Vi er i Osterhausgate i forbindelse med røykutvikling fra en garasje.
 ### Children texts:
-b'\xc3\x85rsak til r\xc3\xb8ykutvikling var en motorsykkel som har "b\xc3\xb8rnet".'
+Årsak til røykutvikling var en motorsykkel som har "børnet".
 
 
 # 853414798977105922
 ### First text:
 Melding om nok en slåsskamp mellom flere personer på Blå i Brenneriveien.Vi er på stedet.
 ### Children texts:
-b'Ingen er skadet. Vi er p\xc3\xa5 stedet med flere enheter for \xc3\xa5 bevare ro og orden.'
+Ingen er skadet. Vi er på stedet med flere enheter for å bevare ro og orden.
 
 
 # 853407659210526722
 ### First text:
 Melding om en naken mann som løper rundt i Sandakerveien. Vi er på vei for å forsøke å få på han noe klær.
 #### Possible location:
-b'sandaker'
+sandaker
 ### Children texts:
-b'Vi har ikke sett noe til mannen. Vi avslutter s\xc3\xb8ket.'
+Vi har ikke sett noe til mannen. Vi avslutter søket.
 #### Possible location:
-b'sandaker'
+sandaker
 
 
 # 853390583745925120
 ### First text:
 Melding om slåsskamp mellom 3 personer på Blå i Brenneriveien .Vi er på stedet og har kontroll.
 ### Children texts:
-b'Tre personer p\xc3\xa5grepet og kj\xc3\xb8res arrest for ordensforstyrrelse. Vi m\xc3\xa5tte bruke pepperspray for \xc3\xa5 f\xc3\xa5 kontroll p\xc3\xa5 kamphanene.'
+Tre personer pågrepet og kjøres arrest for ordensforstyrrelse. Vi måtte bruke pepperspray for å få kontroll på kamphanene.
 
 
 # 853373944736473092
 ### First text:
 Melding om flere smell og lysglimt fra området Sagene kirke. Vi er på stedet med flere enheter og undersøker dette.
 ### Children texts:
-b'Vi har s\xc3\xb8kt av omr\xc3\xa5det. Ingen skade p\xc3\xa5 personer eller materielle ting funnet . Vi konkluderer med at noen har fyrt av fyrverkeri .'
-b'Vi leter etter en bil og to personer som kan settes i sammenheng med saken.'
+Vi har søkt av området. Ingen skade på personer eller materielle ting funnet . Vi konkluderer med at noen har fyrt av fyrverkeri .
+Vi leter etter en bil og to personer som kan settes i sammenheng med saken.
 
 
 # 853314508508540929
 ### First text:
 Nødetatene er på Lilleborg skole ifm at det brenner i noen søppelkasser. Skal ikke være fare for spredning.
 ### Children texts:
-b'Obre bekrefter at brannen er slukket. Vi blir p\xc3\xa5 stedet en stund til'
+Obre bekrefter at brannen er slukket. Vi blir på stedet en stund til
 
 
 # 853290957533437953
 ### First text:
 Politiet har pågrepet to personer i Enebakkveien etter at en drosje ble stjålet på Stovner ca 1 time tidligere. Begge to kjøres arresten
 #### Possible location:
-b'stovner'
+stovner
 
 
 # 853194029537820673
@@ -1370,59 +1370,59 @@ Vi er ute og ser etter en offensiv kar på rulleskøyter. Kjører sikksakk mello
 ### First text:
 Melding om husbråk fra en leilighet på Majorstua. Da vi ankom ble mannen pågrepet og kvinnen gitt førstehjelp etter at de hadde sloss.
 ### Children texts:
-b'Mannen blir anmeldt for kropps skade og trusler. Kj\xc3\xb8res i arrest.'
+Mannen blir anmeldt for kropps skade og trusler. Kjøres i arrest.
 
 
 # 852984377311154176
 ### First text:
 Politiet er i Linderudveien ifm søk etter en saknet somalisk gutt på 11 år. Besk: ca 140 cm, blå jakke, rød joggebukse.
 #### Possible location:
-b'linderud'
+linderud
 ### Children texts:
-b'Dersom gutten p\xc3\xa5treffes ber vi om at en ringer politiet p\xc3\xa5 02800'
+Dersom gutten påtreffes ber vi om at en ringer politiet på 02800
 #### Possible location:
-b'linderud'
-b'Da kom gutten til rette hjemme p\xc3\xa5 bopel'
+linderud
+Da kom gutten til rette hjemme på bopel
 #### Possible location:
-b'linderud'
+linderud
 
 
 # 852968882407190528
 ### First text:
 Nødetatene er på vei til Nils Huus gate ifm melding om røyk fra oppgang
 ### Children texts:
-b'Vi er fremme og det er ingen brann. R\xc3\xb8yken kom fra grilling s\xc3\xa5 vi drar straks fra stedet'
+Vi er fremme og det er ingen brann. Røyken kom fra grilling så vi drar straks fra stedet
 
 
 # 852840147670282245
 ### First text:
 Helgesens gate. Nødetatene rykker ut til en melding om brann.
 ### Children texts:
-b'R\xc3\xb8ykutvikling grunnet d\xc3\xa5rlig vedlikehold av pipe. Brannvesenet tillater ikke videre fyring f\xc3\xb8r dette er utbedret.'
+Røykutvikling grunnet dårlig vedlikehold av pipe. Brannvesenet tillater ikke videre fyring før dette er utbedret.
 
 
 # 852822482876637184
 ### First text:
 Stjernemyrveien: Melding om brann i en leilighet. Vi er straks på stedet.
 ### Children texts:
-b'Brannen er slukket. Ingen personskade.'
+Brannen er slukket. Ingen personskade.
 
 
 # 852738803445899265
 ### First text:
 Nødetatene er på vei til Olaf Schous vei på melding om røykutvikling i en leilighet.
 ### Children texts:
-b'Brannen er slokket av beboere. Har v\xc3\xa6rt endel r\xc3\xb8yk i leiligheten, og beboere sjekkes av amb.'
+Brannen er slokket av beboere. Har vært endel røyk i leiligheten, og beboere sjekkes av amb.
 
 
 # 852712973625937920
 ### First text:
 Nødetatene og mannskaper fra Jernbanen er ved Geita bru/ gamlebyen. Et godstog har sporet av. Ingen personskade og mindre materielle skader.
 ### Children texts:
-b'Toget har sporet av i lav hastighet. Bergingsarbeidet vil trolig ta noe tid grunnet den betydelige vekten p\xc3\xa5 materiellet som skal berges.'
-b'Dette vil trolig ikke ber\xc3\xb8re passasjertrafikken, men kun godstrafikken, og de ber\xc3\xb8rte selskaper er orientert.'
-b'Foto av vogna som lener seg mot brupillarene p\xc3\xa5 Geita bru. Foto tatt av politiets Innsatsleder. https://t.co/4O4zcaaqKU'
-b'Arbeid p\xc3\xa5 stedet medf\xc3\xb8rer allikevel at passasjertrafikken blir ber\xc3\xb8rt i ca 3 timer.'
+Toget har sporet av i lav hastighet. Bergingsarbeidet vil trolig ta noe tid grunnet den betydelige vekten på materiellet som skal berges.
+Dette vil trolig ikke berøre passasjertrafikken, men kun godstrafikken, og de berørte selskaper er orientert.
+Foto av vogna som lener seg mot brupillarene på Geita bru. Foto tatt av politiets Innsatsleder. https://t.co/4O4zcaaqKU
+Arbeid på stedet medfører allikevel at passasjertrafikken blir berørt i ca 3 timer.
 
 
 # 852694672669642752
@@ -1434,39 +1434,39 @@ Politiet er ved McDonalds på Alnabru hvor det er flere russebusser. Noen av rus
 ### First text:
 Politiet er på vei til et utested i Skippergata hvor det et slagsmål mellom to gjester.
 ### Children texts:
-b'Politiet har v\xc3\xa6rt i kontakt med de to kamphanene. Det var to kompiser som falt uklar og gjorde opp med knyttnevene. De har ordnet opp n\xc3\xa5.'
+Politiet har vært i kontakt med de to kamphanene. Det var to kompiser som falt uklar og gjorde opp med knyttnevene. De har ordnet opp nå.
 
 
 # 852657386108186629
 ### First text:
 Politiet har kontroll på en tagger i Vallegata. Tatt mens han satt på huk og tagget på en vegg.
 ### Children texts:
-b'Mannen er p\xc3\xa5grepet og kj\xc3\xb8res arresten.'
+Mannen er pågrepet og kjøres arresten.
 
 
 # 852643854050369536
 ### First text:
 En blodig mann har tatt seg til Shell Grorud. Politiet på vei for å undersøke hva som har skjedd.
 #### Possible location:
-b'grorud'
+grorud
 ### Children texts:
-b'Da politiet kom frem til Shell Grorud hadde personen forlatt stedet i bil.'
+Da politiet kom frem til Shell Grorud hadde personen forlatt stedet i bil.
 #### Possible location:
-b'grorud'
+grorud
 
 
 # 852643328466268160
 ### First text:
 Politiet og bilberger på vei til E6 nordgående ved Alnabru. En bil har fått stans og står i kollektivfeltet. 3-4 personer står ved bilen.
 ### Children texts:
-b'Bilen er hentet av bilberger, og veien er fri igjen.'
+Bilen er hentet av bilberger, og veien er fri igjen.
 
 
 # 852632772925681665
 ### First text:
 Vi er i området Bølerbakken. Flere meldere har meldt fra om høye smell utendørs. Uvisst hva dette kan være, mulig skudd.
 #### Possible location:
-b'b\xc3\xb8ler'
+bøler
 
 
 # 852621100433494018
@@ -1478,8 +1478,8 @@ Lakkegata Skole: Melding om slagsmål hvor en person muligens er slått med en h
 ### First text:
 Hausmannsgate: Melding om slagsmål mellom fire personer. Politiet er på stedet nå, ser ikke noe unormalt.
 ### Children texts:
-b'Guttene hadde hoppa p\xc3\xa5 en trikk. Patrulje f\xc3\xb8lger n\xc3\xa5 trikken.'
-b'Patruljen stanset trikken ved Birkelunden. Stemningen var n\xc3\xa5 s\xc3\xa5pass god at det endte med en liten alvorsprat fra patruljen sin side.'
+Guttene hadde hoppa på en trikk. Patrulje følger nå trikken.
+Patruljen stanset trikken ved Birkelunden. Stemningen var nå såpass god at det endte med en liten alvorsprat fra patruljen sin side.
 
 
 # 852603997370372097
@@ -1506,46 +1506,46 @@ I Badebakken har vi hentet en naken, agressiv og ruset mann. Skremte en rekke be
 ### First text:
 En beruset mann ringte og meldte om slossing på Oppsal. Da vi kom frem var det kun melder som ville sloss. Han kjøres i arrest.
 #### Possible location:
-b'oppsal'
+oppsal
 
 
 # 852253425647722498
 ### First text:
 Trondheimsveien: Politiet på vei til en leilighet hvor det trolig er en person som er skadet. Meldt om knivstikking.
 ### Children texts:
-b'Vi har kontroll p\xc3\xa5 stedet n\xc3\xa5. En person er lettere skadet etter skade i et bein. Mulig brukt kniv/skarp gjenstand.'
+Vi har kontroll på stedet nå. En person er lettere skadet etter skade i et bein. Mulig brukt kniv/skarp gjenstand.
 
 
 # 852246554589237248
 ### First text:
 Vi er på et utested på Grønland. Her har vært slagsmål mellom flere personer. En mann er slått i hodet med en flaske. Lite hyggelig stemning
 #### Possible location:
-b'gr\xc3\xb8nland'
+grønland
 
 
 # 852210327563493376
 ### First text:
 Ved Veitvet Skole: Politiet fikk melding om noen ungdommer som skulle være i besittelse av et våpen. Kort tid etterpå påtraff vi 2 personer.
 #### Possible location:
-b'veitvet'
+veitvet
 ### Children texts:
-b'Patruljene fant ogs\xc3\xa5 2 stk replika-v\xc3\xa5pen ved guttene.'
+Patruljene fant også 2 stk replika-våpen ved guttene.
 #### Possible location:
-b'veitvet'
-b'Etter en god alvorsprat med guttene fikk de g\xc3\xa5 fra stedet. De skj\xc3\xb8nte at dette kunne skape frykt, og ville ikke leke slik mer.'
+veitvet
+Etter en god alvorsprat med guttene fikk de gå fra stedet. De skjønte at dette kunne skape frykt, og ville ikke leke slik mer.
 #### Possible location:
-b'veitvet'
+veitvet
 
 
 # 852195998642438146
 ### First text:
 Stovner senter: Melding om røykutvikling i oppgang. Nødetatene er på vei.
 #### Possible location:
-b'stovner'
+stovner
 ### Children texts:
-b'Askebeger p\xc3\xa5 utsiden av blokka f\xc3\xb8rte til litt r\xc3\xb8yklukt i oppgang. Ingenting for oss.'
+Askebeger på utsiden av blokka førte til litt røyklukt i oppgang. Ingenting for oss.
 #### Possible location:
-b'stovner'
+stovner
 
 
 # 852163914053931008
@@ -1557,50 +1557,50 @@ Nødetatene er i Østensjøveien. Melding om brann i en bedrift. Trolig ikke spr
 ### First text:
 Fredensborg: Melding om brann. Nødetatene er på vei.
 ### Children texts:
-b'Udramatisk, mindre r\xc3\xb8ykutvikling inne p\xc3\xa5 et rom. Ingen skadde.'
+Udramatisk, mindre røykutvikling inne på et rom. Ingen skadde.
 
 
 # 851999206848045056
 ### First text:
 Vi er i Hovseterveien med flere enheter, etter en melding om mulig knivstikking.
 #### Possible location:
-b'hovseter'
+hovseter
 ### Children texts:
-b'Vi har forel\xc3\xb8pig ikke funnet noen som er skadd p\xc3\xa5 stedet.'
+Vi har foreløpig ikke funnet noen som er skadd på stedet.
 #### Possible location:
-b'hovseter'
-b'Vi er i kontakt med en forn\xc3\xa6rmet som har f\xc3\xa5tt et slag i ansiktet. Det er ingenting som tyder p\xc3\xa5 at det har v\xc3\xa6rt brukt kniv.'
+hovseter
+Vi er i kontakt med en fornærmet som har fått et slag i ansiktet. Det er ingenting som tyder på at det har vært brukt kniv.
 #### Possible location:
-b'hovseter'
+hovseter
 
 
 # 851888728591282177
 ### First text:
 Bogstadvannet. Vi er på stedet etter melding om et rødt lys ute på vannet. Dykkere er på vei ut i vannet.
 ### Children texts:
-b'Viste seg \xc3\xa5 v\xc3\xa6re en drone.'
+Viste seg å være en drone.
 
 
 # 851788689378299904
 ### First text:
 Vækerøveien. Vi er på vei etter melding om brann i en hekk.
 ### Children texts:
-b'V\xc3\xa6rt brann i en hekk som har spredd seg og gjort skade p\xc3\xa5 en bod. Ingen personskade.'
+Vært brann i en hekk som har spredd seg og gjort skade på en bod. Ingen personskade.
 
 
 # 851727031314374657
 ### First text:
 Solveien: Meldinger om to BMW'er parkert langs denne veien, som er oppbrutt og tømt for dyrt utstyr. Vi foretar åstedsundersøkelser
 ### Children texts:
-b'Vi har f\xc3\xa5tt melding om nok en BMW som har hatt innbrudd og blitt t\xc3\xb8mt for dyrt utstyr i Solveien. Vi foretar \xc3\xa5stedsunders\xc3\xb8kelse ogs\xc3\xa5 her.'
+Vi har fått melding om nok en BMW som har hatt innbrudd og blitt tømt for dyrt utstyr i Solveien. Vi foretar åstedsundersøkelse også her.
 
 
 # 851677217226711040
 ### First text:
 Trondheimsveien/Helgesens gate: Fotgjenger påkjørt av lastebil, trolig personskader. Nødetater på vei
 ### Children texts:
-b'Fotgjengeren er bevisst, trolig brukket en fot. Blir ivaretatt av helse.'
-b'Fotgjenger kj\xc3\xb8rt sykehus. Trondheimsveien forel\xc3\xb8pig stengt fra Blytts gate. Vi jobber p\xc3\xa5 stedet'
+Fotgjengeren er bevisst, trolig brukket en fot. Blir ivaretatt av helse.
+Fotgjenger kjørt sykehus. Trondheimsveien foreløpig stengt fra Blytts gate. Vi jobber på stedet
 
 
 # 851530717402206209
@@ -1612,51 +1612,51 @@ I Ekebergtunnellen har en bil mistet en tilhenger. Vi er på stedet. Ingen perso
 ### First text:
 Furuset t-banestasjon: Ung kvinne er sett  gående i t-banesporet. T-banen holdes tilbake i begge retninger. Nødetater er på stedet.
 #### Possible location:
-b'furuset'
+furuset
 ### Children texts:
-b'Vi har kontroll p\xc3\xa5 jenta i T-banesporet. T-banen g\xc3\xa5r igjen som normalt'
+Vi har kontroll på jenta i T-banesporet. T-banen går igjen som normalt
 #### Possible location:
-b'furuset'
+furuset
 
 
 # 851382713617719296
 ### First text:
 RV4 etter avkjøring til Aker sykehus: Trafikkulykke med personskader. Nødetater er på vei.
 ### Children texts:
-b'Store materielle skader p\xc3\xa5 to biler som skal taues fra stedet. En person har f\xc3\xa5tt sjokk, men ellers skal ingen v\xc3\xa6re fysisk skadd.'
-b'Det er snakk om en p\xc3\xa5kj\xc3\xb8rsel bakfra, og tre personer er kj\xc3\xb8rt legevakt for sjekk. Den ene f\xc3\xb8reren fikk beslaglagt f\xc3\xb8rerkortet. Veien \xc3\xa5pnet'
+Store materielle skader på to biler som skal taues fra stedet. En person har fått sjokk, men ellers skal ingen være fysisk skadd.
+Det er snakk om en påkjørsel bakfra, og tre personer er kjørt legevakt for sjekk. Den ene føreren fikk beslaglagt førerkortet. Veien åpnet
 
 
 # 851345006396923904
 ### First text:
 Nødetatene er på vei til Fredensborgveien i forbindelse med melding om røykutvikling fra en bygning.
 ### Children texts:
-b'Det var en dorull som brant. Denne er n\xc3\xa5 slukket.'
+Det var en dorull som brant. Denne er nå slukket.
 
 
 # 851159185161105410
 ### First text:
 Furuset: Melding om brann på balkong. Trolig er det snakk om matlaging. Vi er på stedet.
 #### Possible location:
-b'furuset'
+furuset
 
 
 # 851118672110383104
 ### First text:
 Holmlia: Brann i gress og løv. Brannen er snart slukket.
 #### Possible location:
-b'holmlia'
+holmlia
 ### Children texts:
-b'Brannen er slukket. Politiet oppretter sak.'
+Brannen er slukket. Politiet oppretter sak.
 #### Possible location:
-b'holmlia'
+holmlia
 
 
 # 851118535271174144
 ### First text:
 Hegdehaugsveien: Brann i bygård. En person undersøkes av helsepersonell. Medfører sperringer i Welhavens gt.
 ### Children texts:
-b'En person kj\xc3\xb8res til legevakt for n\xc3\xa6rmere sjekk. Politiet oppretter en sak.'
+En person kjøres til legevakt for nærmere sjekk. Politiet oppretter en sak.
 
 
 # 851002829800185856
@@ -1668,29 +1668,29 @@ Hittet løs hund: Liten, brun og svart, lang håret. Tispe. Funnet i området Ul
 ### First text:
 Grønland: Vi har sperret av et større område da vi har funnet en bombeliknende gjenstand. Vi kommer tilbake med mer.
 #### Possible location:
-b'gr\xc3\xb8nland'
+grønland
 ### Children texts:
-b'Presse kan m\xc3\xb8te i Kristian Kroghs gate, ved Cafe Con Bar. De vil f\xc3\xa5 mer info fra innsatsleder p\xc3\xa5 stedet.'
+Presse kan møte i Kristian Kroghs gate, ved Cafe Con Bar. De vil få mer info fra innsatsleder på stedet.
 #### Possible location:
-b'gr\xc3\xb8nland'
-b'Det kan virke som at dette er en gjenstand som ikke har stort skadepotensiale. Sperringene er opprettet for \xc3\xa5 holde folk unna...'
+grønland
+Det kan virke som at dette er en gjenstand som ikke har stort skadepotensiale. Sperringene er opprettet for å holde folk unna...
 #### Possible location:
-b'gr\xc3\xb8nland'
-b'...til vi har f\xc3\xa5tt unders\xc3\xb8kt stedet.'
+grønland
+...til vi har fått undersøkt stedet.
 #### Possible location:
-b'gr\xc3\xb8nland'
-b'Vi har kontroll p\xc3\xa5 stedet, og avventer n\xc3\xa5 til vi har f\xc3\xa5tt foretatt n\xc3\xb8dvendige unders\xc3\xb8kelser.Vi har kontroll p\xc3\xa5 en person med status mistenkt'
+grønland
+Vi har kontroll på stedet, og avventer nå til vi har fått foretatt nødvendige undersøkelser.Vi har kontroll på en person med status mistenkt
 #### Possible location:
-b'gr\xc3\xb8nland'
-b'Politiets bombegruppe er n\xc3\xa5 p\xc3\xa5 stedet og starter med sine unders\xc3\xb8kelser.'
+grønland
+Politiets bombegruppe er nå på stedet og starter med sine undersøkelser.
 #### Possible location:
-b'gr\xc3\xb8nland'
-b'OPD sender snarlig ut en pressemelding.'
+grønland
+OPD sender snarlig ut en pressemelding.
 #### Possible location:
-b'gr\xc3\xb8nland'
-b'Gjenstanden er bekreftet uskadeliggjort av bombegruppen.'
+grønland
+Gjenstanden er bekreftet uskadeliggjort av bombegruppen.
 #### Possible location:
-b'gr\xc3\xb8nland'
+grønland
 
 
 # 850792367833718784
@@ -1702,23 +1702,23 @@ Gamlebyen: En person utøvde skadeverk mot flere biler. Hundepatruljen påtraff 
 ### First text:
 Tennisveien: Melding om brann i blokk, skal være synlige flammer. Nødetatene er på vei.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet. Synlige flammer fra 1. etg i bygget. En person er brannskadd, uvisst skadeomfang.'
-b'OBRE jobber med \xc3\xa5 slukke brannen. En person er lettere skadet, sjekkes av helse p\xc3\xa5 stedet. Trolig er brannen p\xc3\xa5tent.'
-b'Brannen er slukket. En person er kj\xc3\xb8rt legevakt.'
+Vi er på stedet. Synlige flammer fra 1. etg i bygget. En person er brannskadd, uvisst skadeomfang.
+OBRE jobber med å slukke brannen. En person er lettere skadet, sjekkes av helse på stedet. Trolig er brannen påtent.
+Brannen er slukket. En person er kjørt legevakt.
 
 
 # 850701287079522304
 ### First text:
 Mortensrud/Stenbråten; Noen meldere har hørt smell/skudd i området. Vi undersøker saken.
 #### Possible location:
-b'mortensrud'
+mortensrud
 
 
 # 850675904728748033
 ### First text:
 Maridalsveien 54: Meldt om røklukt. Nødetatene på vei
 ### Children texts:
-b'T\xc3\xb8rrkok var \xc3\xa5rsaken til r\xc3\xb8yklukten. Beboer sjekkes av amb personell'
+Tørrkok var årsaken til røyklukten. Beboer sjekkes av amb personell
 
 
 # 850499849904586752
@@ -1730,21 +1730,21 @@ Lysaker. Taxisjåfør fraranet bilen. Vi har sporet den opp og pågrepet en pers
 ### First text:
 Trasop: Melding om brann - nødetatene er på vei.
 ### Children texts:
-b'Viste seg \xc3\xa5 v\xc3\xa6re engangsgrill p\xc3\xa5 taket p\xc3\xa5 Trasop skole.'
+Viste seg å være engangsgrill på taket på Trasop skole.
 
 
 # 850403297232072706
 ### First text:
 Mosseveien ca ved nr. 200. Vi er på vei til stedet etter melding om gressbrann.
 ### Children texts:
-b'Brannen er n\xc3\xa5 slukket av beboer selv.'
+Brannen er nå slukket av beboer selv.
 
 
 # 850380087845433344
 ### First text:
 Vi er på vei til Johan Castbergs vei, hvor det er melding om en bil i brann.
 ### Children texts:
-b'Brannen er n\xc3\xa5 slukket.'
+Brannen er nå slukket.
 
 
 # 850286456337829892
@@ -1761,61 +1761,61 @@ På Hasle har vi kontroll på en bilfører som ikke ville stanse for kontroll. F
 ### First text:
 Vi har vært hjemme hos en kar på Sandaker og tatt beslag i hans mobiltelefon. Han brukte natten til å ringe 112
 #### Possible location:
-b'sandaker'
+sandaker
 
 
 # 850087492611170307
 ### First text:
 Trafikkuhell i Svartdalstunnellen retning Ryen. Venstre felt er stengt, trafikken går forbi i høyre felt. Endel kø må påregnes.
 ### Children texts:
-b'F\xc3\xb8rer av personbil er p\xc3\xa5grepet. Siktet for bruk og besittelse av narkotika'
+Fører av personbil er pågrepet. Siktet for bruk og besittelse av narkotika
 
 
 # 850082365221326853
 ### First text:
 Nødetatene er på E6 inngående ved Ulvensplitten i forbindelse med en ulykke. Trafikken går forbi i et felt.
 ### Children texts:
-b'E6 vil bli stengt en liten periode da n\xc3\xb8detatene har behov for \xc3\xa5 arbeide p\xc3\xa5 stedet. Trafikanter m\xc3\xa5 p\xc3\xa5regne k\xc3\xb8.'
-b'Trafikken g\xc3\xa5r n\xc3\xa5 forbi i et felt.'
+E6 vil bli stengt en liten periode da nødetatene har behov for å arbeide på stedet. Trafikanter må påregne kø.
+Trafikken går nå forbi i et felt.
 
 
 # 850071868723867648
 ### First text:
 Vi og brannvesenet er på vei til pipebrann i Ekraveien.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet. Det brenner i pipa med ikke behov for \xc3\xa5 evakuere bygget. Brannvesenet har kontroll.'
+Vi er på stedet. Det brenner i pipa med ikke behov for å evakuere bygget. Brannvesenet har kontroll.
 
 
 # 849984069295362049
 ### First text:
 Melding om brann i bygning i Olav Nygårdsvei. Alle nødetater på vei
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet. Brannen slukket. En person f\xc3\xa5tt i seg noe r\xc3\xb8yk.'
+Vi er på stedet. Brannen slukket. En person fått i seg noe røyk.
 
 
 # 849861186266988544
 ### First text:
 E18 inngående ved Ormøya. Vi er på vei til melding om trafikkulykke mellom en bil og en motorsyklist. Uvisst skadeomfang.
 ### Children texts:
-b'Trafikken skal flyte greit forbi stedet.'
-b'Skal v\xc3\xa6re snakk om overflatiske skader p\xc3\xa5 motorsyklist.'
+Trafikken skal flyte greit forbi stedet.
+Skal være snakk om overflatiske skader på motorsyklist.
 
 
 # 849851745954131968
 ### First text:
 Tåsenveien. Vi er på vei til melding om trafikkulykke mellom bil og syklist.
 #### Possible location:
-b't\xc3\xa5sen'
+tåsen
 ### Children texts:
-b'Syklist har et brudd i ben og bl\xc3\xb8r fra hodet, kj\xc3\xb8res sykehus. Er ved bevissthet.'
+Syklist har et brudd i ben og blør fra hodet, kjøres sykehus. Er ved bevissthet.
 #### Possible location:
-b't\xc3\xa5sen'
-b'Skaper en del k\xc3\xb8 p\xc3\xa5 stedet.'
+tåsen
+Skaper en del kø på stedet.
 #### Possible location:
-b't\xc3\xa5sen'
-b'Vi jobber fremdeles p\xc3\xa5 stedet, men trafikken skal n\xc3\xa5 flyte greit forbi.'
+tåsen
+Vi jobber fremdeles på stedet, men trafikken skal nå flyte greit forbi.
 #### Possible location:
-b't\xc3\xa5sen'
+tåsen
 
 
 # 849812813224849410
@@ -1832,21 +1832,21 @@ På Oslo S tok vi kontroll på en kar med en replica pistol i en veske. Ingen tr
 ### First text:
 Christian Kroghs gate. Nødetatene rykker ut til en melding om brann.
 ### Children texts:
-b'Varmgang i en lampe. Ingen brann.'
+Varmgang i en lampe. Ingen brann.
 
 
 # 849674933403865088
 ### First text:
 Carl Kjelsens vei. Nødetatene rykker ut til en trafikkulykke. Bil mot syklist.
 ### Children texts:
-b'Syklisten har f\xc3\xa5tt et rundkast, men fremst\xc3\xa5r ikke som alvorlig skadet. Smerter i en skulder.'
+Syklisten har fått et rundkast, men fremstår ikke som alvorlig skadet. Smerter i en skulder.
 
 
 # 849647503909818368
 ### First text:
 Pilestredet. Vannlekkasje. Vi er sammen med brannvesenet i en leilighet for å stanse denne.
 ### Children texts:
-b'Kun en mindre lekkasje fra vaskemaskin. Den er stanset.'
+Kun en mindre lekkasje fra vaskemaskin. Den er stanset.
 
 
 # 849596056514023426
@@ -1858,7 +1858,7 @@ Nødetatene på vei til Refstadsvingen, hvor det er meldt om mulig brann på ste
 ### First text:
 Politi og ambulanse på vei til Ytre Ringvei på Tveita, hvor det har vært en trafikkulykke.
 #### Possible location:
-b'tveita'
+tveita
 
 
 # 849582697165008900
@@ -1870,22 +1870,22 @@ Politiet er på vei til Bjørvika tunnelen vestgående, hvor det går en mann i 
 ### First text:
 Politiet er på Oslo S, og søker etter en mann som har løpt inn i sporet.
 ### Children texts:
-b'Vi har f\xc3\xa5tt kontroll p\xc3\xa5 mannen.'
-b'Togene kan begynne \xc3\xa5 g\xc3\xa5 igjen, men det m\xc3\xa5 p\xc3\xa5regnes forsinkelser.'
+Vi har fått kontroll på mannen.
+Togene kan begynne å gå igjen, men det må påregnes forsinkelser.
 
 
 # 849506831458349058
 ### First text:
 Hellerudveien. Vi er på stedet i forbindelse med en trafikkulykke. Vært påkjørsel bakfra. En passasjer klaget over nakkesmerter.
 ### Children texts:
-b'En person blir anholdt og kj\xc3\xb8res arrest. Mistanke om kj\xc3\xb8ring i rusp\xc3\xa5virket tilstand, samt at han ikke hadde gyldig f\xc3\xb8rerkort.'
+En person blir anholdt og kjøres arrest. Mistanke om kjøring i ruspåvirket tilstand, samt at han ikke hadde gyldig førerkort.
 
 
 # 849456760087826432
 ### First text:
 Bredo Stabells vei: Vannlekkasje fra et kumlokk, trolig pga brudd i hovedrørledning. Brannvesen, politi og OVA på stedet.
 ### Children texts:
-b'Det er ikke behov for \xc3\xa5 sperre av veier i omr\xc3\xa5det. Politiet forlater stedet, og OVA jobber med \xc3\xa5 stanse lekkasjen.'
+Det er ikke behov for å sperre av veier i området. Politiet forlater stedet, og OVA jobber med å stanse lekkasjen.
 
 
 # 849430278007398400
@@ -1897,7 +1897,7 @@ En person er kjørt Ullevål etter en knivstikking som skal ha funnet sted i en 
 ### First text:
 Karihaugen. Melding om brann i lastebil. Nødetatene på vei.
 ### Children texts:
-b'Brannen slukket. Kun materielle skader.'
+Brannen slukket. Kun materielle skader.
 
 
 # 849350735317880832
@@ -1909,21 +1909,21 @@ På Østre Aker vei var fører av en Tesla vel offensiv ved utkjøring fra bensi
 ### First text:
 Ammerudhellinga. Nødetatene rykker ut til en melding om brann.
 #### Possible location:
-b'ammerud'
+ammerud
 ### Children texts:
-b'Brann i et s\xc3\xb8ppelrom. Forel\xc3\xb8pig foretas det ikke evakuering p\xc3\xa5 adressen.'
+Brann i et søppelrom. Foreløpig foretas det ikke evakuering på adressen.
 #### Possible location:
-b'ammerud'
-b'Brannen er slukket. Brannvesenet starter utlufting.'
+ammerud
+Brannen er slukket. Brannvesenet starter utlufting.
 #### Possible location:
-b'ammerud'
+ammerud
 
 
 # 849315991565848579
 ### First text:
 Oskar Braatens gate. Nødetatene rykker ut til en melding om røyklukt i oppgang.
 ### Children texts:
-b'T\xc3\xb8rrkoking. Kun en hund til stede i leiligheten.'
+Tørrkoking. Kun en hund til stede i leiligheten.
 
 
 # 849282701580537856
@@ -1935,50 +1935,50 @@ Sonja Henies plass. Et vindu på en fasade er knust. Fare for fotgjengere. Et om
 ### First text:
 E6 inngående v/ Furuset. Trafikkulykke mellom lastebil og 3 biler. Skal ikke være personskade, men vil trolig skape litt kø.
 #### Possible location:
-b'furuset'
+furuset
 
 
 # 849243762073227264
 ### First text:
 Nødetatene er på Tine Meierier på Kalbakken etter melding om røykutvikling på et teknisk rom.
 ### Children texts:
-b'Udramatisk p\xc3\xa5 stedet, if\xc3\xb8lge brannvesenet. Har v\xc3\xa6rt r\xc3\xb8ykutvikling p\xc3\xa5 et tavlerom. Kontroll p\xc3\xa5 stedet.'
+Udramatisk på stedet, ifølge brannvesenet. Har vært røykutvikling på et tavlerom. Kontroll på stedet.
 
 
 # 848788051648290816
 ### First text:
 Stjerneblokkveien. Vi er på vei til stedet etter melding om en person som skal ha knust et vindu i en blokk.
 ### Children texts:
-b'Vi er i kontakt med en person som skal ha utf\xc3\xb8rt skadeverket.'
+Vi er i kontakt med en person som skal ha utført skadeverket.
 
 
 # 848752367726211072
 ### First text:
 Østre Aker vei ved avkjøringen til Stovner: En påkjørt hund i veibane. Vegtrafikksentralen har vaktbilen sin på vei til stedet.
 #### Possible location:
-b'stovner'
+stovner
 ### Children texts:
-b'Vaktbilen til Vegtrafikksentralen har s\xc3\xb8kt etter hunden, men ikke funnet den.'
+Vaktbilen til Vegtrafikksentralen har søkt etter hunden, men ikke funnet den.
 #### Possible location:
-b'stovner'
-b'Vegtrafikksentralen melder at de fant en p\xc3\xa5kj\xc3\xb8rt og d\xc3\xb8d grevling like ved avs\xc3\xb8kt omr\xc3\xa5de.'
+stovner
+Vegtrafikksentralen melder at de fant en påkjørt og død grevling like ved avsøkt område.
 #### Possible location:
-b'stovner'
+stovner
 
 
 # 848656182688591872
 ### First text:
 Nødetatene er i Industrigata på brann. Ukjent omfang, men det kommer røyk ut fra vinduet til en leilighet.
 ### Children texts:
-b'OBRE har slokket brannen, og gj\xc3\xb8r noen ytterligere unders\xc3\xb8kelser i bygningsmassen for sikkerhets skyld. Ingen evakuerte.'
-b'3 personer fra leil har f\xc3\xa5tt i seg r\xc3\xb8yk og kj\xc3\xb8res OKL for sjekk. Noen personer fra adressen er n\xc3\xa5 evakuert i p\xc3\xa5vente av OBREs unders\xc3\xb8kelser.'
+OBRE har slokket brannen, og gjør noen ytterligere undersøkelser i bygningsmassen for sikkerhets skyld. Ingen evakuerte.
+3 personer fra leil har fått i seg røyk og kjøres OKL for sjekk. Noen personer fra adressen er nå evakuert i påvente av OBREs undersøkelser.
 
 
 # 848614620222959618
 ### First text:
 Nødetatene er på vei til Frennings vei, hvor det er meldt om røyk i en bolig.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet, og det har kun v\xc3\xa6rt matlaging,'
+Vi er på stedet, og det har kun vært matlaging,
 
 
 # 848577633877209088
@@ -1990,25 +1990,25 @@ Eldre dement mann forsvunnet fra Fjellstuveien. Nordisk  utseende, mørkt hår, 
 ### First text:
 Politiet er på legevakten med flere biler etter at en mann har kommet inn med kuttskader.
 ### Children texts:
-b'En mann er kj\xc3\xb8rt videre til sykehus med kritiske skader etter kutt.'
-b'Tilstanden til forn\xc3\xa6rmede er bedre, og han er ikke lenger alvorlig skadet.'
-b'Politiet har p\xc3\xa5grepet en mann i 30 \xc3\xa5rene p\xc3\xa5 bopel i Oslo, som er siktet for grov kroppskade.'
+En mann er kjørt videre til sykehus med kritiske skader etter kutt.
+Tilstanden til fornærmede er bedre, og han er ikke lenger alvorlig skadet.
+Politiet har pågrepet en mann i 30 årene på bopel i Oslo, som er siktet for grov kroppskade.
 
 
 # 848520966942666752
 ### First text:
 Nødetatene på vei til Maridalsveien. Melding om brann i en leilighet. Mulig den kan alt være slukket, vi sjekker ut dette.
 ### Children texts:
-b'Antagelsene stemte. Ingen brann p\xc3\xa5 stedet n\xc3\xa5. Det har v\xc3\xa6rt en mindre udramatisk brann p\xc3\xa5 et kj\xc3\xb8kken. Ingen skadet.'
+Antagelsene stemte. Ingen brann på stedet nå. Det har vært en mindre udramatisk brann på et kjøkken. Ingen skadet.
 
 
 # 848493568234848256
 ### First text:
 Nødetatene er i Pilestredet etter melding om brann i 2. etg i en oppgang.
 ### Children texts:
-b'Pilestredet er sperret mellom rundkj\xc3\xb8ringa Bislett og Sporveisgata. Flere personer har evakuert seg selv. OBRE jobber med slukking.'
-b'Brannvesenet har sl\xc3\xa5tt ned brannen, men jobber med \xc3\xa5 utelukke spredning bak vegger og tak i den gamle byg\xc3\xa5rden.'
-b'Vi er i kontakt med de tre guttene som hadde v\xc3\xa6rt i den aktuelle leiligheten. Ikke meldt om personskader s\xc3\xa5 langt.'
+Pilestredet er sperret mellom rundkjøringa Bislett og Sporveisgata. Flere personer har evakuert seg selv. OBRE jobber med slukking.
+Brannvesenet har slått ned brannen, men jobber med å utelukke spredning bak vegger og tak i den gamle bygården.
+Vi er i kontakt med de tre guttene som hadde vært i den aktuelle leiligheten. Ikke meldt om personskader så langt.
 
 
 # 848381158790504448
@@ -2030,21 +2030,21 @@ I Skippergata ble en taxisjåfør slått, samt truet med kniv. Vi har pågrepet 
 ### First text:
 Nissens gate: Vektere melder om røykutvikling som de kan se via kamera. Nødetater er på vei.
 ### Children texts:
-b'Det er mest sannsynlig en teknisk feil, og det er ikke noe r\xc3\xb8ykutvikling p\xc3\xa5 stedet.'
+Det er mest sannsynlig en teknisk feil, og det er ikke noe røykutvikling på stedet.
 
 
 # 848319390525386753
 ### First text:
 Sinsen: Melding om røyk i oppgang. Nødetater er på vei til stedet.
 #### Possible location:
-b'sinsen'
+sinsen
 
 
 # 848285544702500864
 ### First text:
 Politi og ambulanse er i Dalsbergstien, hvor det har vært en trafikkulykke mellom bil og fotgjenger.
 ### Children texts:
-b'Fotgjenger er lettere skadd. F\xc3\xb8rerkortet til f\xc3\xb8rer beslaglegges'
+Fotgjenger er lettere skadd. Førerkortet til fører beslaglegges
 
 
 # 848279343101083648
@@ -2056,22 +2056,22 @@ Politiet har stanset en bil som kjørte på rødt lys i Dronning Eufemias gate, 
 ### First text:
 Vi søker etter flere ungdommer i området Torggata, som har sendt av gårde fyrverkeri i Oslo sentrum.
 ### Children texts:
-b'De skal blant annet ha sprengt et vindu i Badstugata ved buk av fyrverkeri. Vi har kontroll p\xc3\xa5 6 gutter p\xc3\xa5 Stortovet.'
-b'De 6 guttene i 20 \xc3\xa5rene blir bortvist fra Oslo sentrum frem til imorgen. Det ble ikke funnet fyrverkeri p\xc3\xa5 de.'
+De skal blant annet ha sprengt et vindu i Badstugata ved buk av fyrverkeri. Vi har kontroll på 6 gutter på Stortovet.
+De 6 guttene i 20 årene blir bortvist fra Oslo sentrum frem til imorgen. Det ble ikke funnet fyrverkeri på de.
 
 
 # 848261973355765762
 ### First text:
 Politiet er på vei til Røa, hvor vi har fått inn en rekke meldinger på en ungdomsfest som har tatt av.
 #### Possible location:
-b'r\xc3\xb8a'
+røa
 
 
 # 848258535641284608
 ### First text:
 Politiet har stanset en bil ved Sandaker senter, hvor fører er overstadig beruset. Føreren blir kjørt inn for en utvidet prøve.
 #### Possible location:
-b'sandaker'
+sandaker
 
 
 # 848163143918530560
@@ -2083,21 +2083,21 @@ Tre biler har krasjet i Lørentunnelen vestgående. Ingen personskade, men alle 
 ### First text:
 Bil med stans i Festningstunnelen i retning mot Asker. To felt stengt, ett åpent inntil videre. Tauebil er på vei.
 ### Children texts:
-b'N\xc3\xa5 er to felt i Festningstunnelen \xc3\xa5pne mens vi venter p\xc3\xa5 at tauebilen skal fjerne bilen med stans.'
+Nå er to felt i Festningstunnelen åpne mens vi venter på at tauebilen skal fjerne bilen med stans.
 
 
 # 848108808568270850
 ### First text:
 En bil forsøkte å stikke unna en patrulje i sentrum. Satte fra seg bilen på Ryen etter kort tid. Vi har kontroll på to som gikk fra bilen.
 ### Children texts:
-b'De to fra bilen er hjemmeh\xc3\xb8rende i Telemark. F\xc3\xb8reren har ikke gyldig f\xc3\xb8rerkort. Funn av narkotika i og utenfor bilen.'
+De to fra bilen er hjemmehørende i Telemark. Føreren har ikke gyldig førerkort. Funn av narkotika i og utenfor bilen.
 
 
 # 848027925869887488
 ### First text:
 Person ranet med kniv på åpen gate i Markveien. Ingen fysisk skadet. Vi søker etter gjerningsmannen.
 ### Children texts:
-b'Forn\xc3\xa6rmede har blitt fraranet en lommebok. S\xc3\xb8ket etter de mistenkte er avsluttet uten resultat. Vi har opprettet anmeldelse p\xc3\xa5 ranet.'
+Fornærmede har blitt fraranet en lommebok. Søket etter de mistenkte er avsluttet uten resultat. Vi har opprettet anmeldelse på ranet.
 
 
 # 847902939356299264
@@ -2109,52 +2109,52 @@ Politi og ambulanse er på vei til Brobekk, hvor det har vært en trafikkulykke.
 ### First text:
 I Stasjonsveien har en politimann på fritiden stoppet en bil, hvor fører er overstadig beruset.
 ### Children texts:
-b'En mann i 50 \xc3\xa5ra blir kj\xc3\xb8rt til arresten for utvidet pr\xc3\xb8ve.'
+En mann i 50 åra blir kjørt til arresten for utvidet prøve.
 
 
 # 847892305377992704
 ### First text:
 Politi og ambulanse er på Mortensrud, hvor en jente i 20 åra har blitt slått i hodet. Vi har kontroll på mistenkte.
 #### Possible location:
-b'mortensrud'
+mortensrud
 ### Children texts:
-b'En mann i 20 \xc3\xa5ra har blitt p\xc3\xa5grepet og kj\xc3\xb8res til arresten for kroppsskade.'
+En mann i 20 åra har blitt pågrepet og kjøres til arresten for kroppsskade.
 #### Possible location:
-b'mortensrud'
+mortensrud
 
 
 # 847872345171742720
 ### First text:
 Nødetane er på veil til Bjørndal der vi har fått melding om brann. Kan muligens være tørrkok men er ikke bekreftet.
 #### Possible location:
-b'bj\xc3\xb8rndal'
+bjørndal
 ### Children texts:
-b'Brannvesenet bekrefter at det ikke er brann.'
+Brannvesenet bekrefter at det ikke er brann.
 #### Possible location:
-b'bj\xc3\xb8rndal'
+bjørndal
 
 
 # 847833724590977024
 ### First text:
 Nødetatene er på vei til Hellerud, da vi har fått melding om pipebrann.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet og har kontroll. Mulig et fuglereir i pipa som har tatt fyr.'
+Vi er på stedet og har kontroll. Mulig et fuglereir i pipa som har tatt fyr.
 
 
 # 847784603381370882
 ### First text:
 Lørentunnellen vestgående høyre felt. Melding om kjedekollisjon mellom 3-5 biler. Uvisst skadeomgang. Nødetatene er på vei
 ### Children texts:
-b'Vi er fremme p\xc3\xa5 stedet. Virker \xc3\xa5 v\xc3\xa6re lettere personskade. Kan bli noe trafikale utfordinger en stund fremover'
-b'Kj\xc3\xb8refeltet som var stengt i tunellen er n\xc3\xa5 \xc3\xa5pnet igjen for trafikk. Vi har forlatt stedet.'
+Vi er fremme på stedet. Virker å være lettere personskade. Kan bli noe trafikale utfordinger en stund fremover
+Kjørefeltet som var stengt i tunellen er nå åpnet igjen for trafikk. Vi har forlatt stedet.
 
 
 # 847753092435247105
 ### First text:
 Vi er på vei til Ekebergtunellen vestgående fra påkjøring Kværnerdalen i forbindelse med en trafikkulykke. Flere biler involvert.
 ### Children texts:
-b'Ingen personskader. Det er endel trafikk p\xc3\xa5 stedet, noe k\xc3\xb8 m\xc3\xa5 p\xc3\xa5regnes.'
-b'Vi har forlatt stedet. Veien er ryddet og \xc3\xa5pnet igjen'
+Ingen personskader. Det er endel trafikk på stedet, noe kø må påregnes.
+Vi har forlatt stedet. Veien er ryddet og åpnet igjen
 
 
 # 847618373475160064
@@ -2166,7 +2166,7 @@ Vålerengtunnelen: Bilist kjørte mot skilting i felt som var stengt i forbindel
 ### First text:
 Fagerborg: Patrulje stanset en beruset fører som nettopp hadde kjørt inn i en kantstein. Fratatt førerkort, bilen taues bort, anmeldes
 #### Possible location:
-b'fagerborg'
+fagerborg
 
 
 # 847572123690430464
@@ -2178,14 +2178,14 @@ Vil presisere at dette er et nytt tilfelle av en saknet person, og ikke samme ma
 ### First text:
 Nordstrand: Saknet mann på 79 år. Beskr: Ca. 180cm, lyst grått hår, ca. 80kg, normalt bygd, lyse fløyelsbukser, mørk jakke, svarte sko.
 #### Possible location:
-b'nordstrand'
+nordstrand
 ### Children texts:
-b'Ved observasjon, v\xc3\xa6r snill og ring oss p\xc3\xa5 tlf. 02800.'
+Ved observasjon, vær snill og ring oss på tlf. 02800.
 #### Possible location:
-b'nordstrand'
-b'Savnede er til rette, p\xc3\xa5 egen bopel'
+nordstrand
+Savnede er til rette, på egen bopel
 #### Possible location:
-b'nordstrand'
+nordstrand
 
 
 # 847564909873209346
@@ -2197,43 +2197,43 @@ Takket være svært gode observasjoner fra en T-banefører, ble mannen nettopp f
 ### First text:
 Hoffsveien. Vi er på vei til melding om trafikkulykke mellom en personbil og en syklist.
 ### Children texts:
-b'Syklisten har noen skrubbs\xc3\xa5r p\xc3\xa5 leggen, blir ivaretatt av helse p\xc3\xa5 stedet.'
+Syklisten har noen skrubbsår på leggen, blir ivaretatt av helse på stedet.
 
 
 # 847379629211959297
 ### First text:
 Politiet har kontroll på to personer på Ikea Furuset som skal ha lusket rundt på p-plassen. Kunder har reagert og vært bekymret for tyveri.
 #### Possible location:
-b'furuset'
+furuset
 ### Children texts:
-b'De to personene oppga ikke noen god grunn for \xc3\xa5 v\xc3\xa6re p\xc3\xa5 stedet, og ble bortvist for \xc3\xa5 hindre videre sjenanse av kunder.'
+De to personene oppga ikke noen god grunn for å være på stedet, og ble bortvist for å hindre videre sjenanse av kunder.
 #### Possible location:
-b'furuset'
+furuset
 
 
 # 847374561347682305
 ### First text:
 Nødetatene er på vei til Mortensrudveien på melding om en trafikkulykke. En bil har kjørt inn i autovernet. Ukjent skadeomfang.
 #### Possible location:
-b'mortensrud'
+mortensrud
 
 
 # 847347776639836161
 ### First text:
 Politiet er i Sandakerveien ved Grefsenveien på trafikkuhell mellom trikk og bil. Ikke personskade, men skaper kø for trikken.
 #### Possible location:
-b'grefsen'
+grefsen
 
 
 # 847238880919076866
 ### First text:
 Hammersborggata: Melding om brann i avfalls-sekk. Trolig ikke spredningsfare. Nødetatene på vei
 #### Possible location:
-b'hammersborg'
+hammersborg
 ### Children texts:
-b'Korrigering p\xc3\xa5 adressen: Skal v\xc3\xa6re i Youngs gate. Brannen er n\xc3\xa5 slukket'
+Korrigering på adressen: Skal være i Youngs gate. Brannen er nå slukket
 #### Possible location:
-b'hammersborg'
+hammersborg
 
 
 # 847223022322827264
@@ -2255,11 +2255,11 @@ Bilister anbefales å kjøre andre veier enn inn mot Mosseveien.
 ### First text:
 Mosseveien ved Ulvøya blir stengt i begge retninger.
 ### Children texts:
-b'Omkj\xc3\xb8ringer vil bli via E6'
-b'En person bekreftet omkommet i ulykken av ambulansepersonell p\xc3\xa5 stedet.'
-b'Mosseveien er fortsatt stengt i begge retninger. P\xc3\xa5g\xc3\xa5r \xc3\xa5stedsunders\xc3\xb8kelser ved Ulv\xc3\xb8ya'
-b'VI \xc3\xa5pner delvis for trafikk p\xc3\xa5 forbi ulykkestedet. Trafikken blir dirigert forbi i et kj\xc3\xb8refelt.'
-b'E18 Mosseveien \xc3\xa5pnet. Normal ferdsel i begge retninger.'
+Omkjøringer vil bli via E6
+En person bekreftet omkommet i ulykken av ambulansepersonell på stedet.
+Mosseveien er fortsatt stengt i begge retninger. Pågår åstedsundersøkelser ved Ulvøya
+VI åpner delvis for trafikk på forbi ulykkestedet. Trafikken blir dirigert forbi i et kjørefelt.
+E18 Mosseveien åpnet. Normal ferdsel i begge retninger.
 
 
 # 847102624713379840
@@ -2271,22 +2271,22 @@ Mosseveien ved Ulvøya: Trafikkulykke. Nødetatene på vei
 ### First text:
 Geitmyrsveien. Trafikkulykke. Nødetatene på vei.
 ### Children texts:
-b'Ingen personskader. Vi jobber med \xc3\xa5 f\xc3\xa5 ryddet veibanen'
+Ingen personskader. Vi jobber med å få ryddet veibanen
 
 
 # 847058136414474241
 ### First text:
 E6 utgående ved Skullderuddumpa. Trafikkulykke. En bil har snurret, ikke meldt om personskade. Endel kø må påregnes langs E6.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet sammen med de andre n\xc3\xb8detatene. En person klager p\xc3\xa5 nakkesmerter, blir behandlet av ambulanse.'
-b'H\xc3\xb8yre felt er n\xc3\xa5 \xc3\xa5pnet igjen for trafikk. Vi har forlatt stedet'
+Vi er på stedet sammen med de andre nødetatene. En person klager på nakkesmerter, blir behandlet av ambulanse.
+Høyre felt er nå åpnet igjen for trafikk. Vi har forlatt stedet
 
 
 # 847038299667660800
 ### First text:
 Våleregtunnellen sydgående. Bil med stans i høyre felt. Vi er på vei
 ### Children texts:
-b'Bilen er tauet og h\xc3\xb8yre felt er \xc3\xa5pent'
+Bilen er tauet og høyre felt er åpent
 
 
 # 846984985206833154
@@ -2298,29 +2298,29 @@ Løkkeveien/ Henrik Ibsensgate: Ingen personskade. Trafikken flyter som normalt.
 ### First text:
 Politiet på vei til Løkkeveien/Henrik Ibsensgate hvor det har vært et trafikkuhell mellom en leddbuss og personbil. Trolig ikke personskade.
 ### Children texts:
-b'Hendelsen skaper endel k\xc3\xb8.'
+Hendelsen skaper endel kø.
 
 
 # 846910903954161665
 ### First text:
 Vi er på Oppsal etter melding om innbrudd i en barnehage. Noen har brutt seg inn gjennom hoveddøra.
 #### Possible location:
-b'oppsal'
+oppsal
 ### Children texts:
-b'Verken politihunden eller andre involverte fant innbruddstyven som hadde brutt seg inn i barnehagen. Sak opprettet og eier sikrer bygget.'
+Verken politihunden eller andre involverte fant innbruddstyven som hadde brutt seg inn i barnehagen. Sak opprettet og eier sikrer bygget.
 #### Possible location:
-b'oppsal'
+oppsal
 
 
 # 846904546349764608
 ### First text:
 Vi er på Årvoll sammen med brannvesenet fordi det brenner i lasterommet på en parkert minibuss der.
 #### Possible location:
-b'\xc3\xa5rvoll'
+årvoll
 ### Children texts:
-b'Kun skader p\xc3\xa5 den ene HiAcen hvor brannen startet. Brannvesenet har slukket brannen. Ukjent \xc3\xa5rsak. Vi oppretter sak p\xc3\xa5 forholdet.'
+Kun skader på den ene HiAcen hvor brannen startet. Brannvesenet har slukket brannen. Ukjent årsak. Vi oppretter sak på forholdet.
 #### Possible location:
-b'\xc3\xa5rvoll'
+årvoll
 
 
 # 846901619769823232
@@ -2332,43 +2332,43 @@ Mann (52) pågrepet etter flere meldinger om at han lusket rundt og var inne i e
 ### First text:
 Vi har mottatt flere meldinger om et kraftig smell/drønn i området Alnabru/Tveita/Haugerud. Vi vet ikke hva det stammer fra, men undersøker.
 #### Possible location:
-b'tveita'
+tveita
 ### Children texts:
-b'Flere meldinger p\xc3\xa5 Haugerud mener at smellet stammer fra n\xc3\xa6romr\xc3\xa5det der. Vi har likefullt ikke funnet \xc3\xa5rsaken enn\xc3\xa5. Heli s\xc3\xb8ker i omr\xc3\xa5det.'
+Flere meldinger på Haugerud mener at smellet stammer fra nærområdet der. Vi har likefullt ikke funnet årsaken ennå. Heli søker i området.
 #### Possible location:
-b'tveita'
-b'Vi har unders\xc3\xb8kt flere blokker p\xc3\xa5 Haugerud uten \xc3\xa5 bli klokere. Vi er ogs\xc3\xa5 klar over tunnelbygging ved Haugerud, men det skal ikke p\xc3\xa5g\xc3\xa5 n\xc3\xa5.'
+tveita
+Vi har undersøkt flere blokker på Haugerud uten å bli klokere. Vi er også klar over tunnelbygging ved Haugerud, men det skal ikke pågå nå.
 #### Possible location:
-b'tveita'
-b'Vi unders\xc3\xb8ker om en container p\xc3\xa5 byggeplass ved Haugerudveien 77 kan ha for\xc3\xa5rsaket smellet. OBRE skal hjelpe oss med \xc3\xa5 sjekke dette.'
+tveita
+Vi undersøker om en container på byggeplass ved Haugerudveien 77 kan ha forårsaket smellet. OBRE skal hjelpe oss med å sjekke dette.
 #### Possible location:
-b'tveita'
-b'Vi antar at smellet stammer fra fjernvarmeanlegget, muligens en container, i Haugerudveien. Beboere i omr\xc3\xa5det bes holde seg innend\xc3\xb8rs.'
+tveita
+Vi antar at smellet stammer fra fjernvarmeanlegget, muligens en container, i Haugerudveien. Beboere i området bes holde seg innendørs.
 #### Possible location:
-b'tveita'
-b'Vi har ingen opplysninger om at det foreligger fare for ytterligere smell, men vi jobber med \xc3\xa5 forsikre oss om dette sammen med OBRE.'
+tveita
+Vi har ingen opplysninger om at det foreligger fare for ytterligere smell, men vi jobber med å forsikre oss om dette sammen med OBRE.
 #### Possible location:
-b'tveita'
-b'\xc3\x85rsaken til smellet var propanlekkasje i en st\xc3\xa5lcontainer p\xc3\xa5 byggeplass ved Haugerudveien 77. Ingen fare for ytterligere lekkasje/smell.'
+tveita
+Årsaken til smellet var propanlekkasje i en stålcontainer på byggeplass ved Haugerudveien 77. Ingen fare for ytterligere lekkasje/smell.
 #### Possible location:
-b'tveita'
-b'Politiet oppretter sak p\xc3\xa5 forholdet. Ingen skade meldt p\xc3\xa5 annet enn containeren, som har blitt l\xc3\xb8ftet/smelt av gulvet sitt.'
+tveita
+Politiet oppretter sak på forholdet. Ingen skade meldt på annet enn containeren, som har blitt løftet/smelt av gulvet sitt.
 #### Possible location:
-b'tveita'
+tveita
 
 
 # 846876960684957697
 ### First text:
 Vi leter etter en mørk BMW som stakk fra oss på Kjelsås. Bilen var påsatt stjålne kjennemerker.
 #### Possible location:
-b'kjels\xc3\xa5s'
+kjelsås
 
 
 # 846770416865759232
 ### First text:
 Trolig kommer ikke guttene fra Røde kors. Guttene er ca 14-17 år, mulig nordafrikansk opprinnelse. Den ene iført en gul t-skjorte.
 ### Children texts:
-b'En patrulje har n\xc3\xa5 kontroll p\xc3\xa5 guttene.'
+En patrulje har nå kontroll på guttene.
 
 
 # 846770010991312896
@@ -2380,87 +2380,87 @@ Nydalen: To unge gutter går rundt og samler inn penger. Viser frem en papirlapp
 ### First text:
 Slimeveien v/Bjørnholt skole: Enslig kjøretøy kjørt av veien, uvisst skadeomfang. Nødetatene er på vei
 ### Children texts:
-b'N\xc3\xb8detatene p\xc3\xa5 stedet. En bilist har rygget utfor en liten skrent, trolig ikke alvorlige personskader. Kan skyldes akutt sykdom.'
+Nødetatene på stedet. En bilist har rygget utfor en liten skrent, trolig ikke alvorlige personskader. Kan skyldes akutt sykdom.
 
 
 # 846745312907681792
 ### First text:
 Ekebergveien i Gamlebyen: Melding om røyk fra boligblokk. Nødetatene på vei
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet, og ser forel\xc3\xb8pig ikke r\xc3\xb8yk. Brannvesenet unders\xc3\xb8ker bygget'
-b'Brannvesenet har lokalisert litt r\xc3\xb8yk som kom fra en grill. Ingen dramatikk, og n\xc3\xb8detatene forlater stedet'
+Vi er på stedet, og ser foreløpig ikke røyk. Brannvesenet undersøker bygget
+Brannvesenet har lokalisert litt røyk som kom fra en grill. Ingen dramatikk, og nødetatene forlater stedet
 
 
 # 846741728421908481
 ### First text:
 Teisenveien: Kollisjon mellom tre biler. Uvisst skadeomfang, nødetatene på vei.
 #### Possible location:
-b'teisen'
+teisen
 ### Children texts:
-b'N\xc3\xb8detatene er p\xc3\xa5 stedet. Det er ingen personskader. Vi jobber med \xc3\xa5 avklare hendelsen og f\xc3\xa5 ryddet \xc3\xa5stedet.'
+Nødetatene er på stedet. Det er ingen personskader. Vi jobber med å avklare hendelsen og få ryddet åstedet.
 #### Possible location:
-b'teisen'
+teisen
 
 
 # 846715119216287744
 ### First text:
 Hovseter: En lift har rullet ned en skråning og gjennom et gjerde. En person måtte hoppe unna, men ble ikke skadd. Vi er på stedet.
 #### Possible location:
-b'hovseter'
+hovseter
 ### Children texts:
-b'En f\xc3\xb8rer som benyttet sin bil for \xc3\xa5 flytte liften, og mistet kontrollen p\xc3\xa5 den, ble fratatt sitt f\xc3\xb8rerkort. Vi oppretter sak'
+En fører som benyttet sin bil for å flytte liften, og mistet kontrollen på den, ble fratatt sitt førerkort. Vi oppretter sak
 #### Possible location:
-b'hovseter'
+hovseter
 
 
 # 846658275299020801
 ### First text:
 Karihaugveien: Trafikkulykke - MC som har havnet utenfor veien. Uvisst skadeomfang, og vi er på vei.
 ### Children texts:
-b'Singelulykke, kun lettere skadd. Vedkommende kj\xc3\xb8res legevakt.'
+Singelulykke, kun lettere skadd. Vedkommende kjøres legevakt.
 
 
 # 846597555593134080
 ### First text:
 E18 utg. v/ Ormøya: Trafikkulykke - en MC som har kjørt ut. Uvisst skadeomfang. Vi er på vei.
 ### Children texts:
-b'Rettelse: Dette skal v\xc3\xa6re en sykkelulykke, ikke MC- ulykke. Uvisst hva som har skjedd forel\xc3\xb8pig, men vedkommende er ved bevissthet.'
+Rettelse: Dette skal være en sykkelulykke, ikke MC- ulykke. Uvisst hva som har skjedd foreløpig, men vedkommende er ved bevissthet.
 
 
 # 846535321575702528
 ### First text:
 Torshov. Person slått ned. Vi søker etter gjerningsmannen.
 #### Possible location:
-b'torshov'
+torshov
 ### Children texts:
-b'Forn\xc3\xa6rmede kj\xc3\xb8res sykehus for oppf\xc3\xb8lging. Vi s\xc3\xb8ker fortsatt etter gjerningsmennene.'
+Fornærmede kjøres sykehus for oppfølging. Vi søker fortsatt etter gjerningsmennene.
 #### Possible location:
-b'torshov'
+torshov
 
 
 # 846520846764134400
 ### First text:
 Akersbakken, ved gamle Aker kirke. Vi er på vei til melding om brann fra en container. Skal ikke være spredningsfare.
 ### Children texts:
-b'Obre er n\xc3\xa5 i ferd med \xc3\xa5 slukke brannen.'
+Obre er nå i ferd med å slukke brannen.
 
 
 # 846463015620890624
 ### First text:
 Mortensrud: Et større antall utenbys russ barket sammen. Vi er på stedet med flere patruljer, og har kontroll.
 #### Possible location:
-b'mortensrud'
+mortensrud
 ### Children texts:
-b'Ingen er skadet, men de f\xc3\xa5r en muntlig advarsel fra politiet, og blir deretter dimittert.'
+Ingen er skadet, men de får en muntlig advarsel fra politiet, og blir deretter dimittert.
 #### Possible location:
-b'mortensrud'
+mortensrud
 
 
 # 846461771095429120
 ### First text:
 De siste par dager har vi mottatt flere klager på personer i en blå BMW som kaster egg på forbipasserende biler og personer.
 ### Children texts:
-b'Siste hendelse for ca 15 minutter siden ved Grorud stasjon. Tips og observasjoner, eventuelt registreringsnummer, \xc3\xb8nskes p\xc3\xa5 tlf 02800.'
+Siste hendelse for ca 15 minutter siden ved Grorud stasjon. Tips og observasjoner, eventuelt registreringsnummer, ønskes på tlf 02800.
 
 
 # 846456031588835334
@@ -2477,16 +2477,16 @@ En mystisk bil hadde stått utenfor en butikk flere kvelder på rad. Viste seg a
 ### First text:
 E18 inng. v/ Frognerstranda: Melding om en sammenrullet madrass i venstre felt. Vi skal sørge for at denne blir fjernet.
 #### Possible location:
-b'frogner'
+frogner
 
 
 # 846271070453858304
 ### First text:
 Ring 3 Granfosstunnelen østgående: Trafikkulykke mellom lastebil og personbil. Uvisst om det er personskade. Vi er på vei.
 ### Children texts:
-b'Ikke personskader p\xc3\xa5 de involverte. Personbilen er ikke kj\xc3\xb8rbar, og tauebil er underveis.'
-b'H\xc3\xb8yre og midtre felt er midlertidig sperret. Trafikken flyter forel\xc3\xb8pig greit i venstre felt.'
-b'Veien er n\xc3\xa5 \xc3\xa5pen. Det ble f\xc3\xb8rerkortbeslag p\xc3\xa5 f\xc3\xb8rer av lastebil. Patrulje oppretter sak.'
+Ikke personskader på de involverte. Personbilen er ikke kjørbar, og tauebil er underveis.
+Høyre og midtre felt er midlertidig sperret. Trafikken flyter foreløpig greit i venstre felt.
+Veien er nå åpen. Det ble førerkortbeslag på fører av lastebil. Patrulje oppretter sak.
 
 
 # 846199272584462336
@@ -2498,64 +2498,64 @@ I området Ullevål ser vi etter en person som sender opp fyrverkeri.
 ### First text:
 Nødetatene er på vei til Schweigaards gate. Melding om brann i bygård.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet. Det brenner i en pall utend\xc3\xb8rs. Forel\xc3\xb8big ingen som er evakuert fra bygget.'
-b'Brannen er slukket og sak opprettes.'
+Vi er på stedet. Det brenner i en pall utendørs. Foreløbig ingen som er evakuert fra bygget.
+Brannen er slukket og sak opprettes.
 
 
 # 846054603791761412
 ### First text:
 Vi leter etter en gutt på 7 år som har blitt borte i området Ekeberg. Han er iført mørk gråsvart jakke, er 150 cm høy og lyst kort hår.
 ### Children texts:
-b'Gutten forsvant p\xc3\xa5 en sparkesykkel for en time siden. Dersom han observeres \xc3\xb8nsker vi at politiet kontaktes p\xc3\xa5 02800.'
-b'Gutten har kommet til rette i god behold.'
+Gutten forsvant på en sparkesykkel for en time siden. Dersom han observeres ønsker vi at politiet kontaktes på 02800.
+Gutten har kommet til rette i god behold.
 
 
 # 845981851747581956
 ### First text:
 Melding om brann fra blokk i Rustadgrenda. Alle nødetater på vei.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet. T\xc3\xb8rrkok og en person har f\xc3\xa5tt i seg endel r\xc3\xb8yk.'
+Vi er på stedet. Tørrkok og en person har fått i seg endel røyk.
 
 
 # 845971074231783424
 ### First text:
 Vi søker etter en 3 år gammel jente. Forsvant fra Parkteateret på Gr.løkka. Rosa strikkegenser, blå kjole og grå strømper. Ring 02800.
 ### Children texts:
-b'Den vesle jenta er til rette. Tusen takk for hjelp fra publikum.'
+Den vesle jenta er til rette. Tusen takk for hjelp fra publikum.
 
 
 # 845938542098436096
 ### First text:
 Trafikkulykke mellom bil og MC på Trondheimsveien ved avkjøring Ammerud. Vi og ambulanse er på stedet
 #### Possible location:
-b'ammerud'
+ammerud
 ### Children texts:
-b'MC har kj\xc3\xb8rt inn i bilen bakfra.F\xc3\xb8rer av MC kj\xc3\xb8res sykehus med skader. Vi oppretter sak.'
+MC har kjørt inn i bilen bakfra.Fører av MC kjøres sykehus med skader. Vi oppretter sak.
 #### Possible location:
-b'ammerud'
+ammerud
 
 
 # 845931586637959168
 ### First text:
 Ifm ran av person natt til søndag 26/3 ca kl 0330 på Youngstorget, ønsker politiet å komme i kontakt med ei jente som skal ha blitt ranet
 ### Children texts:
-b'Kontakt Politiet p\xc3\xa5 tlf 22705328'
+Kontakt Politiet på tlf 22705328
 
 
 # 845925354409771008
 ### First text:
 Melding om pipebrann fra bygård i Urtegata. Alle nødetater på vei.
 ### Children texts:
-b'Vi og Brannvesenet er p\xc3\xa5 stedet. Ikke pipebrann men kun r\xc3\xb8yknedslag i forbindelse med normal vedfyring. Vi drar fra stedet.'
+Vi og Brannvesenet er på stedet. Ikke pipebrann men kun røyknedslag i forbindelse med normal vedfyring. Vi drar fra stedet.
 
 
 # 845883206431858688
 ### First text:
 Vi er på Oslo S med en del patruljer da det er meldt om at minst en person er knivstukket.
 ### Children texts:
-b'En person knivstukket i h\xc3\xa5nda. F\xc3\xa5r behandling av ambulanse p\xc3\xa5 stedet. Vi har kontroll p\xc3\xa5 3 personer p\xc3\xa5 stedet.'
-b'En person kj\xc3\xb8rt legevakta. De to andre blir avh\xc3\xb8rt som vitner. Toget har f\xc3\xa5tt kj\xc3\xb8re fra Oslo S.'
-b'Vi unders\xc3\xb8ker videre. Hendelsen har ikke skjedd p\xc3\xa5 toget men et annet sted i Oslo tidligere i natt.'
+En person knivstukket i hånda. Får behandling av ambulanse på stedet. Vi har kontroll på 3 personer på stedet.
+En person kjørt legevakta. De to andre blir avhørt som vitner. Toget har fått kjøre fra Oslo S.
+Vi undersøker videre. Hendelsen har ikke skjedd på toget men et annet sted i Oslo tidligere i natt.
 
 
 # 845821624171577347
@@ -2567,60 +2567,60 @@ Politiet er i Nordahl Bruns gate ifm en trusselsak. Fornærmede har blitt truet 
 ### First text:
 Politiet er i Grønlandsleiret ifm en voldsepisode. En person skal være slått ned og har vært bevisstløs. Kontroll på gjerningspersonen
 #### Possible location:
-b'gr\xc3\xb8nland'
+grønland
 ### Children texts:
-b'Forn\xc3\xa6rmede er uskadd og har ikke v\xc3\xa6rt bevisstl\xc3\xb8s. Begge parter var like gode og har sl\xc3\xa5tt til hver sin politimann s\xc3\xa5 de kj\xc3\xb8res i arresten'
+Fornærmede er uskadd og har ikke vært bevisstløs. Begge parter var like gode og har slått til hver sin politimann så de kjøres i arresten
 #### Possible location:
-b'gr\xc3\xb8nland'
+grønland
 
 
 # 845661321383284736
 ### First text:
 Nødetatene er på vei til Haugenstua i forbindelse med melding om røykutvikling.
 #### Possible location:
-b'haugenstua'
+haugenstua
 ### Children texts:
-b'To personer er evakuert fra leiligheten, blir sjekket av ambulanse p\xc3\xa5 stedet. \xc3\x85rsak til brann er mest sannsynlig matolje.'
+To personer er evakuert fra leiligheten, blir sjekket av ambulanse på stedet. Årsak til brann er mest sannsynlig matolje.
 #### Possible location:
-b'haugenstua'
-b'Brannen er slukket, utluftning p\xc3\xa5g\xc3\xa5r.'
+haugenstua
+Brannen er slukket, utluftning pågår.
 #### Possible location:
-b'haugenstua'
+haugenstua
 
 
 # 845640870191939588
 ### First text:
 Trafikkulykke mellom bil og fotgjenger i Grefsenveien . Alle nødetater på vei.
 #### Possible location:
-b'grefsen'
+grefsen
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet. Fotgjenger skadet. Bilen skal ogs\xc3\xa5 ha kj\xc3\xb8rt inn i en annen bil .Fotgjenger f\xc3\xa5r behandling av ambulanse p\xc3\xa5 stedet.'
+Vi er på stedet. Fotgjenger skadet. Bilen skal også ha kjørt inn i en annen bil .Fotgjenger får behandling av ambulanse på stedet.
 #### Possible location:
-b'grefsen'
-b'Fotgjenger kj\xc3\xb8res legevakta.  Vi oppretter sak og vurderer f\xc3\xb8rerkortbeslag p\xc3\xa5 den ene bilf\xc3\xb8reren.'
+grefsen
+Fotgjenger kjøres legevakta.  Vi oppretter sak og vurderer førerkortbeslag på den ene bilføreren.
 #### Possible location:
-b'grefsen'
+grefsen
 
 
 # 845619270365204480
 ### First text:
 Vi ønsker tips vedrørende en savnet kvinne: Hun er 80 år, ca 165 cm, lyseblå genser, mørke bukser og mørk veske. Ring 02800 ved observasjon
 ### Children texts:
-b'Kvinnen er til rette - etter tre og halv time - hun hadde tatt seg en tur ned til Oslo sentrum i det fine v\xc3\xa5rv\xc3\xa6ret.'
+Kvinnen er til rette - etter tre og halv time - hun hadde tatt seg en tur ned til Oslo sentrum i det fine vårværet.
 
 
 # 845481352879390721
 ### First text:
 Politiet er i omr Deichmanske bibliotek hvor to personer muligens skal ha blitt ranet. Fire gjerningspersoner løp i retning Grubbegata
 ### Children texts:
-b'En forn\xc3\xa6rmet kj\xc3\xb8rt legevakten for sjekk. Vi har s\xc3\xb8kt i omr\xc3\xa5det uten resultat. Politiet oppretter anmeldelse p\xc3\xa5 forholdet'
+En fornærmet kjørt legevakten for sjekk. Vi har søkt i området uten resultat. Politiet oppretter anmeldelse på forholdet
 
 
 # 845468761394237441
 ### First text:
 Nødetatene er på vei til Jens Bjelkes gate. Lukter svidd i oppgangen så det er mistanke om mulig tørrkok.
 ### Children texts:
-b'Vi er fremme p\xc3\xa5 stedet. Skal v\xc3\xa6re snakk om en godt stekt pizza. En person kj\xc3\xb8res legevakten for behandling av noe r\xc3\xb8ykskader.'
+Vi er fremme på stedet. Skal være snakk om en godt stekt pizza. En person kjøres legevakten for behandling av noe røykskader.
 
 
 # 845446167274176512
@@ -2632,35 +2632,35 @@ Politiet er i Badstugata etter noe bråk med russ. Har vært noe ampert på sted
 ### First text:
 Utenfor Vippetangen har det vært en drukningsulykke. Nødetatene er på stedet
 ### Children texts:
-b'Brannvesenet har hentet opp to livl\xc3\xb8se personer fra vannet. De blir begge behandlet av ambulanse, en kj\xc3\xb8rt sykehus.'
+Brannvesenet har hentet opp to livløse personer fra vannet. De blir begge behandlet av ambulanse, en kjørt sykehus.
 
 
 # 845167216496599041
 ### First text:
 Nydalen: To tråsyklister har støtt sammen, trolig noen skader. Politi og ambulanse på vei
 ### Children texts:
-b'Syklistene hadde allerede blitt kj\xc3\xb8rt legevakt for sjekk, s\xc3\xa5 vi er p\xc3\xa5 vei dit for \xc3\xa5 avklare hendelsesforl\xc3\xb8p og skadeomfang.'
+Syklistene hadde allerede blitt kjørt legevakt for sjekk, så vi er på vei dit for å avklare hendelsesforløp og skadeomfang.
 
 
 # 845037124235792384
 ### First text:
 Bogstadveien: Flere personer har slåss i og ved et p-hus. Vi har kontroll på seks involverte, mens noen har kjørt fra stedet i ukjente biler
 ### Children texts:
-b'Ikke meldt om skadde personer i Bogstadveien. Fremst\xc3\xa5r som om partene som sl\xc3\xa5ss hadde kjennskap til hverandre fra f\xc3\xb8r.'
+Ikke meldt om skadde personer i Bogstadveien. Fremstår som om partene som slåss hadde kjennskap til hverandre fra før.
 
 
 # 844975894158544896
 ### First text:
 Norstrandsveien, fra avkj E6 til Munkerudkleiva, blir stengt grunnet redningsarbeid. OBRE kapper trær som medfører at veien må stenges.
 #### Possible location:
-b'munkerud'
+munkerud
 ### Children texts:
-b'Veien blir ogs\xc3\xa5 stengt fra Langb\xc3\xb8lgen retn Munkerudkleiva.'
+Veien blir også stengt fra Langbølgen retn Munkerudkleiva.
 #### Possible location:
-b'munkerud'
-b'Veien er n\xc3\xa5 \xc3\xa5pnet igjen.'
+munkerud
+Veien er nå åpnet igjen.
 #### Possible location:
-b'munkerud'
+munkerud
 
 
 # 844943495261511681
@@ -2672,64 +2672,64 @@ Vålerengtunenelen nordgående: Kjøretøystans i i midtre felt. Vi er på stede
 ### First text:
 Vi er på vei til Ammerudhellinga. Melding om brann i ei søppelsjakt
 #### Possible location:
-b'ammerud'
+ammerud
 ### Children texts:
-b'Falsk melding. Ingen funn eller tegn til brann'
+Falsk melding. Ingen funn eller tegn til brann
 #### Possible location:
-b'ammerud'
+ammerud
 
 
 # 844857394974748674
 ### First text:
 Vi er på til en bygård i Frognerveien. Melding om røyk i en oppgang
 #### Possible location:
-b'frogner'
+frogner
 ### Children texts:
-b'Det har v\xc3\xa6rt et lite branntill\xc3\xb8p i en leilighet som brannvesenet har slukket. Ingen personskader'
+Det har vært et lite branntilløp i en leilighet som brannvesenet har slukket. Ingen personskader
 #### Possible location:
-b'frogner'
+frogner
 
 
 # 844695862861348867
 ### First text:
 En person ankom sykehus med skuddskader litt før midnatt. Fornærmede var bevisst, men tilsynelatende alvorlig skadet.
 ### Children texts:
-b'Vi jobber med \xc3\xa5 innhente opplysninger om hvor \xc3\xa5stedet for hendelsen er. Forn\xc3\xa6rmede er en mann i 20-\xc3\xa5rene.'
-b'Vi har forel\xc3\xb8pig ikke lokalisert \xc3\xa5stedet for hendelsen, men vi jobber med dette. Forn\xc3\xa6rmede er til behandling p\xc3\xa5 sykehuset.'
-b'Vi har jobbet og jobber videre med opplysninger om at skytingen kan ha skjedd utend\xc3\xb8rs p\xc3\xa5 St.Hanshaugen. Tips om saken ringer du til 02800.'
-b'En person som i utgangspunktet var et vitne er p\xc3\xa5grepet og siktet for falsk forklaring i skytesaken.'
+Vi jobber med å innhente opplysninger om hvor åstedet for hendelsen er. Fornærmede er en mann i 20-årene.
+Vi har foreløpig ikke lokalisert åstedet for hendelsen, men vi jobber med dette. Fornærmede er til behandling på sykehuset.
+Vi har jobbet og jobber videre med opplysninger om at skytingen kan ha skjedd utendørs på St.Hanshaugen. Tips om saken ringer du til 02800.
+En person som i utgangspunktet var et vitne er pågrepet og siktet for falsk forklaring i skytesaken.
 
 
 # 844570921264431104
 ### First text:
 Festningstunnellen: Flere biler som er involvert i et trafikkuhell. Ikke personskader. Medfører kø i østgående retning.
 ### Children texts:
-b'Da er bilene borte og kj\xc3\xb8refeltet er \xc3\xa5pent'
+Da er bilene borte og kjørefeltet er åpent
 
 
 # 844544793631952897
 ### First text:
 Ludvig Karstens vei: Melding om brann. Observert røyk fra stedet. Nødetatene er på vei.
 ### Children texts:
-b'Ikke v\xc3\xa6rt noen brann. Mulig det er betongskj\xc3\xa6ring som er \xc3\xa5rsaken til r\xc3\xb8yken.'
+Ikke vært noen brann. Mulig det er betongskjæring som er årsaken til røyken.
 
 
 # 844537856202821632
 ### First text:
 E6 utg. etter Vålerengatunnelen: Kjøretøystans. Tauebil er underveis.
 #### Possible location:
-b'v\xc3\xa5lerenga'
+vålerenga
 ### Children texts:
-b'Bilen er hentet, og veien er \xc3\xa5pen.'
+Bilen er hentet, og veien er åpen.
 #### Possible location:
-b'v\xc3\xa5lerenga'
+vålerenga
 
 
 # 844537596005007368
 ### First text:
 Øvre Slottsgate: Melding om brann. En person skal ha fått i seg noe røyk. Brannvesenet er på stedet.
 ### Children texts:
-b'Ingen brann, men r\xc3\xb8ykutvikling fra et sikringsskap. Ingen er skadd.'
+Ingen brann, men røykutvikling fra et sikringsskap. Ingen er skadd.
 
 
 # 844532479474241536
@@ -2741,66 +2741,66 @@ Brynstunnelen vestgående: Rett etter utløpet av tunnelen ligger det en stor me
 ### First text:
 Påkjøringen fra Maridalsveien ut på Ring 3 østgående: Kjøretøystans - tilhenger full av møbler, men ingen bil.
 ### Children texts:
-b'Hengeren hadde punktert. Veien er n\xc3\xa5 \xc3\xa5pen.'
+Hengeren hadde punktert. Veien er nå åpen.
 
 
 # 844509438220419072
 ### First text:
 Ring 3 fra Storo avkj. Sinsenkrysset: Trafikkuhell - lastebil og bil sperrer feltet helt til høyre.
 #### Possible location:
-b'sinsen'
+sinsen
 ### Children texts:
-b'Veien er n\xc3\xa5 \xc3\xa5pnet igjen.'
+Veien er nå åpnet igjen.
 #### Possible location:
-b'sinsen'
+sinsen
 
 
 # 844503772638429184
 ### First text:
 Rådhusplassen: Trafikkuhell mellom buss og lastebil. Medfører en del trafikale utfordringer.
 ### Children texts:
-b'Situasjonen har n\xc3\xa5 l\xc3\xb8st seg. Trafikken skal g\xc3\xa5 som normalt.'
+Situasjonen har nå løst seg. Trafikken skal gå som normalt.
 
 
 # 844490500166107137
 ### First text:
 Smestadlokket: Trafikkuhell - to biler som har vært i hverandre. Noe trafikale utfordringer, da de sperrer det ene feltet.
 ### Children texts:
-b'Ingen personskade, men begge bilene m\xc3\xa5 taues. Tauebil er underveis.'
-b'Det tok litt tid, men begge bilene er n\xc3\xa5 tauet bort. Veien er n\xc3\xa5 helt \xc3\xa5pen igjen.'
+Ingen personskade, men begge bilene må taues. Tauebil er underveis.
+Det tok litt tid, men begge bilene er nå tauet bort. Veien er nå helt åpen igjen.
 
 
 # 844447816353300484
 ### First text:
 Gaustad: Vi har fått melding om nok en trafikkulykke mellom bil og syklist. Vi er på vei, uvisst skadeomfang.
 ### Children texts:
-b'Syklisten er i god behold. Vi foretar unders\xc3\xb8kelser p\xc3\xa5 stedet.'
+Syklisten er i god behold. Vi foretar undersøkelser på stedet.
 
 
 # 844441320542363648
 ### First text:
 Kongsveien: Vi har fått melding om trafikkulykke - bil mot sykkel. Uvisst skadeomfang.
 ### Children texts:
-b'Vi foretar unders\xc3\xb8kelser p\xc3\xa5 stedet. Syklisten er ved bevissthet.'
-b'Syklisten er lettere skadet. Det blir f\xc3\xb8rerkortbeslag ogs\xc3\xa5 i denne saken.'
+Vi foretar undersøkelser på stedet. Syklisten er ved bevissthet.
+Syklisten er lettere skadet. Det blir førerkortbeslag også i denne saken.
 
 
 # 844441161896988672
 ### First text:
 Blakkens vei: Trafikkulykke - en person påkjørt. Letter skadd. Vi er på stedet.
 ### Children texts:
-b'En person p\xc3\xa5kj\xc3\xb8rt i forbindelse med kryssing av vei. Lettere skadd - snakk om skrubbs\xc3\xa5r. F\xc3\xb8rer av bilen f\xc3\xa5r beslaglagt sitt f\xc3\xb8rerkort.'
+En person påkjørt i forbindelse med kryssing av vei. Lettere skadd - snakk om skrubbsår. Fører av bilen får beslaglagt sitt førerkort.
 
 
 # 844434532254277635
 ### First text:
 Tveita: Vi er på vei til brann i kjøretøy. Skal ikke være spredningsfare.
 #### Possible location:
-b'tveita'
+tveita
 ### Children texts:
-b'Brannen er slukket.'
+Brannen er slukket.
 #### Possible location:
-b'tveita'
+tveita
 
 
 # 844406227002109952
@@ -2812,29 +2812,29 @@ Ruset person stod inne på Oslo S og påstod han var politi. Endte med en tur i 
 ### First text:
 Det er tre biler som har kollidert, to personer sjekkes av helsepersonell. Vi jobber med å avklare hendelsesforløpet, samt rydde veibanen
 ### Children texts:
-b'To personer med noe nakkesmerter. Bilene er tauet og veien er \xc3\xa5pnet for trafikk. Politiet er fremdeles p\xc3\xa5 stedet'
+To personer med noe nakkesmerter. Bilene er tauet og veien er åpnet for trafikk. Politiet er fremdeles på stedet
 
 
 # 844177900177936384
 ### First text:
 Nødetatene er på vei til en melding om brann i Kristinelundveien.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet, og det brenner i et reisverk.  Det har v\xc3\xa6rt mye r\xc3\xb8yk i omr\xc3\xa5det, men dette er avtagende.'
-b'OBRE har slukket brannen p\xc3\xa5 stedet.'
+Vi er på stedet, og det brenner i et reisverk.  Det har vært mye røyk i området, men dette er avtagende.
+OBRE har slukket brannen på stedet.
 
 
 # 844106994508357637
 ### First text:
 Nødetatene er på vei til Kleiva på Høybråten, hvor det er meldt om røyk på et kjøkken.
 #### Possible location:
-b'h\xc3\xb8ybr\xc3\xa5ten'
+høybråten
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet, og det kommer litt r\xc3\xb8yk fra boligen. Alle skal v\xc3\xa6re evakuert.'
+Vi er på stedet, og det kommer litt røyk fra boligen. Alle skal være evakuert.
 #### Possible location:
-b'h\xc3\xb8ybr\xc3\xa5ten'
-b'OBRE melder at brannen er slokket.'
+høybråten
+OBRE melder at brannen er slokket.
 #### Possible location:
-b'h\xc3\xb8ybr\xc3\xa5ten'
+høybråten
 
 
 # 844093438140338176
@@ -2846,7 +2846,7 @@ I forbindelse med statsbesøk av Islands president, vil Karl Johans gate være s
 ### First text:
 Politiet er på vei til en trafikkulykke ved Henrik Ibsens gate, hvor en trikk og en personbil har kollidert.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet, og trikken har kj\xc3\xb8rt videre. Bilf\xc3\xb8rer blir tatt med til legevakten av ambulansen for sjekk.'
+Vi er på stedet, og trikken har kjørt videre. Bilfører blir tatt med til legevakten av ambulansen for sjekk.
 
 
 # 844051446484127744
@@ -2863,67 +2863,67 @@ En politipatrulje har stoppet en bil på RV 4 etter melding fra vitne om mulig p
 ### First text:
 Trafikkulykke mellom lastebil og personbil på Ring 3, ved Lørentunellen, østgående retning.Vi er på vei
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet. Ingen personskade. H\xc3\xb8yre felt sperret.'
+Vi er på stedet. Ingen personskade. Høyre felt sperret.
 
 
 # 843876022957326336
 ### First text:
 Vi har flere patruljer i området ved Ullevål sykehus etter melding om at en person ble fraranet en sekk med diverse innhold.
 ### Children texts:
-b'Forn\xc3\xa6rmede ble truet med kniv, og politiet er bev\xc3\xa6pnet. Dette har ikke noe med selve sykehuset \xc3\xa5 gj\xc3\xb8re, men skjedde ved en boligblokk.'
+Fornærmede ble truet med kniv, og politiet er bevæpnet. Dette har ikke noe med selve sykehuset å gjøre, men skjedde ved en boligblokk.
 
 
 # 843825260776620033
 ### First text:
 Melding om brann i Arendals gata. Vi og Brannvesenet er på stedet.Sett røyk og flere har evakuert seg selv
 ### Children texts:
-b'Brannen er n\xc3\xa5 slukket. En beboer kj\xc3\xb8res legevakta med mindre r\xc3\xb8ykskader.'
+Brannen er nå slukket. En beboer kjøres legevakta med mindre røykskader.
 
 
 # 843734871633805312
 ### First text:
 Politi og ambulanse er på Kampen, hvor en syklist har blitt påkjørt. En mann i 30 åra blir kjørt til sykehus for sjekk.
 #### Possible location:
-b'kampen'
+kampen
 ### Children texts:
-b'En f\xc3\xb8rer i 60 \xc3\xa5ra har f\xc3\xa5tt f\xc3\xb8rerkortet sitt beslaglagt, og er anmeldt for brudd p\xc3\xa5 vikeplikten.'
+En fører i 60 åra har fått førerkortet sitt beslaglagt, og er anmeldt for brudd på vikeplikten.
 #### Possible location:
-b'kampen'
+kampen
 
 
 # 843690473466318848
 ### First text:
 Grønlandsleiret: Melding om brann i en bakgård. Åpne flammer. Nødetatene er på vei.
 #### Possible location:
-b'gr\xc3\xb8nland'
+grønland
 ### Children texts:
-b'Riktig adresse er i Hollendergata. Det brenner i en s\xc3\xb8ppelcontainer. Det er ikke spredningsfare.'
+Riktig adresse er i Hollendergata. Det brenner i en søppelcontainer. Det er ikke spredningsfare.
 #### Possible location:
-b'gr\xc3\xb8nland'
-b'Brannen er n\xc3\xa5 slukket, men det er en god del r\xc3\xb8yk p\xc3\xa5 stedet.'
+grønland
+Brannen er nå slukket, men det er en god del røyk på stedet.
 #### Possible location:
-b'gr\xc3\xb8nland'
+grønland
 
 
 # 843658551197425664
 ### First text:
 Jens Bjelkes gate: Nødetatene på en tørrkokt kjele. Ikke melding om skadde personer.
 ### Children texts:
-b'En beboer hadde sovnet fra en pizza som var satt inn i en varm ovn. Vi oppretter sak'
+En beboer hadde sovnet fra en pizza som var satt inn i en varm ovn. Vi oppretter sak
 
 
 # 843541074408804354
 ### First text:
 Vi leter etter en eldre mann i område Frogner. Har rød skjorte, grå cardigan, sort bukse, er 150 cm høy, er pukkelrygget med litt mage.
 #### Possible location:
-b'frogner'
+frogner
 ### Children texts:
-b'Videre har han briller, er skallet og har litt vanskelig for \xc3\xa5 orientere seg. Han er rask til bens. Ring oss p\xc3\xa5 02800.'
+Videre har han briller, er skallet og har litt vanskelig for å orientere seg. Han er rask til bens. Ring oss på 02800.
 #### Possible location:
-b'frogner'
-b'Da har vi funnet mannen. Han er i god form. Takk for hjelpen.'
+frogner
+Da har vi funnet mannen. Han er i god form. Takk for hjelpen.
 #### Possible location:
-b'frogner'
+frogner
 
 
 # 843476071639146496
@@ -2935,50 +2935,50 @@ Tollboden. Vi er på vei etter melding om brann i en søppelkasse.
 ### First text:
 Vestli Torget: Ungdommer som tømmer et brannslukningsapparat på parkerte biler. Politiet på vei.
 #### Possible location:
-b'vestli'
+vestli
 ### Children texts:
-b'Vi har kontroll p\xc3\xa5 noen ungdommer som kan har v\xc3\xa6rt involvert'
+Vi har kontroll på noen ungdommer som kan har vært involvert
 #### Possible location:
-b'vestli'
+vestli
 
 
 # 843440995991719936
 ### First text:
 Mosseveien 6: Meldt om slagsmål inne i bygget. Politiet på stedet nå.
 ### Children texts:
-b'Vi har forel\xc3\xb8pig kontroll p\xc3\xa5 2 personer p\xc3\xa5 utsiden. Vi tar oss inn i bygget'
-b'Vi har kontroll inne i en leilighet, kontroll p\xc3\xa5 4 personer. Forel\xc3\xb8pig funnet en lettere skadet person'
-b'Har v\xc3\xa6rt et 40 \xc3\xa5rs lag med 6 voksne menn som endte i et slagsm\xc3\xa5l. Den skadde blir tatt h\xc3\xa5nd av amb personell'
-b'Den skadde ble kj\xc3\xb8rt til legevakt. Ingen  av de andre involverte \xc3\xb8nsket \xc3\xa5 fortelle hva som hadde skjedd. Alle var godt beruset. Bortvist .'
+Vi har foreløpig kontroll på 2 personer på utsiden. Vi tar oss inn i bygget
+Vi har kontroll inne i en leilighet, kontroll på 4 personer. Foreløpig funnet en lettere skadet person
+Har vært et 40 års lag med 6 voksne menn som endte i et slagsmål. Den skadde blir tatt hånd av amb personell
+Den skadde ble kjørt til legevakt. Ingen  av de andre involverte ønsket å fortelle hva som hadde skjedd. Alle var godt beruset. Bortvist .
 
 
 # 843440852647186436
 ### First text:
 RV 4 Skillebekk: Trafikkuhell.  Noe trafikale utfordringer på stedet.
 #### Possible location:
-b'skillebekk'
+skillebekk
 ### Children texts:
-b'Ikke meldt om skadde personer'
+Ikke meldt om skadde personer
 #### Possible location:
-b'skillebekk'
+skillebekk
 
 
 # 843415488092934144
 ### First text:
 Vestlisvingen: Nødetatene på stedet ifbm tørrkokt kjele. Beboer blir tatt hånd om av amb personell. Kun lettere skadet
 #### Possible location:
-b'vestli'
+vestli
 
 
 # 843302322788880388
 ### First text:
 Nødatene er i Kongsveien ved Holmenkollanlegget. Det brenner i et stort telt på stedet, mye sort røyk. Ikke melding om personskader
 #### Possible location:
-b'holmen'
+holmen
 ### Children texts:
-b'Det viser seg at det ikke har v\xc3\xa6rt brann. Kun et aggregat med ufullstendig forbrenning som resulterer i sort r\xc3\xb8yk. Vi forlater stedet.'
+Det viser seg at det ikke har vært brann. Kun et aggregat med ufullstendig forbrenning som resulterer i sort røyk. Vi forlater stedet.
 #### Possible location:
-b'holmen'
+holmen
 
 
 # 843300811350462464
@@ -2990,8 +2990,8 @@ Sjølyst: Det har vært innbrudd i en bedrift. Etter god jobb fra patruljene på
 ### First text:
 Rosenholm stasjon: Vi er på vei til brann i kjøretøy.
 ### Children texts:
-b'Bilen er i full fyr.'
-b'Brannen er n\xc3\xa5 slukket.'
+Bilen er i full fyr.
+Brannen er nå slukket.
 
 
 # 843227546120572928
@@ -3003,16 +3003,16 @@ RT @Ravnene: Vi trenger fler Natteravner i Oslo sentrum. Derfor lager vi reklame
 ### First text:
 Melding om brann i Samvirkeveien. Nødetatene på vei.
 ### Children texts:
-b'Alle skal v\xc3\xa6re evakuert.'
-b'Brannen skal v\xc3\xa6re slukket, obre jobber n\xc3\xa5 med etterslukking.'
+Alle skal være evakuert.
+Brannen skal være slukket, obre jobber nå med etterslukking.
 
 
 # 843212452464660480
 ### First text:
 Melding om røykutvikling i Arbeidergata.
 ### Children texts:
-b'Ser ut til \xc3\xa5 v\xc3\xa6re varmegang i en kompressor.'
-b'Luftet ut. Kompressoren sjekkes. Ingen skadde.'
+Ser ut til å være varmegang i en kompressor.
+Luftet ut. Kompressoren sjekkes. Ingen skadde.
 
 
 # 843190678427525122
@@ -3024,18 +3024,18 @@ RV 4 ved Bjerke. Politiet har stanset en personbil etter melding om høy hastigh
 ### First text:
 Hammersborgtunnellen, østgående. Vi er på vei til stedet etter melding om en mann som går i tunnellen.
 #### Possible location:
-b'hammersborg'
+hammersborg
 
 
 # 843064149940813824
 ### First text:
 Nydalen/Tåsen: Vi tar beslag i en bilførers førerkort pga brudd på vegtrafikkloven § 3.
 #### Possible location:
-b't\xc3\xa5sen'
+tåsen
 ### Children texts:
-b'En bil nr 2 var involvert i uvettig kj\xc3\xb8ring. Ingen i bilen har f\xc3\xb8rerkort. Ogs\xc3\xa5 funn og beslag av narkotika og penger. 2 biler blir inntauet'
+En bil nr 2 var involvert i uvettig kjøring. Ingen i bilen har førerkort. Også funn og beslag av narkotika og penger. 2 biler blir inntauet
 #### Possible location:
-b't\xc3\xa5sen'
+tåsen
 
 
 # 843054226532171778
@@ -3047,17 +3047,17 @@ I forbindelse med St.Patriks Day vil det gå et opptog fra Jernbanetorget til Un
 ### First text:
 Calmeyersgt:   trafikkulykke. Fotgjenger som er påkjørt. Nødetatene på vei
 ### Children texts:
-b'Ikke meldt om trafikale utfordringer p\xc3\xa5 stedet'
-b'P\xc3\xa5kj\xc3\xb8rt fotgjenger er lettere skadet. Blir kj\xc3\xb8rt til legevakt for kontroll'
-b'Vi tar beslag i bilf\xc3\xb8rers f\xc3\xb8rerkort'
-b'Den skadde ble p\xc3\xa5kj\xc3\xb8rt i fotgjengerfelt'
+Ikke meldt om trafikale utfordringer på stedet
+Påkjørt fotgjenger er lettere skadet. Blir kjørt til legevakt for kontroll
+Vi tar beslag i bilførers førerkort
+Den skadde ble påkjørt i fotgjengerfelt
 
 
 # 843037505431715840
 ### First text:
 Vidars gt: Vi har kontroll på 2 menn , hvor den ene skal ha truet den andre med kniv.
 ### Children texts:
-b'Kniven ble ikke funnet, men begge blir bortvist fra omr\xc3\xa5det.'
+Kniven ble ikke funnet, men begge blir bortvist fra området.
 
 
 # 843036875711528961
@@ -3069,22 +3069,22 @@ Ensjø: Vi har kontroll på 3 personer som har begått skadeverk på en drosje o
 ### First text:
 Homannsbyen: Det har vært innbrudd i en bedrift. Vi er i søk etter gjerningspersonen.
 ### Children texts:
-b'God jobb fra hundepatruljen v\xc3\xa5r f\xc3\xb8rte fram til innbruddstyven og funn av stj\xc3\xa5let gods. Hurra!'
+God jobb fra hundepatruljen vår førte fram til innbruddstyven og funn av stjålet gods. Hurra!
 
 
 # 842916385042915328
 ### First text:
 Filerveien: Melding om røyklukt fra en blokk. Nødetatene er på vei.
 ### Children texts:
-b'Sliter med \xc3\xa5 finne \xc3\xa5rsaken til r\xc3\xb8yklukten. Brannvesenet jobber med \xc3\xa5 finne ut av dette.'
-b'Ikke mer r\xc3\xb8yk, og ikke funn av noen \xc3\xa5rsak. N\xc3\xb8detatene er ferdig p\xc3\xa5 stedet.'
+Sliter med å finne årsaken til røyklukten. Brannvesenet jobber med å finne ut av dette.
+Ikke mer røyk, og ikke funn av noen årsak. Nødetatene er ferdig på stedet.
 
 
 # 842911516521353216
 ### First text:
 Høybråten: En person utsatt for vold på en fest. Vi har kontroll på flere mistenkte som kjøres arresten. Uvisst skadeomfang på fornærmede.
 #### Possible location:
-b'h\xc3\xb8ybr\xc3\xa5ten'
+høybråten
 
 
 # 842895054628966401
@@ -3096,11 +3096,11 @@ Nydalen: Flere som bekymrer seg over et lavtflyvende småfly. Luftfartstilsynet 
 ### First text:
 Grefsenveien ved Nordpolen: En bil har satt seg fast i trikkeskinnene. Patrulje, bilberger og brannvesenet er på vei for å fjerne bilen.
 #### Possible location:
-b'grefsen'
+grefsen
 ### Children texts:
-b'Bilen er fjernet. F\xc3\xb8rer blir anmeldt for overtredelse av Veitrafikklovens bestemmelser.'
+Bilen er fjernet. Fører blir anmeldt for overtredelse av Veitrafikklovens bestemmelser.
 #### Possible location:
-b'grefsen'
+grefsen
 
 
 # 842804545705205761
@@ -3112,23 +3112,23 @@ Kirkeveien. Ved Ullevål sykehus. Melding om flere gjenstander i veibanen.
 ### First text:
 Nødetatene til Kyrre Grepps gate, hvor det trolig er en tørrkokt kjele.
 ### Children texts:
-b'Bekreftet t\xc3\xb8rrkok. Ingen skadet.'
+Bekreftet tørrkok. Ingen skadet.
 
 
 # 842690181496999936
 ### First text:
 En lastebil har veltet i rundkjøringen oppå Klemetsrudlokket ved E6. Ikke meldt om personskade, men vil bli noe ekstra kø i området.
 ### Children texts:
-b'P\xc3\xa5kj\xc3\xb8ringen til E6 inng\xc3\xa5ende fra Klemetsrud blir stengt inntil lastebilen er berget. Det vil ta noe tid.'
-b'Det er inntil videre IKKE mulig \xc3\xa5 kj\xc3\xb8re p\xc3\xa5 E6 fra Klemetsrud. Vanskelig \xc3\xa5 si n\xc3\xa5r p\xc3\xa5kj\xc3\xb8ringen \xc3\xa5pnes. Omkj\xc3\xb8ring via Mortensrud el Mosseveien.'
-b'Bergingen av s\xc3\xb8ppelet som var i den veltede lastebilen er i gang. Uvisst n\xc3\xa5r dette er ferdig. P\xc3\xa5kj\xc3\xb8ringen er fortsatt sperret.'
+Påkjøringen til E6 inngående fra Klemetsrud blir stengt inntil lastebilen er berget. Det vil ta noe tid.
+Det er inntil videre IKKE mulig å kjøre på E6 fra Klemetsrud. Vanskelig å si når påkjøringen åpnes. Omkjøring via Mortensrud el Mosseveien.
+Bergingen av søppelet som var i den veltede lastebilen er i gang. Uvisst når dette er ferdig. Påkjøringen er fortsatt sperret.
 
 
 # 842685779352735744
 ### First text:
 En bil har fått stans i midtre felt i Festningstunnelens østgående retning. Medfører at kun ett felt er åpent inntil videre.
 ### Children texts:
-b'Alle felt er \xc3\xa5pne i Festningtunnelen \xc3\xb8stg\xc3\xa5ende, men det k\xc3\xb8 bakover til Sk\xc3\xb8yen.'
+Alle felt er åpne i Festningtunnelen østgående, men det kø bakover til Skøyen.
 
 
 # 842646786099597312
@@ -3140,145 +3140,145 @@ Haugerud: Kvinne påkjørt av i bil i lav hastighet etter at hun løp ut i veien
 ### First text:
 Melding om brann i tomannsbolig på Bryn. Alle nødetater på vei.
 ### Children texts:
-b'Vi og Brannvesenet er p\xc3\xa5 stedet.Det er full fyr i taket.'
-b'2 beboere er evakuerte og brannvesenet har startet slokking.'
-b'Nabohuset blir ogs\xc3\xa5 evakuert. Totalt 4 personer er n\xc3\xa5 evakuert. Ingen fysisk skadet.'
-b'2 personer har f\xc3\xa5tt i seg noe r\xc3\xb8yk og kj\xc3\xb8res legevakta av ambulanse.'
-b'Brannen er n\xc3\xa5 slukket. En av de som har f\xc3\xa5tt i seg r\xc3\xb8yk blir kj\xc3\xb8rt sykehus.'
+Vi og Brannvesenet er på stedet.Det er full fyr i taket.
+2 beboere er evakuerte og brannvesenet har startet slokking.
+Nabohuset blir også evakuert. Totalt 4 personer er nå evakuert. Ingen fysisk skadet.
+2 personer har fått i seg noe røyk og kjøres legevakta av ambulanse.
+Brannen er nå slukket. En av de som har fått i seg røyk blir kjørt sykehus.
 
 
 # 842538492181843969
 ### First text:
 Sykkeltyv tatt på fersk gjerning av hundepatruljen i Brettevillesgate i Torshov dalen. Han blir pågrepet og sykkelen levert riktig eier.
 #### Possible location:
-b'torshov'
+torshov
 
 
 # 842514655079731201
 ### First text:
 Melding om røyklukt fra en bygård i Bergensveien. Alle nødetater på vei.
 ### Children texts:
-b'Vi og Brannvesenet er p\xc3\xa5 stedet. Ingen brann, bare litt r\xc3\xb8yk fra matlaging. Vi drar fra stedet.'
+Vi og Brannvesenet er på stedet. Ingen brann, bare litt røyk fra matlaging. Vi drar fra stedet.
 
 
 # 842362185703669760
 ### First text:
 Vi har fått melding om brann i Ragnild Schibbyes vei.  Alle nødetater er på vei til stedet.
 ### Children texts:
-b'Brannen i Ragnhild Schibbyes vei er slukket. Det er ikke meldt om noen evakuerte eller skadde.'
+Brannen i Ragnhild Schibbyes vei er slukket. Det er ikke meldt om noen evakuerte eller skadde.
 
 
 # 842276424253898752
 ### First text:
 Vi har fått melding om gasslukt i området Gulleråsen. Brannvesenet og politiet er på vei for å undersøke.
 ### Children texts:
-b'Skal v\xc3\xa6re litt propan som er lekket fra en tank i et skur ved Hemingbanen. Politi og brann er fremdeles p\xc3\xa5 stedet.'
-b'Skal v\xc3\xa6re snakk om sv\xc3\xa6rt f\xc3\xa5 mengder. Brann unders\xc3\xb8ker tanken n\xc3\xa5.'
-b'Brann har sjekket ut tanken, den er tett. Ingen lukt i omr\xc3\xa5det lengre.'
+Skal være litt propan som er lekket fra en tank i et skur ved Hemingbanen. Politi og brann er fremdeles på stedet.
+Skal være snakk om svært få mengder. Brann undersøker tanken nå.
+Brann har sjekket ut tanken, den er tett. Ingen lukt i området lengre.
 
 
 # 842179858197278720
 ### First text:
 Bekreftet ran av Shell bensinstasjon på Ellingsrud. To personer med pistoler har løpt fra stedet.
 #### Possible location:
-b'ellingsrud'
+ellingsrud
 ### Children texts:
-b'Ansatte ikke fysisk skadet. Vi s\xc3\xb8ker etter gjerningsmennene.'
+Ansatte ikke fysisk skadet. Vi søker etter gjerningsmennene.
 #### Possible location:
-b'ellingsrud'
-b'Rettelse p\xc3\xa5 \xc3\xa5stedet er Esso bensinstasjon, Per Krohgs vei p\xc3\xa5 Ellingsrud. ( Den het Shell f\xc3\xb8r)'
+ellingsrud
+Rettelse på åstedet er Esso bensinstasjon, Per Krohgs vei på Ellingsrud. ( Den het Shell før)
 #### Possible location:
-b'ellingsrud'
-b'2 personer er n\xc3\xa5 p\xc3\xa5grepet i forbindelse med ranet.'
+ellingsrud
+2 personer er nå pågrepet i forbindelse med ranet.
 #### Possible location:
-b'ellingsrud'
+ellingsrud
 
 
 # 842110092568862720
 ### First text:
 Politiet er på Esso Kalbakken ifm bekreftet ran. Vi er i området med flere patruljer som søker etter gjerningspersonen. Besk kommer
 ### Children texts:
-b'Besk: mann, if\xc3\xb8rt lue eller balaklava, briller, bl\xc3\xa5/sort boblejakke m/hvit logo p\xc3\xa5 venstre bryst, cargo pants og m\xc3\xb8rke Nike sko m/hvit s\xc3\xa5le'
+Besk: mann, iført lue eller balaklava, briller, blå/sort boblejakke m/hvit logo på venstre bryst, cargo pants og mørke Nike sko m/hvit såle
 
 
 # 842099844269408263
 ### First text:
 Nødetatene er på vei til Sinsenveien. Melding om røyk fra leilighet
 #### Possible location:
-b'sinsen'
+sinsen
 ### Children texts:
-b'Vi er fremme p\xc3\xa5 stedet. Skal v\xc3\xa6re en t\xc3\xb8rrkok s\xc3\xa5 det er udramatisk'
+Vi er fremme på stedet. Skal være en tørrkok så det er udramatisk
 #### Possible location:
-b'sinsen'
+sinsen
 
 
 # 842071035868524553
 ### First text:
 Nødetatene er i St. Jørgens vei. Mulig pipebrann
 ### Children texts:
-b'Det har ikke v\xc3\xa6rt brann. R\xc3\xb8yken stammer fra r\xc3\xb8yknedslag ifm fyring i peisen'
+Det har ikke vært brann. Røyken stammer fra røyknedslag ifm fyring i peisen
 
 
 # 842063209238528001
 ### First text:
 Nødetatene er på vei til Sigurd Hoels vei. Melding om at det har brent på en veranda
 ### Children texts:
-b'Ikke v\xc3\xa6rt brann p\xc3\xa5 stedet. Vi har dratt'
+Ikke vært brann på stedet. Vi har dratt
 
 
 # 842054294434136065
 ### First text:
 Nødetatene er på vei til Arthur Nordliesvei. Melding om røyk i leilighet
 ### Children texts:
-b'Vi er fremme p\xc3\xa5 stedet. Har ikke v\xc3\xa6rt brann. R\xc3\xb8yken kom ifm r\xc3\xb8yknedslag etter fyring i peis.'
+Vi er fremme på stedet. Har ikke vært brann. Røyken kom ifm røyknedslag etter fyring i peis.
 
 
 # 841967241226784773
 ### First text:
 Tåsentunnelen østgående: melding om trafikkuhell, ukjent om det er personskader.
 #### Possible location:
-b't\xc3\xa5sen'
+tåsen
 
 
 # 841951839268569088
 ### First text:
 Sørenga: Nødetatene er på vei til stedet hvor en trailer har satt seg fast i brygga.
 ### Children texts:
-b'Trailerens forhjul hadde g\xc3\xa5tt gjennom tredekket p\xc3\xa5 brygga, og det jobbes med \xc3\xa5 f\xc3\xa5 den opp. Ingen personer er skadet.'
-b'Trailen er fjernet og brannvesenet har sikret omr\xc3\xa5det midlertidig.'
+Trailerens forhjul hadde gått gjennom tredekket på brygga, og det jobbes med å få den opp. Ingen personer er skadet.
+Trailen er fjernet og brannvesenet har sikret området midlertidig.
 
 
 # 841689785756483585
 ### First text:
 E18 inng. v/Frognerstranda: Trafikkuhell. Kun materielle skader. 2 biler involvert.
 #### Possible location:
-b'frogner'
+frogner
 ### Children texts:
-b'Begge biler kj\xc3\xb8rbare. Skademeldingsutfylling f\xc3\xb8r partene kj\xc3\xb8rer videre.'
+Begge biler kjørbare. Skademeldingsutfylling før partene kjører videre.
 #### Possible location:
-b'frogner'
+frogner
 
 
 # 841674707376177152
 ### First text:
 Sinsenkrysset: Melding om bil med stans rett før avskjøringsrampe østgående retning. Ukjent årsak.
 #### Possible location:
-b'sinsen'
+sinsen
 ### Children texts:
-b'Vi har kj\xc3\xb8rt sinsenkrysset og tilst\xc3\xb8tende gater uten \xc3\xa5 se noen bil. Trolig kommet seg videre p\xc3\xa5 egen h\xc3\xa5nd.'
+Vi har kjørt sinsenkrysset og tilstøtende gater uten å se noen bil. Trolig kommet seg videre på egen hånd.
 #### Possible location:
-b'sinsen'
+sinsen
 
 
 # 841635012281827328
 ### First text:
 Kl  1047: Nedre Bekkelaget skole: Etter klager på personer som campet i en bil like ved skolen, ble det 3 personer kjørt i arrest.
 #### Possible location:
-b'bekkelaget'
+bekkelaget
 ### Children texts:
-b'1 person var etterlyst, samt at det ble tatt beslag i 10 kanner med diesel + div verkt\xc3\xb8y, som antas \xc3\xa5 v\xc3\xa6re tyvegods.'
+1 person var etterlyst, samt at det ble tatt beslag i 10 kanner med diesel + div verktøy, som antas å være tyvegods.
 #### Possible location:
-b'bekkelaget'
+bekkelaget
 
 
 # 841632545116676097
@@ -3300,39 +3300,39 @@ E6 inn før Ryenkrysset. Løst komlokk i veibanen. Vaktbilen VTS og politiet på
 ### First text:
 Kaldbakken: Trafikkulykke. Nødetatene på vei
 ### Children texts:
-b'Kun en bil involvert. Kj\xc3\xb8rt inn i et tre ved en rundkj\xc3\xb8ring. En person er tatt ut av bilen. Uklart skadeomfang'
-b'Ulykken har skjedd ved rundkj\xc3\xb8ringen ved Kaldbakken senter. Mindre trafikale utfordringer p\xc3\xa5 stedet. Vi jobber med \xc3\xa5 f\xc3\xa5 ryddet'
-b'Den skadde sj\xc3\xa5f\xc3\xb8ren var alene i bilen. Lettere skadet, Blir kj\xc3\xb8rt av amb til legevakt'
-b'Veibanen er ryddet. Normal trafikk p\xc3\xa5 stedet'
+Kun en bil involvert. Kjørt inn i et tre ved en rundkjøring. En person er tatt ut av bilen. Uklart skadeomfang
+Ulykken har skjedd ved rundkjøringen ved Kaldbakken senter. Mindre trafikale utfordringer på stedet. Vi jobber med å få ryddet
+Den skadde sjåføren var alene i bilen. Lettere skadet, Blir kjørt av amb til legevakt
+Veibanen er ryddet. Normal trafikk på stedet
 
 
 # 841511253268975616
 ### First text:
 Nødetatene er på vei til E6 utgående ved Alnabru. Trafikkulykke
 ### Children texts:
-b'2 personer involvert. Begge er sjekket av helsepersonell, og de fremst\xc3\xa5r som uskadd.'
+2 personer involvert. Begge er sjekket av helsepersonell, og de fremstår som uskadd.
 
 
 # 841491914088173568
 ### First text:
 Nødetatene er i Nydalen allé ifm røyklukt. Kommer noe røyk fra en restaurant på stedet. Foreløpig uavklart
 ### Children texts:
-b'Obre har lokalisert et branntill\xc3\xb8p ifm et kj\xc3\xb8leskap. De har kontroll p\xc3\xa5 brannen og r\xc3\xb8yken er avtagende. Noen beboere har evakuert seg selv'
-b'Brannen er slukket, men obre jobber fremdeles p\xc3\xa5 stedet. De fleste evakuerte har f\xc3\xa5tt returnere til leilighetene sine.'
+Obre har lokalisert et branntilløp ifm et kjøleskap. De har kontroll på brannen og røyken er avtagende. Noen beboere har evakuert seg selv
+Brannen er slukket, men obre jobber fremdeles på stedet. De fleste evakuerte har fått returnere til leilighetene sine.
 
 
 # 841463033599819776
 ### First text:
 Tidlig på natten fikk vi melding om at skudd var avfyrt på Holmlia. Vi har undersøkt, men har ikke funnet bevis for at dette har skjedd
 #### Possible location:
-b'holmlia'
+holmlia
 
 
 # 841451202743287808
 ### First text:
 På E6 ved Furuset går det en mørkkledd mann i veibanen. Patrulje på vei for å få han ut av veibanen
 #### Possible location:
-b'furuset'
+furuset
 
 
 # 841437952634957824
@@ -3344,82 +3344,82 @@ I Kirkeveien har det vært innbrudd i bedrift. Flere kniver er stjålet fra utst
 ### First text:
 Trafikkulykke mellom bil og fotgjenger i Rødbergveien på Årvoll. Vi og ambulanse er på stedet.
 #### Possible location:
-b'\xc3\xa5rvoll'
+årvoll
 ### Children texts:
-b'Fotgjenger lettere skadet og blir med ambulansen til legevakta. Vi oppretter sak p\xc3\xa5 forholdet.'
+Fotgjenger lettere skadet og blir med ambulansen til legevakta. Vi oppretter sak på forholdet.
 #### Possible location:
-b'\xc3\xa5rvoll'
+årvoll
 
 
 # 841282436172517377
 ### First text:
 Grønland: Vi søker med bevæpnede enheter etter en gjerningsmann som skal ha truet og slått etter en annen mann med kniv. Ingen skadet.
 #### Possible location:
-b'gr\xc3\xb8nland'
+grønland
 
 
 # 841240572723679232
 ### First text:
 Marienlyst ved Shell: Bil og syklist som har kollidert. Nødetater er på vei.
 ### Children texts:
-b'Det viste seg at det var en fotgjenger som hadde blitt p\xc3\xa5kj\xc3\xb8rt i fotgjengerfelt. Kj\xc3\xb8rt sykehus med uavklarte skader. Vi jobber p\xc3\xa5 stedet.'
-b'Bilisten har trolig ikke overholdt vikeplikt for fotgjenger, og fikk derfor beslaglagt sitt f\xc3\xb8rerkort. Vi er ferdig p\xc3\xa5 stedet, oppretter sak'
+Det viste seg at det var en fotgjenger som hadde blitt påkjørt i fotgjengerfelt. Kjørt sykehus med uavklarte skader. Vi jobber på stedet.
+Bilisten har trolig ikke overholdt vikeplikt for fotgjenger, og fikk derfor beslaglagt sitt førerkort. Vi er ferdig på stedet, oppretter sak
 
 
 # 841173879062175747
 ### First text:
 Festningstunnelen, østgående retning: Kjøretøystans i høyre felt. Bilberger på vei. Høyre felt stengt inntil videre
 ### Children texts:
-b'Kj\xc3\xb8ret\xc3\xb8yet er fjernet og kj\xc3\xb8rebanen er \xc3\xa5pnet igjen.'
+Kjøretøyet er fjernet og kjørebanen er åpnet igjen.
 
 
 # 841159683494838273
 ### First text:
 Nødetater på vei ut med redningsbåt etter det som kan være nødsignaler sendt midtfjords fra. Observert mellom Hellvig og Ljan.
 #### Possible location:
-b'ljan'
+ljan
 ### Children texts:
-b'S\xc3\xb8k avsluttet. Via melder har det blitt konkludert med at dette er Storeflua fyr som har signatur VQ(9)W10s - 9 blink for s\xc3\xa5 pause i 10 sek'
+Søk avsluttet. Via melder har det blitt konkludert med at dette er Storeflua fyr som har signatur VQ(9)W10s - 9 blink for så pause i 10 sek
 #### Possible location:
-b'ljan'
+ljan
 
 
 # 841153563460005888
 ### First text:
 Byporten: Melding om røykutvikling i forretningslokale. Nødetater på stedet.
 ### Children texts:
-b'Ingen brann, men litt r\xc3\xb8yk i et lokale og det lukter litt svidd. Mulig varmegang i noe elektrisk. Brannvesenet unders\xc3\xb8ker videre.'
+Ingen brann, men litt røyk i et lokale og det lukter litt svidd. Mulig varmegang i noe elektrisk. Brannvesenet undersøker videre.
 
 
 # 841132371294449664
 ### First text:
 Nødetatene er i Kantarellen Terrasse der det brenner i et rekkehus. Beboere i nærheten anmodes om å holde vinduer lukket grunnet røyken.
 ### Children texts:
-b'Det er evakuert 14 personer fra boligene, og de blir ivaretatt av ambulansen p\xc3\xa5 stedet.'
-b'Taket er overtent og kan ikke reddes. Brannvesenet jobber med skadebegrensning. Rekkehuslengden er evakuert. Ingen meldinger om personskader'
-b'Brannvesenet har kontroll p\xc3\xa5 brannen, men vil bedrive etterslukking utover dagen. De evakuerte kan forel\xc3\xb8pig ikke flytte inn igjen.'
-b'Brannvesenet melder at ingen av de evakuerte boligene er beboelige, s\xc3\xa5 de evakuerte kan ikke flytte tilbake. Etterslukking p\xc3\xa5g\xc3\xa5r fortsatt.'
+Det er evakuert 14 personer fra boligene, og de blir ivaretatt av ambulansen på stedet.
+Taket er overtent og kan ikke reddes. Brannvesenet jobber med skadebegrensning. Rekkehuslengden er evakuert. Ingen meldinger om personskader
+Brannvesenet har kontroll på brannen, men vil bedrive etterslukking utover dagen. De evakuerte kan foreløpig ikke flytte inn igjen.
+Brannvesenet melder at ingen av de evakuerte boligene er beboelige, så de evakuerte kan ikke flytte tilbake. Etterslukking pågår fortsatt.
 
 
 # 841043767591329793
 ### First text:
 Ved Mortensrud skole har det vært en uoverensstemmelse mellom noen ungdommer. Noen har vært truende med et balltre.Vi snakker med involverte
 #### Possible location:
-b'mortensrud'
+mortensrud
 
 
 # 841035738317746177
 ### First text:
 Sinsen: Mann funnet liggende på gata med noe blod i ansiktet. Han er ved bevissthet og undersøkes av ambulansen.
 #### Possible location:
-b'sinsen'
+sinsen
 ### Children texts:
-b'Uklart hva som har for\xc3\xa5rsaket blodet p\xc3\xa5 mannen, s\xc3\xa5 vi jobber med \xc3\xa5 finne ut det. Ingen indikasjon p\xc3\xa5 noe kriminelt forel\xc3\xb8pig.'
+Uklart hva som har forårsaket blodet på mannen, så vi jobber med å finne ut det. Ingen indikasjon på noe kriminelt foreløpig.
 #### Possible location:
-b'sinsen'
-b'Hvis noen har opplysninger i saken \xc3\xb8nsker vi at du enten kontakter politiet p\xc3\xa5 stedet eller ringer oss p\xc3\xa5 tlf 02800.'
+sinsen
+Hvis noen har opplysninger i saken ønsker vi at du enten kontakter politiet på stedet eller ringer oss på tlf 02800.
 #### Possible location:
-b'sinsen'
+sinsen
 
 
 # 840852341666545664
@@ -3431,25 +3431,25 @@ Vi har hatt en promille kontroll i Munkedamsveien, 150 kontrollerte, 1 fører an
 ### First text:
 Nødetatene er på vei til Ammerudhellinga, hvor det skal lukte brent i en oppgang.
 #### Possible location:
-b'ammerud'
+ammerud
 ### Children texts:
-b'Ingen brann.'
+Ingen brann.
 #### Possible location:
-b'ammerud'
+ammerud
 
 
 # 840754002346295296
 ### First text:
 Hundepatruljen har stanset 2 personer som formentlig har tagget på en murvegg ved Skullerud. Takk til observante vitner.
 #### Possible location:
-b'skullerud'
+skullerud
 ### Children texts:
-b'2 menn i slutten av 20 \xc3\xa5rene ble p\xc3\xa5grepet for grovt skadeverk.'
+2 menn i slutten av 20 årene ble pågrepet for grovt skadeverk.
 #### Possible location:
-b'skullerud'
-b'Begge drakk formentlig GHB rett forut for p\xc3\xa5gripelsen, og blir kj\xc3\xb8rt til sykehus for sjekk.'
+skullerud
+Begge drakk formentlig GHB rett forut for pågripelsen, og blir kjørt til sykehus for sjekk.
 #### Possible location:
-b'skullerud'
+skullerud
 
 
 # 840723948232929284
@@ -3461,7 +3461,7 @@ Politiet har pågrepet en mann i 30 åra i Gamlebyen, og han blir anmeldt for fa
 ### First text:
 Fougstads gate, nødetatene er på vei da det er gått en brannalarm på stedet. Mistanke om tørrkok, men er ikke bekreftet ennå.
 ### Children texts:
-b'@Oslo110sentral bekrefter t\xc3\xb8rrkok. Politiet forlater straks stedet.'
+@Oslo110sentral bekrefter tørrkok. Politiet forlater straks stedet.
 
 
 # 840616787511246848
@@ -3478,14 +3478,14 @@ Majorstua: Beruset mann (23) pågrepet etter å ha slått en politimann i magen 
 ### First text:
 Nødetatene er på vei til en oppgang i Borger Withs gate etter melding om en røykvarsler som går, samt at det lukter brent i oppgangen.
 ### Children texts:
-b'En t\xc3\xb8rrkokt kjele av noe slag var \xc3\xa5rsaken til r\xc3\xb8yklukta. Brannvesenet er inne i aktuell leilighet og har kontroll.'
+En tørrkokt kjele av noe slag var årsaken til røyklukta. Brannvesenet er inne i aktuell leilighet og har kontroll.
 
 
 # 840584953515659264
 ### First text:
 Tbaneleder melder om mye folk på Midtstuen tbanestasjon. Vi bistår tbanen og vektere på stedet.
 ### Children texts:
-b'V\xc3\xa6rt veldig mye folk i Holmenkollen i godv\xc3\xa6ret i dag. N\xc3\xa5 er mange p\xc3\xa5 vei nedover mot byen. V\xc3\xa6rt noen meldinger om berusede folk til sjenanse'
+Vært veldig mye folk i Holmenkollen i godværet i dag. Nå er mange på vei nedover mot byen. Vært noen meldinger om berusede folk til sjenanse
 
 
 # 840549711367004160
@@ -3512,67 +3512,68 @@ I Ljabruveien har det vært en trafikkulykke. Minst to biler involvert, to perso
 ### First text:
 Hundepatrulje stanset en bil som kjørte veldig. Fører hadde mistet lappen i fjor, men skulle få den tilbake om 3 dager.
 ### Children texts:
-b'F\xc3\xb8reren oppgav falsk personalia og blir anmeldt for dette i tillegg. N\xc3\xa5 venter en ny og lengre periode uten f\xc3\xb8rerkort.'
-b'Hvis det skulle v\xc3\xa6re tvil, s\xc3\xa5 kj\xc3\xb8rte bilen veldig _fort_. Dette skjedde i tunnelsystemet ned fra Ryen og til sentrum.'
+Føreren oppgav falsk personalia og blir anmeldt for dette i tillegg. Nå venter en ny og lengre periode uten førerkort.
+Hvis det skulle være tvil, så kjørte bilen veldig _fort_. Dette skjedde i tunnelsystemet ned fra Ryen og til sentrum.
 
 
 # 840274511505285120
 ### First text:
 Dælenenga: Svært mange meldinger på en beruset mann som ravet i veibanen og var sjenerende mot forbipasserende. Vi har kontroll på ham.
 #### Possible location:
-b'd\xc3\xa6lenenga'
+dælenenga
 ### Children texts:
-b'Mannen ble tatt vare p\xc3\xa5 av ambulansen, men valgte \xc3\xa5 sl\xc3\xa5 til to derfra. De ble ikke skadet. Han blir derfor kj\xc3\xb8rt inn i arresten.'
+Mannen ble tatt vare på av ambulansen, men valgte å slå til to derfra. De ble ikke skadet. Han blir derfor kjørt inn i arresten.
 #### Possible location:
-b'd\xc3\xa6lenenga'
+dælenenga
 
 
 # 840218367608905728
 ### First text:
 Tre mindre trafikkulykker på E6 utgående meldt inn nå. En i Vålerengatunnelen, og to på E6 ved Furuset og Høybråten.
 #### Possible location:
-b'furuset'
+furuset
 ### Children texts:
-b'Ulykken i V\xc3\xa5lerengatunnelen er i inng\xc3\xa5ende l\xc3\xb8p. F\xc3\xb8rer til at ett felt er stengt inntil videre. Mye k\xc3\xb8 i begge retninger.'
+Ulykken i Vålerengatunnelen er i inngående løp. Fører til at ett felt er stengt inntil videre. Mye kø i begge retninger.
 #### Possible location:
-b'furuset'
-b'Bilen som st\xc3\xa5r p\xc3\xa5 E6 utg\xc3\xa5ende ved H\xc3\xb8ybr\xc3\xa5ten er straks fjernet. Da blir alle felt \xc3\xa5pne. Veldig mye k\xc3\xb8 i nordg\xc3\xa5ende ut av byen n\xc3\xa5.'
+furuset
+Bilen som står på E6 utgående ved Høybråten er straks fjernet. Da blir alle felt åpne. Veldig mye kø i nordgående ut av byen nå.
 #### Possible location:
-b'furuset'
-b'Bilen som visstnok stod i veien p\xc3\xa5 E6 Furuset var borte f\xc3\xb8r vi ankom. Ingen som sperrer noe p\xc3\xa5 E6 utg\xc3\xa5ende n\xc3\xa5.'
+furuset
+Bilen som visstnok stod i veien på E6 Furuset var borte før vi ankom. Ingen som sperrer noe på E6 utgående nå.
 #### Possible location:
-b'furuset'
-b'N\xc3\xa5 er endelig begge felt i V\xc3\xa5lerengatunnelen i retning mot sentrum \xc3\xa5pnet igjen. Vi f\xc3\xb8lger opp partene p\xc3\xa5 utsiden av tunnelen.'
+furuset
+Nå er endelig begge felt i Vålerengatunnelen i retning mot sentrum åpnet igjen. Vi følger opp partene på utsiden av tunnelen.
 #### Possible location:
-b'furuset'
+furuset
 
 
 # 840205647358640131
 ### First text:
 En bil har stans i Festningstunnelen vestgående. Tauebil er på vei, men inntil videre er ett felt sperret i tunnelen.
 ### Children texts:
-b'Bilen er fjernet fra Festningstunnelen og alle felt er \xc3\xa5pne.'
+Bilen er fjernet fra Festningstunnelen og alle felt er åpne.
 
 
 # 840192644542320641
 ### First text:
 Brann i blokk i Ole Deviks vei. Alle nødetater på stedet.
 ### Children texts:
-b'67 evakuerte, 3 personer blir sjekket av ambulanse for r\xc3\xb8ykskader.'
+67 evakuerte, 3 personer blir sjekket av ambulanse for røykskader.
 
 
 # 839980044390977536
 ### First text:
 Nedre Skøyenvei / Askekroken, vi er på stedet da en bil står midt i trikkeskinnene og sperrer for trikken.
 #### Possible location:
-b'sk\xc3\xb8yen'
+skøyen
 ### Children texts:
-b'Bilen hadde to forskjellige kjennemerker. Det ene kjennemerket var stj\xc3\xa5let. \n3 personer innbringes arrest. Funnet narkotika i bilen.'
+Bilen hadde to forskjellige kjennemerker. Det ene kjennemerket var stjålet. 
+3 personer innbringes arrest. Funnet narkotika i bilen.
 #### Possible location:
-b'sk\xc3\xb8yen'
-b'F\xc3\xb8rer mistenkes for \xc3\xa5 ha kj\xc3\xb8rt i p\xc3\xa5virket tilstand. Anmeldelse opprettes.'
+skøyen
+Fører mistenkes for å ha kjørt i påvirket tilstand. Anmeldelse opprettes.
 #### Possible location:
-b'sk\xc3\xb8yen'
+skøyen
 
 
 # 839958338263740417
@@ -3589,7 +3590,7 @@ Arendalsgata: Person slått ned, ukjent skadeomfang. Politi og ambulanse på vei
 ### First text:
 Brinken/Kampen:  Taxisjåfør ble slått av passasjer. Vi har kontroll på stedet. Amb. sjekker sjåfør. Passasjer blir pågrepet.
 #### Possible location:
-b'kampen'
+kampen
 
 
 # 839936537915715586
@@ -3601,22 +3602,22 @@ Brenneriveien: Nødetatene på stedet pga røykutvikling. Flere har evakuert seg
 ### First text:
 T-banestasjon, Oslo sentrum: En gatemusikant fikk ødelagt sin fiolin av en forbipasserende mann. Årsaken kan vi bare spekulere i.
 ### Children texts:
-b'Vi har snakket med forn\xc3\xa6rmede og vitner, men fant ikke gjerningsmannen. Saken blir anmeldt.'
+Vi har snakket med fornærmede og vitner, men fant ikke gjerningsmannen. Saken blir anmeldt.
 
 
 # 839913426067591170
 ### First text:
 Toftesgt. Kvinnen som ble overfalt av 2 menn med en hund. Ble også dyttet ned en trapp.Vi er på stedet og søker etter gj.menn
 ### Children texts:
-b'Kvinnen er letter skadet. Hadde blitt sl\xc3\xa5tt og dyttet fordi hun ikke vil la egen hund hilse p\xc3\xa5 de mistenktes hund.'
-b'Hunden til de mistenkte beskrives som en "kamphund".  Den ene mistenkte har gr\xc3\xb8nn jakke og langt kr\xc3\xb8llete h\xc3\xa5r.'
+Kvinnen er letter skadet. Hadde blitt slått og dyttet fordi hun ikke vil la egen hund hilse på de mistenktes hund.
+Hunden til de mistenkte beskrives som en "kamphund".  Den ene mistenkte har grønn jakke og langt krøllete hår.
 
 
 # 839889273499365376
 ### First text:
 Lofsrudhøgda:  Vi søker etter en mann som skal ha skadet en kvinne med kniv og slått henne. Kvinnen er ikke alvorlig skadet.
 ### Children texts:
-b'Den mistenkte mannen er kjent, men forel\xc3\xb8pig ikke funnet. Vi avslutter s\xc3\xb8ket og etterforskning overtar saken.'
+Den mistenkte mannen er kjent, men foreløpig ikke funnet. Vi avslutter søket og etterforskning overtar saken.
 
 
 # 839881941344272384
@@ -3628,7 +3629,7 @@ Langbølgen: Nødetatene på stedet ifbm tørrkok. En person blir kjørt Ullevå
 ### First text:
 Normannsgt. 71:  Nødetatene på stedet ifbm melding om brannlukt.
 ### Children texts:
-b'Det har v\xc3\xa6rt mye r\xc3\xb8yk i en leilighet, men ingen \xc3\xa5pne flammer. Ingen personer, kun en katt til stede. Den er uskadd. Vi oppretter sak'
+Det har vært mye røyk i en leilighet, men ingen åpne flammer. Ingen personer, kun en katt til stede. Den er uskadd. Vi oppretter sak
 
 
 # 839879941994901504
@@ -3640,7 +3641,7 @@ Pilestredet 63: Trafikkulykke . 2 biler. Ingen alvorlig personskade
 ### First text:
 En søppelbil har sklidd i en glatt bakke på Kampen. Fire personbiler er påført materielle skader. Ingen personskader. Vi er på stedet.
 #### Possible location:
-b'kampen'
+kampen
 
 
 # 839761321608499201
@@ -3657,42 +3658,42 @@ Grünerløkka. Vi er på stedet etter slagsmål inne på en kiosk. En person har
 ### First text:
 Politiet på vei til Vestli hvor det brenner i en bil.
 #### Possible location:
-b'vestli'
+vestli
 ### Children texts:
-b'Full overtenning i en bil, spredningsfare til andre biler.'
+Full overtenning i en bil, spredningsfare til andre biler.
 #### Possible location:
-b'vestli'
-b'En bil er totalt utbrent og en bil har smelteskader i plasten.'
+vestli
+En bil er totalt utbrent og en bil har smelteskader i plasten.
 #### Possible location:
-b'vestli'
+vestli
 
 
 # 839612461523341312
 ### First text:
 Trondheimsveien inngående ved Linderud. Bil har kjørt i autovernet. Ingen fremstår som skadet på stedet. Store materielle skader på bilen.
 #### Possible location:
-b'linderud'
+linderud
 
 
 # 839568886207025161
 ### First text:
 Stovner t- bane: Vi har tatt kontroll på en mann som sto og blottet seg. Vedkommende blir nå kjørt arrest og anmeldt for forholdet.
 #### Possible location:
-b'stovner'
+stovner
 
 
 # 839532545352089603
 ### First text:
 Oslo S: Et observant vitne meldte om en person med pistol i bukselinningen på toget fra Romerike inn mot Oslo. Patrulje gjenkjente...
 ### Children texts:
-b'...vedkommende p\xc3\xa5 beskrivelse, og tok kontroll ved ankomst Oslo S. Det ble funn av et v\xc3\xa5pen, og tur i arresten.'
+...vedkommende på beskrivelse, og tok kontroll ved ankomst Oslo S. Det ble funn av et våpen, og tur i arresten.
 
 
 # 839524054436569088
 ### First text:
 Ring 3 vestgående ved Bryn Senter, melding om trafikkuhell mellom bil og lastebil. Politiet er på vei.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet, sammen med ambulanse. Ingen personskader.'
+Vi er på stedet, sammen med ambulanse. Ingen personskader.
 
 
 # 839501756195356672
@@ -3704,7 +3705,7 @@ Vi har også fått melding om brann i Lindealléen. Den skal nå være slukket, 
 ### First text:
 Melding om brann i Helgesens gate, nødetatene er på vei.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet og det har brent i en glassmesterbedrift. Ingen evakuerte. OBRE har kontroll'
+Vi er på stedet og det har brent i en glassmesterbedrift. Ingen evakuerte. OBRE har kontroll
 
 
 # 839471370522210306
@@ -3716,39 +3717,39 @@ Nødetatene rykker ut etter melding om brann i Thorvald Meyers gate
 ### First text:
 Flere som melder om mye diesel på E6 inngående ved Alnabru.
 ### Children texts:
-b'En stor flerre i dieseltanken til en lastebil skal ha v\xc3\xa6rt \xc3\xa5rsaken til lekkasjen. Veien blir str\xc3\xb8dd med absol.'
+En stor flerre i dieseltanken til en lastebil skal ha vært årsaken til lekkasjen. Veien blir strødd med absol.
 
 
 # 839381030918320129
 ### First text:
 I Vålerengatunnelens høyre felt gikk en bil tom for bensin. Fører forlot kjøretøyet, uten å varsle andre, for å skaffe bensin. Blir anmeldt.
 #### Possible location:
-b'v\xc3\xa5lerenga'
+vålerenga
 
 
 # 839365506360569857
 ### First text:
 Vi er på Ring 3 østgående ved Smestad hvor en trailer har fått stans. Kommet noe røyk fra bilen, derfor undersøker brannvesenet dette.
 ### Children texts:
-b'Lastebilen p\xc3\xa5 Ring 3 Smestad kan kj\xc3\xb8res videre for egen maskin til verksted. V\xc3\xa6rt varmgang i en aksling til tilhengeren.'
+Lastebilen på Ring 3 Smestad kan kjøres videre for egen maskin til verksted. Vært varmgang i en aksling til tilhengeren.
 
 
 # 839309539740692480
 ### First text:
 Oslo sentrum: En mann ble forsøkt ranet av to andre menn. En forbipasserende grep inn, og gjerningsmennene avbrøt forsøket og løp.
 ### Children texts:
-b'Patruljer p\xc3\xa5grep de to umiddelbart etterp\xc3\xa5, i besittelse av stj\xc3\xa5let gods. Vi foretar unders\xc3\xb8kelser, og ivaretar forn\xc3\xa6rmede. P\xc3\xa5gripelser/anm'
+Patruljer pågrep de to umiddelbart etterpå, i besittelse av stjålet gods. Vi foretar undersøkelser, og ivaretar fornærmede. Pågripelser/anm
 
 
 # 839263445912535048
 ### First text:
 Manglerud: Nødetatene på vei til en blokk hvor det er kraftig røykutvikling. En brann skal angivelig være slukket, men fortsatt mye røyk.
 #### Possible location:
-b'manglerud'
+manglerud
 ### Children texts:
-b'Noe overdreven melding. Et h\xc3\xa5ndkle p\xc3\xa5 en varm komfyr hadde medf\xc3\xb8rt litt r\xc3\xb8ykutvikling. Ingen er skadet. Vi oppretter sak.'
+Noe overdreven melding. Et håndkle på en varm komfyr hadde medført litt røykutvikling. Ingen er skadet. Vi oppretter sak.
 #### Possible location:
-b'manglerud'
+manglerud
 
 
 # 839221235779260417
@@ -3756,72 +3757,72 @@ b'manglerud'
 Savnet dement mann, 67 år. 
 Besk. 180 cm, halvlangt grått hår, ikledd gul jakke, jeans og brun veske. Dårlig til beins...
 ### Children texts:
-b'Mannen er kommet til rette.'
+Mannen er kommet til rette.
 
 
 # 839100799271718913
 ### First text:
 Vi er på vei til Pilestredet hvor vi har fått melding om en trafikkulykke. Trikk mot fotgjenger. Tilsynelatende ingen personskader.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet sammen med ambulanse. Fotgjengeren har noe smerter i arm og hode. Blir sjekket av helsepersonell.'
-b'Rettelse: Fotgjengeren hadde vondt i hoften, ikke hodet.'
-b'Forn\xc3\xa6rmet er kj\xc3\xb8rt til sykehus. Sperringene oppheves og trafikken g\xc3\xa5r som normalt igjen. Sak opprettes.'
+Vi er på stedet sammen med ambulanse. Fotgjengeren har noe smerter i arm og hode. Blir sjekket av helsepersonell.
+Rettelse: Fotgjengeren hadde vondt i hoften, ikke hodet.
+Fornærmet er kjørt til sykehus. Sperringene oppheves og trafikken går som normalt igjen. Sak opprettes.
 
 
 # 838914569531756544
 ### First text:
 Vi søker etter kvinnen med en rekke patruljer, samt et politihelikopter. En mulig nylig observasjon er i området Ammerud - Grorud.
 #### Possible location:
-b'ammerud'
+ammerud
 ### Children texts:
-b'Kvinnen er ikke funnet, og vi ber publikum ta kontakt p\xc3\xa5 02800 dersom de observerer en person som passer til beskrivelsen.'
+Kvinnen er ikke funnet, og vi ber publikum ta kontakt på 02800 dersom de observerer en person som passer til beskrivelsen.
 #### Possible location:
-b'ammerud'
+ammerud
 
 
 # 838909058753032194
 ### First text:
 Nødetatene sjekker ut melding om røyklukt fra Narvesen ved Stovner senter
 #### Possible location:
-b'stovner'
+stovner
 ### Children texts:
-b'Det har v\xc3\xa6rt en liten brann, men den er n\xc3\xa5 slukket. Det er ikke meldt om skadde personer.'
+Det har vært en liten brann, men den er nå slukket. Det er ikke meldt om skadde personer.
 #### Possible location:
-b'stovner'
+stovner
 
 
 # 838907406566506498
 ### First text:
 Rosenhoff: Vi leter etter en 58 år gammel kvinne. Beskr: Ca. 175cm, tynn, lyseblondt skulderlangt hår, svart jakke, jeans, joggesko...
 ### Children texts:
-b'...og hettegenser - ukjent farge, men med hvite striper. Ved observasjon - ring politiet p\xc3\xa5 tlf. 02800.'
-b'Rettelse, saknede skal v\xc3\xa6re 160 cm h\xc3\xb8y, ikke 175 cm .'
-b'Kvinnen har n\xc3\xa5 kommet til rette i god behold.'
+...og hettegenser - ukjent farge, men med hvite striper. Ved observasjon - ring politiet på tlf. 02800.
+Rettelse, saknede skal være 160 cm høy, ikke 175 cm .
+Kvinnen har nå kommet til rette i god behold.
 
 
 # 838853589363732480
 ### First text:
 Frognerveien. Melding om røyklukt. Nødetatene på vei til stedet.
 #### Possible location:
-b'frogner'
+frogner
 ### Children texts:
-b'Udramatisk. Kun os fra matlaging.'
+Udramatisk. Kun os fra matlaging.
 #### Possible location:
-b'frogner'
+frogner
 
 
 # 838842240734736387
 ### First text:
 Abildsøkrysset. Nødetatene er på stedet i forbindelse med en trafikkulykke. Ingen alvorlig skadet.
 #### Possible location:
-b'abilds\xc3\xb8'
+abildsø
 
 
 # 838789555935457280
 ### First text:
 Olaf Ryes plass. Barn har falt ut av vognen i forbindelse med påstigning til en trikk. Ambulansepersonell er sammen med barnet.
 ### Children texts:
-b'Barnet fremst\xc3\xa5r som formentlig uskadd.'
+Barnet fremstår som formentlig uskadd.
 
 
 # 838775807325667328
@@ -3838,68 +3839,68 @@ Ring 3 vestgående Smestad. Trafikkuhell. Skaper kø. Vi jobber med å få bilen
 ### First text:
 Ullevålsveien. Fotgjenger påkjørt. Vi er på vei til stedet.
 ### Children texts:
-b'Vi er p\xc3\xa5 stedet. Ambulanse kj\xc3\xb8rer fotgjengeren til legevakten. Vi jobber med \xc3\xa5 innhente opplysninger om forholdet.'
-b'Vi oppretter dialog med forn\xc3\xa6rmede p\xc3\xa5 legevakten og med bilf\xc3\xb8reren. Vi oppretter sak. Fotgjengeren er ikke alvorlig skadet.'
+Vi er på stedet. Ambulanse kjører fotgjengeren til legevakten. Vi jobber med å innhente opplysninger om forholdet.
+Vi oppretter dialog med fornærmede på legevakten og med bilføreren. Vi oppretter sak. Fotgjengeren er ikke alvorlig skadet.
 
 
 # 838706690698711040
 ### First text:
 Nødetatene er i Herslebs gate 17 etter melding om at det lukter røyk i en oppgang.
 ### Children texts:
-b'If\xc3\xb8lge beboere i blokka har det luktet r\xc3\xb8yk i en liten stund. R\xc3\xb8ykdykkere fra OBRE g\xc3\xa5r inn for \xc3\xa5 unders\xc3\xb8ke n\xc3\xa5.'
-b'Forel\xc3\xb8pig ikke p\xc3\xa5vist hvilken leilighet lukta evt kommer fra. Mulig det kommer fra ventilasjonsanlegget. Vi venter p\xc3\xa5 en vaktmester.'
-b'Vi har v\xc3\xa6rt i kontakt med beboer i aktuelle leilighet. En mild t\xc3\xb8rrkok var \xc3\xa5rsaken til r\xc3\xb8yken. Ingen personskade, men vi oppretter sak.'
+Ifølge beboere i blokka har det luktet røyk i en liten stund. Røykdykkere fra OBRE går inn for å undersøke nå.
+Foreløpig ikke påvist hvilken leilighet lukta evt kommer fra. Mulig det kommer fra ventilasjonsanlegget. Vi venter på en vaktmester.
+Vi har vært i kontakt med beboer i aktuelle leilighet. En mild tørrkok var årsaken til røyken. Ingen personskade, men vi oppretter sak.
 
 
 # 838679881433108481
 ### First text:
 Festningstunnelen vestgående: En bil har stans og det medfører at to felt er sperret inntil videre.
 ### Children texts:
-b'Bilen er fjernet og alle felt er \xc3\xa5pne igjen.'
+Bilen er fjernet og alle felt er åpne igjen.
 
 
 # 838599974887821312
 ### First text:
 En mann  ranet av 3 personer med skytevåpen i Niels Juelsgate. Fornærmede er lettere skadet. Vi søker etter gjerningsmennene.
 ### Children texts:
-b'Taxisj\xc3\xa5f\xc3\xb8r truet med skytev\xc3\xa5pen av 3 personer i Trondheimsveien.'
-b'3 personer p\xc3\xa5grepet i Trondheimsveien. Funn av skytev\xc3\xa5pen.'
+Taxisjåfør truet med skytevåpen av 3 personer i Trondheimsveien.
+3 personer pågrepet i Trondheimsveien. Funn av skytevåpen.
 
 
 # 838572458923941888
 ### First text:
 Vi er i Trelastgata i forbindelse med en aktivisert brannalarm.
 ### Children texts:
-b'Alarmen har blitt aktivert p\xc3\xa5 grunn av sigarettr\xc3\xb8yking. Mange som evakuerte seg selv, de er n\xc3\xa5 sluppet tilbake til sine leiligheter.'
+Alarmen har blitt aktivert på grunn av sigarettrøyking. Mange som evakuerte seg selv, de er nå sluppet tilbake til sine leiligheter.
 
 
 # 838518024453951488
 ### First text:
 Politiet er på vei til Carl Berners plass på melding om slagsmål mellom 3 menn.
 ### Children texts:
-b'Vi har n\xc3\xa5 kontroll p\xc3\xa5 kranglefantene. Viste seg \xc3\xa5 v\xc3\xa6re en krangel mellom en drosjesj\xc3\xa5f\xc3\xb8r og en mann, vi n\xc3\xb8ster i \xc3\xa5rsakssammenhengen.'
+Vi har nå kontroll på kranglefantene. Viste seg å være en krangel mellom en drosjesjåfør og en mann, vi nøster i årsakssammenhengen.
 
 
 # 838408852794191872
 ### First text:
 Nødetatene er på vei til Lofsrudhøgda på melding om brann.
 ### Children texts:
-b'N\xc3\xb8detatene er p\xc3\xa5 stedet. Ikke funnet noe brann enn\xc3\xa5, men vi s\xc3\xb8ker i omr\xc3\xa5det.'
-b'Da har vi funnet frem til rett sted. Der var det grilling p\xc3\xa5 en balkong. N\xc3\xb8detatene forlater stedet.'
+Nødetatene er på stedet. Ikke funnet noe brann ennå, men vi søker i området.
+Da har vi funnet frem til rett sted. Der var det grilling på en balkong. Nødetatene forlater stedet.
 
 
 # 838345182403780612
 ### First text:
 Nødetatene er på vei til en muligens tørrkok i Martin Linges vei.
 ### Children texts:
-b'Vi er fremme p\xc3\xa5 stedet. Obre lufter ut noe r\xc3\xb8yk og beboer blir sjekket av ambulanse mtp evt r\xc3\xb8ykskader'
+Vi er fremme på stedet. Obre lufter ut noe røyk og beboer blir sjekket av ambulanse mtp evt røykskader
 
 
 # 838333300758425600
 ### First text:
 Politi og brannvesen er på en tørrkok i Refstadveien. Fremstår som udramatisk
 ### Children texts:
-b'Litt r\xc3\xb8yk ifm et overkokt egg. Vi drar fra stedet'
+Litt røyk ifm et overkokt egg. Vi drar fra stedet
 
 
 # 838259224392134656
@@ -3911,6 +3912,6 @@ Grønli tunnelen: En mann og en dame krangler, sloss og tømmer et brannslukning
 ### First text:
 Vi er på vei til Skillebekk i forbindelse med melding om tørrkok. En person skal ha fått i seg noe røyk.
 #### Possible location:
-b'skillebekk'
+skillebekk
 
 
