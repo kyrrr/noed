@@ -50,20 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'msm.urls'
-
-TEST = [
-    {
-        'CONSUMER': {
-            'KEY': '8C8E7EhZQAXS6YJ2eeu2NSSmb',
-            'SECRET': 'd4L7DGxHbZDlTm39E2UvWqrhZ8GbqnXTyMUrVo1ygxzruyi6fW'
-        },
-        'ACCESS': {
-            'TOKEN': '55298054-VLQUlpDOX7vM1PT6XDGFg8ai4A71ltAONU1dM9YV2',
-            'SECRET': 'dJwD9Pw1gLA1biMSbHZASgmn0NoUjTd0ivK3Q1G8q83p4'
-        }
-    }
-]
+ROOT_URLCONF = 'mysite.urls'
 
 TEMPLATES = [
     {
@@ -82,7 +69,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'msm.wsgi.application'
+WSGI_APPLICATION = 'mysite.wsgi.application'
 
 
 # Database

@@ -14,12 +14,14 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="strapdown" level="application" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Django" />
     <option name="TEMPLATE_FOLDERS">
       <list>
         <option value="$MODULE_DIR$/templates" />
+        <option value="$MODULE_DIR$/twep/Templates" />
       </list>
     </option>
   </component>

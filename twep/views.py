@@ -1,14 +1,15 @@
 from django.http import HttpResponse
-from twep.models import *
+from django.template import loader
 
-# Create your views here.
+from twep.util.tweets import tweetmarker
 
 
 def index(request):
-    a = MyTweet.objects.filter(screen_name__exact='kyrrelicious')
-    k = a.filter(reply_to__isnull=False)
-    print(k)
-    for f in k:
-        print(f.text.encode("UTF-8"))
-    return HttpResponse("hello")
+    sn = "oslopolitiops"
+    d = tweetmarker.mark_tweets_by(sn)
+    template = loader.get_template('present.html')
+    context = {
+        'markdown': d,
+    }
+    return HttpResponse(template.render(context))
 

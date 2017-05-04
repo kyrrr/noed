@@ -1,2 +1,0 @@
-* * * * * cd /Users/kyrrebugge/PycharmProjects/msm; /Library/Frameworks/Python.framework/Versions/3.6/bin/python3 manage.py get_tweets oslopolitiops >> log/oslopolitiops_log.txt
-* * * * * cd /Users/kyrrebugge/PycharmProjects/msm; /Library/Frameworks/Python.framework/Versions/3.6/bin/python3 manage.py scan oslopolitiops > log/oslopolitiops_scan_log.txt

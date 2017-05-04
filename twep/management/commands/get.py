@@ -1,9 +1,11 @@
 import datetime
+
 from django.core.management.base import BaseCommand
-from twep.models import MyTweet
-from twep.util.tweetseeker import TweetSeeker
 from twep.util.tweettransformer import TweetTransformer
+
 import twep.settings
+from twep.models import MyTweet
+from twep.util.tweets.tweetseeker import TweetSeeker
 
 
 class Command(BaseCommand):

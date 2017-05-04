@@ -1,7 +1,7 @@
 from django.core.management.base import BaseCommand
-from twep.models import MyTweet, Situation, Keyword
-from twep.util import tweettransformer
+
 import twep.keywords
+from twep.util.tweets import tweettransformer
 
 
 # scans through MyTweets by screen_username and formats data

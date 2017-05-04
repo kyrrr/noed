@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 from django.core.management.base import BaseCommand
-from twep.models import MyTweet, Situation, Keyword, KeywordCategory, Location
-from twep.util import markdown
-import unicodedata
-import sys
+
+from twep.models import Situation, Keyword, Location
+from twep.util.text import markdown
 
 
 # scans through MyTweets by screen_username and formats data
@@ -48,18 +47,14 @@ class Command(BaseCommand):
                 print("No keywords found for " + first.twitter_msg_id)
                 pass
             if sit.children.all().count() > 0:
-                # print("### Children texts:")
                 for i, sc in enumerate(sit.children.all()):
                     mark.header_4("Follow-up %s:" % (i + 1))
                     mark.text(sc.text)
-                    # print(sc.text)
                     try:
                         cl = Location.objects.get(mytweet=sc)
 
                         mark.header_4("Possible location")\
                             .text(cl.sub_district.name)
-                        # print("#### Possible location:")
-                        # print(cl.sub_district.name)
                     except Location.DoesNotExist:
                         pass
 
@@ -69,7 +64,7 @@ class Command(BaseCommand):
                         for ckw in ckws:
                             mark.text(ckw.word)
                     except Keyword.DoesNotExist:
-                        print("No keywords found for " + first.twitter_msg_id)
+                        # print("No keywords found for " + first.twitter_msg_id)
                         pass
                     # if sc.get_last_parent() and sit.first_tweet == sc.get_last_parent():
                         # pass
