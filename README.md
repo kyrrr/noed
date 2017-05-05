@@ -48,33 +48,23 @@ Before getting any tweets, use the following command and follow the prompts to r
 $ python manage.py fillkw
 ```
 
-Getting, scanning, and presenting tweets:
+Getting, organizing, scanning tweets:
 ```sh
 $ python manage.py get my_twitter_screen_name
+$ python manage.py organize my_twitter_screen_name
 $ python manage.py scan my_twitter_screen_name
 ```
 
-Store the output of any of these by using:
-```sh
-$ python manage.py scan my_twitter_screen_name > overwritten_file.txt
-```
-or:
-```sh
-$ python manage.py get my_twitter_screen_name >> appended_file.txt
-```
-to append to (or create) the file.
-
-
 # Web
  
-To start the server, do:
+To start the local server, do:
 ```sh
 $ python manage.py runserver
 ```
  
 Then navigate to:
 ```url
-localhost:8000/twep?screen_name=my_twitter_screen_name
+localhost:8000/twep/?u=my_twitter_screen_name
 ``` 
 To see tweets by a Twitter user presented in markdown
 
@@ -91,7 +81,7 @@ print()
 - Creates database objects for MyTweet and Situation objects to hold these
 # Commands
 ### get
-- T
+### organize
 ### scan
 
 

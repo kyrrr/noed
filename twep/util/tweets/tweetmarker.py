@@ -4,6 +4,7 @@ from twep.util.text import markdown
 
 def mark_tweets_by(screen_name):
     mark = markdown.MarkDown()
+    print(screen_name)
     situations = Situation.objects.filter(screen_name=screen_name)
     for sit in situations:
         first = sit.first_tweet
