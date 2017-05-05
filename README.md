@@ -71,6 +71,55 @@ To see tweets by a Twitter user presented in markdown
 # Util
 ## Text
 #### MarkDown
+ - Tables
+ ```python
+from twep.util.text import markdown
+mark = markdown.MarkDown()
+m = mark.header_1("Here is a table")\
+            .Table().header("Category").header("Keyword").header("Mambo")\
+            .entry("Danger", ["Knivstukket", "no. 5"])\
+            .entry("Resolved", ["I arrest", "no. 6"]).make()\
+            .text("and some text under it")\
+            .header_1("Here is some python code:")\
+            .Code("python")\
+            .add_line("if foo:").add_line("print('foo!')", 1)\
+            .add_line("else:").add_line("print('bar')", 1)\
+            .make()\
+            .Code("javascript")\
+            .add_line("console.log('foo');").make()\
+            .text("Bye bye")
+print(m)
+ ```
+ Returns:
+ 
+ EXAMPLE:
+ 
+# Here is a table
+
+| Category | Keyword | Mambo | 
+| ----- | ----- | ----- |
+| Danger | Knivstukket | no. 5 |
+| Resolved | I arrest | no. 6 |
+ 
+and some text under it
+# Here is some python code:
+
+```python
+if foo:
+    print('foo!')
+else:
+    print('bar')
+```
+ 
+
+```javascript
+console.log('foo');
+```
+ 
+Bye bye
+
+/EXAMPLE
+
 ## Tweets
 #### TweetSeeker
  ```python
