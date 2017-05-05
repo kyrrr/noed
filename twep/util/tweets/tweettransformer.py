@@ -19,7 +19,7 @@ class TweetTransformer:
     # also picks up single tweets which is not a bad idea
     def make_situation(self):
         user_tweets = MyTweet.objects.filter(screen_name=self.screen_name)  # TODO: filter scanned false
-        print("%s" % user_tweets.count() + " to be put in Situations " + self.screen_name)
+        # print("%s" % user_tweets.count() + " to be put in Situations " + self.screen_name)
         created = {}
         for ut in user_tweets:
             # is the tweet either a parent without a parent, or a "lonely" object
@@ -38,12 +38,12 @@ class TweetTransformer:
                 created[s_obj.id] = s_obj
         # we have to ensure the newest tweets also get in, so just scan everything...
         # probably we will not have 1000 tweets to care about "in production"
-        print("Found or created %s" % len(created) + " new situations for " + self.screen_name)
+        # print("Found or created %s" % len(created) + " new situations for " + self.screen_name)
         return created
 
     # assigns parent and child to tweets
-    def set_parent_child(self):
-        tweets = MyTweet.objects.filter(screen_name=self.screen_name) # TODO: filter scanned false
+    def set_child_parent(self):
+        tweets = MyTweet.objects.filter(screen_name=self.screen_name)  # TODO: filter scanned false
         are_replies = tweets.filter(reply_to_id_str__isnull=False)
         i = 0
         for i, child in enumerate(are_replies):
@@ -57,42 +57,38 @@ class TweetTransformer:
                 child.parent = parent
                 child.save()
             except MyTweet.DoesNotExist:
-                # print("No parent for " + child.twitter_msg_id)
                 pass
-        print("%s child->parent " % i + "MyTweet relationships set")
+        # print("%s child->parent " % i + "MyTweet relationships set")
+        return i
 
-    def location_scan(self, city_str):
+    def location_scan(self):
         tweets = MyTweet.objects.filter(screen_name=self.screen_name)  # TODO: filter scanned false
-        locations = Location.objects.filter(city__name=city_str)
+        locations = Location.objects.all()
         for t in tweets:
             for l in locations:
                 if l.sub_district.name.title() in t.text:
-                    print("Found possible sub district:")
-                    print(l.sub_district.name.encode("UTF-8"))
-                    print(t.text.encode("UTF-8"))
+                    # print("Found possible sub district:")
+                    # print(l.sub_district.name.encode("UTF-8"))
+                    # print(t.text.encode("UTF-8"))
                     l.mytweet_set.add(t)
 
     # match tweets to keywords
     def scan(self, keyword_category_str):
         # get MyTweets by the user
         tweets = MyTweet.objects.filter(screen_name=self.screen_name)  # TODO: filter scanned false
-        # print("Tweets without keywords: %s" % tweets.count())
-        # get keywords
         try:
+            # get keywords
             keyword_category = KeywordCategory.objects.get(name=keyword_category_str)
             keywords = keyword_category.keyword_set.all()
-            # print("search for " + keyword_category_str)
             for t in tweets:
-                # print(t.text.encode("UTF-8"))
                 for kw in keywords:
-                    # search = re.search('(\s*)(kw)([,.!?\s])', t.text, re.IGNORECASE)
+                    # TODO: search = re.search('(\s*)(kw)([,.!?\s])', t.text, re.IGNORECASE)
                     if kw.word.upper() in t.text.upper():
                         t.keyword_set.add(kw)
                         t.save()
-                        print(t.twitter_msg_id + " has keyword: ")
-                        print(kw.word.encode("UTF-8"))
         except KeywordCategory.DoesNotExist:
-            print("No such category: " + keyword_category_str)
+            # print("No such category: " + keyword_category_str)
+            pass
 
     # makes models of tweets. if the tweet is a reply, first make a model of that tweet.
     # TODO: reply_to as actual foreign key to another MyTweet object. Just a string for now.
@@ -112,7 +108,5 @@ class TweetTransformer:
                     reply_to_id_str=t.in_reply_to_status_id_str,
                     created_at=t.created_at,
                 )
-                print("Create " + m.twitter_msg_id)
                 created[m.twitter_msg_id] = m
-        print("Created %s MyTweets" % len(created))
         return created

@@ -15,7 +15,6 @@ def mark_tweets_by(screen_name):
                 .text(l.sub_district.name)
         except Location.DoesNotExist:
             pass
-
         try:
             ftkws = Keyword.objects.filter(tweets=first)
             mark.header_4("Keywords:")

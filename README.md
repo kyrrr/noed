@@ -52,31 +52,55 @@ Getting, scanning, and presenting tweets:
 ```sh
 $ python manage.py get my_twitter_screen_name
 $ python manage.py scan my_twitter_screen_name
-$ python manage.py present my_twitter_screen_name
 ```
 
 Store the output of any of these by using:
 ```sh
-$ python manage.py present my_twitter_screen_name > overwritten_file.txt
+$ python manage.py scan my_twitter_screen_name > overwritten_file.txt
 ```
 or:
 ```sh
-$ python manage.py present my_twitter_screen_name >> appended_file.txt
+$ python manage.py get my_twitter_screen_name >> appended_file.txt
 ```
-to append to the file.
+to append to (or create) the file.
 
-# Classes
+
+# Web
+ 
+To start the server, do:
+```sh
+$ python manage.py runserver
+```
+ 
+Then navigate to:
+```url
+localhost:8000/twep?screen_name=my_twitter_screen_name
+``` 
+To see tweets by a Twitter user presented in markdown
+
+# Util
+## Text
+#### MarkDown
+## Tweets
 #### TweetSeeker
+ ```python
+print()
+ ```
 #### TweetTransformer
+- Identifies relationships between Tweets
+- Creates database objects for MyTweet and Situation objects to hold these
 # Commands
-#### get
-#### scan
-#### present
+### get
+- T
+### scan
 
 
 # Models
 #### MyTweet
+This object is populated by the Tweepy Api and manipulated
+to populate other objects.
 #### Situation
+This object contains tweets
 #### Keyword
 #### Location
 - ##### City

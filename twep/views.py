@@ -5,9 +5,12 @@ from twep.util.tweets import tweetmarker
 
 
 def index(request):
-    sn = "oslopolitiops"
+    sn = request.GET.get('u', '')
     d = tweetmarker.mark_tweets_by(sn)
-    template = loader.get_template('present.html')
+    if len(d) <= 1:
+        template = loader.get_template('nothing_found.html')
+    else:
+        template = loader.get_template('present.html')
     context = {
         'markdown': d,
     }
