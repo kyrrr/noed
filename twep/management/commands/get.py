@@ -17,34 +17,11 @@ class Command(BaseCommand):
     colors = twep.settings.COLORS
     verbose = False
 
-    def vprint(self, text):
-        if self.verbose:
-            print(text)
-
     def add_arguments(self, parser):
         parser.add_argument('screen_name', type=str)
         parser.add_argument('--v', dest='verbose', action='store_true')
 
     def handle(self, *args, **options):
-        mark = markdown.MarkDown()
-        m = mark.header_1("Here is a table")\
-            .Table().header("Category").header("Keyword").header("Mambo")\
-            .entry("Danger", ["Knivstukket", "no. 5"])\
-            .entry("Resolved", ["I arrest", "no. 6"]).make()\
-            .text("and some text under it")\
-            .header_1("Here is some python code:")\
-            .Code("python")\
-            .add_line("if foo:").add_line("print('foo!')", 1)\
-            .add_line("else:").add_line("print('bar')", 1)\
-            .make()\
-            .Code("javascript")\
-            .add_line("console.log('foo');").make()\
-            .text("Bye bye")
-        print(m)
-
-        exit()
-
-
         if options['verbose']:
             self.verbose = True
         vprint = print if self.verbose else lambda *a, **k: None

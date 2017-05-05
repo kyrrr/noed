@@ -46,5 +46,5 @@ def mark_tweets_by(screen_name):
                     pass
                     # if sc.get_last_parent() and sit.first_tweet == sc.get_last_parent():
                     # pass
-    return mark.doc()
+    return mark
 
