@@ -15,6 +15,7 @@ class InnerDescriptor(object):
 class MarkDown:
 
     lines = []
+    variables = "\n"  # place at end
     md_str = "\n"
     dict_lines = {}
     filename = None
@@ -44,9 +45,19 @@ class MarkDown:
         self.md_str += "##### " + header + "\n"
         return self
 
-    def text(self, text):
+    def text(self, text, bold=False, italic=False, strikethrough=False):
+        if bold:
+            text = "__" + text + "__"
+        if italic:
+            text = "*" + text + "*"
+        if strikethrough:
+            text = "~~" + text + "~~"
+
         self.md_str += text + "\n"
         return self
+
+    def variable(self, name, value):
+        pass
 
     def __str__(self):
         return self.md_str
@@ -91,8 +102,10 @@ class MarkDown:
     class Code:
         md_str = "\n"
 
-        def __init__(self, style):
-            self.md_str += "```" + style + "\n"
+        def __init__(self, language, display_language_name=True):
+            if display_language_name:
+                self.md_str += language.title() + "\n"
+            self.md_str += "```" + language + "\n"
 
         def add_line(self, line, indentation=0):
             indent = ""
@@ -104,4 +117,24 @@ class MarkDown:
         def make(self):
             self.md_str += "```" + "\n \n"
             self.owner.md_str += self.md_str
+            return self.owner
+
+    @InnerDescriptor
+    class List:
+        md_str = "\n"
+
+        def __init__(self, title=None):
+            if title:
+                self.md_str += "__" + title + "__" + "\n \n"
+
+        def unordered_entry(self, text, indentation=0):
+            indent = ""
+            for i in range(0, indentation):
+                indent += "    "
+            self.md_str += indent + "- " + text + "\n"
+            return self
+
+        def make(self):
+            self.owner.md_str += "\n" + self.md_str + "\n"
+            print(self.owner.md_str)
             return self.owner

@@ -1,3 +1,5 @@
+import base64
+
 from django.db import models
 
 
@@ -9,7 +11,8 @@ class MyTweet(models.Model):
     # string timestamp
     created_at = models.DateTimeField(null=True, default=None)
     # twitter screen name (after / in the user page url)
-    screen_name = models.CharField(max_length=200)
+    # screen_name = models.CharField(max_length=200)
+    user = models.ForeignKey('User', null=True, default=None)
     text = models.TextField()
     # used to check if the tweet in reply to some other tweet posted by themselves
     reply_to_id_str = models.CharField(max_length=20, null=True, default=None)
@@ -129,7 +132,8 @@ class Situation(models.Model):
         (UNKNOWN, 'Unknown')
     )
     # TODO: is this timezone ok?
-    screen_name = models.CharField(max_length=200, null=True, default=None)
+    # screen_name = models.CharField(max_length=200, null=True, default=None)
+    owner = models.ForeignKey('User', null=True, default=None)
     first_tweet = models.ForeignKey('MyTweet', related_name="prophet", null=True, default=None)
     children = models.ManyToManyField('MyTweet', related_name="apostles", default=None)
     description = models.CharField(max_length=140, null=True, default=None)
@@ -145,6 +149,11 @@ class KeywordCategory(models.Model):
         return self.name
 
 
+class User(models.Model):
+    screen_name = models.CharField(max_length=200, unique=True)
+    blob_data = models.TextField(db_column='data', null=True, default=None)
+
+
 class Keyword(models.Model):
     word = models.CharField(max_length=200)
     category = models.ForeignKey('KeywordCategory', null=True, default=None)
@@ -152,4 +161,4 @@ class Keyword(models.Model):
     situation = models.ForeignKey('Situation', null=True, default=None)
 
     def __str__(self):
-        return str(self.id)
+        return self.word

@@ -130,7 +130,7 @@ location_kws = {
 
 kws = {
         'negative': [
-            "ingen", "ikke", "mangler",
+            "ingen skade", "ikke tegn", "mangler",
         ],
         'announcement': [
             "holde seg innendørs", "rettelse",
@@ -148,21 +148,23 @@ kws = {
         ],
         'crime': [
             "knivstukket", "stålet", "våpen", "slagsmål", "bombe", "eksplosiv", "mishandlet", "frastjålet", "påvirket tilstand",
-            "under påvirkning", "ordensforstyrrelse", "ranet", "fraranet", "ruspåvirket", "bråk", "slag", "slått", "innbrudd",
+            "under påvirkning", "ordensforstyrrelse", "ranet", "fraranet", "ruspåvirket", "bråk", "slått", "innbrudd",
             "innbruddsforsøk", "tent på", "tagging", "tagget", "herværk", "vandalisme", "støy", "husbråk", "trussel", "trusler",
-            "skallet ned", "trusler", "kaste", "slåss",
-            "kamp", "vikeplikt", "usikret", "naken", "slossing", "tømt", "påtent", "narkotika",
-            "promille", "kroppskade", "ruset", "luske", "barke", "vold", "bite", "bitt",
+            "skallet ned", "kaste", "slåss", "banket opp", "true", "kaster", "kastet", "bråk",
+            "kamp", "vikeplikt", "usikret", "naken", "slossing", "tømt", "påtent", "narkotika", "hasj", "alkohol",
+            "cannabis", "amfetamin", "kokain", "dop",
+            "promille", "kroppskade", "ruset", "luske", "barke", "vold", "bite", "bitt", "promille",
+            "terror",
         ],
         'weapon': [
             "kniv", "pistol", "våpen", "gevær", "rifle", "hagle", "skytevåpen", "hammer", "øks", "machete",
-            "skarp gjenstand", "flaske", "stein", "sten", ""
+            "skarp gjenstand", "flaske",
         ],
         'prank': [  # vettafan hvæ denna burde heti
-            "guttestreker", "spøk", "prank", "tull", "påfunn",
+            "guttestreker", "spøk", "prank", "tull", "påfunn", "plages", "plaget"
         ],
         'animal': [
-            "hund", "katt", "valp", "hest",
+            "hund", "katt", "valp", "hest", "kattunge",
         ],
         'bad_guy': [
             "tyv", "morder", "mistenkt", "mistenkelig", "vinningskriminell", "innbruddstyv", "biltyv",
@@ -170,23 +172,33 @@ kws = {
             "pøbel", "russ", "kamphanene", "gjerningsmennene", "mystisk"
         ],
         'good_guy': [
-            "politiet", "brannvesenet", "ambulanse", "nødetatene", "tauebil", "bilberger", "OBRE",
-            "legevakta", "OKL", "amb.", "vaktbil", "VTS", "helsepersonell", "innsatsleder", "OVA", "vegtrafikksentralen",
-            "bombegruppen", "bomegruppa" "politimann", "politimenn", "tjenestemenn",
+            "politi", "brannvesen", "ambulanse", "nødetat", "tauebil", "bilberg", "OBRE",
+            "legevakt", "OKL", "amb.", "vaktbil", "VTS", "helsepersonell", "innsatsleder", "OVA", "vegtrafikksentralen",
+            "bombegrupp", "politimann", "politimenn", "tjenestemenn", "sykehus",
         ],
         'victim': [
-            "fornærmede", "fornærmet", "forn.", "skadede", "offeret", "omkommet", "fotgjenger", "personskade", "syklist", "død",
-            "materielle skader", "saknet person", "savnet"
+            "fornærmede", "fornærmet", "forn.", "skadede", "offeret", "omkommet", "fotgjenger", "personskade",
+            "syklist",
         ],
         'person_description': [
-            "CM", "høy", "år", "iført", "har på seg", "ikledd", "sett i", "observert", "mann", "kvinne",
-            "jente", "gutt", "ung", "gammel", "eldre", "person",
+            "CM høy", "år gammel", "iført", "har på seg", "ikledd", "sett i", "mann", "kvinne",
+            "jente", "gutt", "ung", "eldre", "person", "pensjonist", "politimann", "norsk", "afrikansk",
+            "arabisk", "hvit", "asiatisk", "teit", "svensk",
+        ],
+        'missing': [
+            'savnet', 'savner', 'sist sett', 'sist observert'
         ],
         'neturals': [
             "vitne", "vitnet", "publikum",
         ],
         'call_to_action': [
-            "har noen sett", "har du sett", "vet du noe om", "har du informasjon", "02800", "leter etter", "søker"
+            "har noen sett", "har du sett", "vet du noe om", "har du informasjon", "02800", "leter etter",
+        ],
+        'vehicle': [
+            "buss", "lastebil", "trailer", "personbil", "MC", "motorsykkel",
+        ],
+        'residence': [
+            "leilighet", "enebolig", "hjemme hos", "hybel", "blokk", "villa", "bygget"
         ],
         'accidents': [
             "ulykke", "trafikkulykke", "trafikkuhell", "uhell", "kollidert", "kjedekollisjon", "påkjørt", "sporet av", "rundkast",
@@ -194,12 +206,13 @@ kws = {
         ],
         'reported': [
             "melding om", "meldinger om", "rapportert", "ukjent skadeomfang", "meldt om", "skal være", "øvelse",
+            "klager om", "flere klager"
         ],
         'taking_action': [
             "rykker ut", "på vei", "underveis",
         ],
         'damage': [
-            "skade", "såre",
+            "skade", "såre", "kritisk skadet", "omkommet", "død", "drept", "slått seg", "vondt i", "smerte"
         ],
         'resolving': [
             "på stedet", "fremme", "søker området",
@@ -211,6 +224,7 @@ kws = {
             "evakuert", "ferdig på stedet", "åpen igjen", "åpnet igjen", "veien åpnet", "fri igjen", "udramatisk",
             "avslutter", "drar fra stedet", "beslaglagt", "konfiskert", "pågrepet", "politiarresten", "kontroll på",
             "dimittert", "tauet vekk", "førerkortbeslag", "til rette", "gjenforent", "oppretter sak", "ukadeliggjort",
-            "beslag", "beslaglegges", "ryddet veibanen", "forlatt stedet",
+            "beslag", "beslaglegges", "ryddet veibanen", "forlatt stedet", "opphevet", "åpen for trafikk",
+            "normal trafikk",
         ],
     }

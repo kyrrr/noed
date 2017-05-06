@@ -1,24 +1,25 @@
 import time
 import re
-from twep.models import MyTweet, Keyword, KeywordCategory, Situation, Location
+
+from twep.models import MyTweet, Keyword, KeywordCategory, Situation, Location, User
 
 
 class TweetTransformer:
 
-    screen_name = None
+    user = None
 
     # TODO: use booleans to guarantee an order to things? Meh
 
-    def __init__(self, screen_name):
-        self.screen_name = screen_name
+    def __init__(self, user):
+        self.user = user
 
     def get_latest(self):
-        return MyTweet.objects.filter(screen_name=self.screen_name).latest('created_at')
+        return MyTweet.objects.filter(user=self.user).latest('created_at')
 
     # places tweets in a "situation" object, in the order they were tweeted
     # also picks up single tweets which is not a bad idea
     def make_situation(self):
-        user_tweets = MyTweet.objects.filter(screen_name=self.screen_name)  # TODO: filter scanned false
+        user_tweets = MyTweet.objects.filter(user=self.user)  # TODO: filter scanned false
         # print("%s" % user_tweets.count() + " to be put in Situations " + self.screen_name)
         created = {}
         for ut in user_tweets:
@@ -27,7 +28,8 @@ class TweetTransformer:
             # if MyTweet.is_orphan_with_child(ut) or MyTweet.is_alone(ut):
             if MyTweet.is_first_in_series(ut):
                 s = Situation.objects.get_or_create(
-                    screen_name=ut.screen_name,
+                    owner=self.user,
+                    # screen_name=ut.screen_name,
                     first_tweet=ut
                 )
                 # s[1] is a boolean, true if created - false if gotten. I don't care about those,
@@ -43,7 +45,7 @@ class TweetTransformer:
 
     # assigns parent and child to tweets
     def set_child_parent(self):
-        tweets = MyTweet.objects.filter(screen_name=self.screen_name)  # TODO: filter scanned false
+        tweets = MyTweet.objects.filter(user=self.user)  # TODO: filter scanned false
         are_replies = tweets.filter(reply_to_id_str__isnull=False)
         i = 0
         for i, child in enumerate(are_replies):
@@ -62,7 +64,7 @@ class TweetTransformer:
         return i
 
     def location_scan(self):
-        tweets = MyTweet.objects.filter(screen_name=self.screen_name)  # TODO: filter scanned false
+        tweets = MyTweet.objects.filter(user=self.user)  # TODO: filter scanned false
         locations = Location.objects.all()
         for t in tweets:
             for l in locations:
@@ -75,7 +77,7 @@ class TweetTransformer:
     # match tweets to keywords
     def scan(self, keyword_category_str):
         # get MyTweets by the user
-        tweets = MyTweet.objects.filter(screen_name=self.screen_name)  # TODO: filter scanned false
+        tweets = MyTweet.objects.filter(user=self.user)  # TODO: filter scanned false
         try:
             # get keywords
             keyword_category = KeywordCategory.objects.get(name=keyword_category_str)
@@ -101,7 +103,7 @@ class TweetTransformer:
                 m = MyTweet.objects.create(
                     # msg id is used as the db primary key
                     twitter_msg_id=t.id_str,
-                    screen_name=self.screen_name,
+                    user=self.user,
                     text=t.text.encode("UTF-8"),
                     # used to assign an object self-reference in models.
                     # save as string
