@@ -145,6 +145,11 @@ class KeywordCategory(models.Model):
         return self.name
 
 
+class User(models.Model):
+    screen_name = models.CharField(max_length=200, unique=True)
+    blob_data = models.TextField(db_column='data', null=True, default=None)
+
+
 class Keyword(models.Model):
     word = models.CharField(max_length=200)
     category = models.ForeignKey('KeywordCategory', null=True, default=None)

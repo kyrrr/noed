@@ -1,18 +1,23 @@
 from django.http import HttpResponse
 from django.template import loader
-from twep.util.tweets import tweetmarker
+
+from twep.models import User
 
 
 def index(request):
     sn = request.GET.get('u', '')
-    print("lo")
-    d = tweetmarker.mark_tweets_by(sn).md_str
-    if len(d) <= 1:
-        template = loader.get_template('nothing_found.html')
-    else:
+    d = ""
+    try:
+        user = User.objects.get(screen_name=sn)
         template = loader.get_template('present.html')
+        if user.blob_data:
+            d = user.blob_data
+        else:
+            d = "Dokument mangler"
+    except User.DoesNotExist:
+        template = loader.get_template('nothing_found.html')
     context = {
-        'markdown': d,
+         'markdown': d,
     }
     return HttpResponse(template.render(context))
 
