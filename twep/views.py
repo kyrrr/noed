@@ -11,7 +11,10 @@ def index(request):
     try:
         user = User.objects.get(screen_name=sn)
         template = loader.get_template('present.html')
-        d = user.blob_data
+        if user.blob_data:
+            d = user.blob_data
+        else:
+            d = "Fant bruker, men inget dokument er generert"
     except User.DoesNotExist:
         template = loader.get_template('nothing_found.html')
     context = {
