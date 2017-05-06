@@ -25,7 +25,7 @@ class Command(BaseCommand):
             tweets = sit.first_tweet.get_all_children(include_self=True)
             mark.header_2(sit.first_tweet.twitter_msg_id)
             for t in tweets:
-                mark.text(t.text, italic=True)
+                # mark.text(t.text, italic=True)
                 md_list = mark.List("Mulig sted:")
                 try:
                     l = Location.objects.get(mytweet=t)

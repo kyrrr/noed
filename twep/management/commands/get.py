@@ -13,7 +13,7 @@ from twep.util.tweets.tweetseeker import TweetSeeker
 class Command(BaseCommand):
 
     help = 'Checks for new tweets by user and updates data'
-    get_no_more_than = 1000
+    get_no_more_than = 333
     colors = twep.settings.COLORS
     verbose = False
 

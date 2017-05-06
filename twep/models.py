@@ -18,6 +18,8 @@ class MyTweet(models.Model):
 
     location = models.ForeignKey('Location', null=True, default=None)
 
+    text_summart = models.TextField(null=True, default=None)
+
     # situation = models.ForeignKey('Situation', null=True, default=None)
 
     prevalent_category = models.ForeignKey('KeywordCategory', null=True, default=None)
