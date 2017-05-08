@@ -1,3 +1,5 @@
+import datetime
+import re
 from collections import defaultdict
 
 
@@ -26,7 +28,7 @@ class MarkDown:
             self.filename = filename + self.extension
 
     def header_1(self, header):
-        self.md_str += "# " + header + "\n"
+        self.md_str += "# " + header + "\n \n"
         return self
 
     def header_2(self, header):
@@ -53,8 +55,15 @@ class MarkDown:
         if strikethrough:
             text = "~~" + text + "~~"
 
-        self.md_str += text + "\n"
+        self.md_str += text + "\n \n"
         return self
+
+    def timestamp(self, timestamp, tformat='%Y-%m-%d %H:%M:%S'):
+        self.md_str += timestamp.strftime(tformat) + "\n"
+        return self
+
+    def link(self):
+        pass
 
     def variable(self, name, value):
         pass
@@ -137,4 +146,26 @@ class MarkDown:
         def make(self):
             self.owner.md_str += "\n" + self.md_str + "\n"
             # print(self.owner.md_str)
+            return self.owner
+
+    @InnerDescriptor
+    class Special:
+
+        md_str = "\n"
+
+        def __init__(self):
+            pass
+
+        def highlight(self, text, keyword):
+            search = re.search('(\s*|\W*)(' + keyword + ')(\s*|\W*)', text, re.IGNORECASE)
+            if search:
+                # print(keyword.word + " in " + text)
+                mark_key = re.compile(re.escape(keyword), re.IGNORECASE)
+                text = mark_key.sub(" __" + keyword + "__ ", text)
+                # print(text)
+            self.md_str += text + "\n"
+            return self
+
+        def make(self):
+            self.owner.md_str += "\n" + self.md_str + "\n"
             return self.owner

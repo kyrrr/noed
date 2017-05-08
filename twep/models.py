@@ -1,9 +1,9 @@
 from django.db import models
-
-
+from picklefield.fields import PickledObjectField
 # a model describing a tweet from emergency responders idfk
 
-class MyTweet(models.Model):
+
+class Tweet(models.Model):
     # twitter msg id, used as primary key
     twitter_msg_id = models.CharField(max_length=20, unique=True, primary_key=True)
     # string timestamp
@@ -15,14 +15,13 @@ class MyTweet(models.Model):
     reply_to_id_str = models.CharField(max_length=20, null=True, default=None)
     parent = models.ForeignKey('self', null=True, default=None, related_name='+')
     child = models.ForeignKey('self', null=True, default=None)
-
+    categories_keywords = PickledObjectField(null=True)
     location = models.ForeignKey('Location', null=True, default=None)
 
-    text_summart = models.TextField(null=True, default=None)
+    text_summary_title = models.CharField(max_length=40, null=True, default=None)
+    text_summary = models.TextField(null=True, default=None)
 
     # situation = models.ForeignKey('Situation', null=True, default=None)
-
-    prevalent_category = models.ForeignKey('KeywordCategory', null=True, default=None)
 
     def __str__(self):
         # prints the msg id when the object itself is print()-ed, etc
@@ -34,7 +33,7 @@ class MyTweet(models.Model):
         r = []
         if include_self:
             r.append(self)
-        for c in MyTweet.objects.filter(parent=self):
+        for c in Tweet.objects.filter(parent=self):
             _r = c.get_all_children(include_self=True)
             if 0 < len(_r):
                 r.extend(_r)
@@ -42,7 +41,7 @@ class MyTweet(models.Model):
 
     def get_last_child(self):
         r = [self]
-        for c in MyTweet.objects.filter(parent=self):
+        for c in Tweet.objects.filter(parent=self):
             _r = c.get_all_children()
             if 0 < len(_r):
                 r.extend(_r)
@@ -51,17 +50,17 @@ class MyTweet(models.Model):
     def get_last_parent(self):
         try:
             # find tweet where this is the child
-            t = MyTweet.objects.get(child=self)
+            t = Tweet.objects.get(child=self)
             # if it has a parent
             if t.parent:
                 # find the next parent ??
-                MyTweet.get_last_parent(t.parent)
+                Tweet.get_last_parent(t.parent)
             else:
                 # if it does not have a parent
                 # it must be the last one ??
                 # as a tweet can only have one parent and one child
                 return t
-        except MyTweet.DoesNotExist:
+        except Tweet.DoesNotExist:
             # print("tweet is not a child??")
             pass
 
@@ -110,7 +109,7 @@ class Location(models.Model):
     sub_district = models.ForeignKey('SubDistrict', null=True, default=None)
 
 
-class Situation(models.Model):
+class Timeline(models.Model):
     REPORTED = 'RP'
     IN_PROGRESS = 'IP'
     RESOLVED = 'RS'
@@ -132,8 +131,8 @@ class Situation(models.Model):
     )
     # TODO: is this timezone ok?
     screen_name = models.CharField(max_length=200, null=True, default=None)
-    first_tweet = models.ForeignKey('MyTweet', related_name="prophet", null=True, default=None)
-    children = models.ManyToManyField('MyTweet', related_name="apostles", default=None)
+    first_tweet = models.ForeignKey('Tweet', related_name="prophet", null=True, default=None)
+    children = models.ManyToManyField('Tweet', related_name="apostles", default=None)
     description = models.CharField(max_length=140, null=True, default=None)
 
     def __str__(self):
@@ -142,6 +141,7 @@ class Situation(models.Model):
 
 class KeywordCategory(models.Model):
     name = models.CharField(max_length=200)
+    tweets = models.ManyToManyField('Tweet', default=None)
 
     def __str__(self):
         return self.name
@@ -155,8 +155,8 @@ class User(models.Model):
 class Keyword(models.Model):
     word = models.CharField(max_length=200)
     category = models.ForeignKey('KeywordCategory', null=True, default=None)
-    tweets = models.ManyToManyField('MyTweet', default=None)
-    situation = models.ForeignKey('Situation', null=True, default=None)
+    tweets = models.ManyToManyField('Tweet', default=None)
+    situation = models.ForeignKey('Timeline', null=True, default=None)
 
     def __str__(self):
-        return str(self.id)
+        return self.word

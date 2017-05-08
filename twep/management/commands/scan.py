@@ -16,11 +16,26 @@ class Command(BaseCommand):
 
     def add_arguments(self, parser):
         parser.add_argument('screen_name', type=str)
+        parser.add_argument('--v', dest='verbose', action='store_true')
 
     def handle(self, *args, **options):
+
+        if options['verbose']:
+            self.verbose = True
+
         sn = options['screen_name']
-        tr = tweettransformer.TweetTransformer(sn)
+
+        tr = tweettransformer.TweetTransformer(sn, verbose=self.verbose)
+
+        num_rels = tr.set_child_parent()
+        print("%s child->parent " % num_rels + "MyTweet relationships set")
+
+        sits = tr.make_timeline()
+        print("%s new situations/timelines created" % len(sits))
         tr.location_scan()
+
         for cat in self.kws:
             tr.scan(cat)
+        tr.group_keywords()
+
 
