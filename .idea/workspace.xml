@@ -2,70 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adaa4329-7c18-4917-b470-fa74e4f30bca" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twep/management/commands/analyze.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/foo.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/foo.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/management/commands/organize.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0001_initial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0002_auto_20170422_2044.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0003_auto_20170422_2059.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0004_auto_20170423_2012.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0005_auto_20170423_2028.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0006_auto_20170423_2052.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0007_auto_20170423_2106.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0008_auto_20170424_1452.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0009_auto_20170424_1459.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0010_auto_20170424_1459.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0011_auto_20170424_1502.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0012_auto_20170424_1504.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0013_auto_20170424_1517.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0014_auto_20170424_1518.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0015_auto_20170424_1543.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0016_auto_20170424_1548.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0017_auto_20170424_1551.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0018_auto_20170424_1555.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0019_auto_20170424_1601.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0020_auto_20170424_1601.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0021_auto_20170424_2155.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0022_mytweet_rts_created_at.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0023_auto_20170425_1232.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0024_auto_20170425_2210.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0025_auto_20170425_2212.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0026_auto_20170427_2039.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0027_auto_20170427_2055.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0028_auto_20170427_2108.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0029_keyword_situation.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0030_auto_20170428_1816.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0031_auto_20170502_1236.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0032_auto_20170502_1251.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0033_auto_20170502_1252.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0034_auto_20170502_1255.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0035_auto_20170502_1256.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0036_situation_screen_name.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0037_location.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0038_location_tweets.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0039_auto_20170502_1747.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0040_auto_20170502_2008.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0041_auto_20170503_1918.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0042_auto_20170503_1949.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0043_situation_first_tweet_children.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0044_auto_20170503_1952.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0045_auto_20170503_1953.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0046_auto_20170503_1954.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0047_remove_situation_children.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0048_remove_situation_first_tweet.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0049_auto_20170503_1958.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0050_auto_20170503_1958.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0051_user.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/twep/migrations/0052_mytweet_text_summart.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/keywords.py" afterPath="$PROJECT_DIR$/twep/keywords.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/management/commands/get.py" afterPath="$PROJECT_DIR$/twep/management/commands/get.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/management/commands/analyze.py" afterPath="$PROJECT_DIR$/twep/management/commands/analyze.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/management/commands/mark.py" afterPath="$PROJECT_DIR$/twep/management/commands/mark.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/management/commands/scan.py" afterPath="$PROJECT_DIR$/twep/management/commands/scan.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/models.py" afterPath="$PROJECT_DIR$/twep/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/util/text/markdown.py" afterPath="$PROJECT_DIR$/twep/util/text/markdown.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/util/tweets/tweetseeker.py" afterPath="$PROJECT_DIR$/twep/util/tweets/tweetseeker.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/twep/util/tweets/tweettransformer.py" afterPath="$PROJECT_DIR$/twep/util/tweets/tweettransformer.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -112,14 +50,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tweettransformer.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tweettransformer.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/twep/util/tweets/tweettransformer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="41" column="74" lean-forward="false" selection-start-line="41" selection-start-column="74" selection-end-line="41" selection-end-column="74" />
+            <state relative-caret-position="222">
+              <caret line="108" column="22" lean-forward="false" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1494273786000" expanded="true" signature="5871:6205" ph="..." />
+                <marker date="1494285726000" expanded="true" signature="5933:6267" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analyze.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/twep/management/commands/analyze.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="97" column="26" lean-forward="false" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -129,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/foo.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -138,19 +88,31 @@
       <file leaf-file-name="mark.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twep/management/commands/mark.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="22" column="60" lean-forward="false" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+            <state relative-caret-position="148">
+              <caret line="34" column="62" lean-forward="false" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scan.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="scan.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/twep/management/commands/scan.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+            <state relative-caret-position="313">
+              <caret line="37" column="18" lean-forward="false" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="keywords.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/twep/keywords.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="178" column="71" lean-forward="false" selection-start-line="178" selection-start-column="71" selection-end-line="178" selection-end-column="71" />
+              <folding>
+                <element signature="e#153#4173#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -167,7 +129,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>twep.models.Tw</find>
       <find>twep.models.Tweet</find>
       <find>g</find>
       <find>G</find>
@@ -197,6 +158,7 @@
       <find>skytin</find>
       <find>skyte</find>
       <find>skal v</find>
+      <find>helseperson</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -267,12 +229,12 @@
         <option value="$PROJECT_DIR$/twep/migrations/0001_initial.py" />
         <option value="$PROJECT_DIR$/twep/util/tweets/tweetseeker.py" />
         <option value="$PROJECT_DIR$/twep/keywords.py" />
-        <option value="$PROJECT_DIR$/twep/management/commands/analyze.py" />
         <option value="$PROJECT_DIR$/twep/util/text/markdown.py" />
         <option value="$PROJECT_DIR$/twep/management/commands/get.py" />
-        <option value="$PROJECT_DIR$/twep/util/tweets/tweettransformer.py" />
-        <option value="$PROJECT_DIR$/twep/management/commands/mark.py" />
         <option value="$PROJECT_DIR$/twep/management/commands/scan.py" />
+        <option value="$PROJECT_DIR$/twep/management/commands/analyze.py" />
+        <option value="$PROJECT_DIR$/twep/management/commands/mark.py" />
+        <option value="$PROJECT_DIR$/twep/util/tweets/tweettransformer.py" />
       </list>
     </option>
   </component>
@@ -1015,26 +977,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twep/keywords.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="163" column="90" lean-forward="false" selection-start-line="163" selection-start-column="90" selection-end-line="163" selection-end-column="90" />
-          <folding>
-            <element signature="e#153#4173#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twep/management/commands/analyze.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="112" column="49" lean-forward="false" selection-start-line="112" selection-start-column="49" selection-end-line="112" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/twep/util/text/markdown.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
@@ -1066,35 +1008,55 @@
     <entry file="file://$PROJECT_DIR$/foo.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/twep/util/tweets/tweettransformer.py">
+    <entry file="file://$PROJECT_DIR$/twep/management/commands/analyze.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="41" column="74" lean-forward="false" selection-start-line="41" selection-start-column="74" selection-end-line="41" selection-end-column="74" />
+        <state relative-caret-position="307">
+          <caret line="97" column="26" lean-forward="false" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
           <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1494273786000" expanded="true" signature="5871:6205" ph="..." />
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/twep/management/commands/mark.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="22" column="60" lean-forward="false" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+        <state relative-caret-position="148">
+          <caret line="34" column="62" lean-forward="false" selection-start-line="34" selection-start-column="62" selection-end-line="34" selection-end-column="62" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twep/keywords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="178" column="71" lean-forward="false" selection-start-line="178" selection-start-column="71" selection-end-line="178" selection-end-column="71" />
+          <folding>
+            <element signature="e#153#4173#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/twep/management/commands/scan.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="38" column="8" lean-forward="false" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+        <state relative-caret-position="313">
+          <caret line="37" column="18" lean-forward="false" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twep/util/tweets/tweettransformer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="108" column="22" lean-forward="false" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <marker date="1494285726000" expanded="true" signature="5933:6267" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

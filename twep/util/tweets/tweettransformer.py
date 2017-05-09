@@ -106,8 +106,9 @@ class TweetTransformer:
             keywords = keyword_category.keyword_set.all()
             for t in tweets:
                 for kw in keywords:
-                    search = re.search('(\s*|\W*)(' + kw.word + ')(\s*|\W*)', t.text, re.IGNORECASE)
-                    if search:
+                    # search = re.search('(\s*|\W*)(' + kw.word + ')(\s*|\W*)', t.text, re.IGNORECASE)
+                    # if search:
+                    if kw.word.upper() in t.text.upper():
                         self.vprint(kw.word + " in " + t.twitter_msg_id)
                         # mark_key = re.compile(re.escape(kw.word), re.IGNORECASE)
                         # t.text = mark_key.sub("__" + kw.word + "__", t.text)

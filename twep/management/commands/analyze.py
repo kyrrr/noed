@@ -48,7 +48,6 @@ class Command(BaseCommand):
 
                     # CRIME
                     if ckw.name == 'weapon':
-                        danger += 1
                         weapon += 1
                     if ckw.name == 'crime':
                         crime += 1
@@ -97,8 +96,6 @@ class Command(BaseCommand):
                         summary_title = "traffic situation "
 
                     # TEXT
-                    if danger > safety:
-                        summary += "danger "
                     if bad_guy > 0:
                         summary += "bad guy "
                     if good_guy > 0:

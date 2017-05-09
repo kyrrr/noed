@@ -54,7 +54,6 @@ class MarkDown:
             text = "*" + text + "*"
         if strikethrough:
             text = "~~" + text + "~~"
-
         self.md_str += text + "\n \n"
         return self
 
