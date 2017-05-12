@@ -27,6 +27,13 @@ class Command(BaseCommand):
                 title += " - " + sit.first_tweet.text_summary_title
             mark.header_1(title)
             mark.text(sit.first_tweet.text, bold=True)
+            if sit.first_tweet.categories_keywords:
+                kwl = mark.List()
+                for k, vs in sit.first_tweet.categories_keywords.items():
+                    kwl.unordered_entry(k.name)
+                    for v in vs:
+                        kwl.unordered_entry(v.word, indentation=1)
+                kwl.make()
             for t in sit.first_tweet.get_all_children(include_self=False):
                 mark.text(t.text, italic=True)
                 mark.timestamp(t.created_at)
