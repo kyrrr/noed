@@ -20,7 +20,7 @@ To run the project, first clone it into a directory of your choosing:
 $ git clone https://github.com/kyrrr/noed.git
 ```
 
-Set up a twitter app (you will need a twitter account)
+Set up a twitter app at apps.twitter.com (you will need a twitter account)
 
 In settings.py, enter the keys, tokens and secrets for your twitter app:
 ```
@@ -36,6 +36,13 @@ API_KEYS = [
 ]
 ```
 Database setup:
+
+First install django-picklefield:
+```sh
+$ pip install django-picklefield
+```
+
+Picklefield allows dictionaries and similar to be stored as a database field.
 
 ```sh
 $ python manage.py makemigrations

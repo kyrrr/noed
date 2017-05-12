@@ -38,12 +38,12 @@ class TweetSeeker:
             return new
 
     def simple_get_newest_num(self, count=200):
-        self.vprint("Get newest %s tweetdfdfgs" % count)
+        self.vprint("Get newest %s tweets" % count)
         return self.api.user_timeline(screen_name=self.screen_name, count=count)
 
     # get tweets, but stop under max_id
     def get_tweets_under_id(self, max_id):
-        self.vprint()
+        self.vprint("Get under id %s" % max_id)
         return self.api.user_timeline(screen_name=self.screen_name, max_id=max_id, count=200)
 
     def get_num_new_since_id(self, latest_stored_id, look_back=256):

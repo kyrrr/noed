@@ -31,20 +31,15 @@ class Command(BaseCommand):
                 mark.text(t.text, italic=True)
                 mark.timestamp(t.created_at)
                 if t.categories_keywords:
-                    kc = mark.List("Categories:")
-                    for k, v in t.categories_keywords.items():
-                        kc.unordered_entry(k.name, indentation=1)
-                    kc.make()
-                # try:
-                #     if t.text_summary:
-                #         mark.header_4("Summary: ")
-                #         mark.header_5(t.text_summary)
-                # except TypeError:
-                #     pass
-                md_list = mark.List("Possible location: ")
+                    kwl = mark.List()
+                    for k, vs in t.categories_keywords.items():
+                        kwl.unordered_entry(k.name)
+                        for v in vs:
+                            kwl.unordered_entry(v.word, indentation=1)
+                    kwl.make()
                 try:
                     l = Location.objects.get(tweet=t)
-                    md_list.unordered_entry(l.sub_district.name, indentation=1).make()
+                    mark.header_4("Sted funnet: ").text(l.sub_district.name, italic=True)
                 except Location.DoesNotExist:
                     pass
             user.blob_data = mark.md_str

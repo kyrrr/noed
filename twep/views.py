@@ -5,6 +5,7 @@ from twep.models import User
 
 
 def index(request):
+    # ?u=screen_name in the url that runs this code. See twep/urls.py and mysite/urls.py
     sn = request.GET.get('u', '')
     d = ""
     try:

@@ -15,7 +15,10 @@ class Tweet(models.Model):
     reply_to_id_str = models.CharField(max_length=20, null=True, default=None)
     parent = models.ForeignKey('self', null=True, default=None, related_name='+')
     child = models.ForeignKey('self', null=True, default=None)
+
+    # holds categories as key, keywords as values
     categories_keywords = PickledObjectField(null=True)
+
     location = models.ForeignKey('Location', null=True, default=None)
 
     text_summary_title = models.CharField(max_length=40, null=True, default=None)
@@ -27,7 +30,6 @@ class Tweet(models.Model):
         # prints the msg id when the object itself is print()-ed, etc
         return self.twitter_msg_id
 
-    # magic recursion
     # TODO: limit?
     def get_all_children(self, include_self=True):
         r = []
@@ -47,14 +49,14 @@ class Tweet(models.Model):
                 r.extend(_r)
         return r[len(r) - 1]
 
-    def get_last_parent(self):
+    def get_oldest_parent(self):
         try:
             # find tweet where this is the child
             t = Tweet.objects.get(child=self)
             # if it has a parent
             if t.parent:
                 # find the next parent ??
-                Tweet.get_last_parent(t.parent)
+                Tweet.get_oldest_parent(t.parent)
             else:
                 # if it does not have a parent
                 # it must be the last one ??
@@ -81,12 +83,6 @@ class Tweet(models.Model):
 
     def is_last_child(self):
         return self.child is None and self.parent is not None
-
-    def get_most_popular_keyword_category(self):
-        max = 0
-        for kw in self.keyword_set.all():
-            print("fart tits")
-            exit()
 
 
 class City(models.Model):

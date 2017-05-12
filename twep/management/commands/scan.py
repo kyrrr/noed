@@ -27,13 +27,14 @@ class Command(BaseCommand):
 
         tr = tweettransformer.TweetTransformer(sn, verbose=self.verbose)
 
-        num_rels = tr.set_child_parent()
-        print("%s child->parent " % num_rels + "MyTweet relationships set")
+        num_relations = tr.set_child_parent()
+        print("%s child->parent " % num_relations + "MyTweet relationships set")
 
         sits = tr.make_timeline()
         print("%s new situations/timelines created" % len(sits))
         tr.location_scan()
 
+        # scan through keywords in
         for cat in self.kws:
             tr.scan(cat)
         tr.group_keywords()
